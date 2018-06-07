@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_012910",
+        "molecule_structure": "linear",
+        "isolate_id": "0e6tseeq",
+        "virus_id": "f6d8784b",
+        "definition": "Lettuce chlorosis virus RNA2, complete genome",
+        "_version": 0,
+        "host": "Lactuca sativa"
+    },
+    {
+        "_id": "NC_012909",
+        "molecule_structure": "linear",
+        "isolate_id": "0e6tseeq",
+        "virus_id": "f6d8784b",
+        "definition": "Lettuce chlorosis virus RNA1, complete genome",
+        "_version": 0,
+        "host": "Lactuca sativa"
+    }
+]

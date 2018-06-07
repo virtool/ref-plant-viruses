@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_013110",
+        "molecule_structure": "linear",
+        "isolate_id": "vtx9xc7r",
+        "virus_id": "ab87f94a",
+        "definition": "Primula malacoides virus China/Mar2007 RNA 2, complete genome",
+        "_version": 0,
+        "host": "Primula malacoides Franch."
+    },
+    {
+        "_id": "NC_013109",
+        "molecule_structure": "linear",
+        "isolate_id": "vtx9xc7r",
+        "virus_id": "ab87f94a",
+        "definition": "Primula malacoides virus China/Mar2007 RNA 1, complete genome",
+        "_version": 0,
+        "host": "Primula malacoides Franch."
+    }
+]

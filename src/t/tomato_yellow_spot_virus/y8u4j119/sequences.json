@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_007727",
+        "molecule_structure": "circular",
+        "isolate_id": "y8u4j119",
+        "virus_id": "9bfdaf97",
+        "definition": "Tomato yellow spot virus DNA-B, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_007726",
+        "molecule_structure": "circular",
+        "isolate_id": "y8u4j119",
+        "virus_id": "9bfdaf97",
+        "definition": "Tomato yellow spot virus DNA-A, complete genome",
+        "_version": 0,
+        "host": null
+    }
+]

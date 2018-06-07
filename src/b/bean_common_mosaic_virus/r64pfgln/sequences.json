@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Bean common mosaic virus, complete genome",
+        "virus_id": "9f7a8bd3",
+        "isolate_id": "r64pfgln",
+        "_id": "NC_003397",
+        "host": "cowpea"
+    }
+]

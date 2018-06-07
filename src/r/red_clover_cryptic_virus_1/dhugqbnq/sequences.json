@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_022616",
+        "molecule_structure": "linear",
+        "isolate_id": "dhugqbnq",
+        "virus_id": "a9f0c34a",
+        "definition": "Red clover cryptic virus 1 isolate IPP_Nemaro segment 1",
+        "_version": 0,
+        "host": "Trifolium pratense cv. Nemaro"
+    },
+    {
+        "_id": "NC_022617",
+        "molecule_structure": "linear",
+        "isolate_id": "dhugqbnq",
+        "virus_id": "a9f0c34a",
+        "definition": "Red clover cryptic virus 1 isolate IPP_Nemaro segment 2 coat",
+        "_version": 0,
+        "host": "Trifolium pratense cv. Nemaro"
+    }
+]

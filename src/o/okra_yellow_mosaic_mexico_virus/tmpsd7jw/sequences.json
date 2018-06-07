@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_014067",
+        "molecule_structure": "circular",
+        "isolate_id": "tmpsd7jw",
+        "virus_id": "ac35b6d8",
+        "definition": "Okra yellow mosaic Mexico virus DNA B, complete genome",
+        "_version": 0,
+        "host": "Abelmoschus esculentus (L.) Moench"
+    },
+    {
+        "_id": "NC_014066",
+        "molecule_structure": "linear",
+        "isolate_id": "tmpsd7jw",
+        "virus_id": "ac35b6d8",
+        "definition": "Okra yellow mosaic Mexico virus DNA A, complete genome",
+        "_version": 0,
+        "host": "Abelmoschus esculentus (L.) Moench"
+    }
+]

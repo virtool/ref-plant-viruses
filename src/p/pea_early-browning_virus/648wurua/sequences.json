@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_001368",
+        "molecule_structure": "linear",
+        "isolate_id": "648wurua",
+        "virus_id": "e1dae4d7",
+        "definition": "Pea early browning virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_002036",
+        "molecule_structure": "linear",
+        "isolate_id": "648wurua",
+        "virus_id": "e1dae4d7",
+        "definition": "Pea early browning virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

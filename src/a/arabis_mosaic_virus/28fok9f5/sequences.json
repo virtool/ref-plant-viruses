@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Arabis mosaic virus isolate DU13 segment RNA2 polyprotein P2 gene, complete cds.",
+        "virus_id": "5628ed52",
+        "isolate_id": "28fok9f5",
+        "_id": "HQ834962",
+        "host": "grapevine cultivar Tempranillo"
+    },
+    {
+        "definition": "Arabis mosaic virus isolate DU13 segment RNA1, complete sequence.",
+        "virus_id": "5628ed52",
+        "isolate_id": "28fok9f5",
+        "_id": "JQ975057",
+        "host": "grapevine cultivar Tempranillo"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "circular",
+        "definition": "Soybean mild mottle pararetrovirus, complete genome",
+        "virus_id": "16699571",
+        "isolate_id": "osbga4u5",
+        "_id": "NC_018505",
+        "host": "soybean"
+    }
+]

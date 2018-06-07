@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "circular",
+        "definition": "Helicoverpa zea nudivirus 2, complete genome",
+        "virus_id": "6bb1fe0b",
+        "isolate_id": "0nq5f6g5",
+        "_id": "NC_004156",
+        "host": "Helicoverpa zea"
+    }
+]

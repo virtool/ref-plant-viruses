@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Asystasia mosaic Madagascar virus isolate MG493 segment DNA-A, complete sequence.",
+        "virus_id": "c2a3e579",
+        "isolate_id": "qlf2dic0",
+        "_id": "NC_026514",
+        "host": "Asystasia gangetica"
+    },
+    {
+        "definition": "Asystasia mosaic Madagascar virus isolate MG493 segment DNA-B, complete sequence.",
+        "virus_id": "c2a3e579",
+        "isolate_id": "qlf2dic0",
+        "_id": "NC_026513",
+        "host": "Asystasia gangetica"
+    }
+]

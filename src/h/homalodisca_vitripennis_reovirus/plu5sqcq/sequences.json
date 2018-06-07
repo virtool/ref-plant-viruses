@@ -1,0 +1,110 @@
+[
+    {
+        "_id": "NC_012535",
+        "molecule_structure": "linear",
+        "isolate_id": "plu5sqcq",
+        "virus_id": "a8b67336",
+        "definition": "Homalodisca vitripennis reovirus segment S1, complete genome",
+        "_version": 0,
+        "host": "Homalodisca vitripennis"
+    },
+    {
+        "_id": "NC_012539",
+        "molecule_structure": "linear",
+        "isolate_id": "plu5sqcq",
+        "virus_id": "a8b67336",
+        "definition": "Homalodisca vitripennis reovirus segment S5, complete genome",
+        "_version": 0,
+        "host": "Homalodisca vitripennis"
+    },
+    {
+        "_id": "NC_012538",
+        "molecule_structure": "linear",
+        "isolate_id": "plu5sqcq",
+        "virus_id": "a8b67336",
+        "definition": "Homalodisca vitripennis reovirus segment S4, complete genome",
+        "_version": 0,
+        "host": "Homalodisca vitripennis"
+    },
+    {
+        "_id": "NC_012537",
+        "molecule_structure": "linear",
+        "isolate_id": "plu5sqcq",
+        "virus_id": "a8b67336",
+        "definition": "Homalodisca vitripennis reovirus segment S3, complete genome",
+        "_version": 0,
+        "host": "Homalodisca vitripennis"
+    },
+    {
+        "_id": "NC_012536",
+        "molecule_structure": "linear",
+        "isolate_id": "plu5sqcq",
+        "virus_id": "a8b67336",
+        "definition": "Homalodisca vitripennis reovirus segment S2, complete genome",
+        "_version": 0,
+        "host": "Homalodisca vitripennis"
+    },
+    {
+        "_id": "NC_012546",
+        "molecule_structure": "linear",
+        "isolate_id": "plu5sqcq",
+        "virus_id": "a8b67336",
+        "definition": "Homalodisca vitripennis reovirus segment S12, complete genome",
+        "_version": 0,
+        "host": "Homalodisca vitripennis"
+    },
+    {
+        "_id": "NC_012545",
+        "molecule_structure": "linear",
+        "isolate_id": "plu5sqcq",
+        "virus_id": "a8b67336",
+        "definition": "Homalodisca vitripennis reovirus segment S11, complete genome",
+        "_version": 0,
+        "host": "Homalodisca vitripennis"
+    },
+    {
+        "_id": "NC_012544",
+        "molecule_structure": "linear",
+        "isolate_id": "plu5sqcq",
+        "virus_id": "a8b67336",
+        "definition": "Homalodisca vitripennis reovirus segment S10, complete genome",
+        "_version": 0,
+        "host": "Homalodisca vitripennis"
+    },
+    {
+        "_id": "NC_012543",
+        "molecule_structure": "linear",
+        "isolate_id": "plu5sqcq",
+        "virus_id": "a8b67336",
+        "definition": "Homalodisca vitripennis reovirus segment S9, complete genome",
+        "_version": 0,
+        "host": "Homalodisca vitripennis"
+    },
+    {
+        "_id": "NC_012542",
+        "molecule_structure": "linear",
+        "isolate_id": "plu5sqcq",
+        "virus_id": "a8b67336",
+        "definition": "Homalodisca vitripennis reovirus segment S8, complete genome",
+        "_version": 0,
+        "host": "Homalodisca vitripennis"
+    },
+    {
+        "_id": "NC_012541",
+        "molecule_structure": "linear",
+        "isolate_id": "plu5sqcq",
+        "virus_id": "a8b67336",
+        "definition": "Homalodisca vitripennis reovirus segment S7, complete genome",
+        "_version": 0,
+        "host": "Homalodisca vitripennis"
+    },
+    {
+        "_id": "NC_012540",
+        "molecule_structure": "linear",
+        "isolate_id": "plu5sqcq",
+        "virus_id": "a8b67336",
+        "definition": "Homalodisca vitripennis reovirus segment S6, complete genome",
+        "_version": 0,
+        "host": "Homalodisca vitripennis"
+    }
+]

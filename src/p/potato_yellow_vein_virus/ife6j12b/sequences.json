@@ -1,0 +1,25 @@
+[
+    {
+        "definition": "Potato yellow vein virus, complete genome.",
+        "virus_id": "6c1038d2",
+        "isolate_id": "ife6j12b",
+        "_id": "NC_006063",
+        "host": "Solanum tuberosum subsp. andigena"
+    },
+    {
+        "definition": "Potato yellow vein virus, complete genome.",
+        "virus_id": "6c1038d2",
+        "isolate_id": "ife6j12b",
+        "_id": "NC_006062",
+        "host": "Solanum tuberosum subsp. andigena"
+    },
+    {
+        "_id": "NC_006061",
+        "molecule_structure": "linear",
+        "isolate_id": "ife6j12b",
+        "virus_id": "6c1038d2",
+        "definition": "Potato yellow vein virus segment 3, complete sequence",
+        "_version": 0,
+        "host": "Solanum tuberosum subsp. andigena"
+    }
+]

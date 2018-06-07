@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Sorghum mosaic virus, complete genome",
+        "virus_id": "5333571b",
+        "isolate_id": "aurp74y6",
+        "_id": "NC_004035",
+        "host": "sugarcane"
+    }
+]

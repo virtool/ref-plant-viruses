@@ -1,0 +1,44 @@
+[
+    {
+        "definition": "Cherry chlorotic rusty spot associated partitivirus CP gene for putative coat protein, segment 2, genomic RNA.",
+        "virus_id": "2efeb771",
+        "isolate_id": "a8d7e162",
+        "_id": "AJ781402",
+        "host": "putative fungus"
+    },
+    {
+        "definition": "Cherry chlorotic rusty spot associated partitivirus RdRp gene for RNA-dependent RNA polymerase, segment 1, genomic RNA.",
+        "virus_id": "2efeb771",
+        "isolate_id": "a8d7e162",
+        "_id": "AJ781401",
+        "host": "putative fungus"
+    },
+    {
+        "definition": "Cherry chlorotic rusty spot associated chrysovirus ORF4 for hypothetical protein, segment 4, genomic RNA.",
+        "virus_id": "2efeb771",
+        "isolate_id": "a8d7e162",
+        "_id": "AJ781400",
+        "host": "putative fungus"
+    },
+    {
+        "definition": "Cherry chlorotic rusty spot associated chrysovirus ORF3 for putative protease, segment 3, genomic RNA.",
+        "virus_id": "2efeb771",
+        "isolate_id": "a8d7e162",
+        "_id": "AJ781399",
+        "host": "putative fungus"
+    },
+    {
+        "definition": "Cherry chlorotic rusty spot associated chrysovirus CP gene for putative coat protein, segment 2, genomic RNA.",
+        "virus_id": "2efeb771",
+        "isolate_id": "a8d7e162",
+        "_id": "AJ781398",
+        "host": "putative fungus"
+    },
+    {
+        "definition": "Cherry chlorotic rusty spot associated chrysovirus RdRp gene for RNA-dependent RNA polymerase, segment 1, genomic RNA.",
+        "virus_id": "2efeb771",
+        "isolate_id": "a8d7e162",
+        "_id": "AJ781397",
+        "host": "putative fungus"
+    }
+]

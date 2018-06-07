@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_025220",
+        "molecule_structure": "circular",
+        "isolate_id": "jjzp0yl6",
+        "virus_id": "9814d663",
+        "definition": "Sweet potato leaf curl virus associated satellite isolate 1764E13,",
+        "_version": 0,
+        "host": "Merremia dissecta"
+    },
+    {
+        "_id": "NC_025245",
+        "molecule_structure": "circular",
+        "isolate_id": "jjzp0yl6",
+        "virus_id": "9814d663",
+        "definition": "Sweet potato leaf curl virus associated satellite isolate 1764E34,",
+        "_version": 0,
+        "host": "Merremia dissecta"
+    }
+]

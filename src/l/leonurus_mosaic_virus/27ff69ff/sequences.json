@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Leonurus mosaic virus isolate PR 88 segment DNA-A, complete sequence.",
+        "virus_id": "b09e265f",
+        "isolate_id": "27ff69ff",
+        "_id": "JQ429791",
+        "host": "Leonurus sibiricus (Lamiaceae)"
+    },
+    {
+        "definition": "Leonurus mosaic virus isolate PR88 segment DNA-B movement protein gene, partial cds.",
+        "virus_id": "b09e265f",
+        "isolate_id": "27ff69ff",
+        "_id": "KC740618",
+        "host": "Leonurus sibiricus"
+    }
+]

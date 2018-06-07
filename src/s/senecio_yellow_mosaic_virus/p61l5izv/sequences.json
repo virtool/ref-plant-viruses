@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "circular",
+        "definition": "Senecio yellow mosaic virus, complete genome",
+        "virus_id": "c1f72e20",
+        "isolate_id": "p61l5izv",
+        "_id": "NC_006995",
+        "host": "Senecio scandens"
+    }
+]

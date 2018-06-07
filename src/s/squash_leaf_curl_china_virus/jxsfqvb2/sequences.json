@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Squash leaf curl China virus-[Varanasi:Pumpkin:08] segment DNA-B, complete sequence.",
+        "virus_id": "2f0fef67",
+        "isolate_id": "jxsfqvb2",
+        "_id": "GU967382",
+        "host": "pumpkin"
+    },
+    {
+        "definition": "Squash leaf curl China virus-[Varanasi:Pumpkin:08] segment DNA-A, complete sequence.",
+        "virus_id": "2f0fef67",
+        "isolate_id": "jxsfqvb2",
+        "_id": "GU967381",
+        "host": "pumpkin"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_002330",
+        "molecule_structure": "linear",
+        "isolate_id": "rbsi1x4p",
+        "virus_id": "b324c781",
+        "definition": "Soil-borne cereal mosaic virus RNA2, complete sequence",
+        "_version": 0,
+        "host": "Triticum aestivum (wheat)"
+    },
+    {
+        "_id": "NC_002351",
+        "molecule_structure": "linear",
+        "isolate_id": "rbsi1x4p",
+        "virus_id": "b324c781",
+        "definition": "Soil-borne cereal mosaic virus RNA1, complete sequence",
+        "_version": 0,
+        "host": "Triticum aestivum (wheat)"
+    }
+]

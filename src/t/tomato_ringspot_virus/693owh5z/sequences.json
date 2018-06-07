@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Tomato ringspot virus RNA1",
+        "virus_id": "dfd23361",
+        "isolate_id": "693owh5z",
+        "_id": "13C280_RNA1",
+        "host": ""
+    },
+    {
+        "definition": "Tomato ringspot virus RNA2",
+        "virus_id": "dfd23361",
+        "isolate_id": "693owh5z",
+        "_id": "13C280_RNA2",
+        "host": ""
+    }
+]

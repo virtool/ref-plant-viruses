@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Prunus virus F, RNA1, complete genome",
+        "virus_id": "63bcd1cc",
+        "isolate_id": "dbb82643",
+        "_id": "13TF122_PVF_RNA1",
+        "host": "prunus"
+    },
+    {
+        "definition": "Prunus virus F, RNA2, complete genome",
+        "virus_id": "63bcd1cc",
+        "isolate_id": "dbb82643",
+        "_id": "13TF122_PVF_RNA2",
+        "host": "prunus"
+    }
+]

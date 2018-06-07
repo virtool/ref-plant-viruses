@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Ranunculus white mottle virus segment RNA1 putative RNA polymerase gene, partial cds.",
+        "virus_id": "76ad89fb",
+        "isolate_id": "fb0a8a5c",
+        "_id": "AF335429",
+        "host": "Ranunculus spp."
+    },
+    {
+        "definition": "Ranunculus white mottle virus coat protein (CP) gene, partial cds.",
+        "virus_id": "76ad89fb",
+        "isolate_id": "fb0a8a5c",
+        "_id": "AY542957",
+        "host": ""
+    }
+]

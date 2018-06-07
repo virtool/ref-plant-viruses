@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_005851",
+        "molecule_structure": "circular",
+        "isolate_id": "qb46z8ae",
+        "virus_id": "4a208b46",
+        "definition": "Tomato mosaic leaf curl virus DNA B, complete genome",
+        "_version": 0,
+        "host": "tomato, cv. Rio Grande"
+    },
+    {
+        "_id": "NC_005850",
+        "molecule_structure": "circular",
+        "isolate_id": "qb46z8ae",
+        "virus_id": "4a208b46",
+        "definition": "Tomato mosaic leaf curl virus DNA A, complete genome",
+        "_version": 0,
+        "host": "tomato, cv. Rio Grande"
+    }
+]

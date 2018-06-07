@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_003799",
+        "molecule_structure": "linear",
+        "isolate_id": "nxdfxwpq",
+        "virus_id": "3abc8df7",
+        "definition": "Squash mosaic virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003800",
+        "molecule_structure": "linear",
+        "isolate_id": "nxdfxwpq",
+        "virus_id": "3abc8df7",
+        "definition": "Squash mosaic virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

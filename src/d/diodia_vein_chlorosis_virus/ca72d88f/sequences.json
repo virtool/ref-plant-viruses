@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Diodia vein chlorosis virus segment RNA 2, complete sequence.",
+        "virus_id": "c83f05b2",
+        "isolate_id": "ca72d88f",
+        "_id": "GQ376201",
+        "host": "Diodia sp."
+    },
+    {
+        "definition": "Diodia vein chlorosis virus segment RNA 1, complete sequence.",
+        "virus_id": "c83f05b2",
+        "isolate_id": "ca72d88f",
+        "_id": "GQ225585",
+        "host": "Diodia sp."
+    }
+]

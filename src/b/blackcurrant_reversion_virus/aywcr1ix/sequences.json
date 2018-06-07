@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_003509",
+        "molecule_structure": "linear",
+        "isolate_id": "aywcr1ix",
+        "virus_id": "031710ef",
+        "definition": "Blackcurrant reversion virus RNA1, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003502",
+        "molecule_structure": "linear",
+        "isolate_id": "aywcr1ix",
+        "virus_id": "031710ef",
+        "definition": "Blackcurrant reversion virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": "Ribes nigrum L."
+    }
+]

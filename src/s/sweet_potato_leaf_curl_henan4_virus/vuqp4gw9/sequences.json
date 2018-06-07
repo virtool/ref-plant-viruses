@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "circular",
+        "definition": "Sweet potato leaf curl China virus [China:Sichuan14:2012], complete",
+        "virus_id": "912ef956",
+        "isolate_id": "vuqp4gw9",
+        "_id": "NC_022586",
+        "host": "Ipomoea batatas"
+    }
+]

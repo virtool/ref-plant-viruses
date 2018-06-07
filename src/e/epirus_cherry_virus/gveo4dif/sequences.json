@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_011065",
+        "molecule_structure": "linear",
+        "isolate_id": "gveo4dif",
+        "virus_id": "dd1f494b",
+        "definition": "Epirus cherry virus",
+        "_version": 0,
+        "host": "cherry"
+    },
+    {
+        "_id": "NC_011067",
+        "molecule_structure": "linear",
+        "isolate_id": "gveo4dif",
+        "virus_id": "dd1f494b",
+        "definition": "Epirus cherry virus",
+        "_version": 0,
+        "host": "cherry"
+    },
+    {
+        "_id": "NC_011066",
+        "molecule_structure": "linear",
+        "isolate_id": "gveo4dif",
+        "virus_id": "dd1f494b",
+        "definition": "Epirus cherry virus",
+        "_version": 0,
+        "host": "cherry"
+    }
+]

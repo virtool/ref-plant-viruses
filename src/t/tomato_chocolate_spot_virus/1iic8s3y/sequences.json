@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_013076",
+        "molecule_structure": "linear",
+        "isolate_id": "1iic8s3y",
+        "virus_id": "10b5e9c8",
+        "definition": "Tomato chocolate spot virus RNA2, complete genome",
+        "_version": 0,
+        "host": "tomato"
+    },
+    {
+        "_id": "NC_013075",
+        "molecule_structure": "linear",
+        "isolate_id": "1iic8s3y",
+        "virus_id": "10b5e9c8",
+        "definition": "Tomato chocolate spot virus RNA1, complete genome",
+        "_version": 0,
+        "host": "tomato"
+    }
+]

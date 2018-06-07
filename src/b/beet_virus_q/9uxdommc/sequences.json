@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_003510",
+        "molecule_structure": "linear",
+        "isolate_id": "9uxdommc",
+        "virus_id": "3a3b7fe7",
+        "definition": "Beet virus Q RNA 1, complete sequence",
+        "_version": 0,
+        "host": "Beta vulgaris"
+    },
+    {
+        "_id": "NC_003512",
+        "molecule_structure": "linear",
+        "isolate_id": "9uxdommc",
+        "virus_id": "3a3b7fe7",
+        "definition": "Beet virus Q RNA 3, complete sequence",
+        "_version": 0,
+        "host": "Beta vulgaris"
+    },
+    {
+        "_id": "NC_003511",
+        "molecule_structure": "linear",
+        "isolate_id": "9uxdommc",
+        "virus_id": "3a3b7fe7",
+        "definition": "Beet virus Q RNA 2, complete sequence",
+        "_version": 0,
+        "host": "Beta vulgaris"
+    }
+]

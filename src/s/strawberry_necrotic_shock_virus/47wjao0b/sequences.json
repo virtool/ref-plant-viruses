@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_008708",
+        "molecule_structure": "linear",
+        "isolate_id": "47wjao0b",
+        "virus_id": "7aa6ebcd",
+        "definition": "Strawberry necrotic shock virus RNA 1, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_008707",
+        "molecule_structure": "linear",
+        "isolate_id": "47wjao0b",
+        "virus_id": "7aa6ebcd",
+        "definition": "Strawberry necrotic shock virus RNA 2, complete genome",
+        "_version": 0,
+        "host": "Fragaria vesca"
+    },
+    {
+        "_id": "NC_008706",
+        "molecule_structure": "linear",
+        "isolate_id": "47wjao0b",
+        "virus_id": "7aa6ebcd",
+        "definition": "Strawberry necrotic shock virus RNA 3, complete genome",
+        "_version": 0,
+        "host": null
+    }
+]

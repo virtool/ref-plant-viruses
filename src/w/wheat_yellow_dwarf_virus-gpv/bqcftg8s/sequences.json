@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Wheat yellow dwarf virus-GPV, complete genome",
+        "virus_id": "088d7d90",
+        "isolate_id": "bqcftg8s",
+        "_id": "NC_012931",
+        "host": "Triticum aestivum"
+    }
+]

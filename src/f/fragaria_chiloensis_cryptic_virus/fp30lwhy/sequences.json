@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_009521",
+        "molecule_structure": "linear",
+        "isolate_id": "fp30lwhy",
+        "virus_id": "cd91fae1",
+        "definition": "Fragaria chiloensis cryptic virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_009520",
+        "molecule_structure": "linear",
+        "isolate_id": "fp30lwhy",
+        "virus_id": "cd91fae1",
+        "definition": "Fragaria chiloensis cryptic virus RNA 3, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_009519",
+        "molecule_structure": "linear",
+        "isolate_id": "fp30lwhy",
+        "virus_id": "cd91fae1",
+        "definition": "Fragaria chiloensis cryptic virus RNA 1, complete genome",
+        "_version": 0,
+        "host": null
+    }
+]

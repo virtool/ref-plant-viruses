@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_004581",
+        "molecule_structure": "circular",
+        "isolate_id": "762o6d7i",
+        "virus_id": "ac1dc3c2",
+        "definition": "Cotton leaf crumple geminivirus DNA B, complete sequence",
+        "_version": 0,
+        "host": "cotton"
+    },
+    {
+        "_id": "NC_004580",
+        "molecule_structure": "circular",
+        "isolate_id": "762o6d7i",
+        "virus_id": "ac1dc3c2",
+        "definition": "Cotton leaf crumple virus DNA A, complete sequence",
+        "_version": 0,
+        "host": "cotton"
+    }
+]

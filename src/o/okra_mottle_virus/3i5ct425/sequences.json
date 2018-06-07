@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_011182",
+        "molecule_structure": "circular",
+        "isolate_id": "3i5ct425",
+        "virus_id": "b3efbe4a",
+        "definition": "Okra mottle virus - [Brazil:okra] DNA B, complete sequence",
+        "_version": 0,
+        "host": "okra"
+    },
+    {
+        "_id": "NC_011181",
+        "molecule_structure": "circular",
+        "isolate_id": "3i5ct425",
+        "virus_id": "b3efbe4a",
+        "definition": "Okra mottle virus - [Brazil:okra] DNA A, complete sequence",
+        "_version": 0,
+        "host": "okra"
+    }
+]

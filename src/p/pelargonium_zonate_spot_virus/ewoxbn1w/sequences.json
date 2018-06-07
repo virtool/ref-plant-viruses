@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_003651",
+        "molecule_structure": "linear",
+        "isolate_id": "ewoxbn1w",
+        "virus_id": "10bc89e7",
+        "definition": "Pelargonium zonate spot virus RNA 3, complete genome",
+        "_version": 0,
+        "host": "Lycopersicon esculentum"
+    },
+    {
+        "_id": "NC_003650",
+        "molecule_structure": "linear",
+        "isolate_id": "ewoxbn1w",
+        "virus_id": "10bc89e7",
+        "definition": "Pelargonium zonate spot virus RNA 2, complete genome",
+        "_version": 0,
+        "host": "Lycopersicon esculentum"
+    },
+    {
+        "_id": "NC_003649",
+        "molecule_structure": "linear",
+        "isolate_id": "ewoxbn1w",
+        "virus_id": "10bc89e7",
+        "definition": "Pelargonium zonate spot virus RNA 1, complete genome",
+        "_version": 0,
+        "host": "Lycopersicon esculentum"
+    }
+]

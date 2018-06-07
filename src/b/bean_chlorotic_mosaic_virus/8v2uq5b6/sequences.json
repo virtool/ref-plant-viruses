@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_022005",
+        "molecule_structure": "circular",
+        "isolate_id": "8v2uq5b6",
+        "virus_id": "ffcdc573",
+        "definition": "Bean chlorotic mosaic virus isolate Venezuela:Rubio 932:2007",
+        "_version": 0,
+        "host": "Phaseolus vulgaris"
+    },
+    {
+        "_id": "NC_022003",
+        "molecule_structure": "circular",
+        "isolate_id": "8v2uq5b6",
+        "virus_id": "ffcdc573",
+        "definition": "Bean chlorotic mosaic virus isolate Venezuela:Rubio 932:2007",
+        "_version": 0,
+        "host": "Phaseolus vulgaris"
+    }
+]

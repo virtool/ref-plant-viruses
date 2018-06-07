@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Raspberry ringspot virus RNA2",
+        "virus_id": "9fe2f60d",
+        "isolate_id": "s7d10l5t",
+        "_id": "13C209_RNA2",
+        "host": ""
+    },
+    {
+        "definition": "Raspberry ringspot virus RNA1",
+        "virus_id": "9fe2f60d",
+        "isolate_id": "s7d10l5t",
+        "_id": "13C209_RNA1",
+        "host": ""
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Squash leaf curl China virus isolate KP1 segment DNA-B, complete sequence.",
+        "virus_id": "2f0fef67",
+        "isolate_id": "vb2c1x53",
+        "_id": "KJ004521",
+        "host": "Benincasa hispida"
+    },
+    {
+        "definition": "Squash leaf curl China virus isolate KP1 segment DNA-A, complete sequence.",
+        "virus_id": "2f0fef67",
+        "isolate_id": "vb2c1x53",
+        "_id": "KF188433",
+        "host": "Benincasa hispida"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_004646",
+        "molecule_structure": "circular",
+        "isolate_id": "75rokv22",
+        "virus_id": "516d1da5",
+        "definition": "Squash mild leaf curl virus-[Imperial Valley] DNA B, complete",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_004645",
+        "molecule_structure": "circular",
+        "isolate_id": "75rokv22",
+        "virus_id": "516d1da5",
+        "definition": "Squash mild leaf curl virus-[Imperial Valley] DNA A, complete",
+        "_version": 0,
+        "host": null
+    }
+]

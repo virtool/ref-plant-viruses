@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Prunus virus F isolate 8816-v2 segment RNA1 polyprotein 1 gene, complete cds.",
+        "virus_id": "63bcd1cc",
+        "isolate_id": "cab8b360",
+        "_id": "KX269866",
+        "host": "sweet cherry"
+    },
+    {
+        "definition": "Prunus virus F isolate 8816-s2 segment RNA2 polyprotein 2 gene, complete cds.",
+        "virus_id": "63bcd1cc",
+        "isolate_id": "cab8b360",
+        "_id": "KX269872",
+        "host": "sweet cherry"
+    }
+]

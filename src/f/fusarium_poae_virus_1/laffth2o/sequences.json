@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_003884",
+        "molecule_structure": "linear",
+        "isolate_id": "laffth2o",
+        "virus_id": "0eb76379",
+        "definition": "Fusarium poae virus 1 RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003883",
+        "molecule_structure": "linear",
+        "isolate_id": "laffth2o",
+        "virus_id": "0eb76379",
+        "definition": "Fusarium poae virus 1 RNA 1, complete sequence",
+        "_version": 0,
+        "host": "Fusarium poae"
+    }
+]

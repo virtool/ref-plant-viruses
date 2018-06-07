@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_013415",
+        "molecule_structure": "circular",
+        "isolate_id": "bgkwxz6b",
+        "virus_id": "b6a41ae0",
+        "definition": "Velvet bean severe mosaic virus DNA B, complete genome",
+        "_version": 0,
+        "host": "Macuna spp."
+    },
+    {
+        "_id": "NC_013414",
+        "molecule_structure": "circular",
+        "isolate_id": "bgkwxz6b",
+        "virus_id": "b6a41ae0",
+        "definition": "Velvet bean severe mosaic virus DNA A, complete genome",
+        "_version": 0,
+        "host": "Macuna spp."
+    }
+]

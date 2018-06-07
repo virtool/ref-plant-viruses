@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Leek yellow stripe virus, complete genome",
+        "virus_id": "a81bc89a",
+        "isolate_id": "s5xggpch",
+        "_id": "NC_004011",
+        "host": "garlic"
+    }
+]

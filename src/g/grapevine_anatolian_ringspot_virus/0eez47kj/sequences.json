@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_018384",
+        "molecule_structure": "linear",
+        "isolate_id": "0eez47kj",
+        "virus_id": "ef980639",
+        "definition": "Grapevine Anatolian ringspot virus RNA 2, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_018383",
+        "molecule_structure": "linear",
+        "isolate_id": "0eez47kj",
+        "virus_id": "ef980639",
+        "definition": "Grapevine Anatolian ringspot virus RNA 1, complete genome",
+        "_version": 0,
+        "host": "Vitis vinifera"
+    }
+]

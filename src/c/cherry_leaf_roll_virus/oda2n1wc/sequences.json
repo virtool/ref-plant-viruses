@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Cherry leaf roll virus isolate FNW segment RNA2, complete sequence.",
+        "virus_id": "aa86c402",
+        "isolate_id": "oda2n1wc",
+        "_id": "KC937028",
+        "host": "Ribes rubrum"
+    },
+    {
+        "definition": "Cherry leaf roll virus isolate FNW segment RNA1, complete sequence.",
+        "virus_id": "aa86c402",
+        "isolate_id": "oda2n1wc",
+        "_id": "KC937022",
+        "host": "Ribes rubrum"
+    }
+]

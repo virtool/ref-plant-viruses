@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_010294",
+        "molecule_structure": "circular",
+        "isolate_id": "5dk27c0w",
+        "virus_id": "dc9bd2d9",
+        "definition": "Rhynchosia golden mosaic virus DNA A, complete sequence",
+        "_version": 0,
+        "host": "soybean"
+    },
+    {
+        "_id": "NC_010293",
+        "molecule_structure": "circular",
+        "isolate_id": "5dk27c0w",
+        "virus_id": "dc9bd2d9",
+        "definition": "Rhynchosia golden mosaic virus DNA B, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

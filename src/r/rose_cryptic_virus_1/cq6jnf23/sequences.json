@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_010348",
+        "molecule_structure": "linear",
+        "isolate_id": "cq6jnf23",
+        "virus_id": "dbb02566",
+        "definition": "Rose cryptic virus 1 RNA 3, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_010347",
+        "molecule_structure": "linear",
+        "isolate_id": "cq6jnf23",
+        "virus_id": "dbb02566",
+        "definition": "Rose cryptic virus 1 RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_010346",
+        "molecule_structure": "linear",
+        "isolate_id": "cq6jnf23",
+        "virus_id": "dbb02566",
+        "definition": "Rose cryptic virus 1 RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

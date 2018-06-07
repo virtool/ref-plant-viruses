@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Tomato necrotic ringspot virus nucleocapsid (N) gene, complete cds.",
+        "virus_id": "50ae2bc3",
+        "isolate_id": "5cca7c6a",
+        "_id": "FJ946835",
+        "host": "Solanum lycopersicum (tomato)"
+    },
+    {
+        "definition": "Tomato necrotic ringspot virus RNA-dependent RNA polymerase (RdRp) mRNA, partial cds.",
+        "virus_id": "50ae2bc3",
+        "isolate_id": "5cca7c6a",
+        "_id": "GU479877",
+        "host": "Solanum lycopersicum"
+    }
+]

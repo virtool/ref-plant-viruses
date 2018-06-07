@@ -1,0 +1,23 @@
+[
+    {
+        "definition": "Poa semilatent virus RNA for alpha-A protein (partial).",
+        "virus_id": "cb66f1e7",
+        "isolate_id": "160bb5f5",
+        "_id": "Z46352",
+        "host": ""
+    },
+    {
+        "definition": "Poa semilatent virus beta genomic segment beta-A, beta-B, beta-C and beta-D protein genes, complete cds.",
+        "virus_id": "cb66f1e7",
+        "isolate_id": "160bb5f5",
+        "_id": "PSZBETACD",
+        "host": ""
+    },
+    {
+        "definition": "Poa semilatent virus gamma genomic segment gamma-A gene, partial cds and gamma-B protein gene, complete cds.",
+        "virus_id": "cb66f1e7",
+        "isolate_id": "160bb5f5",
+        "_id": "M81487",
+        "host": ""
+    }
+]

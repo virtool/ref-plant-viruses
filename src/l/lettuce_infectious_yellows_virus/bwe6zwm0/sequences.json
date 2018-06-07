@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_003617",
+        "molecule_structure": "linear",
+        "isolate_id": "bwe6zwm0",
+        "virus_id": "8c914e6c",
+        "definition": "Lettuce infectious yellows virus RNA 1, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003618",
+        "molecule_structure": "linear",
+        "isolate_id": "bwe6zwm0",
+        "virus_id": "8c914e6c",
+        "definition": "Lettuce infectious yellows virus RNA 2, complete genome",
+        "_version": 0,
+        "host": null
+    }
+]

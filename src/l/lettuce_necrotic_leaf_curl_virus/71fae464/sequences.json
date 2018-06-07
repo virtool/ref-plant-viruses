@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Lettuce necrotic leaf curl virus isolate 5317015 segment RNA2, complete sequence.",
+        "virus_id": "49fa3741",
+        "isolate_id": "71fae464",
+        "_id": "KC855267",
+        "host": "Lactuca sativa"
+    },
+    {
+        "definition": "Lettuce necrotic leaf curl virus isolate 5317015 segment RNA1, complete sequence.",
+        "virus_id": "49fa3741",
+        "isolate_id": "71fae464",
+        "_id": "KC855266",
+        "host": "Lactuca sativa"
+    }
+]

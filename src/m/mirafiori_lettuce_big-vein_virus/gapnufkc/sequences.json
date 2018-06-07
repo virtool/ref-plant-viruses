@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "NC_004779",
+        "molecule_structure": "linear",
+        "isolate_id": "gapnufkc",
+        "virus_id": "fd82d3be",
+        "definition": "Mirafiore lettuce virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_004781",
+        "molecule_structure": "linear",
+        "isolate_id": "gapnufkc",
+        "virus_id": "fd82d3be",
+        "definition": "Mirafiore lettuce virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_004782",
+        "molecule_structure": "linear",
+        "isolate_id": "gapnufkc",
+        "virus_id": "fd82d3be",
+        "definition": "Mirafiore lettuce virus RNA 3, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_004780",
+        "molecule_structure": "linear",
+        "isolate_id": "gapnufkc",
+        "virus_id": "fd82d3be",
+        "definition": "Mirafiore lettuce virus RNA 4, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

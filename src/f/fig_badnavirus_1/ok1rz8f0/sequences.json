@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "circular",
+        "definition": "Fig badnavirus 1, complete genome",
+        "virus_id": "2982fc55",
+        "isolate_id": "ok1rz8f0",
+        "_id": "NC_017830",
+        "host": "fig"
+    }
+]

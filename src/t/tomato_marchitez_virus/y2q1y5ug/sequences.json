@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_010988",
+        "molecule_structure": "linear",
+        "isolate_id": "y2q1y5ug",
+        "virus_id": "ab190b7e",
+        "definition": "Tomato marchitez virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_010987",
+        "molecule_structure": "linear",
+        "isolate_id": "y2q1y5ug",
+        "virus_id": "ab190b7e",
+        "definition": "Tomato marchitez virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Carrot betaflexivirus 1 isolate CBV-1_S20 ORF1, ORF2, and ORF3",
+        "virus_id": "11948dae",
+        "isolate_id": "12778s2b",
+        "_id": "NC_025469",
+        "host": "Daucus carota"
+    }
+]

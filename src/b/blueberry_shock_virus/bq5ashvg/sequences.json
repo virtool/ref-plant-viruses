@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_022252",
+        "molecule_structure": "linear",
+        "isolate_id": "bq5ashvg",
+        "virus_id": "5ac37a13",
+        "definition": "Blueberry shock virus isolate Berkely segment RNA3 movement protein",
+        "_version": 0,
+        "host": "blueberry"
+    },
+    {
+        "_id": "NC_022251",
+        "molecule_structure": "linear",
+        "isolate_id": "bq5ashvg",
+        "virus_id": "5ac37a13",
+        "definition": "Blueberry shock virus isolate Berkely segment RNA2 replicase P2",
+        "_version": 0,
+        "host": "blueberry"
+    },
+    {
+        "_id": "NC_022250",
+        "molecule_structure": "linear",
+        "isolate_id": "bq5ashvg",
+        "virus_id": "5ac37a13",
+        "definition": "Blueberry shock virus isolate Berkely segment RNA1 replicase P1",
+        "_version": 0,
+        "host": "blueberry"
+    }
+]

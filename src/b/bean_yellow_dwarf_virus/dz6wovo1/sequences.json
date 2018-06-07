@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Bean yellow dwarf virus putative genes V1, V2, C1, C1:C2",
+        "virus_id": "0fbe1ec5",
+        "isolate_id": "dz6wovo1",
+        "_id": "NC_003493",
+        "host": "Phaseolus vulgaris"
+    }
+]

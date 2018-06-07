@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Pepper cryptic virus 1 isolate Jal-01 segment RNA2, complete sequence.",
+        "virus_id": "b379ad60",
+        "isolate_id": "b4ce655d",
+        "_id": "JN117277",
+        "host": "Capsicum annuum; Jalapeno M"
+    },
+    {
+        "definition": "Pepper cryptic virus 1 isolate Jal-01 segment RNA1, complete sequence.",
+        "virus_id": "b379ad60",
+        "isolate_id": "b4ce655d",
+        "_id": "JN117276",
+        "host": "Capsicum annuum; Jalapeno M"
+    }
+]

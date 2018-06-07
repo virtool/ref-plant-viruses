@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Prunus virus F, RNA1 complete sequence",
+        "virus_id": "63bcd1cc",
+        "isolate_id": "016e8f8f",
+        "_id": "16TFA020_PVF_RNA1_B",
+        "host": "Prunus"
+    },
+    {
+        "definition": "Prunus virus F, RNA2, complete sequence",
+        "virus_id": "63bcd1cc",
+        "isolate_id": "016e8f8f",
+        "_id": "16TFA020_PVF_RNA2_B",
+        "host": "Prunus"
+    }
+]

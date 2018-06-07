@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_006275",
+        "molecule_structure": "linear",
+        "isolate_id": "9hkg6baf",
+        "virus_id": "4b7a4c8b",
+        "definition": "White clover cryptic virus 1 RNA1, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_006276",
+        "molecule_structure": "linear",
+        "isolate_id": "9hkg6baf",
+        "virus_id": "4b7a4c8b",
+        "definition": "White clover cryptic virus 1 RNA2, complete genome",
+        "_version": 0,
+        "host": null
+    }
+]

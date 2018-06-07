@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Jacquemontia mosaic Yucatan virus segment DNA-B, complete sequence.",
+        "virus_id": "3962f6ec",
+        "isolate_id": "dbf54ede",
+        "_id": "JQ821387",
+        "host": "Jacquemontia pentantha"
+    },
+    {
+        "definition": "Jacquemontia mosaic Yucatan virus segment DNA-A, complete sequence.",
+        "virus_id": "3962f6ec",
+        "isolate_id": "dbf54ede",
+        "_id": "JQ821386",
+        "host": "Jacquemontia pentantha"
+    }
+]

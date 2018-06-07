@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_005854",
+        "molecule_structure": "linear",
+        "isolate_id": "d0pw6r2n",
+        "virus_id": "95a40681",
+        "definition": "Parietaria mottle virus RNA 3, complete sequence",
+        "_version": 0,
+        "host": "Hydrangea macrophylla"
+    },
+    {
+        "_id": "NC_005849",
+        "molecule_structure": "linear",
+        "isolate_id": "d0pw6r2n",
+        "virus_id": "95a40681",
+        "definition": "Parietaria mottle virus RNA 2, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_005848",
+        "molecule_structure": "linear",
+        "isolate_id": "d0pw6r2n",
+        "virus_id": "95a40681",
+        "definition": "Parietaria mottle virus RNA 1, complete genome",
+        "_version": 0,
+        "host": null
+    }
+]

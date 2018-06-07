@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_016578",
+        "molecule_structure": "circular",
+        "isolate_id": "yq5njjvq",
+        "virus_id": "e27f705b",
+        "definition": "Cleome leaf crumple virus DNA-A, complete genome",
+        "_version": 0,
+        "host": "Cleome affinis"
+    },
+    {
+        "_id": "NC_016572",
+        "molecule_structure": "circular",
+        "isolate_id": "yq5njjvq",
+        "virus_id": "e27f705b",
+        "definition": "Cleome leaf crumple virus DNA-B, complete genome",
+        "_version": 0,
+        "host": "Cleome affinis"
+    }
+]

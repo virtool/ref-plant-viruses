@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Cabbage leaf curl Jamaica virus clone 1966 Cu3-B8 segment DNA-B, complete sequence.",
+        "virus_id": "d226290f",
+        "isolate_id": "496550f5",
+        "_id": "DQ178611",
+        "host": "cauliflower"
+    },
+    {
+        "definition": "Cabbage leaf curl Jamaica virus clone 1910 Cu3-A8 segment DNA-A, complete sequence.",
+        "virus_id": "d226290f",
+        "isolate_id": "496550f5",
+        "_id": "DQ178610",
+        "host": "cauliflower"
+    }
+]

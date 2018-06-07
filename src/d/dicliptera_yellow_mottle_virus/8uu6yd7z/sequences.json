@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_003857",
+        "molecule_structure": "circular",
+        "isolate_id": "8uu6yd7z",
+        "virus_id": "5cac3d8f",
+        "definition": "Dicliptera yellow mottle virus DNA B, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003856",
+        "molecule_structure": "circular",
+        "isolate_id": "8uu6yd7z",
+        "virus_id": "5cac3d8f",
+        "definition": "Dicliptera yellow mottle virus DNA A, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "NC_010319",
+        "molecule_structure": "circular",
+        "isolate_id": "4e8amg20",
+        "virus_id": "c93ec9a9",
+        "definition": "Abaca bunchy top virus DNA-R, complete genome",
+        "_version": 0,
+        "host": "Musa sp."
+    },
+    {
+        "_id": "NC_010318",
+        "molecule_structure": "circular",
+        "isolate_id": "4e8amg20",
+        "virus_id": "c93ec9a9",
+        "definition": "Abaca bunchy top virus DNA-C, complete sequence",
+        "_version": 0,
+        "host": "Musa sp."
+    },
+    {
+        "_id": "NC_010317",
+        "molecule_structure": "circular",
+        "isolate_id": "4e8amg20",
+        "virus_id": "c93ec9a9",
+        "definition": "Abaca bunchy top virus DNA-M, complete genome",
+        "_version": 0,
+        "host": "Musa sp."
+    },
+    {
+        "_id": "NC_010316",
+        "molecule_structure": "circular",
+        "isolate_id": "4e8amg20",
+        "virus_id": "c93ec9a9",
+        "definition": "Abaca bunchy top virus DNA-S, complete genome",
+        "_version": 0,
+        "host": "Musa sp."
+    },
+    {
+        "_id": "NC_010315",
+        "molecule_structure": "circular",
+        "isolate_id": "4e8amg20",
+        "virus_id": "c93ec9a9",
+        "definition": "Abaca bunchy top virus segment 2, complete sequence",
+        "_version": 0,
+        "host": "Musa sp."
+    },
+    {
+        "_id": "NC_010314",
+        "molecule_structure": "circular",
+        "isolate_id": "4e8amg20",
+        "virus_id": "c93ec9a9",
+        "definition": "Abaca bunchy top virus DNA-N, complete genome",
+        "_version": 0,
+        "host": "Musa sp."
+    }
+]

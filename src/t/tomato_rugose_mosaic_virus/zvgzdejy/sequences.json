@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_002556",
+        "molecule_structure": "circular",
+        "isolate_id": "zvgzdejy",
+        "virus_id": "a58ae87e",
+        "definition": "Tomato rugose mosaic virus DNA B, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_002555",
+        "molecule_structure": "circular",
+        "isolate_id": "zvgzdejy",
+        "virus_id": "a58ae87e",
+        "definition": "Tomato rugose mosaic virus DNA A, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

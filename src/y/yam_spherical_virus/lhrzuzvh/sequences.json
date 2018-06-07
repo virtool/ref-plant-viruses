@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Yam spherical virus DSM:PV-0517, complete genome",
+        "virus_id": "9727cf12",
+        "isolate_id": "lhrzuzvh",
+        "_id": "NC_022895",
+        "host": "Dioscorea rotundata"
+    }
+]

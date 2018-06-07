@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_010953",
+        "molecule_structure": "circular",
+        "isolate_id": "oc79j35c",
+        "virus_id": "edfaaf2b",
+        "definition": "Macroptilium golden mosaic virus-[Jamaica:Wissadula:August Town]",
+        "_version": 0,
+        "host": "Wissadula amplissima"
+    },
+    {
+        "_id": "NC_010952",
+        "molecule_structure": "circular",
+        "isolate_id": "oc79j35c",
+        "virus_id": "edfaaf2b",
+        "definition": "Macroptilium golden mosaic virus-[Jamaica:Wissadula:August Town]",
+        "_version": 0,
+        "host": "Wissadula amplissima"
+    }
+]

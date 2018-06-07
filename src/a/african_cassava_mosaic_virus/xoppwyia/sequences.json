@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "African cassava mosaic virus segment A, isolate DRC 6",
+        "virus_id": "53a851f3",
+        "isolate_id": "xoppwyia",
+        "_id": "FN668378.1",
+        "host": "Manihot esculenta"
+    },
+    {
+        "definition": "African cassava mosaic virus segment B, isolate DRC 6",
+        "virus_id": "53a851f3",
+        "isolate_id": "xoppwyia",
+        "_id": "FN668379.1",
+        "host": "Manihot esculenta"
+    }
+]

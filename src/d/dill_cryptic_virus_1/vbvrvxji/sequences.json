@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_022615",
+        "molecule_structure": "linear",
+        "isolate_id": "vbvrvxji",
+        "virus_id": "1432ce9a",
+        "definition": "Dill cryptic virus 1 isolate IPP_hortorum segment 2, complete",
+        "_version": 0,
+        "host": "Anethum graveolens var. hortorum"
+    },
+    {
+        "_id": "NC_022614",
+        "molecule_structure": "linear",
+        "isolate_id": "vbvrvxji",
+        "virus_id": "1432ce9a",
+        "definition": "Dill cryptic virus 1 isolate IPP_hortorum segment 1, complete",
+        "_version": 0,
+        "host": "Anethum graveolens var. hortorum"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "definition": "Rice hoja blanca virus membrane-associated protein (pv2) and membrane glycoprotein (pc2) genes, complete cds.",
+        "virus_id": "2bd442d2",
+        "isolate_id": "29706998",
+        "_id": "L54073",
+        "host": ""
+    },
+    {
+        "definition": "Rice hoja blanca virus nonstructural protein (NS4) and (NS4vc) genes, complete cds's.",
+        "virus_id": "2bd442d2",
+        "isolate_id": "29706998",
+        "_id": "L14952",
+        "host": ""
+    },
+    {
+        "definition": "Rice hoja blanca virus nonstructural protein 3 and nucleoprotein genes, complete cds.",
+        "virus_id": "2bd442d2",
+        "isolate_id": "29706998",
+        "_id": "L07940",
+        "host": ""
+    },
+    {
+        "definition": "Rice hoja blanca virus NCP (gv4) and pc4 (gc4) genes, complete cds.",
+        "virus_id": "2bd442d2",
+        "isolate_id": "29706998",
+        "_id": "AF004657",
+        "host": ""
+    }
+]

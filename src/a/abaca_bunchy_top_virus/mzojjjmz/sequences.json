@@ -1,0 +1,44 @@
+[
+    {
+        "definition": "Abaca bunchy top virus isolate Q1108 segment DNA-M, complete sequence",
+        "virus_id": "c93ec9a9",
+        "isolate_id": "mzojjjmz",
+        "_id": "EF546805.1",
+        "host": "Musa textilis"
+    },
+    {
+        "definition": "Abaca bunchy top virus isolate Q1108 segment DNA-S, complete sequence",
+        "virus_id": "c93ec9a9",
+        "isolate_id": "mzojjjmz",
+        "_id": "EF546804.1",
+        "host": "Musa textilis"
+    },
+    {
+        "definition": "Abaca bunchy top virus isolate Q1108 segment DNA-N, complete sequence",
+        "virus_id": "c93ec9a9",
+        "isolate_id": "mzojjjmz",
+        "_id": "EF546802.1",
+        "host": "Musa textilis"
+    },
+    {
+        "definition": "Abaca bunchy top virus isolate Q1108 segment DNA-C, complete sequence",
+        "virus_id": "c93ec9a9",
+        "isolate_id": "mzojjjmz",
+        "_id": "EF546806.1",
+        "host": "Musa textilis"
+    },
+    {
+        "definition": "Abaca bunchy top virus isolate Q1108 segment DNA-R, complete sequence",
+        "virus_id": "c93ec9a9",
+        "isolate_id": "mzojjjmz",
+        "_id": "EF546807.1",
+        "host": "Musa textilis"
+    },
+    {
+        "definition": "Abaca bunchy top virus isolate Q1108 segment DNA-U3, complete sequence",
+        "virus_id": "c93ec9a9",
+        "isolate_id": "mzojjjmz",
+        "_id": "EF546803.1",
+        "host": "Musa textilis"
+    }
+]

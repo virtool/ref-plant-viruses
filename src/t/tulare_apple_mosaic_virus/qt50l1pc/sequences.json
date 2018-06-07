@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_003835",
+        "molecule_structure": "linear",
+        "isolate_id": "qt50l1pc",
+        "virus_id": "a0c7146b",
+        "definition": "Tulare apple mosaic virus RNA3, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003834",
+        "molecule_structure": "linear",
+        "isolate_id": "qt50l1pc",
+        "virus_id": "a0c7146b",
+        "definition": "Tulare apple mosaic virus RNA2, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003833",
+        "molecule_structure": "linear",
+        "isolate_id": "qt50l1pc",
+        "virus_id": "a0c7146b",
+        "definition": "Tulare apple mosaic virus RNA1, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

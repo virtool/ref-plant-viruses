@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Squash leaf curl China virus isolate SLCCNV-[Pum:IARI] segment DNA-B, complete sequence.",
+        "virus_id": "2f0fef67",
+        "isolate_id": "59ditxzs",
+        "_id": "JN624306",
+        "host": "pumpkin"
+    },
+    {
+        "definition": "Squash leaf curl China virus isolate SLCCNV-[Pum:IARI] segment DNA-A, complete sequence.",
+        "virus_id": "2f0fef67",
+        "isolate_id": "59ditxzs",
+        "_id": "JN587811",
+        "host": "pumpkin"
+    }
+]

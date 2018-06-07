@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Calla lily latent virus strain m19 polyprotein gene, complete cds",
+        "virus_id": "563c2411",
+        "isolate_id": "8mz1k74y",
+        "_id": "NC_021196",
+        "host": "calla lily"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "circular",
+        "definition": "Banana streak virus, complete genome",
+        "virus_id": "20603017",
+        "isolate_id": "8m8q20sy",
+        "_id": "NC_008018",
+        "host": "plaintain"
+    }
+]

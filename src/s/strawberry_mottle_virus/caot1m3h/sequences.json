@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_003446",
+        "molecule_structure": "linear",
+        "isolate_id": "caot1m3h",
+        "virus_id": "d6f96ac3",
+        "definition": "Strawberry mottle virus RNA 2, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003445",
+        "molecule_structure": "linear",
+        "isolate_id": "caot1m3h",
+        "virus_id": "d6f96ac3",
+        "definition": "Strawberry mottle virus RNA 1, complete genome",
+        "_version": 0,
+        "host": null
+    }
+]

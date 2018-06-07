@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "NC_014605",
+        "molecule_structure": "linear",
+        "isolate_id": "vikw8nn3",
+        "virus_id": "606eb2f5",
+        "definition": "Raspberry latent virus segment S8, complete genome",
+        "_version": 0,
+        "host": "raspberry"
+    },
+    {
+        "_id": "NC_014599",
+        "molecule_structure": "linear",
+        "isolate_id": "vikw8nn3",
+        "virus_id": "606eb2f5",
+        "definition": "Raspberry latent virus segment S2, complete genome",
+        "_version": 0,
+        "host": "raspberry"
+    },
+    {
+        "_id": "NC_014598",
+        "molecule_structure": "linear",
+        "isolate_id": "vikw8nn3",
+        "virus_id": "606eb2f5",
+        "definition": "Raspberry latent virus segment S1, complete genome",
+        "_version": 0,
+        "host": "raspberry"
+    },
+    {
+        "_id": "NC_014604",
+        "molecule_structure": "linear",
+        "isolate_id": "vikw8nn3",
+        "virus_id": "606eb2f5",
+        "definition": "Raspberry latent virus segment S7, complete genome",
+        "_version": 0,
+        "host": "raspberry"
+    },
+    {
+        "_id": "NC_014603",
+        "molecule_structure": "linear",
+        "isolate_id": "vikw8nn3",
+        "virus_id": "606eb2f5",
+        "definition": "Raspberry latent virus segment S6, complete genome",
+        "_version": 0,
+        "host": "raspberry"
+    },
+    {
+        "_id": "NC_014602",
+        "molecule_structure": "linear",
+        "isolate_id": "vikw8nn3",
+        "virus_id": "606eb2f5",
+        "definition": "Raspberry latent virus segment S5, complete genome",
+        "_version": 0,
+        "host": "raspberry"
+    },
+    {
+        "_id": "NC_014601",
+        "molecule_structure": "linear",
+        "isolate_id": "vikw8nn3",
+        "virus_id": "606eb2f5",
+        "definition": "Raspberry latent virus segment S4, complete genome",
+        "_version": 0,
+        "host": "raspberry"
+    },
+    {
+        "_id": "NC_014600",
+        "molecule_structure": "linear",
+        "isolate_id": "vikw8nn3",
+        "virus_id": "606eb2f5",
+        "definition": "Raspberry latent virus segment S3, complete genome",
+        "_version": 0,
+        "host": "raspberry"
+    },
+    {
+        "_id": "NC_014607",
+        "molecule_structure": "linear",
+        "isolate_id": "vikw8nn3",
+        "virus_id": "606eb2f5",
+        "definition": "Raspberry latent virus segment S10, complete genome",
+        "_version": 0,
+        "host": "raspberry"
+    },
+    {
+        "_id": "NC_014606",
+        "molecule_structure": "linear",
+        "isolate_id": "vikw8nn3",
+        "virus_id": "606eb2f5",
+        "definition": "Raspberry latent virus segment S9, complete genome",
+        "_version": 0,
+        "host": "raspberry"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Tomato necrotic stunt virus, complete genome",
+        "virus_id": "6ed4864f",
+        "isolate_id": "j229fd0a",
+        "_id": "NC_017824",
+        "host": "Solanum lycopersicum (tomato)"
+    }
+]

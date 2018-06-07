@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Garlic virus A, complete genome",
+        "virus_id": "5a965bf1",
+        "isolate_id": "ruducefu",
+        "_id": "NC_003375",
+        "host": "Allium sativum"
+    }
+]

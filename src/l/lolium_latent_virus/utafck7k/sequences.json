@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Lolium latent virus, complete genome",
+        "virus_id": "b60db69a",
+        "isolate_id": "utafck7k",
+        "_id": "NC_010434",
+        "host": "Lolium perenne x L. multiflorum MF22"
+    }
+]

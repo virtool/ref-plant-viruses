@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_005097",
+        "molecule_structure": "linear",
+        "isolate_id": "r9ffqdbs",
+        "virus_id": "7eaae17f",
+        "definition": "Tobacco ringspot virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_005096",
+        "molecule_structure": "linear",
+        "isolate_id": "r9ffqdbs",
+        "virus_id": "7eaae17f",
+        "definition": "Tobacco ringspot virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

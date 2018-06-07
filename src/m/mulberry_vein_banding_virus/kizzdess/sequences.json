@@ -1,0 +1,23 @@
+[
+    {
+        "definition": "Mulberry vein banding virus isolate XCSY-3 segment L, complete sequence.",
+        "virus_id": "24da9485",
+        "isolate_id": "kizzdess",
+        "_id": "NC_026617",
+        "host": "mulberry"
+    },
+    {
+        "definition": "Mulberry vein banding virus isolate XCSY-3 segment M, complete sequence.",
+        "virus_id": "24da9485",
+        "isolate_id": "kizzdess",
+        "_id": "NC_026618",
+        "host": "mulberry"
+    },
+    {
+        "definition": "Mulberry vein banding virus isolate XCSY-3 segment S, complete sequence.",
+        "virus_id": "24da9485",
+        "isolate_id": "kizzdess",
+        "_id": "NC_026619",
+        "host": "mulberry"
+    }
+]

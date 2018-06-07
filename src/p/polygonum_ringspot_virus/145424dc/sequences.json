@@ -1,0 +1,23 @@
+[
+    {
+        "definition": "Polygonum ringspot tospovirus isolate Plg13 segment S, complete sequence.",
+        "virus_id": "074ab4d0",
+        "isolate_id": "145424dc",
+        "_id": "KJ541744",
+        "host": "Fallopia dumetorum"
+    },
+    {
+        "definition": "Polygonum ringspot tospovirus isolate Plg13 segment M, complete sequence.",
+        "virus_id": "074ab4d0",
+        "isolate_id": "145424dc",
+        "_id": "KJ541745",
+        "host": "Fallopia dumetorum"
+    },
+    {
+        "definition": "Polygonum ringspot tospovirus isolate Plg13 segment L, complete sequence.",
+        "virus_id": "074ab4d0",
+        "isolate_id": "145424dc",
+        "_id": "KJ541746",
+        "host": "Fallopia dumetorum"
+    }
+]

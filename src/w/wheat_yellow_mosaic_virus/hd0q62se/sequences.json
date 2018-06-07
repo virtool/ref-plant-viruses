@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_002349",
+        "molecule_structure": "linear",
+        "isolate_id": "hd0q62se",
+        "virus_id": "5967859a",
+        "definition": "Wheat yellow mosaic virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_002350",
+        "molecule_structure": "linear",
+        "isolate_id": "hd0q62se",
+        "virus_id": "5967859a",
+        "definition": "Wheat yellow mosaic virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

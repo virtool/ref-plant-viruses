@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_014130",
+        "molecule_structure": "circular",
+        "isolate_id": "njf22icb",
+        "virus_id": "29d8a894",
+        "definition": "Sida golden mottle virus DNA-A, complete genome",
+        "_version": 0,
+        "host": "Sida santaremensis"
+    },
+    {
+        "_id": "NC_014128",
+        "molecule_structure": "circular",
+        "isolate_id": "njf22icb",
+        "virus_id": "29d8a894",
+        "definition": "Sida golden mottle virus DNA-B, complete genome",
+        "_version": 0,
+        "host": "Sida santaremensis"
+    }
+]

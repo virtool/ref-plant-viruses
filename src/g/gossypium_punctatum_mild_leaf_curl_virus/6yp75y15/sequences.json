@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_012120",
+        "molecule_structure": "circular",
+        "isolate_id": "6yp75y15",
+        "virus_id": "9822a7a1",
+        "definition": "Gossypium punctatum mild leaf curl virus DNA B, complete genome",
+        "_version": 0,
+        "host": "Gossypium darwinii"
+    },
+    {
+        "_id": "NC_011805",
+        "molecule_structure": "circular",
+        "isolate_id": "6yp75y15",
+        "virus_id": "9822a7a1",
+        "definition": "Gossypium punctatum mild leaf curl virus DNA A, complete genome",
+        "_version": 0,
+        "host": "Gossypium davidsonii"
+    }
+]

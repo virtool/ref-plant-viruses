@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "circular",
+        "definition": "Tobacco leaf curl disease associated sequence virion, complete",
+        "virus_id": "56fd7039",
+        "isolate_id": "s6ynpydu",
+        "_id": "NC_005049",
+        "host": "Nicotiana tabacum"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Garlic virus E, complete genome",
+        "virus_id": "3239668e",
+        "isolate_id": "aeomytsf",
+        "_id": "NC_004012",
+        "host": "garlic"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Rice necrosis mosaic virus genomic RNA, segment 1, complete sequence.",
+        "virus_id": "32a33650",
+        "isolate_id": "23d5c80b",
+        "_id": "NC_028144",
+        "host": "Oryza sativa"
+    },
+    {
+        "definition": "Rice necrosis mosaic virus genomic RNA, segment 2, complete sequence, strain: Ka-1.",
+        "virus_id": "32a33650",
+        "isolate_id": "23d5c80b",
+        "_id": "NC_028145",
+        "host": "Oryza sativa"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_005853",
+        "molecule_structure": "circular",
+        "isolate_id": "sn959cxr",
+        "virus_id": "6e7af412",
+        "definition": "Tomato yellow margin leaf curl virus DNA B, complete genome",
+        "_version": 0,
+        "host": "tomato, cv. Rio Grande"
+    },
+    {
+        "_id": "NC_005852",
+        "molecule_structure": "circular",
+        "isolate_id": "sn959cxr",
+        "virus_id": "6e7af412",
+        "definition": "Tomato yellow margin leaf curl virus DNA A, complete genome",
+        "_version": 0,
+        "host": "tomato, cv. Rio Grande"
+    }
+]

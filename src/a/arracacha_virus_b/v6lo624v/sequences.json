@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_020897",
+        "molecule_structure": "linear",
+        "isolate_id": "v6lo624v",
+        "virus_id": "d61771b1",
+        "definition": "Arracacha virus B strain oca segment RNA2, complete sequence",
+        "_version": 0,
+        "host": "Oxalis tuberosa"
+    },
+    {
+        "_id": "NC_020898",
+        "molecule_structure": "linear",
+        "isolate_id": "v6lo624v",
+        "virus_id": "d61771b1",
+        "definition": "Arracacha virus B isolate PV-0082 polyprotein gene, complete cds",
+        "_version": 0,
+        "host": "Oxalis tuberosa"
+    }
+]

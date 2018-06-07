@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_016577",
+        "molecule_structure": "circular",
+        "isolate_id": "zaor10x9",
+        "virus_id": "ef1b2487",
+        "definition": "Abutilon mosaic Brazil virus DNA-B, complete genome",
+        "_version": 0,
+        "host": "Blainvillea rhomboidea"
+    },
+    {
+        "_id": "NC_016574",
+        "molecule_structure": "circular",
+        "isolate_id": "zaor10x9",
+        "virus_id": "ef1b2487",
+        "definition": "Abutilon mosaic Brazil virus DNA-A, complete genome",
+        "_version": 0,
+        "host": "Sida rhomboidea"
+    }
+]

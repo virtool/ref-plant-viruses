@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_003711",
+        "molecule_structure": "linear",
+        "isolate_id": "fn4i6l8w",
+        "virus_id": "d4b68768",
+        "definition": "Discula destructiva virus 2 segment 2, complete genome",
+        "_version": 0,
+        "host": "Discula destructiva Redlin"
+    },
+    {
+        "_id": "NC_003710",
+        "molecule_structure": "linear",
+        "isolate_id": "fn4i6l8w",
+        "virus_id": "d4b68768",
+        "definition": "Discula destructiva virus 2 segment 1, complete genome",
+        "_version": 0,
+        "host": "Discula destructiva Redlin"
+    }
+]

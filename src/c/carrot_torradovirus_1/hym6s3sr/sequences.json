@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_025480",
+        "molecule_structure": "linear",
+        "isolate_id": "hym6s3sr",
+        "virus_id": "183acd30",
+        "definition": "Carrot torradovirus 1 isolate CTV-1_RNA2_H6 ORF1 and polyprotein",
+        "_version": 0,
+        "host": "Daucus carota"
+    },
+    {
+        "_id": "NC_025479",
+        "molecule_structure": "linear",
+        "isolate_id": "hym6s3sr",
+        "virus_id": "183acd30",
+        "definition": "Carrot torradovirus 1 isolate CTV-1_RNA1_H6 polyprotein gene,",
+        "_version": 0,
+        "host": "Daucus carota"
+    }
+]

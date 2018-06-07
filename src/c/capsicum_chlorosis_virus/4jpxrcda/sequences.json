@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_008301",
+        "molecule_structure": "linear",
+        "isolate_id": "4jpxrcda",
+        "virus_id": "5a480bbd",
+        "definition": "Capsicum chlorosis virus segment S, complete sequence",
+        "_version": 0,
+        "host": "Lycopersicum escultentum cv. King Kong 2"
+    },
+    {
+        "_id": "NC_008302",
+        "molecule_structure": "linear",
+        "isolate_id": "4jpxrcda",
+        "virus_id": "5a480bbd",
+        "definition": "Capsicum chlorosis virus segment L, complete sequence",
+        "_version": 0,
+        "host": "Lycopersicum escultentum cv. King Kong 2"
+    },
+    {
+        "_id": "NC_008303",
+        "molecule_structure": "linear",
+        "isolate_id": "4jpxrcda",
+        "virus_id": "5a480bbd",
+        "definition": "Capsicum chlorosis virus segment M, complete sequence",
+        "_version": 0,
+        "host": "Lycopersicum escultentum cv. King Kong 2"
+    }
+]

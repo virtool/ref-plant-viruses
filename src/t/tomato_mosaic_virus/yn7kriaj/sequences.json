@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Tomato mosaic virus, complete genome",
+        "virus_id": "6e476e56",
+        "isolate_id": "yn7kriaj",
+        "_id": "NC_002692",
+        "host": "Lycopersicon esculentum cv. Grosse Lisse"
+    }
+]

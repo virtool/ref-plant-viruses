@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_005846",
+        "molecule_structure": "circular",
+        "isolate_id": "h7le6fdq",
+        "virus_id": "fd276f4d",
+        "definition": "Squash leaf curl Philippines virus segment B, complete genome",
+        "_version": 0,
+        "host": "Cucurbita moschata"
+    },
+    {
+        "_id": "NC_005845",
+        "molecule_structure": "circular",
+        "isolate_id": "h7le6fdq",
+        "virus_id": "fd276f4d",
+        "definition": "Squash leaf curl Philippines virus segment A, complete genome",
+        "_version": 0,
+        "host": "Cucurbita moschata"
+    }
+]

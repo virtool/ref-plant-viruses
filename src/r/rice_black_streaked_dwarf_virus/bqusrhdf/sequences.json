@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "NC_003737",
+        "molecule_structure": "linear",
+        "isolate_id": "bqusrhdf",
+        "virus_id": "59bba6fc",
+        "definition": "Rice black streaked dwarf virus segment 6, complete sequence",
+        "_version": 0,
+        "host": "Oryza sativa"
+    },
+    {
+        "_id": "NC_003736",
+        "molecule_structure": "linear",
+        "isolate_id": "bqusrhdf",
+        "virus_id": "59bba6fc",
+        "definition": "Rice black streaked dwarf virus segment 5, complete sequence",
+        "_version": 0,
+        "host": "Oryza sativa"
+    },
+    {
+        "_id": "NC_003735",
+        "molecule_structure": "linear",
+        "isolate_id": "bqusrhdf",
+        "virus_id": "59bba6fc",
+        "definition": "Rice black streaked dwarf virus segment 4, complete sequence",
+        "_version": 0,
+        "host": "Oryza sativa"
+    },
+    {
+        "_id": "NC_003734",
+        "molecule_structure": "linear",
+        "isolate_id": "bqusrhdf",
+        "virus_id": "59bba6fc",
+        "definition": "Rice black streaked dwarf virus segment 2, complete sequence",
+        "_version": 0,
+        "host": "Oryza sativa"
+    },
+    {
+        "_id": "NC_003733",
+        "molecule_structure": "linear",
+        "isolate_id": "bqusrhdf",
+        "virus_id": "59bba6fc",
+        "definition": "Rice black streaked dwarf virus segment 10, complete sequence",
+        "_version": 0,
+        "host": "rice"
+    },
+    {
+        "_id": "NC_003732",
+        "molecule_structure": "linear",
+        "isolate_id": "bqusrhdf",
+        "virus_id": "59bba6fc",
+        "definition": "Rice black streaked dwarf virus segment 8, complete sequence",
+        "_version": 0,
+        "host": "rice"
+    },
+    {
+        "_id": "NC_003729",
+        "molecule_structure": "linear",
+        "isolate_id": "bqusrhdf",
+        "virus_id": "59bba6fc",
+        "definition": "Rice black streaked dwarf virus segment 1, complete sequence",
+        "_version": 0,
+        "host": "rice"
+    },
+    {
+        "_id": "NC_003731",
+        "molecule_structure": "linear",
+        "isolate_id": "bqusrhdf",
+        "virus_id": "59bba6fc",
+        "definition": "Rice black streaked dwarf virus segment 9, complete sequence",
+        "_version": 0,
+        "host": "rice"
+    },
+    {
+        "_id": "NC_003730",
+        "molecule_structure": "linear",
+        "isolate_id": "bqusrhdf",
+        "virus_id": "59bba6fc",
+        "definition": "Rice black streaked dwarf virus segment 7, complete sequence",
+        "_version": 0,
+        "host": "rice"
+    },
+    {
+        "_id": "NC_003728",
+        "molecule_structure": "linear",
+        "isolate_id": "bqusrhdf",
+        "virus_id": "59bba6fc",
+        "definition": "Rice black streaked dwarf virus segment 3, complete sequence",
+        "_version": 0,
+        "host": "Rice"
+    }
+]

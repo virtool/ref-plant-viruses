@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_011809",
+        "molecule_structure": "linear",
+        "isolate_id": "7ckmjrlw",
+        "virus_id": "1247096c",
+        "definition": "Asparagus virus 2 RNA 2, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_011808",
+        "molecule_structure": "linear",
+        "isolate_id": "7ckmjrlw",
+        "virus_id": "1247096c",
+        "definition": "Asparagus virus 2 RNA 1, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_011807",
+        "molecule_structure": "linear",
+        "isolate_id": "7ckmjrlw",
+        "virus_id": "1247096c",
+        "definition": "Asparagus virus 2 RNA 3, complete genome",
+        "_version": 0,
+        "host": null
+    }
+]

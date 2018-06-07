@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_022004",
+        "molecule_structure": "linear",
+        "isolate_id": "3v6arzzz",
+        "virus_id": "83da5920",
+        "definition": "Broad bean true mosaic virus isolate EV-11 segment RNA1, complete",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_022006",
+        "molecule_structure": "linear",
+        "isolate_id": "3v6arzzz",
+        "virus_id": "83da5920",
+        "definition": "Broad bean true mosaic virus isolate EV-11 segment RNA2, complete",
+        "_version": 0,
+        "host": null
+    }
+]

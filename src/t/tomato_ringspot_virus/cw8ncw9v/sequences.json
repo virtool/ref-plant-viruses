@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_003839",
+        "molecule_structure": "linear",
+        "isolate_id": "cw8ncw9v",
+        "virus_id": "dfd23361",
+        "definition": "Tomato ringspot virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003840",
+        "molecule_structure": "linear",
+        "isolate_id": "cw8ncw9v",
+        "virus_id": "dfd23361",
+        "definition": "Tomato ringspot virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

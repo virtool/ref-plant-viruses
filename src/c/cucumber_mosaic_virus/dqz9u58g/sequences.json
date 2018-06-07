@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_002035",
+        "molecule_structure": "linear",
+        "isolate_id": "dqz9u58g",
+        "virus_id": "2649ee6a",
+        "definition": "Cucumber mosaic virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_002034",
+        "molecule_structure": "linear",
+        "isolate_id": "dqz9u58g",
+        "virus_id": "2649ee6a",
+        "definition": "Cucumber mosaic virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_001440",
+        "molecule_structure": "linear",
+        "isolate_id": "dqz9u58g",
+        "virus_id": "2649ee6a",
+        "definition": "Cucumber mosaic virus RNA 3, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

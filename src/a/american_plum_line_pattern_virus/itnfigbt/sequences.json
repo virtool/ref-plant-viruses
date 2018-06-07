@@ -1,0 +1,23 @@
+[
+    {
+        "definition": "American plum line pattern virus isolate Q15R1 segment RNA1, complete sequence",
+        "virus_id": "883b372d",
+        "isolate_id": "itnfigbt",
+        "_id": "KY883315.1",
+        "host": ""
+    },
+    {
+        "definition": "American plum line pattern virus isolate Q15R3 segment RNA3, complete sequence",
+        "virus_id": "883b372d",
+        "isolate_id": "itnfigbt",
+        "_id": "KY883317.1",
+        "host": ""
+    },
+    {
+        "definition": "American plum line pattern virus isolate Q15R2 segment RNA2, complete sequence",
+        "virus_id": "883b372d",
+        "isolate_id": "itnfigbt",
+        "_id": "KY883316.1",
+        "host": ""
+    }
+]

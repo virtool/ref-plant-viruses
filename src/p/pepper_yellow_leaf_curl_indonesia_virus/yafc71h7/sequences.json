@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_008284",
+        "molecule_structure": "circular",
+        "isolate_id": "yafc71h7",
+        "virus_id": "87a6536e",
+        "definition": "Pepper yellow leaf curl Indonesia virus DNA-B, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_008283",
+        "molecule_structure": "circular",
+        "isolate_id": "yafc71h7",
+        "virus_id": "87a6536e",
+        "definition": "Pepper yellow leaf curl Indonesia virus DNA-A, complete genome",
+        "_version": 0,
+        "host": null
+    }
+]

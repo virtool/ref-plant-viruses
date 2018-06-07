@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Potato latent virus, complete genome",
+        "virus_id": "dcbb0c95",
+        "isolate_id": "s5pzqqlb",
+        "_id": "NC_011525",
+        "host": "potato"
+    }
+]

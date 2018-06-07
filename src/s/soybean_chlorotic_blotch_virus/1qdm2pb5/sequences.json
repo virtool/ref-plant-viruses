@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_014142",
+        "molecule_structure": "circular",
+        "isolate_id": "1qdm2pb5",
+        "virus_id": "95590122",
+        "definition": "Soybean chlorotic blotch virus DNA B, complete genome",
+        "_version": 0,
+        "host": "soybean"
+    },
+    {
+        "_id": "NC_014141",
+        "molecule_structure": "circular",
+        "isolate_id": "1qdm2pb5",
+        "virus_id": "95590122",
+        "definition": "Soybean chlorotic blotch virus DNA A, complete genome",
+        "_version": 0,
+        "host": "soybean"
+    }
+]

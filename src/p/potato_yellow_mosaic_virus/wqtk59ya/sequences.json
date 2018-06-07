@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_001935",
+        "molecule_structure": "circular",
+        "isolate_id": "wqtk59ya",
+        "virus_id": "552e6971",
+        "definition": "Potato yellow mosaic virus DNA B, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_001934",
+        "molecule_structure": "circular",
+        "isolate_id": "wqtk59ya",
+        "virus_id": "552e6971",
+        "definition": "Potato yellow mosaic virus DNA A, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

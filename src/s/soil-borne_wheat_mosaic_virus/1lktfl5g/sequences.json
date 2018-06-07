@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_002041",
+        "molecule_structure": "linear",
+        "isolate_id": "1lktfl5g",
+        "virus_id": "7e7ef88e",
+        "definition": "Soil-borne wheat mosaic virus RNA1, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_002042",
+        "molecule_structure": "linear",
+        "isolate_id": "1lktfl5g",
+        "virus_id": "7e7ef88e",
+        "definition": "Soil-borne wheat mosaic virus RNA2, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

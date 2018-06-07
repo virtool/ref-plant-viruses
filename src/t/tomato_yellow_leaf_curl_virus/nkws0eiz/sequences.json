@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "circular",
+        "definition": "Tomato yellow leaf curl virus, complete genome",
+        "virus_id": "2066fedf",
+        "isolate_id": "nkws0eiz",
+        "_id": "NC_004005",
+        "host": "Capsicum anuum"
+    }
+]

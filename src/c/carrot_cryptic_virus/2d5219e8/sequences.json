@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Carrot cryptic virus segment RNA 1 RNA-dependent RNA polymerase gene, complete cds.",
+        "virus_id": "3df7de30",
+        "isolate_id": "2d5219e8",
+        "_id": "FJ550604",
+        "host": "Daucus carota"
+    },
+    {
+        "definition": "Carrot cryptic virus segment RNA 2 coat protein gene, complete cds.",
+        "virus_id": "3df7de30",
+        "isolate_id": "2d5219e8",
+        "_id": "FJ550605",
+        "host": "Daucus carota"
+    }
+]

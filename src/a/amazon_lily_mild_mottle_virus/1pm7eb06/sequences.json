@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_018404",
+        "molecule_structure": "linear",
+        "isolate_id": "1pm7eb06",
+        "virus_id": "c80c0eb7",
+        "definition": "Amazon lily mild mottle virus 3a, 3b genes for movement protein,",
+        "_version": 0,
+        "host": "Eucharis grandiflora"
+    },
+    {
+        "_id": "NC_018403",
+        "molecule_structure": "linear",
+        "isolate_id": "1pm7eb06",
+        "virus_id": "c80c0eb7",
+        "definition": "Amazon lily mild mottle virus 2a gene for replication protein 2a,",
+        "_version": 0,
+        "host": "Eucharis grandiflora"
+    },
+    {
+        "_id": "NC_018402",
+        "molecule_structure": "linear",
+        "isolate_id": "1pm7eb06",
+        "virus_id": "c80c0eb7",
+        "definition": "Amazon lily mild mottle virus 1a gene for replication protein 1a,",
+        "_version": 0,
+        "host": "Eucharis grandiflora"
+    }
+]

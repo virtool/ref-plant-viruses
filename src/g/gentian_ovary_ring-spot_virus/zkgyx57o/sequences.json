@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_024502",
+        "molecule_structure": "linear",
+        "isolate_id": "zkgyx57o",
+        "virus_id": "2ed88a7a",
+        "definition": "Gentian ovary ring-spot virus genomic RNA, segment 2, complete",
+        "_version": 0,
+        "host": "Gentiana triflora"
+    },
+    {
+        "_id": "NC_024501",
+        "molecule_structure": "linear",
+        "isolate_id": "zkgyx57o",
+        "virus_id": "2ed88a7a",
+        "definition": "Gentian ovary ring-spot virus genomic RNA, segment 1, complete",
+        "_version": 0,
+        "host": "Gentiana triflora"
+    }
+]

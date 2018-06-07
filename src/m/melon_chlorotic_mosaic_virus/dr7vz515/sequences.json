@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Melon chlorotic mosaic virus isolate VE05-34 segment DNA-B, complete sequence.",
+        "virus_id": "f0701b1b",
+        "isolate_id": "dr7vz515",
+        "_id": "KF670617",
+        "host": "Cucumis melo"
+    },
+    {
+        "definition": "Melon chlorotic mosaic virus isolate VE05-34 segment DNA-A, complete sequence.",
+        "virus_id": "f0701b1b",
+        "isolate_id": "dr7vz515",
+        "_id": "KF670616",
+        "host": "Cucumis melo"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Grapevine virus E, complete genome",
+        "virus_id": "e8be65b3",
+        "isolate_id": "o8w734qs",
+        "_id": "NC_011106",
+        "host": "Vitis labruscana"
+    }
+]

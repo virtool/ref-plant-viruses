@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_014903",
+        "molecule_structure": "circular",
+        "isolate_id": "l8ienvkf",
+        "virus_id": "67320588",
+        "definition": "Rhynchosia yellow mosaic India virus DNA-B, complete genome",
+        "_version": 0,
+        "host": "Rhynchosia"
+    },
+    {
+        "_id": "NC_014902",
+        "molecule_structure": "circular",
+        "isolate_id": "l8ienvkf",
+        "virus_id": "67320588",
+        "definition": "Rhynchosia yellow mosaic India virus DNA-A, complete genome",
+        "_version": 0,
+        "host": "Rhynchosia"
+    }
+]

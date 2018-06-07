@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Bean rugose mosaic virus isolate Parana segment RNA1 polyprotein gene, complete cds.",
+        "virus_id": "fa997450",
+        "isolate_id": "2d03a33a",
+        "_id": "NC_028139",
+        "host": "Glycine max (soybean)"
+    },
+    {
+        "definition": "Bean rugose mosaic virus isolate Parana segment RNA2 polyprotein gene, complete cds.",
+        "virus_id": "fa997450",
+        "isolate_id": "2d03a33a",
+        "_id": "NC_028146",
+        "host": "Glycine max (soybean)"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Melon mild mottle virus gene for polyprotein, complete cds, segment RNA 1.",
+        "virus_id": "674f1e73",
+        "isolate_id": "f2d2fd0c",
+        "_id": "AB518485",
+        "host": "Cucumis melo"
+    },
+    {
+        "definition": "Melon mild mottle virus gene for polyprotein, complete cds, segment RNA 2.",
+        "virus_id": "674f1e73",
+        "isolate_id": "f2d2fd0c",
+        "_id": "AB518486",
+        "host": "Cucumis melo"
+    }
+]

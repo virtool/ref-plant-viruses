@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Tomato chlorotic leaf distortion virus-[Venezuela:Zulia:2004] DNA_A, complete genome.",
+        "virus_id": "37d3fef4",
+        "isolate_id": "lrrsb011",
+        "_id": "NC_015962",
+        "host": "tomato"
+    },
+    {
+        "definition": "Tomato chlorotic leaf distortion virus-[Venezuela:Zulia:2004] DNA_B, complete genome.",
+        "virus_id": "37d3fef4",
+        "isolate_id": "lrrsb011",
+        "_id": "NC_015961",
+        "host": "tomato"
+    }
+]

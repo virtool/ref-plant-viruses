@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_structure": "linear",
+        "definition": "Lettuce yellow mottle virus, complete genome",
+        "virus_id": "ac2df811",
+        "isolate_id": "rksyomxi",
+        "_id": "NC_011532",
+        "host": "lettuce"
+    }
+]

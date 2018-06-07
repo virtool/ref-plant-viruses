@@ -1,0 +1,16 @@
+[
+    {
+        "definition": "Tomato black ring virus polyprotein gene, segment RNA2, isolate TBRV-Mirs.",
+        "virus_id": "add930f0",
+        "isolate_id": "9748aku6",
+        "_id": "HG939488",
+        "host": "Grapevine"
+    },
+    {
+        "definition": "Tomato black ring virus polyprotein gene, segment RNA1, isolate TBRV-Mirs.",
+        "virus_id": "add930f0",
+        "isolate_id": "9748aku6",
+        "_id": "HG939487",
+        "host": "Grapevine"
+    }
+]

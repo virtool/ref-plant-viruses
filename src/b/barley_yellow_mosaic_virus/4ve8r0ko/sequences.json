@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_002990",
+        "molecule_structure": "linear",
+        "isolate_id": "4ve8r0ko",
+        "virus_id": "86a1a8d0",
+        "definition": "Barley yellow mosaic virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": "barley"
+    },
+    {
+        "_id": "NC_002991",
+        "molecule_structure": "linear",
+        "isolate_id": "4ve8r0ko",
+        "virus_id": "86a1a8d0",
+        "definition": "Barley yellow mosaic virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": "barley"
+    }
+]

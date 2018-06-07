@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "NC_004660",
+        "molecule_structure": "circular",
+        "isolate_id": "p2eq55pi",
+        "virus_id": "6e8fe9e8",
+        "definition": "Sida golden mosaic Honduras virus DNA B, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_004659",
+        "molecule_structure": "circular",
+        "isolate_id": "p2eq55pi",
+        "virus_id": "6e8fe9e8",
+        "definition": "Sida golden mosaic Honduras virus DNA A, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

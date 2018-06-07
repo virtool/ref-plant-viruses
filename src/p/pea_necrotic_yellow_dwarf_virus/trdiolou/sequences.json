@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "NC_023161",
+        "molecule_structure": "circular",
+        "isolate_id": "trdiolou",
+        "virus_id": "e8498c68",
+        "definition": "Pea necrotic yellow dwarf virus segment DNA-U4, complete sequence",
+        "_version": 0,
+        "host": "Pisum sativum"
+    },
+    {
+        "_id": "NC_023160",
+        "molecule_structure": "circular",
+        "isolate_id": "trdiolou",
+        "virus_id": "e8498c68",
+        "definition": "Pea necrotic yellow dwarf virus segment DNA-U1, complete sequence",
+        "_version": 0,
+        "host": "Pisum sativum"
+    },
+    {
+        "_id": "NC_023159",
+        "molecule_structure": "circular",
+        "isolate_id": "trdiolou",
+        "virus_id": "e8498c68",
+        "definition": "Pea necrotic yellow dwarf virus segment DNA-N, complete sequence",
+        "_version": 0,
+        "host": "Pisum sativum"
+    },
+    {
+        "_id": "NC_023158",
+        "molecule_structure": "circular",
+        "isolate_id": "trdiolou",
+        "virus_id": "e8498c68",
+        "definition": "Pea necrotic yellow dwarf virus segment DNA-C, complete sequence",
+        "_version": 0,
+        "host": "Pisum sativum"
+    },
+    {
+        "_id": "NC_023157",
+        "molecule_structure": "circular",
+        "isolate_id": "trdiolou",
+        "virus_id": "e8498c68",
+        "definition": "Pea necrotic yellow dwarf virus segment DNA-U2, complete sequence",
+        "_version": 0,
+        "host": "Pisum sativum"
+    },
+    {
+        "_id": "NC_023156",
+        "molecule_structure": "circular",
+        "isolate_id": "trdiolou",
+        "virus_id": "e8498c68",
+        "definition": "Pea necrotic yellow dwarf virus segment DNA-M, complete sequence",
+        "_version": 0,
+        "host": "Pisum sativum"
+    },
+    {
+        "_id": "NC_023155",
+        "molecule_structure": "circular",
+        "isolate_id": "trdiolou",
+        "virus_id": "e8498c68",
+        "definition": "Pea necrotic yellow dwarf virus segment DNA-S, complete sequence",
+        "_version": 0,
+        "host": "Pisum sativum"
+    },
+    {
+        "_id": "NC_023154",
+        "molecule_structure": "circular",
+        "isolate_id": "trdiolou",
+        "virus_id": "e8498c68",
+        "definition": "Pea necrotic yellow dwarf virus isolate Drohndorf-15 segment DNA-R,",
+        "_version": 0,
+        "host": "Pisum sativum"
+    }
+]

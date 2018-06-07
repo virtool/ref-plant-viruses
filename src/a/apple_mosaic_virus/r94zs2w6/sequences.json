@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "NC_003480",
+        "molecule_structure": "linear",
+        "isolate_id": "r94zs2w6",
+        "virus_id": "a5af030e",
+        "definition": "Apple mosaic virus RNA 3, complete sequence",
+        "_version": 0,
+        "host": "Malus domestica"
+    },
+    {
+        "_id": "NC_003465",
+        "molecule_structure": "linear",
+        "isolate_id": "r94zs2w6",
+        "virus_id": "a5af030e",
+        "definition": "Apple mosaic virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003464",
+        "molecule_structure": "linear",
+        "isolate_id": "r94zs2w6",
+        "virus_id": "a5af030e",
+        "definition": "Apple mosaic virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
+    }
+]

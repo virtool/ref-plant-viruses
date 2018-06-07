@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "NC_014713",
+        "molecule_structure": "linear",
+        "isolate_id": "0jidk7fb",
+        "virus_id": "53392166",
+        "definition": "Southern rice black-streaked dwarf virus segment 10, complete",
+        "_version": 0,
+        "host": "rice"
+    },
+    {
+        "_id": "NC_014717",
+        "molecule_structure": "linear",
+        "isolate_id": "0jidk7fb",
+        "virus_id": "53392166",
+        "definition": "Southern rice black-streaked dwarf virus segment 4, complete",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_014716",
+        "molecule_structure": "linear",
+        "isolate_id": "0jidk7fb",
+        "virus_id": "53392166",
+        "definition": "Southern rice black-streaked dwarf virus segment 3, complete",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_014715",
+        "molecule_structure": "linear",
+        "isolate_id": "0jidk7fb",
+        "virus_id": "53392166",
+        "definition": "Southern rice black-streaked dwarf virus segment 2, complete",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_014712",
+        "molecule_structure": "linear",
+        "isolate_id": "0jidk7fb",
+        "virus_id": "53392166",
+        "definition": "Southern rice black-streaked dwarf virus segment 9, complete",
+        "_version": 0,
+        "host": "rice"
+    },
+    {
+        "_id": "NC_014711",
+        "molecule_structure": "linear",
+        "isolate_id": "0jidk7fb",
+        "virus_id": "53392166",
+        "definition": "Southern rice black-streaked dwarf virus segment 8, complete",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_014710",
+        "molecule_structure": "linear",
+        "isolate_id": "0jidk7fb",
+        "virus_id": "53392166",
+        "definition": "Southern rice black-streaked dwarf virus segment 7, complete",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_014714",
+        "molecule_structure": "linear",
+        "isolate_id": "0jidk7fb",
+        "virus_id": "53392166",
+        "definition": "Southern rice black-streaked dwarf virus segment 1, complete",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_014709",
+        "molecule_structure": "linear",
+        "isolate_id": "0jidk7fb",
+        "virus_id": "53392166",
+        "definition": "Southern rice black-streaked dwarf virus segment 6, complete",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_014708",
+        "molecule_structure": "linear",
+        "isolate_id": "0jidk7fb",
+        "virus_id": "53392166",
+        "definition": "Southern rice black-streaked dwarf virus segment 5, complete",
+        "_version": 0,
+        "host": null
+    }
+]
