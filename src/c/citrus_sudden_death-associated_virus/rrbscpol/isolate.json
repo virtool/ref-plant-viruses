@@ -1,6 +1,6 @@
 {
-    "source_type": "strain",
     "id": "rrbscpol",
+    "source_type": "strain",
     "source_name": "CSLR01",
     "default": false
 }
