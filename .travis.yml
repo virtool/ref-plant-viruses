@@ -1,0 +1,25 @@
+language: python
+sudo: false
+python: '3.6'
+cache:
+  pip: true
+  apt: true
+install:
+- pip install -r requirements.txt
+script:
+- pytest -v
+after_success:
+- rm -f reference.json
+- rm -f reference.json.gz
+- python scripts/build.py src -V $TRAVIS_TAG
+- gzip reference.json
+
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: IaVf7PBhCEfqDAJLXihrXr2cyy4yaH0ylpGS883jOTctE67GKOOkmeCYvZxINgtVggmzBtBHjrpqWHXA3EJeDRlRk2DGJ4t3H5jb1STvYohvKarWjRzeKEpUx2N/vx8OjhZ4fMDUmAp8B1rrS0r0by3owdI6r7NmHRT0siAVEluT0rUgBz0WniiXfrbOlH22tPPn9w2vm6s9HdMTIJbtlyNInM3ccwaSotLAm3H1G+tORhWXpHorZ0G5kJ169trZjHnMuL61mDo+zkiCLzh8OF7I04Wf/3q3cOD17kWPsPjgLwWffy8yiaqnaKdQQgAQl2vtEjtIpa76R1Vhnt6LM5JeV65ksxcpRqeK4I7lz3VMaXe91hk+f25lXMn57bARem3PmpzotAwNNErfHDZp9immBLnHrDdKF5ajiazFKujx97n7FXhfzTWIknRcOIgch1IXOIQarBNO+gkbeCzlj/y65ZLPfciylYBV0l2NfNaTq3OANdYKgk2HC3Tz8AgVG4/JsfnuipSXC9zULPUseCvfykrvE6ioww4FRlUhjIH0m07jbJHp6ibK6UQP6NdVQIAiPqVB8rktc3m0oHnV+bd5WojdgYqVkz4u94ZC4PvATu3A3HSncQ5sgbgthjfyFFgQCouDaIR1mdJivqEJTBR11t42DI6eI99JvirXGjU=
+  file: reference.json.gz
+  on:
+    tags: true
+    repo: virtool/ref-plant-viruses
