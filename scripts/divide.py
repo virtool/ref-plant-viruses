@@ -3,21 +3,33 @@ import json
 import shutil
 import argparse
 
-DELETED_KEYS = [
-    "user",
-    "version",
-    "imported",
-    "last_indexed_version",
-    "verified"
+OTU_KEYS = [
+    "_id",
+    "name",
+    "abbreviation"
 ]
 
+ISOLATE_KEYS = [
+    "id",
+    "source_type",
+    "source_name",
+    "default"
+]
 
-parser = argparse.ArgumentParser(description="Building a kinds.json file from a virtool-databse src directory")
+SEQUENCE_KEYS = [
+    "_id",
+    "accession",
+    "definition",
+    "host",
+    "sequence"
+]
+
+parser = argparse.ArgumentParser(description="Divide a reference.json file from a Virtool into a src tree")
 
 parser.add_argument(
     "src",
     type=str,
-    help="the path to input kinds.json file",
+    help="the path to input reference.json file",
 )
 
 parser.add_argument(
@@ -36,45 +48,36 @@ os.mkdir(args.output)
 with open(args.src, "r") as export_handle:
     data = json.load(export_handle)
 
-    for kind in data["data"]:
-        first_letter = kind["lower_name"][0]
+    for otu in data["otus"]:
+
+        lower_name = otu["name"].lower()
+        first_letter = lower_name[0]
 
         try:
             os.mkdir(os.path.join(args.output, first_letter))
         except FileExistsError:
             pass
-        
-        kind_path = os.path.join(args.output, first_letter, kind["lower_name"].replace(" ", "_").replace("/", "_"))
-        os.mkdir(kind_path)
 
-        isolates = kind.pop("isolates")
+        otu_path = os.path.join(args.output, first_letter, lower_name.replace(" ", "_").replace("/", "_"))
+        os.mkdir(otu_path)
 
-        for key in DELETED_KEYS:
-            kind.pop(key, None)
+        isolates = otu.pop("isolates")
 
-        with open(os.path.join(kind_path, "kind.json"), "w") as f:
-            json.dump(kind, f, indent=4)
+        with open(os.path.join(otu_path, "otu.json"), "w") as f:
+            json.dump({key: otu[key] for key in OTU_KEYS}, f, indent=4)
 
         for isolate in isolates:
-            isolate_path = os.path.join(kind_path, isolate["id"])
+            isolate_path = os.path.join(otu_path, isolate["id"])
             os.mkdir(isolate_path)
 
             sequences = isolate.pop("sequences")
 
             with open(os.path.join(isolate_path, "isolate.json"), "w") as f:
-                json.dump(isolate, f, indent=4)
+                json.dump({key: isolate[key] for key in ISOLATE_KEYS}, f, indent=4)
 
-            fasta_dict = dict()
-
-            with open(os.path.join(isolate_path, "sequences.json"), "w") as f:
-                for sequence in sequences:
-                    fasta_dict[sequence["_id"]] = sequence.pop("sequence")
-
-                json.dump(sequences, f, indent=4)
-
-            with open(os.path.join(isolate_path, "sequences.fa"), "w") as f:
-                output = "\n".join(">{}\n{}".format(sid, s) for sid, s in fasta_dict.items())
-                f.write(output)
+            for sequence in sequences:
+                with open(os.path.join(isolate_path, "{}.json".format(sequence["_id"])), "w") as f:
+                    json.dump({key: sequence[key] for key in SEQUENCE_KEYS}, f, indent=4)
 
     with open(os.path.join(args.output, "meta.json"), "w") as f:
         json.dump({

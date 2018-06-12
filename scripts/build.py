@@ -3,16 +3,28 @@ import json
 import arrow
 import argparse
 
-
-DELETED_KEYS = [
-    "user",
-    "version",
-    "imported",
-    "last_indexed_version",
-    "verified"
+OTU_KEYS = [
+    "_id",
+    "name",
+    "abbreviation"
 ]
 
-parser = argparse.ArgumentParser(description="Building a kinds.json file from a virtool-databse src directory")
+ISOLATE_KEYS = [
+    "id",
+    "source_type",
+    "source_name",
+    "default"
+]
+
+SEQUENCE_KEYS = [
+    "_id",
+    "accession",
+    "definition",
+    "host",
+    "sequence"
+]
+
+parser = argparse.ArgumentParser(description="Build a reference.json file from a virtool reference src directory")
 
 parser.add_argument(
     "src",
@@ -25,7 +37,7 @@ parser.add_argument(
     type=str,
     dest="version",
     default=None,
-    help="the version string to include in the kinds.json file"
+    help="the version string to include in the reference.json file"
 )
 
 parser.add_argument(
@@ -33,7 +45,7 @@ parser.add_argument(
     type=str,
     dest="output",
     default="reference.json",
-    help="the output path for the kinds.json file"
+    help="the output path for the reference.json file"
 )
 
 args = parser.parse_args()
@@ -53,63 +65,52 @@ if __name__ == "__main__":
         "organism": meta.get("organism", ""),
     }
 
-    kinds = list()
+    otus = list()
 
     alpha_paths = os.listdir(src_path)
 
-    alpha_paths.remove("meta.json")
+    try:
+        alpha_paths.remove("meta.json")
+    except ValueError:
+        pass
+
+    used_ids = list()
 
     for alpha in alpha_paths:
-        kind_paths = [os.path.join(src_path, alpha, kind) for kind in os.listdir(os.path.join(src_path, alpha))]
+        otu_paths = [os.path.join(src_path, alpha, otu) for otu in os.listdir(os.path.join(src_path, alpha))]
 
-        for kind_path in kind_paths:
+        for otu_path in otu_paths:
 
-            with open(os.path.join(kind_path, "kind.json"), "r") as f:
-                kind = json.load(f)
+            with open(os.path.join(otu_path, "otu.json"), "r") as f:
+                otu = json.load(f)
 
-            kind["isolates"] = list()
+            otu["isolates"] = list()
 
-            isolate_ids = [i for i in os.listdir(kind_path) if i != "kind.json" and i[0] != "."]
+            isolate_ids = [i for i in os.listdir(otu_path) if i != "otu.json" and i[0] != "."]
 
-            for isolate_path in [os.path.join(kind_path, i) for i in isolate_ids]:
+            for isolate_path in [os.path.join(otu_path, i) for i in isolate_ids]:
                 with open(os.path.join(isolate_path, "isolate.json"), "r") as f:
                     isolate = json.load(f)
 
-                with open(os.path.join(isolate_path, "sequences.json"), "r") as f:
-                    isolate["sequences"] = json.load(f)
+                sequence_ids = [i for i in os.listdir(isolate_path) if i != "isolate.json" and i[0] != "."]
 
-                with open(os.path.join(isolate_path, "sequences.fa"), "r") as f:
-                    sid = None
-                    seq = list()
+                isolate["sequences"] = list()
 
-                    for line in f:
-                        if line[0] == ">":
-                            if sid:
-                                for sequence in isolate["sequences"]:
-                                    if sequence["_id"] == sid:
-                                        sequence["sequence"] = "".join(seq)
-                                        break
+                for sequence_path in [os.path.join(isolate_path, i) for i in sequence_ids]:
+                    with open(sequence_path, "r") as f:
+                        sequence = json.load(f)
 
-                            sid = line.rstrip().replace(">", "")
-                            seq = list()
+                    isolate["sequences"].append(sequence)
 
-                        elif line:
-                            seq.append(line.rstrip())
+                otu["isolates"].append(isolate)
 
-                    if sid:
-                        for sequence in isolate["sequences"]:
-                            if sequence["_id"] == sid:
-                                sequence["sequence"] = "".join(seq)
-
-                kind["isolates"].append(isolate)
-
-            kinds.append(kind)
+            otus.append(otu)
 
     with open(args.output, "w") as f:
         data.update({
-            "data": kinds,
-            "version": args.version,
-            "created_at": arrow.utcnow().isoformat()            
+            "otus": otus,
+            "name": args.version,
+            "created_at": arrow.utcnow().isoformat()
         })
 
         json.dump(data, f, indent=4)
