@@ -17,6 +17,3 @@ def built_json_file():
 @pytest.fixture
 def built_json(built_json_file):
     return copy.deepcopy(built_json_file)
-
-
-

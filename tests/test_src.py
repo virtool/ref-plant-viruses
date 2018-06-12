@@ -1,2 +1,2 @@
-def test_viruses(built_json):
-    assert built_json["version"] == "v1.0.1"
+def test_otus(built_json):
+    assert built_json["name"] == "v1.0.1"

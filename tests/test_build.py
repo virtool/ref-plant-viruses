@@ -5,9 +5,7 @@ import shutil
 import pytest
 import subprocess
 
-from hashlib import sha256
-
-TEST_FILE_PATH = "tests/files/build.json"
+TEST_FILE_PATH = "tests/files/reference.json"
 
 
 @pytest.mark.parametrize("version", [None, "v1.0.1", "v0.8.3"])
@@ -27,7 +25,7 @@ def test_version(version, tmpdir):
 
     built_json = json.load(json_file)
 
-    assert built_json["version"] == version
+    assert built_json["name"] == version
 
 
 def test_created_at(tmpdir):
@@ -49,7 +47,7 @@ def test_created_at(tmpdir):
 def test_divide_build(tmpdir):
     shutil.copy(TEST_FILE_PATH, str(tmpdir))
 
-    json_path = os.path.join(str(tmpdir), "build.json")
+    json_path = os.path.join(str(tmpdir), "reference.json")
 
     src_path = os.path.join(str(tmpdir), "src")
 
