@@ -10,6 +10,7 @@ steps:
 
   - name: build
     image: python:3.6-alpine
+    commands:
       - rm -f reference.json
       - rm -f reference.json.gz
       - python scripts/build.py src -V $TRAVIS_TAG
