@@ -9,15 +9,22 @@ steps:
       - pytest -v
       - python scripts/build.py src
 
+  - name: dry build
+    image: python:3.6-alpine
+    commands:
+      - pip install -r requirements.txt
+      - python scripts/build.py src
+  - when:
+      event:
+        excludes:
+          - tag
+
   - name: build
     image: python:3.6-alpine
     commands:
-      - rm -f reference.json
-      - rm -f reference.json.gz
       - pip install -r requirements.txt
-      - echo "TAG $$TAG"
-      - echo "DRONE_TAG $DRONE_TAG"
       - python scripts/build.py src -V $DRONE_TAG
+      - gzip reference.json
     when:
       event:
         - tag
