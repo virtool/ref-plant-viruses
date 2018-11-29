@@ -13,6 +13,7 @@ steps:
     commands:
       - rm -f reference.json
       - rm -f reference.json.gz
+      - pip install -r requirements.txt
       - python scripts/build.py src -V $TRAVIS_TAG
       - gzip reference.json
 
