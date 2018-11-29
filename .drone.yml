@@ -33,9 +33,9 @@ steps:
       - echo "DRONE_TAG $DRONE_TAG"
       - python scripts/build.py src -V $DRONE_TAG
     settings:
-      - when:
-          event:
-            - tag
+      when:
+        event:
+          - tag
 
   - name: publish
     image: plugins/github-release
