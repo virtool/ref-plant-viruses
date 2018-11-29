@@ -14,7 +14,28 @@ steps:
       - rm -f reference.json
       - rm -f reference.json.gz
       - pip install -r requirements.txt
+      - echo "TAG $$TAG"
+      - echo "DRONE_TAG $DRONE_TAG"
       - python scripts/build.py src -V $DRONE_TAG
+    settings:
+      when:
+        event:
+          exclude:
+            - tag
+
+  - name: build and compress
+    image: python:3.6-alpine
+    commands:
+      - rm -f reference.json
+      - rm -f reference.json.gz
+      - pip install -r requirements.txt
+      - echo "TAG $$TAG"
+      - echo "DRONE_TAG $DRONE_TAG"
+      - python scripts/build.py src -V $DRONE_TAG
+    settings:
+      - when:
+          event:
+            - tag
 
   - name: publish
     image: plugins/github-release
