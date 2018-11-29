@@ -15,11 +15,12 @@ steps:
       - python scripts/build.py src -V $TRAVIS_TAG
       - gzip reference.json
 
-  - name: deploy
+  - name: publish
     image: plugins/github-release
     settings:
       api_key:
         from_secret: GITHUB_TOKEN
-    when:
-      event:
-        - tag
+        files: reference.json.gz
+      when:
+        event:
+          - tag
