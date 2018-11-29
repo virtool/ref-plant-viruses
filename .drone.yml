@@ -1,0 +1,22 @@
+steps:
+  - name: test
+    image: python:3.6-alpine
+    commands:
+      - pip install -r requirements.txt
+      - pytest -v
+
+  - name: build
+    image: python:3.6-alpine
+      - rm -f reference.json
+      - rm -f reference.json.gz
+      - python scripts/build.py src -V $TRAVIS_TAG
+      - gzip reference.json
+
+  - name: deploy
+    image: plugins/github-release
+    settings:
+      api_key:
+        from_secret: GITHUB_TOKEN
+    when:
+      event:
+        - tag
