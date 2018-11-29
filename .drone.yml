@@ -16,7 +16,7 @@ steps:
       - pip install -r requirements.txt
       - echo "TAG $$TAG"
       - echo "DRONE_TAG $DRONE_TAG"
-      - python scripts/build.py src -V $DRONE_TAG
+      - python scripts/build.py src
     settings:
       when:
         event:
