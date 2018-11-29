@@ -7,6 +7,7 @@ steps:
     commands:
       - pip install -r requirements.txt
       - pytest -v
+      - python scripts/build.py src
 
   - name: build
     image: python:3.6-alpine
@@ -16,26 +17,10 @@ steps:
       - pip install -r requirements.txt
       - echo "TAG $$TAG"
       - echo "DRONE_TAG $DRONE_TAG"
-      - python scripts/build.py src
-    settings:
-      when:
-        event:
-          exclude:
-            - tag
-
-  - name: build and compress
-    image: python:3.6-alpine
-    commands:
-      - rm -f reference.json
-      - rm -f reference.json.gz
-      - pip install -r requirements.txt
-      - echo "TAG $$TAG"
-      - echo "DRONE_TAG $DRONE_TAG"
       - python scripts/build.py src -V $DRONE_TAG
-    settings:
-      when:
-        event:
-          - tag
+    when:
+      event:
+        - tag
 
   - name: publish
     image: plugins/github-release
@@ -43,6 +28,6 @@ steps:
       api_key:
         from_secret: GITHUB_TOKEN
         files: reference.json.gz
-      when:
-        event:
-          - tag
+    when:
+      event:
+        - tag
