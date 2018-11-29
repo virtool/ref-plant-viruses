@@ -1,0 +1,40 @@
+kind: pipeline
+name: default
+
+steps:
+  - name: test
+    image: python:3.6-alpine
+    commands:
+      - pip install -r requirements.txt
+      - pytest -v
+      - python scripts/build.py src
+
+  - name: dry build
+    image: python:3.6-alpine
+    commands:
+      - pip install -r requirements.txt
+      - python scripts/build.py src
+    when:
+      event:
+        excludes:
+          - tag
+
+  - name: build
+    image: python:3.6-alpine
+    commands:
+      - pip install -r requirements.txt
+      - python scripts/build.py src -V $DRONE_TAG
+      - gzip reference.json
+    when:
+      event:
+        - tag
+
+  - name: publish
+    image: plugins/github-release
+    settings:
+      api_key:
+        from_secret: GITHUB_TOKEN
+        files: reference.json.gz
+    when:
+      event:
+        - tag

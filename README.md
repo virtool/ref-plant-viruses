@@ -2,7 +2,7 @@
 
 *An official Virtool reference for plant viruses*
 
-[![Build Status](https://travis-ci.org/virtool/ref-plant-viruses.svg?branch=master)](https://travis-ci.org/virtool/ref-plant-viruses)
+[![Build Status](https://cloud.drone.io/api/badges/virtool/ref-plant-viruses/status.svg)](https://cloud.drone.io/virtool/ref-plant-viruses)
 
 ## Description
 
