@@ -1,3 +1,6 @@
+kind: pipeline
+name: default
+
 steps:
   - name: test
     image: python:3.6-alpine
