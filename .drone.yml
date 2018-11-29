@@ -34,7 +34,7 @@ steps:
     settings:
       api_key:
         from_secret: GITHUB_TOKEN
-        files: reference.json.gz
+      files: reference.json.gz
     when:
       event:
         - tag
