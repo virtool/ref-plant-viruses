@@ -14,7 +14,7 @@ steps:
     commands:
       - pip install -r requirements.txt
       - python scripts/build.py src
-  - when:
+    when:
       event:
         excludes:
           - tag
