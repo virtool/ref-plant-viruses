@@ -1,0 +1,6 @@
+{
+    "id": "pve",
+    "source_type": "isolate",
+    "source_name": "CGW2",
+    "default": true
+}
