@@ -13,6 +13,12 @@ in the form of:
 - viroid sequences
 - additional isolates for NCBI-sourced viruses described above
 
+## Versioning
+
+The plant virus reference follows [semantic versioning](https://semver.org/). We will only increment the major version for the reference if a new release break backwards compatibility.
+
+The reference releases in this repository are only supported in Virtool v3.0.0 and later. 
+
 ## Contributing
 
 If you want to contribute more information to this database, please
