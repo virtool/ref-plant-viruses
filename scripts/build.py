@@ -6,7 +6,8 @@ import argparse
 OTU_KEYS = [
     "_id",
     "name",
-    "abbreviation"
+    "abbreviation",
+    "schema"
 ]
 
 ISOLATE_KEYS = [
@@ -30,6 +31,13 @@ parser.add_argument(
     "src",
     type=str,
     help="the path to the database src directory",
+)
+
+parser.add_argument(
+    "-i", "--indent",
+    dest="indent",
+    action="store_true",
+    default=False
 )
 
 parser.add_argument(
@@ -113,4 +121,9 @@ if __name__ == "__main__":
             "created_at": arrow.utcnow().isoformat()
         })
 
-        json.dump(data, f, indent=4)
+        indent = None
+        
+        if args.indent:
+            indent = 4
+
+        json.dump(data, f, indent=indent)
