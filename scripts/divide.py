@@ -6,7 +6,8 @@ import argparse
 OTU_KEYS = [
     "_id",
     "name",
-    "abbreviation"
+    "abbreviation",
+    "schema"
 ]
 
 ISOLATE_KEYS = [
