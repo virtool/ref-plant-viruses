@@ -126,4 +126,4 @@ if __name__ == "__main__":
         if args.indent:
             indent = 4
 
-        json.dump(data, f, indent=indent)
+        json.dump(data, f, indent=indent, sort_keys=True)
