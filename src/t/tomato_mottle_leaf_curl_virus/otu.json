@@ -1,5 +1,12 @@
 {
     "_id": "waponsdn",
     "name": "Tomato mottle leaf curl virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA-A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ]
 }

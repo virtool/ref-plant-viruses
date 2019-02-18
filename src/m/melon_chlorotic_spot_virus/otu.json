@@ -1,5 +1,47 @@
 {
     "_id": "79h0h8nx",
     "name": "Melon chlorotic spot virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 4",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 5",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 6",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 7",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 8",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

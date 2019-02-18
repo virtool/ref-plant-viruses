@@ -1,5 +1,17 @@
 {
     "_id": "mgecs08t",
     "name": "Tetterwort vein chlorosis virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

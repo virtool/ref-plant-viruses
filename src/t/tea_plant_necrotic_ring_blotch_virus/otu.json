@@ -1,5 +1,27 @@
 {
     "_id": "3ae7qdki",
     "name": "Tea plant necrotic ring blotch virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 4",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

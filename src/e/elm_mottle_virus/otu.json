@@ -1,5 +1,6 @@
 {
     "_id": "39da60ba",
     "name": "Elm mottle virus",
-    "abbreviation": "EMoV"
+    "abbreviation": "EMoV",
+    "schema": []
 }

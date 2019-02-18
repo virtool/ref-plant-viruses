@@ -1,5 +1,32 @@
 {
     "_id": "rbpwvo02",
     "name": "Redbud yellow ringspot-associated virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 4",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 5",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ]
 }

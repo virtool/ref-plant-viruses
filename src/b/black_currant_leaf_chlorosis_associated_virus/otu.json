@@ -1,5 +1,17 @@
 {
     "_id": "jowo14x6",
     "name": "Black currant leaf chlorosis associated virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

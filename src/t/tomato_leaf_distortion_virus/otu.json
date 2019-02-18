@@ -1,5 +1,6 @@
 {
     "_id": "67f584c6",
     "name": "Tomato leaf distortion virus",
-    "abbreviation": "ToLDV"
+    "abbreviation": "ToLDV",
+    "schema": []
 }

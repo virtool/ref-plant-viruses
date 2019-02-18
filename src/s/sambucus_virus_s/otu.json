@@ -1,5 +1,22 @@
 {
     "_id": "85nzwqai",
     "name": "Sambucus virus S",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

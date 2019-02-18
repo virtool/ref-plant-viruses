@@ -1,5 +1,6 @@
 {
     "_id": "3df7de30",
     "name": "Carrot cryptic virus",
-    "abbreviation": "CtCV"
+    "abbreviation": "CtCV",
+    "schema": []
 }

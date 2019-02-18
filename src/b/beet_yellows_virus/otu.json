@@ -1,5 +1,6 @@
 {
     "_id": "db34ac92",
     "name": "Beet yellows virus",
-    "abbreviation": "BYV"
+    "abbreviation": "BYV",
+    "schema": []
 }

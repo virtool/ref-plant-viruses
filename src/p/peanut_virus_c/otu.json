@@ -1,5 +1,22 @@
 {
     "_id": "tkhisaw0",
     "name": "Peanut virus C",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

@@ -1,5 +1,17 @@
 {
     "_id": "g3yj7w9v",
     "name": "Citrus mosaic sadwavirus",
-    "abbreviation": "CiMV"
+    "abbreviation": "CiMV",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

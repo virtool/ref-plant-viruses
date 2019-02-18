@@ -1,5 +1,17 @@
 {
     "_id": "xxv54nax",
     "name": "Hibiscus-infecting cilevirus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

@@ -1,5 +1,22 @@
 {
     "_id": "wwl2ygys",
     "name": "Alstroemeria yellow spot virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Segment M",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "Segment L",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "Segment S",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

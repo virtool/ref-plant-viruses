@@ -1,5 +1,6 @@
 {
     "_id": "5a965bf1",
     "name": "Garlic virus A",
-    "abbreviation": "GarVA"
+    "abbreviation": "GarVA",
+    "schema": []
 }

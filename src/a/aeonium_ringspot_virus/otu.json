@@ -1,5 +1,17 @@
 {
     "_id": "7hz4vxlr",
     "name": "Aeonium ringspot virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA1",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "RNA2",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ]
 }

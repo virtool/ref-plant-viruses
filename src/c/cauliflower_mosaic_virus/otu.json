@@ -1,5 +1,6 @@
 {
     "_id": "e46d0cb0",
     "name": "Cauliflower mosaic virus",
-    "abbreviation": "CaMV"
+    "abbreviation": "CaMV",
+    "schema": []
 }

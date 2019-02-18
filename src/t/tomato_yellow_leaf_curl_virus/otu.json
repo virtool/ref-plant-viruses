@@ -1,5 +1,6 @@
 {
     "_id": "2066fedf",
     "name": "Tomato yellow leaf curl virus",
-    "abbreviation": "TYLCV"
+    "abbreviation": "TYLCV",
+    "schema": []
 }

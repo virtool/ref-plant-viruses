@@ -1,5 +1,17 @@
 {
     "_id": "gux1di4e",
     "name": "Citrus concave gum-associated virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA1",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA2",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ]
 }

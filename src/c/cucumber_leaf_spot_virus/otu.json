@@ -1,5 +1,6 @@
 {
     "_id": "17a3e087",
     "name": "Cucumber leaf spot virus",
-    "abbreviation": "CLSV"
+    "abbreviation": "CLSV",
+    "schema": []
 }

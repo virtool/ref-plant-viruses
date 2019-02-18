@@ -1,5 +1,17 @@
 {
     "_id": "2ma76zgc",
     "name": "Grapevine fabavirus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ]
 }

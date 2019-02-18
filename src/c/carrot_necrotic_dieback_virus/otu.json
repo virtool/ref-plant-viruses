@@ -1,5 +1,6 @@
 {
     "_id": "a47b53d5",
     "name": "Carrot necrotic dieback virus",
-    "abbreviation": "CNDV"
+    "abbreviation": "CNDV",
+    "schema": []
 }

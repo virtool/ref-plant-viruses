@@ -1,5 +1,22 @@
 {
     "_id": "ubu45954",
     "name": "Watermelon crinkle leaf-associated virus 2",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA1",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA2",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA3",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ]
 }

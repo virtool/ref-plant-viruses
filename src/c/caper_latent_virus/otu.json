@@ -1,5 +1,6 @@
 {
     "_id": "b0cfa402",
     "name": "Caper latent virus",
-    "abbreviation": "CapLV"
+    "abbreviation": "CapLV",
+    "schema": []
 }

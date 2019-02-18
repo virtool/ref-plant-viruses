@@ -1,5 +1,22 @@
 {
     "_id": "b8llp2qk",
     "name": "Melon severe mosaic tospovirus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Segment S",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "Segment L",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "Segment M",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

@@ -1,5 +1,6 @@
 {
     "_id": "dfd23361",
     "name": "Tomato ringspot virus",
-    "abbreviation": "TomRSV"
+    "abbreviation": "TomRSV",
+    "schema": []
 }

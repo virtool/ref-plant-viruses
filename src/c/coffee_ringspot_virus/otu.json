@@ -1,5 +1,17 @@
 {
     "_id": "wjsuzafr",
     "name": "Coffee ringspot virus",
-    "abbreviation": "CoRSV"
+    "abbreviation": "CoRSV",
+    "schema": [
+        {
+            "name": "RNA1",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA2",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ]
 }

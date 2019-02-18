@@ -1,5 +1,17 @@
 {
     "_id": "98d3d6m6",
     "name": "Soybean latent spherical virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

@@ -1,5 +1,6 @@
 {
     "_id": "c794c319",
     "name": "Carrot mottle virus",
-    "abbreviation": "CMoV"
+    "abbreviation": "CMoV",
+    "schema": []
 }

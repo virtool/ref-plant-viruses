@@ -1,5 +1,17 @@
 {
     "_id": "dpgsl7b4",
     "name": "Clerodendrum chlorotic spot virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

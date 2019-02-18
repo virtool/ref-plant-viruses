@@ -1,5 +1,22 @@
 {
     "_id": "625nhyu8",
     "name": "Tea plant line pattern virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA2",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA3",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ]
 }

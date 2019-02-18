@@ -1,5 +1,6 @@
 {
     "_id": "7e682b01",
     "name": "Celery mosaic virus",
-    "abbreviation": "CeMV"
+    "abbreviation": "CeMV",
+    "schema": []
 }

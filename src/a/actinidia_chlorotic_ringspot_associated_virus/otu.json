@@ -1,5 +1,32 @@
 {
     "_id": "1ouru3iu",
     "name": "Actinidia chlorotic ringspot associated virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA1",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA2",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA3",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA4",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA5",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ]
 }

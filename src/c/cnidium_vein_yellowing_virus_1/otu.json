@@ -1,5 +1,17 @@
 {
     "_id": "c5frpfvp",
     "name": "Cnidium vein yellowing virus 1",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

@@ -1,5 +1,6 @@
 {
     "_id": "1fa78692",
     "name": "Potato virus X",
-    "abbreviation": "PVX"
+    "abbreviation": "PVX",
+    "schema": []
 }

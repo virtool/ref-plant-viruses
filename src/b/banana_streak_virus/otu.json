@@ -1,5 +1,6 @@
 {
     "_id": "20603017",
     "name": "Banana streak virus",
-    "abbreviation": "BSV"
+    "abbreviation": "BSV",
+    "schema": []
 }

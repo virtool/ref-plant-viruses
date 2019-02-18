@@ -1,5 +1,27 @@
 {
     "_id": "ht405l9d",
     "name": "Palo verde broom virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA1",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA2",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA3",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA4",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ]
 }

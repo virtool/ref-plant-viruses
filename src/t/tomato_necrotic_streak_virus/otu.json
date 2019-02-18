@@ -1,5 +1,12 @@
 {
     "_id": "dk1b6rka",
     "name": "Tomato necrotic streak virus",
-    "abbreviation": ""
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "",
+            "required": true
+        }
+    ]
 }

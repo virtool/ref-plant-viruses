@@ -1,5 +1,6 @@
 {
     "_id": "6e476e56",
     "name": "Tomato mosaic virus",
-    "abbreviation": "ToMV"
+    "abbreviation": "ToMV",
+    "schema": []
 }
