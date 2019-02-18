@@ -65,6 +65,9 @@ with open(args.src, "r") as export_handle:
         isolates = otu.pop("isolates")
 
         with open(os.path.join(otu_path, "otu.json"), "w") as f:
+            if "schema" not in otu:
+                otu["schema"] = list()
+            
             json.dump({key: otu[key] for key in OTU_KEYS}, f, indent=4)
 
         for isolate in isolates:
