@@ -1,6 +1,6 @@
 # ref-plant-viruses
 
-*An official Virtool reference for plant viruses*
+An official Virtool reference for plant viruses.
 
 [![Build Status](https://cloud.drone.io/api/badges/virtool/ref-plant-viruses/status.svg)](https://cloud.drone.io/virtool/ref-plant-viruses)
 
