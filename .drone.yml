@@ -2,28 +2,18 @@ kind: pipeline
 name: default
 
 steps:
-  - name: test
-    image: python:3.6-alpine
-    commands:
-      - pip install -r requirements.txt
-      - pytest -v
-      - python scripts/build.py src
-
   - name: dry build
-    image: python:3.6-alpine
+    image: python:3.7-buster
     commands:
-      - pip install -r requirements.txt
-      - python scripts/build.py -i src
-    when:
-      event:
-        excludes:
-          - tag
+      - pip install git+https://github.com/virtool/virtool-cli.git
+      - virtool build -src src
+      - gzip reference.json
 
   - name: build
-    image: python:3.6-alpine
+    image: python:3.7-buster
     commands:
-      - pip install -r requirements.txt
-      - python scripts/build.py src -V $DRONE_TAG
+      - pip install git+https://github.com/virtool/virtool-cli.git
+      - virtool build -src src -V $DRONE_TAG
       - gzip reference.json
     when:
       event:
