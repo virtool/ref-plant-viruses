@@ -2,5 +2,6 @@
     "_id": "e4082d1e",
     "name": "Tomato leaf curl virus",
     "abbreviation": "TLCV",
-    "schema": []
+    "schema": [],
+    "taxid": "28350"
 }

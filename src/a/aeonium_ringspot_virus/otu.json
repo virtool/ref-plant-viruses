@@ -13,5 +13,6 @@
             "molecule": "ssDNA",
             "required": true
         }
-    ]
+    ],
+    "taxid": "1962503"
 }

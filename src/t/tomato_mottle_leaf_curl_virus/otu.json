@@ -8,5 +8,6 @@
             "molecule": "ssDNA",
             "required": true
         }
-    ]
+    ],
+    "taxid": "172394"
 }

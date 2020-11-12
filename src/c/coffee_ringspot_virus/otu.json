@@ -13,5 +13,6 @@
             "molecule": "ssRNA-",
             "required": true
         }
-    ]
+    ],
+    "taxid": "745716"
 }

@@ -2,5 +2,6 @@
     "_id": "1d365dc4",
     "name": "Garlic virus C",
     "abbreviation": "GarVC",
-    "schema": []
+    "schema": [],
+    "taxid": "12431"
 }

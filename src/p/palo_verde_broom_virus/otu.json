@@ -23,5 +23,6 @@
             "molecule": "ssRNA-",
             "required": true
         }
-    ]
+    ],
+    "taxid": "2175800"
 }

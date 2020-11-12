@@ -2,5 +2,6 @@
     "_id": "0d400637",
     "name": "Prune dwarf virus",
     "abbreviation": "PDV",
-    "schema": []
+    "schema": [],
+    "taxid": "33760"
 }

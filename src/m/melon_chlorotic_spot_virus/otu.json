@@ -43,5 +43,6 @@
             "molecule": "",
             "required": true
         }
-    ]
+    ],
+    "taxid": "2479459"
 }

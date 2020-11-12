@@ -2,5 +2,6 @@
     "_id": "1fa78692",
     "name": "Potato virus X",
     "abbreviation": "PVX",
-    "schema": []
+    "schema": [],
+    "taxid": "12183"
 }

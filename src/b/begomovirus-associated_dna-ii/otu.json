@@ -2,5 +2,6 @@
     "_id": "5b75f871",
     "name": "Begomovirus-associated DNA-II",
     "abbreviation": "Bego_DNA-II",
-    "schema": []
+    "schema": [],
+    "taxid": "302069"
 }

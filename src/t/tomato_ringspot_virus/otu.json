@@ -2,5 +2,6 @@
     "_id": "dfd23361",
     "name": "Tomato ringspot virus",
     "abbreviation": "TomRSV",
-    "schema": []
+    "schema": [],
+    "taxid": "12280"
 }

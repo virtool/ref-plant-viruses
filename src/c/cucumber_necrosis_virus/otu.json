@@ -2,5 +2,6 @@
     "_id": "a5678b52",
     "name": "Cucumber necrosis virus",
     "abbreviation": "CNV",
-    "schema": []
+    "schema": [],
+    "taxid": "12143"
 }
