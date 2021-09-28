@@ -1,0 +1,22 @@
+name: ci
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  gh:
+    runs-on: ubuntu-20.04
+    container:
+      image: python:3.9-buster
+    steps:
+      - uses: actions/checkout@v2
+      - name: Build
+        run: |
+          pip install git+https://github.com/virtool/virtool-cli.git
+          virtool build -src src -V ${{ github.ref }}
+          gzip reference.json
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: reference.json.gz
