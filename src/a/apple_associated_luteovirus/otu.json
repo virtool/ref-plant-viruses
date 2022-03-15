@@ -1,0 +1,13 @@
+{
+    "_id": "nhirab3d",
+    "name": "Apple associated luteovirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
