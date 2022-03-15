@@ -1,0 +1,18 @@
+{
+    "_id": "k3aougwk",
+    "name": "Arabidopsis halleri partitivirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
