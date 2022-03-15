@@ -1,0 +1,13 @@
+{
+    "_id": "ig3tcksf",
+    "name": "Apple rootstock virus A",
+    "abbreviation": "ApRVA",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
