@@ -1,0 +1,13 @@
+{
+    "_id": "02nh69bl",
+    "name": "Birch leaf roll-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
