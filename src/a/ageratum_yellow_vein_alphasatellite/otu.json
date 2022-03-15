@@ -1,0 +1,13 @@
+{
+    "_id": "5m3uyh58",
+    "name": "Ageratum yellow vein alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA 1",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
