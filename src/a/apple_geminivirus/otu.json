@@ -1,0 +1,13 @@
+{
+    "_id": "952ef7af",
+    "name": "Apple geminivirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
