@@ -1,0 +1,13 @@
+{
+    "_id": "78jtpner",
+    "name": "Areca palm necrotic ringspot virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
