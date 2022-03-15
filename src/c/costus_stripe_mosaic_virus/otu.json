@@ -1,0 +1,13 @@
+{
+    "_id": "kbdc8z2r",
+    "name": "Costus stripe mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
