@@ -1,0 +1,13 @@
+{
+    "_id": "e74f3ad3",
+    "name": "Apple stem pitting virus (+Apricot latent + Apple green crinkle)",
+    "abbreviation": "ASPV (ApLV/AGCaV)",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
