@@ -1,0 +1,18 @@
+{
+    "_id": "b5vn4z3s",
+    "name": "Jacquemontia yellow mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
