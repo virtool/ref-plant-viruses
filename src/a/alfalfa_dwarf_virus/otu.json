@@ -1,0 +1,13 @@
+{
+    "_id": "mkdpaced",
+    "name": "Alfalfa dwarf virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
