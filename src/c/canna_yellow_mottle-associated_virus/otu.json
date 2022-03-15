@@ -1,0 +1,13 @@
+{
+    "_id": "014tfs7k",
+    "name": "Canna yellow mottle-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
