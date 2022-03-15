@@ -1,0 +1,13 @@
+{
+    "_id": "ph4g3qup",
+    "name": "Common bean-associated gemycircularvirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
