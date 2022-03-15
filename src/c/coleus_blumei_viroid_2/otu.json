@@ -1,0 +1,13 @@
+{
+    "_id": "guxgmxyw",
+    "name": "Coleus blumei viroid 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "viroid",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
