@@ -1,0 +1,13 @@
+{
+    "_id": "lkagyahc",
+    "name": "Ash gourd yellow vein mosaic alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
