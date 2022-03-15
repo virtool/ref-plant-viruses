@@ -1,0 +1,13 @@
+{
+    "_id": "33lnmepn",
+    "name": "Blueberry green mosaic associated virus",
+    "abbreviation": "BGMaV",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
