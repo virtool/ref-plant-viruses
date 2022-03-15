@@ -1,0 +1,13 @@
+{
+    "_id": "n189cacb",
+    "name": "Cordyline virus 3",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
