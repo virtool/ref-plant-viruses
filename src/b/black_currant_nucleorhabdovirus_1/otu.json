@@ -1,0 +1,13 @@
+{
+    "_id": "0rk309m3",
+    "name": "Black currant nucleorhabdovirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
