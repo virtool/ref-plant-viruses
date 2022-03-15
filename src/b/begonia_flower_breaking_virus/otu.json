@@ -1,0 +1,13 @@
+{
+    "_id": "micjjis4",
+    "name": "Begonia flower breaking virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
