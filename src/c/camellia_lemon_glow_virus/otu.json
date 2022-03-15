@@ -1,0 +1,13 @@
+{
+    "_id": "vwz7yxpp",
+    "name": "Camellia lemon glow virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
