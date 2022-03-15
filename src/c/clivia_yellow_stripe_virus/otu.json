@@ -1,0 +1,13 @@
+{
+    "_id": "m2nrt60n",
+    "name": "Clivia yellow stripe virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
