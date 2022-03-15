@@ -1,10 +1,10 @@
 {
-    "_id": "bbd4a996",
-    "name": "Cacao swollen shoot virus",
-    "abbreviation": "CSSV",
+    "_id": "74xb1kh7",
+    "name": "Cacao swollen shoot Ghana R virus",
+    "abbreviation": "",
     "schema": [
         {
-            "name": "genomic",
+            "name": "genome",
             "molecule": "dsDNA",
             "required": true
         }
