@@ -1,0 +1,13 @@
+{
+    "_id": "qh4r9o46",
+    "name": "Apple virus A",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
