@@ -1,0 +1,13 @@
+{
+    "_id": "zoq96oac",
+    "name": "Cnidium virus x",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
