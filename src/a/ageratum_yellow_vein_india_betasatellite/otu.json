@@ -1,0 +1,13 @@
+{
+    "_id": "10cpqrm7",
+    "name": "Ageratum yellow vein India betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
