@@ -1,7 +1,13 @@
 {
     "_id": "39d3f3e7",
-    "name": "Apple dimple fruit viroid",
+    "name": "Apple fruit dimple viroid",
     "abbreviation": "ADFVd",
-    "schema": [],
-    "taxid": 73494
+    "schema": [
+        {
+            "name": "viroid",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
