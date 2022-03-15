@@ -1,0 +1,13 @@
+{
+    "_id": "p6tnzej6",
+    "name": "Ageratum conyzoides symptomless alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
