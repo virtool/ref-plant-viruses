@@ -1,0 +1,13 @@
+{
+    "_id": "x33zxxsd",
+    "name": "Ageratum leaf curl Sichuan virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
