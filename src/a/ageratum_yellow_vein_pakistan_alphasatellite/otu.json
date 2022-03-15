@@ -1,0 +1,13 @@
+{
+    "_id": "9pghosnx",
+    "name": "Ageratum yellow vein Pakistan alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
