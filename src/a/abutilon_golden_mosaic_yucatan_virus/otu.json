@@ -1,0 +1,13 @@
+{
+    "_id": "p9ohme8k",
+    "name": "Abutilon golden mosaic Yucatan virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
