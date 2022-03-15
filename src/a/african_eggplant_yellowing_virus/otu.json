@@ -1,0 +1,13 @@
+{
+    "_id": "set9w2zc",
+    "name": "African eggplant yellowing virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
