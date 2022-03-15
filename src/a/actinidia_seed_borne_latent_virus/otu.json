@@ -1,0 +1,13 @@
+{
+    "_id": "nn5gt7db",
+    "name": "Actinidia seed borne latent virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
