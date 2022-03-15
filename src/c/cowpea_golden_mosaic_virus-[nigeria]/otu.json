@@ -1,0 +1,13 @@
+{
+    "_id": "oo48hq2i",
+    "name": "Cowpea golden mosaic virus-[Nigeria]",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
