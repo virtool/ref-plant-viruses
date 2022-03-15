@@ -1,0 +1,18 @@
+{
+    "_id": "tqiyz740",
+    "name": "Cnidoscolus mosaic leaf deformation virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
