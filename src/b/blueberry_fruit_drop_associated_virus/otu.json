@@ -1,0 +1,13 @@
+{
+    "_id": "orxss4r2",
+    "name": "Blueberry fruit drop associated virus",
+    "abbreviation": "BFDaV",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
