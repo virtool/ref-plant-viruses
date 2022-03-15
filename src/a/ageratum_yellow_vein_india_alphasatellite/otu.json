@@ -1,0 +1,13 @@
+{
+    "_id": "ta87i3lu",
+    "name": "Ageratum yellow vein India alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA 1",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
