@@ -1,0 +1,13 @@
+{
+    "_id": "qog4aww0",
+    "name": "Cluster bean endornavirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
