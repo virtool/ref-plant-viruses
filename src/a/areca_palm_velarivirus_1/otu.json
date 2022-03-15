@@ -1,0 +1,13 @@
+{
+    "_id": "oh04oeuq",
+    "name": "Areca palm velarivirus 1",
+    "abbreviation": "APV1",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
