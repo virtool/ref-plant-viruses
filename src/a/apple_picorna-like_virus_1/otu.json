@@ -1,0 +1,13 @@
+{
+    "_id": "w5d8aw38",
+    "name": "Apple picorna-like virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
