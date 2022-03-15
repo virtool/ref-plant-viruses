@@ -1,0 +1,13 @@
+{
+    "_id": "9xl835gp",
+    "name": "Archtopus echinatus-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
