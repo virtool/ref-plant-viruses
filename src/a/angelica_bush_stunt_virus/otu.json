@@ -1,0 +1,13 @@
+{
+    "_id": "ls9ft1ga",
+    "name": "Angelica bush stunt virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
