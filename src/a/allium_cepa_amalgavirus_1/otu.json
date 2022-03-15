@@ -1,0 +1,13 @@
+{
+    "_id": "rapn5ly3",
+    "name": "Allium cepa amalgavirus 1",
+    "abbreviation": "AcAV1",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
