@@ -1,0 +1,13 @@
+{
+    "_id": "nm1q0wfr",
+    "name": "Banana bunchy top alphasatellite 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA 1",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
