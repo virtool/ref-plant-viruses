@@ -1,0 +1,13 @@
+{
+    "_id": "9zi3i3oy",
+    "name": "Allium cepa amalgavirus 2",
+    "abbreviation": "AcAV2",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
