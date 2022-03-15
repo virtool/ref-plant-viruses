@@ -1,0 +1,13 @@
+{
+    "_id": "cl99vppx",
+    "name": "Camellia ringspot associated virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

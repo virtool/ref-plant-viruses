@@ -1,0 +1,13 @@
+{
+    "_id": "66q0uc55",
+    "name": "Camellia ringspot associated virus 3",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
