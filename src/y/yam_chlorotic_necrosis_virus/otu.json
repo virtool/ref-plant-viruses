@@ -1,0 +1,13 @@
+{
+    "_id": "x8q14h0l",
+    "name": "Yam chlorotic necrosis virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
