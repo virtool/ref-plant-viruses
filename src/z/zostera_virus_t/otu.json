@@ -1,0 +1,13 @@
+{
+    "_id": "z3wgjmmt",
+    "name": "Zostera virus T",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
