@@ -1,0 +1,23 @@
+{
+    "_id": "pgz5mfer",
+    "name": "Zea mays chrysovirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
