@@ -1,0 +1,13 @@
+{
+    "_id": "kzzjb4gy",
+    "name": "Vernonia crinkle betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
