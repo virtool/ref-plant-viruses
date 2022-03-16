@@ -1,0 +1,23 @@
+{
+    "_id": "khns49am",
+    "name": "Wheat virus Q",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "B RNA",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "A RNA ",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "C RNA",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
