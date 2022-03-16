@@ -1,0 +1,13 @@
+{
+    "_id": "lgllcr1i",
+    "name": "Vernonia yellow vein Fujian virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
