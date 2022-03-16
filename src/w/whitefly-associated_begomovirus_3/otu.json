@@ -1,0 +1,13 @@
+{
+    "_id": "slq0aian",
+    "name": "Whitefly-associated begomovirus 3",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

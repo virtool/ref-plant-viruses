@@ -1,0 +1,13 @@
+{
+    "_id": "kai3wfym",
+    "name": "Whitefly-associated begomovirus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
