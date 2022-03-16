@@ -1,0 +1,13 @@
+{
+    "_id": "jahq290h",
+    "name": "Velvet bean golden mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
