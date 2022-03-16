@@ -1,0 +1,13 @@
+{
+    "_id": "fhjyhn55",
+    "name": "Whitefly associated Guatemala alphasatellite 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
