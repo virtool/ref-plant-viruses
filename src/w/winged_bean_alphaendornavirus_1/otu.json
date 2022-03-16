@@ -1,0 +1,13 @@
+{
+    "_id": "adbeogcg",
+    "name": "Winged bean alphaendornavirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
