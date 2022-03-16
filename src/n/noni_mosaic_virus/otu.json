@@ -1,0 +1,13 @@
+{
+    "_id": "m5njt0jh",
+    "name": "Noni mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
