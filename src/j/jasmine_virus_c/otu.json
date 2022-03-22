@@ -2,5 +2,12 @@
     "_id": "14x2y9ad",
     "name": "Jasmine virus C",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
