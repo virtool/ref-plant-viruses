@@ -1,0 +1,13 @@
+{
+    "_id": "qe8afugr",
+    "name": "Hollyhock yellow vein virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
