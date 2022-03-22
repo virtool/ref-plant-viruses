@@ -2,5 +2,12 @@
     "_id": "ea7e6840",
     "name": "Kalanchoe mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
