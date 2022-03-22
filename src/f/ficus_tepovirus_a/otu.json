@@ -1,0 +1,13 @@
+{
+    "_id": "rleqnzaa",
+    "name": "Ficus tepovirus A",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
