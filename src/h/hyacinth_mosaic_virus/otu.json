@@ -2,5 +2,12 @@
     "_id": "d0718a75",
     "name": "Hyacinth mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
