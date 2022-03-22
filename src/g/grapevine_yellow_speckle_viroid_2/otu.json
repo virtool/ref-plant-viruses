@@ -1,0 +1,13 @@
+{
+    "_id": "e5jqhx11",
+    "name": "Grapevine yellow speckle viroid 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
