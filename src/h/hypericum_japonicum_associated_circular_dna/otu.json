@@ -1,0 +1,13 @@
+{
+    "_id": "lliyqfxq",
+    "name": "Hypericum japonicum associated circular DNA",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
