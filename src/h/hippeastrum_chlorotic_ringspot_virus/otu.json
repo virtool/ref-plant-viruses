@@ -1,0 +1,23 @@
+{
+    "_id": "t743y1yp",
+    "name": "Hippeastrum chlorotic ringspot virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA S",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA M",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA L",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
