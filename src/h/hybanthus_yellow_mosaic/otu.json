@@ -1,0 +1,13 @@
+{
+    "_id": "o92czwpm",
+    "name": "Hybanthus yellow mosaic",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
