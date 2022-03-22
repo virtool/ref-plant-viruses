@@ -1,0 +1,13 @@
+{
+    "_id": "5e6y8ajl",
+    "name": "Grapevine latent viroid",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "viroid",
+            "molecule": "",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
