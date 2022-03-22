@@ -1,0 +1,13 @@
+{
+    "_id": "m36tcpvl",
+    "name": "Lettuce chorovirus 1",
+    "abbreviation": "LeCV1",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
