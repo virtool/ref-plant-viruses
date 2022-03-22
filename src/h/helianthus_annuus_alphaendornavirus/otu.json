@@ -1,0 +1,13 @@
+{
+    "_id": "u4nyxtph",
+    "name": "Helianthus annuus alphaendornavirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
