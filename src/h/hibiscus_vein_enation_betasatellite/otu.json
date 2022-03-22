@@ -1,0 +1,13 @@
+{
+    "_id": "chufacjd",
+    "name": "Hibiscus vein enation betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
