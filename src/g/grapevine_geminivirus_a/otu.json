@@ -1,0 +1,13 @@
+{
+    "_id": "79ealf81",
+    "name": "Grapevine geminivirus A",
+    "abbreviation": "GGVA",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
