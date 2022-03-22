@@ -1,0 +1,13 @@
+{
+    "_id": "86kzscrj",
+    "name": "Faba bean necrotic yellows virus associated alphasatellite 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
