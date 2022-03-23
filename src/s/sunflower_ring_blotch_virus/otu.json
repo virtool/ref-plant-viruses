@@ -1,0 +1,13 @@
+{
+    "_id": "z71vc207",
+    "name": "Sunflower ring blotch virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
