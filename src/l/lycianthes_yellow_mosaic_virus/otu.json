@@ -1,0 +1,18 @@
+{
+    "_id": "1svny6zd",
+    "name": "Lycianthes yellow mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
