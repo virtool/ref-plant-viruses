@@ -1,0 +1,13 @@
+{
+    "_id": "2ckwm1xj",
+    "name": "East African cassava mosaic Malawi virus-Malawi[K]",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
