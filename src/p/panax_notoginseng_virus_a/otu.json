@@ -1,0 +1,13 @@
+{
+    "_id": "x5taick6",
+    "name": "Panax notoginseng virus A",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
