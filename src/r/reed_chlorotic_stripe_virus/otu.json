@@ -1,0 +1,13 @@
+{
+    "_id": "biwwlkbd",
+    "name": "Reed chlorotic stripe virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
