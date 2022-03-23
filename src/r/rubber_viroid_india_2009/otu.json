@@ -1,0 +1,13 @@
+{
+    "_id": "yii1vuvc",
+    "name": "Rubber viroid India/2009",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
