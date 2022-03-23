@@ -1,0 +1,13 @@
+{
+    "_id": "oqiama7q",
+    "name": "Euphorbia yellow mosaic virus associated DNA 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "associated DNA",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
