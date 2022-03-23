@@ -1,0 +1,13 @@
+{
+    "_id": "mpndeqfn",
+    "name": "Panicum ecklonii-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
