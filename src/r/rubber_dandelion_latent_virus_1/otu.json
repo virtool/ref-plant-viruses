@@ -1,0 +1,13 @@
+{
+    "_id": "5znlllmy",
+    "name": "Rubber dandelion latent virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA ",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
