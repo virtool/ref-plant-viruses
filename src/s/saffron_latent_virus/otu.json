@@ -1,0 +1,13 @@
+{
+    "_id": "6xrtkuml",
+    "name": "Saffron latent virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
