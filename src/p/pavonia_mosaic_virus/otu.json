@@ -1,0 +1,13 @@
+{
+    "_id": "osr3loa2",
+    "name": "Pavonia mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
