@@ -1,0 +1,13 @@
+{
+    "_id": "fy2m4u15",
+    "name": "Perth betaflexivirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
