@@ -1,0 +1,13 @@
+{
+    "_id": "5lrquaog",
+    "name": "Papaya meleira virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
