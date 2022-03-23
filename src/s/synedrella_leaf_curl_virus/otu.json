@@ -1,0 +1,13 @@
+{
+    "_id": "y3nw507f",
+    "name": "Synedrella leaf curl virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
