@@ -1,0 +1,13 @@
+{
+    "_id": "h3a3doen",
+    "name": "Pinus nigra virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
