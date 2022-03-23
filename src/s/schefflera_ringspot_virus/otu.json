@@ -1,0 +1,13 @@
+{
+    "_id": "nx1ewx71",
+    "name": "Schefflera ringspot virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
