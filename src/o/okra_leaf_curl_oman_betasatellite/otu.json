@@ -1,0 +1,13 @@
+{
+    "_id": "uvnkrzhc",
+    "name": "Okra leaf curl Oman betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
