@@ -1,0 +1,13 @@
+{
+    "_id": "b4sfdu6x",
+    "name": "Polygala garcinii associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
