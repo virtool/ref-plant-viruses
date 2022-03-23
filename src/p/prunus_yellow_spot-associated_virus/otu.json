@@ -1,0 +1,13 @@
+{
+    "_id": "yc1xcq25",
+    "name": "Prunus yellow spot-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
