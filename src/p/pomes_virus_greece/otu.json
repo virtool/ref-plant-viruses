@@ -1,0 +1,13 @@
+{
+    "_id": "cy4ldf5q",
+    "name": "Pomes virus Greece",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
