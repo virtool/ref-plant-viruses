@@ -1,0 +1,13 @@
+{
+    "_id": "5tdfuhx5",
+    "name": "Eclipta yellow vein alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
