@@ -1,0 +1,13 @@
+{
+    "_id": "3aot17ml",
+    "name": "Sida Brazil virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
