@@ -1,0 +1,6 @@
+{
+    "id": "cwl",
+    "source_type": "isolate",
+    "source_name": "HTS",
+    "default": false
+}
