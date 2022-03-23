@@ -2,5 +2,12 @@
     "_id": "fe634ddd",
     "name": "Prunus virus T",
     "abbreviation": "PruVT",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
