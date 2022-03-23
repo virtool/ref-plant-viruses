@@ -1,0 +1,13 @@
+{
+    "_id": "z6nsnm42",
+    "name": "Papaya leaf curl Faisalabad virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
