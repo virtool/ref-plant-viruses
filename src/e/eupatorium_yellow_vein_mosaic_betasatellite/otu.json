@@ -1,0 +1,13 @@
+{
+    "_id": "ig0q6pxe",
+    "name": "Eupatorium yellow vein mosaic betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
