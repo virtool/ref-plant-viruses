@@ -1,0 +1,13 @@
+{
+    "_id": "fufkhpu1",
+    "name": "Maize-associated totivirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
