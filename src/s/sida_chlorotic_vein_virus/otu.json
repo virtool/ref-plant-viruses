@@ -1,0 +1,18 @@
+{
+    "_id": "380m4ut2",
+    "name": "Sida chlorotic vein virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
