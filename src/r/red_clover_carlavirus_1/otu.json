@@ -1,0 +1,13 @@
+{
+    "_id": "izyxupso",
+    "name": "Red clover carlavirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
