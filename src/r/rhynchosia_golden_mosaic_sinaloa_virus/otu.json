@@ -1,0 +1,18 @@
+{
+    "_id": "xq2utw96",
+    "name": "Rhynchosia golden mosaic Sinaloa virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
