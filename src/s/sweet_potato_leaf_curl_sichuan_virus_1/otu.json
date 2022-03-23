@@ -1,0 +1,13 @@
+{
+    "_id": "85zdtpq8",
+    "name": "Sweet potato leaf curl Sichuan virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
