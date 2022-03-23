@@ -1,0 +1,13 @@
+{
+    "_id": "m6tmhnat",
+    "name": "Sugar beet cyst nematode virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
