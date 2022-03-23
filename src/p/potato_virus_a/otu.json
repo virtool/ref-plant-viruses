@@ -2,5 +2,12 @@
     "_id": "7d7ad454",
     "name": "Potato virus A",
     "abbreviation": "PVA",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

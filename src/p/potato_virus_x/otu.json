@@ -2,5 +2,12 @@
     "_id": "1fa78692",
     "name": "Potato virus X",
     "abbreviation": "PVX",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
