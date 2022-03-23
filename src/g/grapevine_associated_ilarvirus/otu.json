@@ -1,0 +1,23 @@
+{
+    "_id": "7i6wk1in",
+    "name": "Grapevine associated ilarvirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
