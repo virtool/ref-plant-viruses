@@ -1,0 +1,13 @@
+{
+    "_id": "xyg479ya",
+    "name": "Sugarcane bacilliform Guadeloupe A virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
