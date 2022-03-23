@@ -1,0 +1,13 @@
+{
+    "_id": "g8iaerd3",
+    "name": "Emilia sonchifolia yellow vein Thailand virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
