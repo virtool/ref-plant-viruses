@@ -1,0 +1,13 @@
+{
+    "_id": "7h2hzmzt",
+    "name": "Rose virus R",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA ",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
