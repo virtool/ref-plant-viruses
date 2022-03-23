@@ -1,0 +1,13 @@
+{
+    "_id": "9do9vrur",
+    "name": "Okra enation leaf curl virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
