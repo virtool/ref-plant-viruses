@@ -1,0 +1,13 @@
+{
+    "_id": "v51w68oc",
+    "name": "Polyscias mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
