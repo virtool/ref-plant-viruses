@@ -1,0 +1,13 @@
+{
+    "_id": "dlyeyjr0",
+    "name": "Potexvirus sp.",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
