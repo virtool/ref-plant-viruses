@@ -1,0 +1,13 @@
+{
+    "_id": "ygu8uque",
+    "name": "Pepper yellow leaf curl virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
