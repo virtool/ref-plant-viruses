@@ -1,0 +1,13 @@
+{
+    "_id": "bhepc3bj",
+    "name": "Papaya virus Q",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
