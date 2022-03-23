@@ -1,0 +1,13 @@
+{
+    "_id": "iivszx0p",
+    "name": "Ocimum golden mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
