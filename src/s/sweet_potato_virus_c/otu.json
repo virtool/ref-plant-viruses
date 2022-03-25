@@ -2,5 +2,12 @@
     "_id": "06399e11",
     "name": "Sweet potato virus C",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
