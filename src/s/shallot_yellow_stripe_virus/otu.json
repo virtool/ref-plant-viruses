@@ -2,5 +2,12 @@
     "_id": "90616a30",
     "name": "Shallot yellow stripe virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
