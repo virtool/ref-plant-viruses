@@ -1,0 +1,13 @@
+{
+    "_id": "evh9xz90",
+    "name": "Sweet potato collusive virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
