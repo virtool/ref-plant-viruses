@@ -2,5 +2,12 @@
     "_id": "285cfff8",
     "name": "Sugarcane white streak virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
