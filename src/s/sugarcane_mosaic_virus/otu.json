@@ -2,5 +2,12 @@
     "_id": "4e8478e6",
     "name": "Sugarcane mosaic virus",
     "abbreviation": "SCMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
