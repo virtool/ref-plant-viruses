@@ -1,0 +1,18 @@
+{
+    "_id": "g3zvm8b1",
+    "name": "Tobacco leaf curl Dominican Republic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
