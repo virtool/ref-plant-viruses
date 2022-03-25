@@ -2,5 +2,12 @@
     "_id": "ff09c3a3",
     "name": "Tobacco bushy top virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
