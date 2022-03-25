@@ -1,0 +1,13 @@
+{
+    "_id": "c25mfkee",
+    "name": "Malvastrum yellow mosaic Helshire",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
