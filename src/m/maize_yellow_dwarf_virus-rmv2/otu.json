@@ -1,0 +1,13 @@
+{
+    "_id": "tvpl2pkt",
+    "name": "Maize yellow dwarf virus-RMV2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
