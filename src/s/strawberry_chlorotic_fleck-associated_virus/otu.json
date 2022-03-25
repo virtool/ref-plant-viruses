@@ -2,5 +2,12 @@
     "_id": "08b97b37",
     "name": "Strawberry chlorotic fleck-associated virus",
     "abbreviation": "SCFaV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
