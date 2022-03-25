@@ -2,5 +2,12 @@
     "_id": "c5f3145b",
     "name": "Piper yellow mottle virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
