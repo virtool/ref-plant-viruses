@@ -1,0 +1,13 @@
+{
+    "_id": "wj701qzc",
+    "name": "Tomato brown rugose fruit virus",
+    "abbreviation": "TBRFV",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
