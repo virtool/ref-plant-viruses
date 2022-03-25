@@ -1,0 +1,13 @@
+{
+    "_id": "cq0stirp",
+    "name": "Maize-associated totivirus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
