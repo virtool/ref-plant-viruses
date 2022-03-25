@@ -2,5 +2,12 @@
     "_id": "2d4f5c15",
     "name": "Suakwa aphid-borne yellows virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
