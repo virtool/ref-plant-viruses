@@ -1,0 +1,13 @@
+{
+    "_id": "qutoaayu",
+    "name": "Tomato bright yellow mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
