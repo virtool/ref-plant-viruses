@@ -2,5 +2,12 @@
     "_id": "8c666243",
     "name": "Soybean dwarf virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
