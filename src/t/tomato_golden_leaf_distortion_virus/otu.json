@@ -1,0 +1,13 @@
+{
+    "_id": "353lg6d3",
+    "name": "Tomato golden leaf distortion virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
