@@ -1,0 +1,13 @@
+{
+    "_id": "npntuqse",
+    "name": "Maize-associated totivirus 3",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
