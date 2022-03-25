@@ -2,5 +2,12 @@
     "_id": "5dc37bb8",
     "name": "Pedilanthus leaf curl virus",
     "abbreviation": "PLCV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
