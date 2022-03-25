@@ -1,0 +1,13 @@
+{
+    "_id": "2h7se3jt",
+    "name": "Tomato leaf curl Gandhinagar betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
