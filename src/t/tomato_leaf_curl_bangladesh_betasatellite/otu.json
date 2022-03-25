@@ -1,0 +1,13 @@
+{
+    "_id": "g9usk09t",
+    "name": "Tomato leaf curl Bangladesh betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
