@@ -1,0 +1,13 @@
+{
+    "_id": "1y9ruoem",
+    "name": "Tomato leaf curl Comoros virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
