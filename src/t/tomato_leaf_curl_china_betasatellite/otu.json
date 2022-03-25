@@ -1,0 +1,13 @@
+{
+    "_id": "ucod3r9v",
+    "name": "Tomato leaf curl China betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
