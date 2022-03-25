@@ -2,5 +2,12 @@
     "_id": "e5db3d2b",
     "name": "Telosma mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
