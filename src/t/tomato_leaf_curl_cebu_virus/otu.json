@@ -1,0 +1,13 @@
+{
+    "_id": "sfm71u0y",
+    "name": "Tomato leaf curl Cebu virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
