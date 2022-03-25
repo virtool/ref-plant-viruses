@@ -1,0 +1,13 @@
+{
+    "_id": "sxcyid5k",
+    "name": "Tobacco leaf curl Japan betasatellite DNA",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
