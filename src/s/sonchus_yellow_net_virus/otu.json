@@ -2,5 +2,12 @@
     "_id": "0e33c2ce",
     "name": "Sonchus yellow net virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
