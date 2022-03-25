@@ -1,0 +1,13 @@
+{
+    "_id": "r0dta5yk",
+    "name": "Tomato leaf curl Anjouan virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
