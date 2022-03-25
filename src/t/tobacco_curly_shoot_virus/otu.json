@@ -2,5 +2,12 @@
     "_id": "ce4daa25",
     "name": "Tobacco curly shoot virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
