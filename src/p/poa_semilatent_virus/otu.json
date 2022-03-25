@@ -2,5 +2,22 @@
     "_id": "cb66f1e7",
     "name": "Poa semilatent virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA alpha",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA beta",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA gamma",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
