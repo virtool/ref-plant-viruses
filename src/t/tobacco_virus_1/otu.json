@@ -1,0 +1,13 @@
+{
+    "_id": "85f43ukk",
+    "name": "Tobacco virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
