@@ -2,5 +2,12 @@
     "_id": "481c906b",
     "name": "Sweet potato mosaic virus",
     "abbreviation": "SweetPotMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
