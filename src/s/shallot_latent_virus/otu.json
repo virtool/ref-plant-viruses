@@ -2,5 +2,12 @@
     "_id": "c85f32cb",
     "name": "Shallot latent virus",
     "abbreviation": "SLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
