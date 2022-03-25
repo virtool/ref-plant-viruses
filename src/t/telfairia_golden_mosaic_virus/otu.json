@@ -1,0 +1,13 @@
+{
+    "_id": "69yqwyqx",
+    "name": "Telfairia golden mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
