@@ -1,0 +1,13 @@
+{
+    "_id": "pqpjmd53",
+    "name": "Tomato leaf curl Cameroon alphasatellite [CM:TOS2D1:To:09]",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
