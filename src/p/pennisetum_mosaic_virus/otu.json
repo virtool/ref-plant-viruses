@@ -2,5 +2,12 @@
     "_id": "6a1ca406",
     "name": "Pennisetum mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
