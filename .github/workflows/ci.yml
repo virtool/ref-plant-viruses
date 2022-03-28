@@ -19,6 +19,6 @@ jobs:
       - uses: actions/checkout@v2
       - name: Build
         run: |
-          pip install git+https://github.com/virtool/virtool-cli.git
-          virtool build -src src
+          pip install virtool-cli
+          virtool ref build -src src
           gzip reference.json
