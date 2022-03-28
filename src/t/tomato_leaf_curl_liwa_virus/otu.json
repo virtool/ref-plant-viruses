@@ -1,0 +1,13 @@
+{
+    "_id": "omu2h0t6",
+    "name": "Tomato leaf curl Liwa virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
