@@ -1,0 +1,13 @@
+{
+    "_id": "ganqheiw",
+    "name": "Tomato leaf curl Toliara virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
