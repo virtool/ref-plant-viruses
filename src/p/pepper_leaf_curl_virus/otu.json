@@ -2,5 +2,12 @@
     "_id": "3ac18d60",
     "name": "Pepper leaf curl virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
