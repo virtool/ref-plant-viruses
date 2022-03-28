@@ -1,0 +1,13 @@
+{
+    "_id": "5h6zyydz",
+    "name": "Tomato leaf curl Kumasi virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
