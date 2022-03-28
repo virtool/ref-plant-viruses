@@ -2,5 +2,17 @@
     "_id": "b55cd4e3",
     "name": "Tomato torrado virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
