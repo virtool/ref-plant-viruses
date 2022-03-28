@@ -2,5 +2,12 @@
     "_id": "59ada4f2",
     "name": "Grapevine rupestris stem pitting-associated virus",
     "abbreviation": "GRSPaV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
