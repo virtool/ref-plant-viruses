@@ -1,0 +1,13 @@
+{
+    "_id": "2ukrphch",
+    "name": "Tomato leaf curl Yemen betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
