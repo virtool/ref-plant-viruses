@@ -22,3 +22,8 @@ jobs:
           pip install virtool-cli
           virtool ref build -src src
           gzip reference.json
+      - name: Save JSON
+        uses: actions/upload-artifact@v3
+        with:
+          name: reference.json.gz
+          path: reference.json.gz
