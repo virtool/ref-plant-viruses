@@ -1,0 +1,13 @@
+{
+    "_id": "p2qb961e",
+    "name": "Clerodendrum golden mosaic Jiangsu virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
