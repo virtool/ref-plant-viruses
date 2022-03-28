@@ -1,0 +1,13 @@
+{
+    "_id": "4mn5xg23",
+    "name": "Tomato leaf curl Joydebpur betasatellite [India/Jaunpur/Chilli/2007]",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
