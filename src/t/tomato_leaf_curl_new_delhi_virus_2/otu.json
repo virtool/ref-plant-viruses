@@ -1,0 +1,13 @@
+{
+    "_id": "kk2vkso6",
+    "name": "Tomato leaf curl New Delhi virus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
