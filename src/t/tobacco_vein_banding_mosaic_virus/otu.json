@@ -2,5 +2,12 @@
     "_id": "cc8c31ee",
     "name": "Tobacco vein banding mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
