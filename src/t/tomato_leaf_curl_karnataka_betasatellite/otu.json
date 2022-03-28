@@ -1,0 +1,13 @@
+{
+    "_id": "lt34jq0k",
+    "name": "Tomato leaf curl Karnataka betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
