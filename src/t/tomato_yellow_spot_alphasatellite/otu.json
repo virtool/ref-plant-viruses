@@ -1,0 +1,13 @@
+{
+    "_id": "xkywmdrr",
+    "name": "Tomato yellow spot alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
