@@ -2,5 +2,12 @@
     "_id": "340d037a",
     "name": "Artichoke yellow ringspot virus",
     "abbreviation": "AYRSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
