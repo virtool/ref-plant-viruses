@@ -1,0 +1,13 @@
+{
+    "_id": "hbd5py8h",
+    "name": "Tomato leaf curl Pakistan betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
