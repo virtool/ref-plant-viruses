@@ -1,0 +1,13 @@
+{
+    "_id": "sw5j2bkj",
+    "name": "Dendrobium viroid",
+    "abbreviation": "DVd",
+    "schema": [
+        {
+            "name": "viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
