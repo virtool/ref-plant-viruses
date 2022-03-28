@@ -2,5 +2,12 @@
     "_id": "c911b48b",
     "name": "Passiflora latent carlavirus",
     "abbreviation": "PLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
