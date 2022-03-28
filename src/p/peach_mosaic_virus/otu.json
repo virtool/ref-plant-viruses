@@ -2,5 +2,12 @@
     "_id": "72ee2a8e",
     "name": "Peach mosaic virus",
     "abbreviation": "PcMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
