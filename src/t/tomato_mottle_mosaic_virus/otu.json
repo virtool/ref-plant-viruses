@@ -2,5 +2,12 @@
     "_id": "89a5f9cb",
     "name": "Tomato mottle mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
