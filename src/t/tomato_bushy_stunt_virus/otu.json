@@ -2,5 +2,12 @@
     "_id": "c74673b2",
     "name": "Tomato bushy stunt virus",
     "abbreviation": "TBSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
