@@ -2,5 +2,17 @@
     "_id": "1f3ef59e",
     "name": "Carrot mottle mimic virus",
     "abbreviation": "CMoMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "satellite",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
