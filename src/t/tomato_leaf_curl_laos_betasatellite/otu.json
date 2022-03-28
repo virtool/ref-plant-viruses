@@ -1,0 +1,13 @@
+{
+    "_id": "jq4n3zf2",
+    "name": "Tomato leaf curl Laos betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
