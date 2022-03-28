@@ -2,5 +2,12 @@
     "_id": "spu9164i",
     "name": "Peach associated luteovirus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
