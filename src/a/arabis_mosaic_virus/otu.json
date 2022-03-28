@@ -2,5 +2,17 @@
     "_id": "5628ed52",
     "name": "Arabis mosaic virus",
     "abbreviation": "ArMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
