@@ -1,0 +1,13 @@
+{
+    "_id": "9zv4r3x6",
+    "name": "Tomato leaf curl Guangdong virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
