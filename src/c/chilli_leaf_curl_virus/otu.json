@@ -1,0 +1,13 @@
+{
+    "_id": "86d153f8",
+    "name": "Chilli leaf curl virus",
+    "abbreviation": "ChiLCV",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

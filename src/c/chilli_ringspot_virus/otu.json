@@ -1,0 +1,13 @@
+{
+    "_id": "9011df17",
+    "name": "Chilli ringspot virus",
+    "abbreviation": "ChiRSV",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
