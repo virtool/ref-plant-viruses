@@ -1,0 +1,13 @@
+{
+    "_id": "9ij7n00k",
+    "name": "Coconut foliar decay alphasatellite 4",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": " alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
