@@ -1,0 +1,13 @@
+{
+    "_id": "voxg0jn0",
+    "name": "Dioscorea bacilliform RT virus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
