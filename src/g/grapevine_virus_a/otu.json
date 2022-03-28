@@ -2,5 +2,12 @@
     "_id": "42f3c713",
     "name": "Grapevine virus A",
     "abbreviation": "GVA",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
