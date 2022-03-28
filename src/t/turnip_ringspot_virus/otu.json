@@ -2,5 +2,17 @@
     "_id": "1042e8f8",
     "name": "Turnip ringspot virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
