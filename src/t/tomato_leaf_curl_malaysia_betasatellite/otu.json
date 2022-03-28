@@ -1,0 +1,13 @@
+{
+    "_id": "9rxp9obf",
+    "name": "Tomato leaf curl Malaysia betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "betasatellite",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
