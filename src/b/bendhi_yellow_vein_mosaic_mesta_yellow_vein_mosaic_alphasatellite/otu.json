@@ -1,0 +1,13 @@
+{
+    "_id": "nmbhuanp",
+    "name": "Bendhi Yellow Vein Mosaic/Mesta Yellow Vein Mosaic alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
