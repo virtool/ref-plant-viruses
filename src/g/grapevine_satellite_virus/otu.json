@@ -2,5 +2,12 @@
     "_id": "5347c5c2",
     "name": "Grapevine satellite virus",
     "abbreviation": "GSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "satellite",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
