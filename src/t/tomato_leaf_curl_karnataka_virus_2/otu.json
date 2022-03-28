@@ -1,0 +1,13 @@
+{
+    "_id": "ckc8f4cl",
+    "name": "Tomato leaf curl Karnataka virus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
