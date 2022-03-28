@@ -2,5 +2,12 @@
     "_id": "7d92b133",
     "name": "Apricot pseudo-chlorotic leaf spot virus",
     "abbreviation": "APCLSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
