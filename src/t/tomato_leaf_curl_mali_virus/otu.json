@@ -1,0 +1,13 @@
+{
+    "_id": "e44e6wdd",
+    "name": "Tomato leaf curl Mali virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
