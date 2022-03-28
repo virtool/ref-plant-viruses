@@ -1,6 +1,13 @@
 {
     "_id": "wfn45vo1",
     "name": "Apple hammerhead viroid-like circular RNA",
-    "abbreviation": "",
-    "schema": []
+    "abbreviation": "AHVd",
+    "schema": [
+        {
+            "name": "viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
