@@ -2,5 +2,12 @@
     "_id": "d4bed493",
     "name": "Sunflower mild mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

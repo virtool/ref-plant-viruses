@@ -2,5 +2,22 @@
     "_id": "603a6750",
     "name": "Alstroemeria necrotic streak virus",
     "abbreviation": "ANSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Segment L",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "Segment M",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "Segment S",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

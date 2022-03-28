@@ -1,0 +1,13 @@
+{
+    "_id": "3c299a59",
+    "name": "Emilia yellow vein Fujian virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

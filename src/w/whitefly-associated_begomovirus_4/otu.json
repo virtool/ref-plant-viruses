@@ -1,0 +1,13 @@
+{
+    "_id": "pko1d4jh",
+    "name": "Whitefly-associated begomovirus 4",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

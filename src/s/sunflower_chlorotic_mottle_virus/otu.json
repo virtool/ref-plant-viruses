@@ -2,5 +2,12 @@
     "_id": "9ee37b29",
     "name": "Sunflower chlorotic mottle virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

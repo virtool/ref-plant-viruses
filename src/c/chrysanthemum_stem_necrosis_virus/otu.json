@@ -2,5 +2,22 @@
     "_id": "5c2b32cc",
     "name": "Chrysanthemum stem necrosis virus",
     "abbreviation": "CSNV",
-    "schema": []
+    "schema": [
+        {
+            "name": "L",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "M",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "S",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -1,0 +1,13 @@
+{
+    "_id": "u08e2z1u",
+    "name": "Ocimum basilicum RNA virus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

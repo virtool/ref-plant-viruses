@@ -1,0 +1,18 @@
+{
+    "_id": "un90swc5",
+    "name": "Spinach virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA L",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA N",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "184898d4",
+    "name": "Sugarcane bacilliform Guadeloupe D virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

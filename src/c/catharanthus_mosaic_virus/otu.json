@@ -1,0 +1,13 @@
+{
+    "_id": "5281yho7",
+    "name": "Catharanthus mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

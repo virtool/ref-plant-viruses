@@ -2,5 +2,12 @@
     "_id": "9ac096d5",
     "name": "Strawberry crinkle virus",
     "abbreviation": "SCV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

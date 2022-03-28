@@ -1,0 +1,18 @@
+{
+    "_id": "m6tjfhim",
+    "name": "Pepper yellow leaf curl Aceh virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,17 @@
     "_id": "de0d0d4a",
     "name": "Blainvillea yellow spot virus",
     "abbreviation": "BlYSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

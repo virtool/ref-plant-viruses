@@ -2,5 +2,12 @@
     "_id": "fcff42e8",
     "name": "Tobacco vein distorting virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

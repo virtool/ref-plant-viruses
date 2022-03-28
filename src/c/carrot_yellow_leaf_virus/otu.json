@@ -2,5 +2,12 @@
     "_id": "f3cb3539",
     "name": "Carrot yellow leaf virus",
     "abbreviation": "CYLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

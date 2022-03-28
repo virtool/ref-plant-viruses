@@ -1,0 +1,13 @@
+{
+    "_id": "73pwkdc4",
+    "name": "Sida yellow leaf curl virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "ytyaeou0",
     "name": "Euphorbia caput-medusae latent virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

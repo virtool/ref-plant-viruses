@@ -2,5 +2,12 @@
     "_id": "42c19ef1",
     "name": "Vernonia yellow vein Fujian virus alphasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

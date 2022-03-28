@@ -1,0 +1,13 @@
+{
+    "_id": "hh4k5mg5",
+    "name": "Ocimum mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

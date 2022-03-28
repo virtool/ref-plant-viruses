@@ -1,0 +1,13 @@
+{
+    "_id": "fw2o9tz4",
+    "name": "Tomato leaf curl Sri Lanka virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

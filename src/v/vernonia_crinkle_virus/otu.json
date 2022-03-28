@@ -1,0 +1,13 @@
+{
+    "_id": "kkofohqa",
+    "name": "Vernonia crinkle virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "d399556a",
     "name": "Strawberry vein banding virus",
     "abbreviation": "SVBV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

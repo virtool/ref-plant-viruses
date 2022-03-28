@@ -1,0 +1,13 @@
+{
+    "_id": "rr66q7e9",
+    "name": "Zucchini shoestring virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "7c77d883",
     "name": "Barley yellow dwarf virus-PAS",
     "abbreviation": "BYDV-PAS",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

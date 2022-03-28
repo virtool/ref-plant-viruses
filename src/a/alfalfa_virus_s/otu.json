@@ -2,5 +2,12 @@
     "_id": "p91kfuf9",
     "name": "Alfalfa virus S",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "00561aa2",
     "name": "Potato virus S",
     "abbreviation": "PVS",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

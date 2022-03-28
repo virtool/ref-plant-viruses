@@ -1,0 +1,13 @@
+{
+    "_id": "nk8i8kuk",
+    "name": "Grapevine Kizil Sapak virus",
+    "abbreviation": "GKSV",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

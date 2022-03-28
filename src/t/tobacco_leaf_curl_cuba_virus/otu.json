@@ -1,0 +1,18 @@
+{
+    "_id": "yru3yo0v",
+    "name": "Tobacco leaf curl Cuba virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

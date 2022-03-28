@@ -1,0 +1,13 @@
+{
+    "_id": "898l72tb",
+    "name": "Hot pepper endornavirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

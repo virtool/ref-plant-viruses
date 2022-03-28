@@ -1,0 +1,13 @@
+{
+    "_id": "15mrf76u",
+    "name": "Blechum yellow vein virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "fd481880",
     "name": "Cherry mottle leaf virus",
     "abbreviation": "CMLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

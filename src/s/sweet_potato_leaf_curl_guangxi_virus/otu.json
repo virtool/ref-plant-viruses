@@ -2,5 +2,12 @@
     "_id": "d635036c",
     "name": "Sweet potato leaf curl Guangxi virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

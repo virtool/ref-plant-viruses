@@ -1,0 +1,13 @@
+{
+    "_id": "qg73fuq1",
+    "name": "Angelica virus Y",
+    "abbreviation": "AnVY",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

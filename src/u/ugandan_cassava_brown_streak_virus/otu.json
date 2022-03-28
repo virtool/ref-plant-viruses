@@ -2,5 +2,12 @@
     "_id": "71d15b86",
     "name": "Ugandan cassava brown streak virus",
     "abbreviation": "UCBSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

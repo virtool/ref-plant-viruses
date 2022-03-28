@@ -1,0 +1,13 @@
+{
+    "_id": "n1oifku2",
+    "name": "Anthoxanthum odoratum amalgavirus 1",
+    "abbreviation": "AoAV1",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

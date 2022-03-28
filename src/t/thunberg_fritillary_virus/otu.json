@@ -2,5 +2,12 @@
     "_id": "0cbae6ff",
     "name": "Thunberg fritillary virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

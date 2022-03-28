@@ -1,0 +1,13 @@
+{
+    "_id": "mn1t6u8d",
+    "name": "Tomato leaf curl Namakely virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

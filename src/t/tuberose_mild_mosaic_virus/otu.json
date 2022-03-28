@@ -2,5 +2,12 @@
     "_id": "87ae325e",
     "name": "Tuberose mild mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

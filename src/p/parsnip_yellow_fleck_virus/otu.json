@@ -2,5 +2,12 @@
     "_id": "c2dab328",
     "name": "Parsnip yellow fleck virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

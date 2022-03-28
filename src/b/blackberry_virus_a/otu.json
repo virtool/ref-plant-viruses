@@ -2,5 +2,12 @@
     "_id": "zfyq3lqo",
     "name": "Blackberry virus A",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

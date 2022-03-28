@@ -2,5 +2,12 @@
     "_id": "27c0574c",
     "name": "Tobacco leaf rugose virus",
     "abbreviation": "TbLRV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

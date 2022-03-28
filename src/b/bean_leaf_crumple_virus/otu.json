@@ -1,0 +1,13 @@
+{
+    "_id": "wshcn8oy",
+    "name": "Bean leaf crumple virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

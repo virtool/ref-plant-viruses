@@ -2,5 +2,12 @@
     "_id": "7d051b64",
     "name": "Banana mild mosaic virus",
     "abbreviation": "BanMMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

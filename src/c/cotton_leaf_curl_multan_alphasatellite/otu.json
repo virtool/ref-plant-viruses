@@ -2,5 +2,12 @@
     "_id": "dc85dd44",
     "name": "Cotton leaf curl Multan alphasatellite",
     "abbreviation": "CLCuMuA",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

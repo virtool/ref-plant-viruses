@@ -1,0 +1,13 @@
+{
+    "_id": "s9wybkdw",
+    "name": "Dioscorea bacilliform AL virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

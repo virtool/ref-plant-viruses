@@ -2,5 +2,12 @@
     "_id": "e0cd82ac",
     "name": "Chicory yellow mottle virus satellite RNA",
     "abbreviation": "sChYMV-S1",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

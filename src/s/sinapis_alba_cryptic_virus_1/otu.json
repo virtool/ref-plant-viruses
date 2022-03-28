@@ -1,0 +1,18 @@
+{
+    "_id": "5kcoxjxn",
+    "name": "Sinapis alba cryptic virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

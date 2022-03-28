@@ -1,0 +1,13 @@
+{
+    "_id": "qp5qdmxu",
+    "name": "Datura yellow vein nucleorhabdovirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

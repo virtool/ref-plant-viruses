@@ -2,5 +2,12 @@
     "_id": "tnop4kih",
     "name": "Narcissus virus 1",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

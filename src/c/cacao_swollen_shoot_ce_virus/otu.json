@@ -1,0 +1,13 @@
+{
+    "_id": "cop6yibq",
+    "name": "Cacao swollen shoot CE virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

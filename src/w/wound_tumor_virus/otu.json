@@ -1,0 +1,53 @@
+{
+    "_id": "vg6lwulg",
+    "name": "Wound tumor virus",
+    "abbreviation": "WTV",
+    "schema": [
+        {
+            "name": "S5",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "P6",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "S8",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "S4",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "S12",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "S6",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "S10",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "S9",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "P9",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

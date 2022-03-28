@@ -2,5 +2,12 @@
     "_id": "2d5a0594",
     "name": "Sclerotinia sclerotiorum endornavirus-1",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

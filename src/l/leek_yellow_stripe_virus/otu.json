@@ -2,5 +2,12 @@
     "_id": "a81bc89a",
     "name": "Leek yellow stripe virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

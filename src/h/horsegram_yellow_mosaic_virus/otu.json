@@ -2,5 +2,17 @@
     "_id": "7b4df290",
     "name": "Horsegram yellow mosaic virus",
     "abbreviation": "HYMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -1,0 +1,13 @@
+{
+    "_id": "4ydohve6",
+    "name": "Hollyhock yellow vein virus associated symptomless alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

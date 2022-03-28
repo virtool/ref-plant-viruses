@@ -2,5 +2,12 @@
     "_id": "238ed56d",
     "name": "Pepper leaf curl Yunnan virus-[YN323]",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "c4746d24",
     "name": "Garlic common latent virus",
     "abbreviation": "GCLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

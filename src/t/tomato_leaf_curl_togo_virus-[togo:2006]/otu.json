@@ -1,0 +1,13 @@
+{
+    "_id": "ywhgjmkg",
+    "name": "Tomato leaf curl Togo virus-[Togo:2006]",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

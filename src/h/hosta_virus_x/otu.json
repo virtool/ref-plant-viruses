@@ -2,5 +2,12 @@
     "_id": "41915321",
     "name": "Hosta virus X",
     "abbreviation": "HVX",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

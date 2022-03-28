@@ -1,0 +1,13 @@
+{
+    "_id": "g1xf6qp1",
+    "name": "Physostegia chlorotic mottle virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "s4dj574y",
+    "name": "Tomato leaf curl Gujarat virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

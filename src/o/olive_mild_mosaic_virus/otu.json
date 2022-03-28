@@ -2,5 +2,12 @@
     "_id": "e8deebcf",
     "name": "Olive mild mosaic virus",
     "abbreviation": "OMMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

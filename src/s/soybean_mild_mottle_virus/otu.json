@@ -2,5 +2,12 @@
     "_id": "9a5e8940",
     "name": "Soybean mild mottle virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

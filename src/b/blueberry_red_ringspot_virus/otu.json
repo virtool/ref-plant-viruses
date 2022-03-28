@@ -2,5 +2,12 @@
     "_id": "4d7fefe6",
     "name": "Blueberry red ringspot virus",
     "abbreviation": "BRRV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

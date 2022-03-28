@@ -2,5 +2,12 @@
     "_id": "82666a09",
     "name": "Apple scar skin viroid",
     "abbreviation": "ASSVd",
-    "schema": []
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

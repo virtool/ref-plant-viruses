@@ -1,0 +1,13 @@
+{
+    "_id": "jbfgpdhh",
+    "name": "Tomato leaf curl Sudan betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

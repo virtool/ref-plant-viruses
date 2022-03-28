@@ -2,5 +2,12 @@
     "_id": "14a76fb7",
     "name": "Pleione virus Y",
     "abbreviation": "PleVY",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

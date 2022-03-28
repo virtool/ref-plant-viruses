@@ -2,5 +2,12 @@
     "_id": "0a1e9341",
     "name": "Allamanda leaf curl virus",
     "abbreviation": "AlLCV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

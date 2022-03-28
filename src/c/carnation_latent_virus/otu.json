@@ -1,0 +1,13 @@
+{
+    "_id": "de0e4f05",
+    "name": "Carnation latent virus",
+    "abbreviation": "CLV",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

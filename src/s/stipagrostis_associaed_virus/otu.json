@@ -1,0 +1,13 @@
+{
+    "_id": "cn0pf6w1",
+    "name": "Stipagrostis associaed virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

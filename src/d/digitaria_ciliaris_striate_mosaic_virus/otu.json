@@ -2,5 +2,12 @@
     "_id": "32118501",
     "name": "Digitaria ciliaris striate mosaic virus",
     "abbreviation": "DCSMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

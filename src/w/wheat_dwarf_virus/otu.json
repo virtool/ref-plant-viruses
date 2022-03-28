@@ -2,5 +2,12 @@
     "_id": "0311b72a",
     "name": "Wheat dwarf virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

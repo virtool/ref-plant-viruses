@@ -2,5 +2,12 @@
     "_id": "8aab5188",
     "name": "Taro bacilliform CH virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

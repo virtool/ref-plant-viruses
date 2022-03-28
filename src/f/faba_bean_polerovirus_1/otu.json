@@ -1,0 +1,13 @@
+{
+    "_id": "84gsw3mv",
+    "name": "Faba bean polerovirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

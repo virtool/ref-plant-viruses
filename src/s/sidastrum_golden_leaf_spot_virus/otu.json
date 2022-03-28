@@ -1,0 +1,13 @@
+{
+    "_id": "0d0hqjtl",
+    "name": "Sidastrum golden leaf spot virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "135d3d73",
     "name": "Potato Virus P",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

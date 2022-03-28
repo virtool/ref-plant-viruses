@@ -1,0 +1,18 @@
+{
+    "_id": "gh2nbd4w",
+    "name": "Spinach cryptic virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

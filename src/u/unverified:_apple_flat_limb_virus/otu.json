@@ -1,0 +1,23 @@
+{
+    "_id": "r2u2khxx",
+    "name": "UNVERIFIED: Apple flat limb virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA RdRp",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA MP",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA CP",
+            "molecule": "",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

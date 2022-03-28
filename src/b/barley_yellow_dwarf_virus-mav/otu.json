@@ -2,5 +2,12 @@
     "_id": "22c75acf",
     "name": "Barley yellow dwarf virus-MAV",
     "abbreviation": "BYDV-MAV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

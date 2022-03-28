@@ -2,5 +2,12 @@
     "_id": "n7gos5c3",
     "name": "Panicum distortion mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

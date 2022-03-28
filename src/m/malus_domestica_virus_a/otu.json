@@ -1,0 +1,13 @@
+{
+    "_id": "p0e0yzmj",
+    "name": "Malus domestica virus A",
+    "abbreviation": "MdoVA",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

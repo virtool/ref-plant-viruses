@@ -2,5 +2,12 @@
     "_id": "20cb4c8f",
     "name": "Melon necrotic spot virus",
     "abbreviation": "MNSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

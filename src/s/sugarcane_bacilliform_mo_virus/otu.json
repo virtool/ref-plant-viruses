@@ -2,5 +2,12 @@
     "_id": "5324912f",
     "name": "Sugarcane bacilliform MO virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

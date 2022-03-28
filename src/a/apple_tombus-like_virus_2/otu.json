@@ -1,0 +1,13 @@
+{
+    "_id": "ik7rwj99",
+    "name": "Apple tombus-like virus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

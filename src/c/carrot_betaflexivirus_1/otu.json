@@ -2,5 +2,12 @@
     "_id": "11948dae",
     "name": "Carrot betaflexivirus 1",
     "abbreviation": "CBV-1",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

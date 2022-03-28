@@ -2,5 +2,12 @@
     "_id": "cbb14600",
     "name": "Ageratum enation alphasatellite",
     "abbreviation": "AEVA",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

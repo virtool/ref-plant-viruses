@@ -2,5 +2,12 @@
     "_id": "0bfdb8bc",
     "name": "Wasabi mottle virus",
     "abbreviation": "WMoV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -1,0 +1,18 @@
+{
+    "_id": "3xa1dbt0",
+    "name": "African cassava mosaic Burkina Faso virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

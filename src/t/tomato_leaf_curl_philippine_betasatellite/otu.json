@@ -1,0 +1,13 @@
+{
+    "_id": "ktqyrrgq",
+    "name": "Tomato leaf curl Philippine betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

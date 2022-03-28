@@ -2,5 +2,12 @@
     "_id": "a6a9958c",
     "name": "Banana bract mosaic virus",
     "abbreviation": "BBrMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

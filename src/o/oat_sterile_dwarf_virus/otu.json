@@ -1,0 +1,58 @@
+{
+    "_id": "wyym7ob6",
+    "name": "Oat sterile dwarf virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 4",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 5",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 6",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 7",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 8",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 9",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 10",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

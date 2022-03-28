@@ -2,5 +2,12 @@
     "_id": "fc27c728",
     "name": "Ethiopian tobacco bushy top virus",
     "abbreviation": "ETBTV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

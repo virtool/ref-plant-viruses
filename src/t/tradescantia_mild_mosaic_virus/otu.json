@@ -2,5 +2,12 @@
     "_id": "d4266aef",
     "name": "Tradescantia mild mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

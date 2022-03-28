@@ -2,5 +2,12 @@
     "_id": "a65e3148",
     "name": "Arabis mosaic virus large satellite RNA",
     "abbreviation": "ArMV-lg",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

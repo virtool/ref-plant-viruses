@@ -1,0 +1,13 @@
+{
+    "_id": "r7p00rks",
+    "name": "Sida common mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

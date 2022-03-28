@@ -2,5 +2,12 @@
     "_id": "673c00e5",
     "name": "Cassava mosaic Madagascar alphasatellite",
     "abbreviation": "CMMA",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

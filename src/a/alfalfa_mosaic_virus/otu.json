@@ -2,5 +2,22 @@
     "_id": "3b496df0",
     "name": "Alfalfa mosaic virus",
     "abbreviation": "AMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

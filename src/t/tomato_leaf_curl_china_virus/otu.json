@@ -1,0 +1,13 @@
+{
+    "_id": "9qua7285",
+    "name": "Tomato leaf curl China virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

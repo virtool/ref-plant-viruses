@@ -2,5 +2,12 @@
     "_id": "ee096729",
     "name": "Persimmon latent virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

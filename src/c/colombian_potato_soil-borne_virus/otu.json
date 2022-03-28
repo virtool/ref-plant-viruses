@@ -4,19 +4,20 @@
     "abbreviation": "",
     "schema": [
         {
-            "name": "RNA 1",
             "molecule": "",
+            "name": "RNA 1",
             "required": true
         },
         {
             "name": "RNA 2",
-            "molecule": "",
+            "molecule": "ssRNA+",
             "required": true
         },
         {
             "name": "RNA 3",
-            "molecule": "",
+            "molecule": "ssRNA+",
             "required": true
         }
-    ]
+    ],
+    "taxid": null
 }

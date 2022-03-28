@@ -1,0 +1,18 @@
+{
+    "_id": "8zgt9xww",
+    "name": "Brassica rapa virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "N",
+            "molecule": "ssRNA",
+            "required": true
+        },
+        {
+            "name": "L",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

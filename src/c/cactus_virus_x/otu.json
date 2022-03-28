@@ -2,5 +2,12 @@
     "_id": "d44ecd69",
     "name": "Cactus virus X",
     "abbreviation": "CVX",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

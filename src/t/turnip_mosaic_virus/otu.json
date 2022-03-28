@@ -2,5 +2,12 @@
     "_id": "bdfc2c63",
     "name": "Turnip mosaic virus",
     "abbreviation": "TuMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

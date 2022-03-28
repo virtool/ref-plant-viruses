@@ -2,5 +2,17 @@
     "_id": "3df3e045",
     "name": "Citrus leprosis virus C",
     "abbreviation": "CiLV-C",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -1,0 +1,13 @@
+{
+    "_id": "qdfhtnmy",
+    "name": "Sunn hemp mosaic virus",
+    "abbreviation": "SHMV",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

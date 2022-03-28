@@ -1,0 +1,13 @@
+{
+    "_id": "qwasbrzq",
+    "name": "Rubber tree capillovirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

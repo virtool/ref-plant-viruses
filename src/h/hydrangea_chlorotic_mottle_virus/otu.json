@@ -2,5 +2,12 @@
     "_id": "ab0b3700",
     "name": "Hydrangea chlorotic mottle virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

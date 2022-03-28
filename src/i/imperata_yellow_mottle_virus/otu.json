@@ -2,5 +2,12 @@
     "_id": "cfe6beed",
     "name": "Imperata yellow mottle virus",
     "abbreviation": "IYMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

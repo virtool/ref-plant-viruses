@@ -2,5 +2,12 @@
     "_id": "e885716f",
     "name": "Tobacco curly shoot betasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

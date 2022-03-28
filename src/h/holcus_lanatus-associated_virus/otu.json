@@ -1,0 +1,13 @@
+{
+    "_id": "16y26c1e",
+    "name": "Holcus lanatus-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

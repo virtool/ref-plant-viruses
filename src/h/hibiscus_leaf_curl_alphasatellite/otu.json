@@ -1,0 +1,13 @@
+{
+    "_id": "1ee6z3uq",
+    "name": "Hibiscus leaf curl alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

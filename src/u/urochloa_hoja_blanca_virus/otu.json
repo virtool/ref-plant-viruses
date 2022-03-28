@@ -2,5 +2,22 @@
     "_id": "f650056a",
     "name": "Urochloa hoja blanca virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA pc1",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA pv3",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA pv4",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

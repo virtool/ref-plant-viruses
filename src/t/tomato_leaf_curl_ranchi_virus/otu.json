@@ -1,0 +1,13 @@
+{
+    "_id": "s5gk1dn7",
+    "name": "Tomato leaf curl Ranchi virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

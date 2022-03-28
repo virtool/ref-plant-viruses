@@ -2,5 +2,12 @@
     "_id": "a08c7e80",
     "name": "Ageratum enation virus",
     "abbreviation": "AEV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -1,0 +1,13 @@
+{
+    "_id": "g29d3yv4",
+    "name": "Tomato leaf curl Cameroon alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "168f6718",
     "name": "Rice yellow stunt virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

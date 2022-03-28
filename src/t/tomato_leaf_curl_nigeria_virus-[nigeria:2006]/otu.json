@@ -1,0 +1,13 @@
+{
+    "_id": "td8vrp69",
+    "name": "Tomato leaf curl Nigeria virus-[Nigeria:2006]",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

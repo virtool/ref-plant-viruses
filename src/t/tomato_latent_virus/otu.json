@@ -1,0 +1,13 @@
+{
+    "_id": "wzy3im03",
+    "name": "Tomato latent virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

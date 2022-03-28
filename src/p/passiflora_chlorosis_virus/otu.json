@@ -2,5 +2,12 @@
     "_id": "08d65907",
     "name": "Passiflora chlorosis virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "0cffd61e",
     "name": "Culex originated Tymoviridae-like virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "hd04bzmm",
     "name": "Jasmine mosaic associated virus 1",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

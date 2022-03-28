@@ -2,5 +2,12 @@
     "_id": "0e585ee5",
     "name": "Cotton leaf curl Gezira alphasatellite",
     "abbreviation": "CLCuGeA",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

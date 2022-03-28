@@ -1,6 +1,13 @@
 {
     "_id": "4i428t9r",
     "name": "Blackcurrant leafroll-associated virus 1",
-    "abbreviation": "",
-    "schema": []
+    "abbreviation": "BcLRaV-1",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

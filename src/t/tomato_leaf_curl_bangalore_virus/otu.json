@@ -1,0 +1,13 @@
+{
+    "_id": "t6kc5tdo",
+    "name": "Tomato leaf curl Bangalore virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

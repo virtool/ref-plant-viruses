@@ -2,5 +2,12 @@
     "_id": "abb87c84",
     "name": "Cherry twisted leaf associated virus",
     "abbreviation": "CTLaV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

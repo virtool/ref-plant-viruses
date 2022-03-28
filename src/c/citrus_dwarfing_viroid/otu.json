@@ -2,5 +2,12 @@
     "_id": "8b353c56",
     "name": "Citrus dwarfing viroid",
     "abbreviation": "CDVd",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

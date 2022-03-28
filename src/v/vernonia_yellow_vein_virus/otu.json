@@ -2,5 +2,12 @@
     "_id": "e289deeb",
     "name": "Vernonia yellow vein virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -1,0 +1,13 @@
+{
+    "_id": "6hyj5rzf",
+    "name": "Cherry small circular viroid-like RNA 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

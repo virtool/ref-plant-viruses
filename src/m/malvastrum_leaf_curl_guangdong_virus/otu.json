@@ -2,5 +2,12 @@
     "_id": "cba31ebf",
     "name": "Malvastrum leaf curl Guangdong virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

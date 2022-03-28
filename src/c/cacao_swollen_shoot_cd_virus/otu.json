@@ -1,0 +1,13 @@
+{
+    "_id": "qedhilf6",
+    "name": "Cacao swollen shoot CD virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "b2dd7007",
     "name": "Cherry necrotic rusty mottle virus",
     "abbreviation": "CNRMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

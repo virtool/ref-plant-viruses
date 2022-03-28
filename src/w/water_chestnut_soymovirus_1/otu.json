@@ -1,0 +1,13 @@
+{
+    "_id": "uzbv7is8",
+    "name": "Water chestnut soymovirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

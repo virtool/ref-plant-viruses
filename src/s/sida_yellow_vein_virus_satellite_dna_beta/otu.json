@@ -2,5 +2,12 @@
     "_id": "7bc42ffa",
     "name": "Sida yellow vein virus satellite DNA beta",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "304fdb16",
     "name": "Blackberry virus E",
     "abbreviation": "BVE",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "ea9e1093",
     "name": "Malvastrum yellow vein virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

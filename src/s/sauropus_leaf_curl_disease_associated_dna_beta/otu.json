@@ -2,5 +2,12 @@
     "_id": "0acd7dbf",
     "name": "Sauropus leaf curl disease associated DNA beta",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

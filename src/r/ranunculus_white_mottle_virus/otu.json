@@ -2,5 +2,12 @@
     "_id": "76ad89fb",
     "name": "Ranunculus white mottle virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

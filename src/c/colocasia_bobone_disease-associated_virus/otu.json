@@ -1,0 +1,13 @@
+{
+    "_id": "yyz8tkek",
+    "name": "Colocasia bobone disease-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

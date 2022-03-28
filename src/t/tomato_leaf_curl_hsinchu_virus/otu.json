@@ -1,0 +1,13 @@
+{
+    "_id": "y9p6rk38",
+    "name": "Tomato leaf curl Hsinchu virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

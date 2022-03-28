@@ -1,0 +1,13 @@
+{
+    "_id": "rmcnr2hh",
+    "name": "Cacao Bacilliform SriLanka Virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

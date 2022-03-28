@@ -2,5 +2,12 @@
     "_id": "60147c1e",
     "name": "Blueberry virus A",
     "abbreviation": "BVA",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -1,0 +1,13 @@
+{
+    "_id": "9drfi7hk",
+    "name": "Cacao swollen shoot Ghana N virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

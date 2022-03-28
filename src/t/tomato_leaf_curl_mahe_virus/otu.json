@@ -1,0 +1,13 @@
+{
+    "_id": "8dgi7hax",
+    "name": "Tomato leaf curl Mahe virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

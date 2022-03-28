@@ -2,5 +2,12 @@
     "_id": "79ic0atg",
     "name": "Bottle gourd mottle virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -5,18 +5,19 @@
     "schema": [
         {
             "name": "Segment M",
-            "molecule": "",
+            "molecule": "ssRNA-",
             "required": true
         },
         {
             "name": "Segment L",
-            "molecule": "",
+            "molecule": "ssRNA-",
             "required": true
         },
         {
             "name": "Segment S",
-            "molecule": "",
+            "molecule": "ssRNA-",
             "required": true
         }
-    ]
+    ],
+    "taxid": null
 }

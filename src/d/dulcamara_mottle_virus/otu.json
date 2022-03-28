@@ -2,5 +2,12 @@
     "_id": "f98278af",
     "name": "Dulcamara mottle virus",
     "abbreviation": "DuMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "lstd6dxg",
     "name": "Jasmine virus H",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

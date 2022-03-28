@@ -1,0 +1,13 @@
+{
+    "_id": "3bjjvqt2",
+    "name": "Sweet potato leaf curl China virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

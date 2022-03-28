@@ -2,5 +2,17 @@
     "_id": "c9d0b8c6",
     "name": "Blueberry leaf mottle virus",
     "abbreviation": "BLMoV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

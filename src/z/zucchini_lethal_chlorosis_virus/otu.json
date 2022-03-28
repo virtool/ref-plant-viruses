@@ -2,5 +2,22 @@
     "_id": "e0ef1add",
     "name": "Zucchini lethal chlorosis virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Segment L",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "Segement M",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "Segment S",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

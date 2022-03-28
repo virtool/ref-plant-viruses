@@ -1,0 +1,13 @@
+{
+    "_id": "m546nu3w",
+    "name": "Tomato leaf curl Anand alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "3148b86b",
     "name": "Horseradish latent virus",
     "abbreviation": "HrLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

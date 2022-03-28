@@ -2,5 +2,12 @@
     "_id": "00dc42d3",
     "name": "Cotton leaf curl Multan betasatellite",
     "abbreviation": "CLCuMuB",
-    "schema": []
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

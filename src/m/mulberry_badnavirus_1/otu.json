@@ -2,5 +2,12 @@
     "_id": "89bb47c9",
     "name": "Mulberry badnavirus 1",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

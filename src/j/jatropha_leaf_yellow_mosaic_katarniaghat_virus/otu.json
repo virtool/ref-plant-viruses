@@ -1,0 +1,13 @@
+{
+    "_id": "8c2ih9r1",
+    "name": "Jatropha leaf yellow mosaic Katarniaghat virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "37a16dd2",
     "name": "Cucumber vein-clearing virus",
     "abbreviation": "CuVCV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

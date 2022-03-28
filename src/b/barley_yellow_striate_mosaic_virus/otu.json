@@ -2,5 +2,12 @@
     "_id": "018fa83e",
     "name": "Barley yellow striate mosaic virus",
     "abbreviation": "BYSMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

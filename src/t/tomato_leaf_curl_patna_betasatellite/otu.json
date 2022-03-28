@@ -1,0 +1,13 @@
+{
+    "_id": "pvzj64qt",
+    "name": "Tomato leaf curl Patna betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "un2gcmh8",
+    "name": "Daphne virus X",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

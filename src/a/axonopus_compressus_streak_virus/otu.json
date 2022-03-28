@@ -2,5 +2,12 @@
     "_id": "c2911094",
     "name": "Axonopus compressus streak virus",
     "abbreviation": "ACSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

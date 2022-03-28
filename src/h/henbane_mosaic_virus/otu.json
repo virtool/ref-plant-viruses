@@ -1,0 +1,13 @@
+{
+    "_id": "edf6qh64",
+    "name": "Henbane mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

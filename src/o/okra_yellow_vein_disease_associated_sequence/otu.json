@@ -2,5 +2,12 @@
     "_id": "0955573f",
     "name": "Okra yellow vein disease associated sequence",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

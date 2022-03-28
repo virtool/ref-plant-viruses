@@ -2,5 +2,12 @@
     "_id": "889c8624",
     "name": "Cucurbit aphid-borne yellows virus",
     "abbreviation": "CABYV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "7d533255",
     "name": "Tulip breaking virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

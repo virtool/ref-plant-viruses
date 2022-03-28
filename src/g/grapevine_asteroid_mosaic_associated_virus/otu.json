@@ -2,5 +2,12 @@
     "_id": "4cd4a420",
     "name": "Grapevine asteroid mosaic associated virus",
     "abbreviation": "GAMaV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

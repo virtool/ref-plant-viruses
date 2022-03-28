@@ -1,0 +1,13 @@
+{
+    "_id": "acc90gcw",
+    "name": "Strawberry cytorhabdovirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

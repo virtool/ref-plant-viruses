@@ -2,5 +2,12 @@
     "_id": "fa9dd04b",
     "name": "Ageratum leaf curl Cameroon alphasatellite",
     "abbreviation": "ALCCMA",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

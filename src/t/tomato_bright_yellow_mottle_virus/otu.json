@@ -1,0 +1,13 @@
+{
+    "_id": "38uy59kh",
+    "name": "Tomato bright yellow mottle virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

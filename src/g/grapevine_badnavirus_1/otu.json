@@ -1,6 +1,13 @@
 {
     "_id": "1tzn4kyt",
     "name": "Grapevine badnavirus 1",
-    "abbreviation": "",
-    "schema": []
+    "abbreviation": "GBV-1",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

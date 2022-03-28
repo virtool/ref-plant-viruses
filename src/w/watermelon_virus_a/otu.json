@@ -2,5 +2,12 @@
     "_id": "9djcjp54",
     "name": "Watermelon virus A",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

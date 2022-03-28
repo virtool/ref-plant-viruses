@@ -1,0 +1,13 @@
+{
+    "_id": "gj78ovl5",
+    "name": "Emilia yellow vein Fujian betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

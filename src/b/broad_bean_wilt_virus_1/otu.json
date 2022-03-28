@@ -2,5 +2,17 @@
     "_id": "ea66e855",
     "name": "Broad bean wilt virus 1",
     "abbreviation": "BBWV-1",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

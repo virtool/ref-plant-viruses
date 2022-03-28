@@ -1,0 +1,13 @@
+{
+    "_id": "89clcelq",
+    "name": "Atractylodes mild mottle virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

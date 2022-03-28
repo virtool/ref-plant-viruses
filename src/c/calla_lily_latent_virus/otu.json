@@ -2,5 +2,12 @@
     "_id": "563c2411",
     "name": "Calla lily latent virus",
     "abbreviation": "CLLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

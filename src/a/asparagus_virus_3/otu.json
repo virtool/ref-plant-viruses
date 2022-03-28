@@ -2,5 +2,12 @@
     "_id": "d9dde9d6",
     "name": "Asparagus virus 3",
     "abbreviation": "AV-3",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "a5a38404",
     "name": "Soybean blistering mosaic virus",
     "abbreviation": "SbBMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

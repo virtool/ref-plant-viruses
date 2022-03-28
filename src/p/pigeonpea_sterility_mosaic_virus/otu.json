@@ -1,0 +1,33 @@
+{
+    "_id": "31tk4j3g",
+    "name": "Pigeonpea sterility mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 4",
+            "molecule": "",
+            "required": true
+        },
+        {
+            "name": "RNA 5",
+            "molecule": "",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

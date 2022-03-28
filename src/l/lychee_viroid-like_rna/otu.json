@@ -1,0 +1,13 @@
+{
+    "_id": "azgmvemc",
+    "name": "Lychee viroid-like RNA",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

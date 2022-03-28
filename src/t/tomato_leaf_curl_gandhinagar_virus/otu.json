@@ -1,0 +1,13 @@
+{
+    "_id": "61o9316m",
+    "name": "Tomato leaf curl Gandhinagar virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

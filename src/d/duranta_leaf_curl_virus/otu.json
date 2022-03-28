@@ -1,0 +1,13 @@
+{
+    "_id": "l88s06me",
+    "name": "Duranta leaf curl virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

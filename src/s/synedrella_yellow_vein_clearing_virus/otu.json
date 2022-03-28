@@ -1,0 +1,13 @@
+{
+    "_id": "0xbw89fw",
+    "name": "Synedrella yellow vein clearing virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "i9hh3lmc",
+    "name": "Strawberry crinkle cytorhabdovirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

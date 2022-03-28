@@ -2,5 +2,12 @@
     "_id": "c7a6bdb4",
     "name": "Chickpea chlorosis virus-A",
     "abbreviation": "CpCV-A",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

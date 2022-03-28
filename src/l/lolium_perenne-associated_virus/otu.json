@@ -1,0 +1,13 @@
+{
+    "_id": "xcp63sti",
+    "name": "Lolium perenne-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "v128fzye",
+    "name": "Cassava satellite virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

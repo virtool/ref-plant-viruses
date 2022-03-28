@@ -2,5 +2,12 @@
     "_id": "783f38b6",
     "name": "Ranunculus mild mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "3a63968d",
     "name": "Chrysanthemum stunt viroid",
     "abbreviation": "CSVd",
-    "schema": []
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -1,0 +1,13 @@
+{
+    "_id": "vnv7vldl",
+    "name": "Whitefly-associated begomovirus 6",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

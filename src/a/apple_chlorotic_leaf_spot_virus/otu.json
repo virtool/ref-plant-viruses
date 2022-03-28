@@ -2,5 +2,12 @@
     "_id": "54a508b1",
     "name": "Apple chlorotic leaf spot virus",
     "abbreviation": "ACLSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

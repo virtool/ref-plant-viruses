@@ -2,5 +2,12 @@
     "_id": "0c8b89dc",
     "name": "Verbesina encelioides leaf curl alphasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

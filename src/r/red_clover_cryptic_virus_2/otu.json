@@ -2,5 +2,17 @@
     "_id": "0db0ac26",
     "name": "Red clover cryptic virus 2",
     "abbreviation": "RCCV-2",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

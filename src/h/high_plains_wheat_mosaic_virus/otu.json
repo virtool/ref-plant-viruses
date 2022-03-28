@@ -1,0 +1,53 @@
+{
+    "_id": "dchfse32",
+    "name": "High Plains wheat mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 3a",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 4",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 5",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 6",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 7",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 3b",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 8",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

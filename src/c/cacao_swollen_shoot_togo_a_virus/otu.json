@@ -1,0 +1,13 @@
+{
+    "_id": "d9mnnblk",
+    "name": "Cacao swollen shoot Togo A virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

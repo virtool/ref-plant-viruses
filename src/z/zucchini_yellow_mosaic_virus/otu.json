@@ -2,5 +2,12 @@
     "_id": "2bd63273",
     "name": "Zucchini yellow mosaic virus",
     "abbreviation": "ZYMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

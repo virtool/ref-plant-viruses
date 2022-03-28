@@ -2,5 +2,12 @@
     "_id": "955e3d65",
     "name": "Moroccan pepper virus",
     "abbreviation": "MPV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

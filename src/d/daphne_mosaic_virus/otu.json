@@ -2,5 +2,12 @@
     "_id": "68624725",
     "name": "Daphne mosaic virus",
     "abbreviation": "DapMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

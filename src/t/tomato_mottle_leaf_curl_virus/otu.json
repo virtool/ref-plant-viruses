@@ -4,9 +4,10 @@
     "abbreviation": "",
     "schema": [
         {
-            "name": "DNA-A",
             "molecule": "ssDNA",
+            "name": "DNA-A",
             "required": true
         }
-    ]
+    ],
+    "taxid": null
 }

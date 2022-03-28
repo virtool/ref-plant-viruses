@@ -2,5 +2,12 @@
     "_id": "bfad8f14",
     "name": "Red clover vein mosaic virus",
     "abbreviation": "RCVMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "98ac6a26",
     "name": "St. Augustine decline satellite virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

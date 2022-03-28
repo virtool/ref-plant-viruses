@@ -2,5 +2,22 @@
     "_id": "2cd2c0fc",
     "name": "Euphorbia yellow mosaic virus",
     "abbreviation": "EuYMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA 1",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

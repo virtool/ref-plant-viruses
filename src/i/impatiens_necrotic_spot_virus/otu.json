@@ -2,5 +2,22 @@
     "_id": "2031cb7f",
     "name": "Impatiens necrotic spot virus",
     "abbreviation": "INSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA L",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA M",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA S",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

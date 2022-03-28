@@ -2,5 +2,12 @@
     "_id": "f32199ad",
     "name": "Blueberry latent virus",
     "abbreviation": "BLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

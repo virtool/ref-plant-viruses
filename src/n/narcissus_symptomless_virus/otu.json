@@ -2,5 +2,12 @@
     "_id": "da71ab14",
     "name": "Narcissus symptomless virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

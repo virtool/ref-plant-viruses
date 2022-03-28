@@ -1,0 +1,13 @@
+{
+    "_id": "4esbzhbb",
+    "name": "Codiaeum leaf curl betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "f1cd6772",
     "name": "Maize white line mosaic satellite virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

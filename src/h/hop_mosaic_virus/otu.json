@@ -2,5 +2,12 @@
     "_id": "02aff711",
     "name": "Hop mosaic virus",
     "abbreviation": "HpMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -1,0 +1,13 @@
+{
+    "_id": "m1j2kj3q",
+    "name": "Tomato leaf curl Seychelles virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

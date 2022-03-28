@@ -2,5 +2,12 @@
     "_id": "4eb3a167",
     "name": "Maize chlorotic dwarf virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

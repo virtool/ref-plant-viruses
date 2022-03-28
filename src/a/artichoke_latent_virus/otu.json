@@ -2,5 +2,12 @@
     "_id": "6a1bf484",
     "name": "Artichoke latent virus",
     "abbreviation": "ArtLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "097f4420",
     "name": "Squash leaf curl Yunnan virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

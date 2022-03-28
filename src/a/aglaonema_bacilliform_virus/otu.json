@@ -1,0 +1,13 @@
+{
+    "_id": "nrosv0gg",
+    "name": "Aglaonema bacilliform virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

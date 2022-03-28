@@ -1,0 +1,13 @@
+{
+    "_id": "txq1xb02",
+    "name": "Tomato leaf curl Laos virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

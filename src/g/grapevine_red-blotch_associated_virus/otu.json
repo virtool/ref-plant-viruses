@@ -2,5 +2,12 @@
     "_id": "cbfd9bca",
     "name": "Grapevine red-blotch associated virus",
     "abbreviation": "GRBaV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

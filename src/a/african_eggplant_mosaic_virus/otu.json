@@ -1,0 +1,13 @@
+{
+    "_id": "iyw0y3ta",
+    "name": "African eggplant mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

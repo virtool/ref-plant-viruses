@@ -2,5 +2,12 @@
     "_id": "4139ab13",
     "name": "Tomato mottle leaf curl Zulia virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

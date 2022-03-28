@@ -1,0 +1,13 @@
+{
+    "_id": "sjpih4ld",
+    "name": "Sporaea yellow leafspot virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

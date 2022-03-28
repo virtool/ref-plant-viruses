@@ -1,0 +1,13 @@
+{
+    "_id": "qca33r4r",
+    "name": "Coleus blumei viroid 5",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

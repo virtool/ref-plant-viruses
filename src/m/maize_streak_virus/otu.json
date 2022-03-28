@@ -2,5 +2,12 @@
     "_id": "5574ca68",
     "name": "Maize streak virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

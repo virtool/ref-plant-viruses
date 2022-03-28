@@ -2,5 +2,12 @@
     "_id": "f4f05f0f",
     "name": "Okra yellow crinkle Cameroon alphasatellite [CM:Lys1sp2:09]",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

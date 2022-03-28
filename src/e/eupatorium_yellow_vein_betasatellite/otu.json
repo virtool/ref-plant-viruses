@@ -2,5 +2,12 @@
     "_id": "321ad21d",
     "name": "Eupatorium yellow vein betasatellite",
     "abbreviation": "EYVB",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

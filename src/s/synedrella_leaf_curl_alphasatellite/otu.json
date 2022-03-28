@@ -1,0 +1,13 @@
+{
+    "_id": "19n3wqbx",
+    "name": "Synedrella leaf curl alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

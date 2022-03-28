@@ -2,5 +2,12 @@
     "_id": "xob0zs9q",
     "name": "Cherry associated luteovirus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

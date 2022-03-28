@@ -1,0 +1,13 @@
+{
+    "_id": "a3dadfed",
+    "name": "Chilli veinal mottle virus",
+    "abbreviation": "ChiVMV",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

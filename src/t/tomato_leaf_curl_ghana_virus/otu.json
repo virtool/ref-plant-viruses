@@ -1,0 +1,13 @@
+{
+    "_id": "rokbqlxc",
+    "name": "Tomato leaf curl Ghana virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

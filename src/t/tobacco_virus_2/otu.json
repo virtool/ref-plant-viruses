@@ -1,0 +1,13 @@
+{
+    "_id": "qnnpp34f",
+    "name": "Tobacco virus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "bb4e61c1",
     "name": "Chrysanthemum chlorotic mottle viroid",
     "abbreviation": "CChMVd",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

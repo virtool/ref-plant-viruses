@@ -2,5 +2,12 @@
     "_id": "cd2b7453",
     "name": "Clover yellow vein virus",
     "abbreviation": "ClYVV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

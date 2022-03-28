@@ -1,0 +1,13 @@
+{
+    "_id": "rz2d9vq3",
+    "name": "Tomato leaf curl Burkina Faso virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

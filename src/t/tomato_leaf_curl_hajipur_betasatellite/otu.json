@@ -1,0 +1,13 @@
+{
+    "_id": "wkovl6qv",
+    "name": "Tomato leaf curl Hajipur betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

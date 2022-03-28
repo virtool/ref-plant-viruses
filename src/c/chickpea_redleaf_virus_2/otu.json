@@ -1,0 +1,13 @@
+{
+    "_id": "eccdd3o5",
+    "name": "Chickpea redleaf virus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

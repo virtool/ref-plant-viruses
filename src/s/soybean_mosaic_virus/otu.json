@@ -2,5 +2,12 @@
     "_id": "6879ab2e",
     "name": "Soybean mosaic virus",
     "abbreviation": "SoyMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

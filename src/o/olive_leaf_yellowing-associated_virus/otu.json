@@ -2,5 +2,12 @@
     "_id": "a5627f11",
     "name": "Olive leaf yellowing-associated virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

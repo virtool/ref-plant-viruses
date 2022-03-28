@@ -1,0 +1,13 @@
+{
+    "_id": "zxzqxjr5",
+    "name": "Tomato leaf curl Karnataka virus 3",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

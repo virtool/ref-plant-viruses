@@ -2,5 +2,12 @@
     "_id": "67f584c6",
     "name": "Tomato leaf distortion virus",
     "abbreviation": "ToLDV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

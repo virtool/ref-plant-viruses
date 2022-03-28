@@ -1,0 +1,13 @@
+{
+    "_id": "ss3h6jxq",
+    "name": "Tomato leaf curl Togo betasatellite-[Togo:2006]",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

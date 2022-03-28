@@ -2,5 +2,12 @@
     "_id": "fde446f1",
     "name": "Cereal yellow dwarf virus-RPV",
     "abbreviation": "CYDV-RPV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

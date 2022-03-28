@@ -2,5 +2,12 @@
     "_id": "f852c888",
     "name": "Citrus sudden death-associated virus",
     "abbreviation": "CDSaV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

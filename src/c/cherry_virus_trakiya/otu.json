@@ -2,5 +2,12 @@
     "_id": "scdnelqw",
     "name": "Cherry virus Trakiya",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

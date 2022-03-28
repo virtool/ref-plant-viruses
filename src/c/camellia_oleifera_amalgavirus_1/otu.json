@@ -1,0 +1,13 @@
+{
+    "_id": "72sg2wqv",
+    "name": "Camellia oleifera amalgavirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

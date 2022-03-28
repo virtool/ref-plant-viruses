@@ -1,0 +1,13 @@
+{
+    "_id": "5maho6fs",
+    "name": "Euphorbia heterophylla associated gemycircularvirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

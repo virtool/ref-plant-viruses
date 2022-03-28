@@ -1,0 +1,13 @@
+{
+    "_id": "bjl0ahib",
+    "name": "Tomato leaf curl Java virus-[Ageratum] satellite DNA",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "iycgu5j0",
+    "name": "Coconut foliar decay alphasatellite 6",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

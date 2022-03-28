@@ -2,5 +2,12 @@
     "_id": "41e99b3b",
     "name": "Peristrophe mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

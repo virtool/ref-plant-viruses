@@ -2,5 +2,12 @@
     "_id": "af235b84",
     "name": "Strawberry polerovirus 1",
     "abbreviation": "SPV1",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

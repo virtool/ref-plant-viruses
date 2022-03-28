@@ -1,0 +1,13 @@
+{
+    "_id": "eq7c0r0t",
+    "name": "Jatropha leaf curl Gujarat virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

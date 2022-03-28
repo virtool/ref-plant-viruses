@@ -2,5 +2,12 @@
     "_id": "b8ab1fa9",
     "name": "Helleborus mosaic virus",
     "abbreviation": "HeMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

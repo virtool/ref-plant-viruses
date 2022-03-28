@@ -1,0 +1,13 @@
+{
+    "_id": "kqpzbw0s",
+    "name": "Hollyhock yellow vein mosaic Islamabad virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

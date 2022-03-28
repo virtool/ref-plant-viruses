@@ -1,0 +1,13 @@
+{
+    "_id": "w2s2z0kc",
+    "name": "Tomato leaf curl Taiwan virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

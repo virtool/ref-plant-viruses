@@ -2,5 +2,12 @@
     "_id": "dfca1199",
     "name": "Cyrtanthus elatus virus A",
     "abbreviation": "CEVA",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

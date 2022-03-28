@@ -1,0 +1,13 @@
+{
+    "_id": "u8s7cosn",
+    "name": "Tomato leaf curl New Delhi betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "j5udjga7",
     "name": "Maize striate mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

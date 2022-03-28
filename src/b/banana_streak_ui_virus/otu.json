@@ -2,5 +2,12 @@
     "_id": "7c1ea45d",
     "name": "Banana streak UI virus",
     "abbreviation": "BSUIV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

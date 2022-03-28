@@ -2,5 +2,12 @@
     "_id": "7e682b01",
     "name": "Celery mosaic virus",
     "abbreviation": "CeMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "e07eca19",
     "name": "Pouzolzia golden mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

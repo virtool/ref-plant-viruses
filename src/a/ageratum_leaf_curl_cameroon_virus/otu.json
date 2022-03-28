@@ -2,5 +2,12 @@
     "_id": "782b8c1f",
     "name": "Ageratum leaf curl Cameroon virus",
     "abbreviation": "ALCCMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

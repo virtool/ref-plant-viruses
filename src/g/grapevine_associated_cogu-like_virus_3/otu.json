@@ -1,0 +1,23 @@
+{
+    "_id": "4s95k3t4",
+    "name": "Grapevine associated cogu-like virus 3",
+    "abbreviation": "GaClV3",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

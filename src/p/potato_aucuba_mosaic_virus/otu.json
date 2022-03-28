@@ -2,5 +2,12 @@
     "_id": "a9d4b58c",
     "name": "Potato aucuba mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

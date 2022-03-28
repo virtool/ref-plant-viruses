@@ -2,5 +2,12 @@
     "_id": "b1e4bac3",
     "name": "Nerine virus X",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

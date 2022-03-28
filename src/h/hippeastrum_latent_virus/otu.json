@@ -2,5 +2,12 @@
     "_id": "7ae1a6e3",
     "name": "Hippeastrum latent virus",
     "abbreviation": "HiLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

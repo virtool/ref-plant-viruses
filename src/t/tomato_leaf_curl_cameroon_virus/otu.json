@@ -1,0 +1,13 @@
+{
+    "_id": "eofbbmv1",
+    "name": "Tomato leaf curl Cameroon virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

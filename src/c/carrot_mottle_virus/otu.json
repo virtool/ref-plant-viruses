@@ -2,5 +2,17 @@
     "_id": "c794c319",
     "name": "Carrot mottle virus",
     "abbreviation": "CMoV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

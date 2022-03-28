@@ -2,5 +2,12 @@
     "_id": "48ac2443",
     "name": "Pepper yellow mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

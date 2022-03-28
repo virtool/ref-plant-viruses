@@ -1,0 +1,13 @@
+{
+    "_id": "m1j20qv6",
+    "name": "Celery latent virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

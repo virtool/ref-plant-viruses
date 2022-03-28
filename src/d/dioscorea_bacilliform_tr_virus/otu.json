@@ -1,0 +1,13 @@
+{
+    "_id": "pl7ifdw0",
+    "name": "Dioscorea bacilliform TR virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

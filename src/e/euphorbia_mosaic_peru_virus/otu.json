@@ -1,0 +1,13 @@
+{
+    "_id": "27xsokge",
+    "name": "Euphorbia mosaic Peru virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

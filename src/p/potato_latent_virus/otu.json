@@ -2,5 +2,12 @@
     "_id": "dcbb0c95",
     "name": "Potato latent virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -1,0 +1,13 @@
+{
+    "_id": "jehqbixg",
+    "name": "Tomato leaf curl Ranchi betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

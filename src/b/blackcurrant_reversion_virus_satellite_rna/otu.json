@@ -2,5 +2,12 @@
     "_id": "11a0e2e8",
     "name": "Blackcurrant reversion virus satellite RNA",
     "abbreviation": "satBRV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

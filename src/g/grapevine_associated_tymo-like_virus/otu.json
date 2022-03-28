@@ -2,5 +2,12 @@
     "_id": "9ejr9a3f",
     "name": "Grapevine associated tymo-like virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

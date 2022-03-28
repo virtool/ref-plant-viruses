@@ -2,5 +2,12 @@
     "_id": "49ed3de1",
     "name": "Rice tungro bacilliform virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

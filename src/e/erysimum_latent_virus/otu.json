@@ -2,5 +2,12 @@
     "_id": "9a179b05",
     "name": "Erysimum latent virus",
     "abbreviation": "ErLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

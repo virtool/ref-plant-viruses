@@ -1,0 +1,13 @@
+{
+    "_id": "to62b68q",
+    "name": "Coleus blumei viroid 6",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

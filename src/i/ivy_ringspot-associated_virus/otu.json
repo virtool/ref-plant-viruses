@@ -1,0 +1,13 @@
+{
+    "_id": "abx6qfnc",
+    "name": "Ivy ringspot-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

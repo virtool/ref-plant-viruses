@@ -2,5 +2,12 @@
     "_id": "16699571",
     "name": "Soybean Putnam virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

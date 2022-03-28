@@ -1,0 +1,13 @@
+{
+    "_id": "ckuuwe80",
+    "name": "Grapevine hammerhead viroid-like RNA",
+    "abbreviation": "GHVd",
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "y8o6frwf",
+    "name": "Mirabilis leaf curl betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

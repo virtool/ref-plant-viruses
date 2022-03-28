@@ -1,0 +1,13 @@
+{
+    "_id": "ztp7c4s4",
+    "name": "Sweet potato symptomless virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

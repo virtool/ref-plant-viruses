@@ -2,5 +2,12 @@
     "_id": "092aa229",
     "name": "Rhododendron virus A",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA ",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

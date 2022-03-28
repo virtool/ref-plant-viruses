@@ -4,19 +4,20 @@
     "abbreviation": "",
     "schema": [
         {
+            "molecule": "",
             "name": "Segment L",
-            "molecule": "",
             "required": true
         },
         {
+            "molecule": "",
             "name": "Segment M",
-            "molecule": "",
             "required": true
         },
         {
-            "name": "Segment S",
             "molecule": "",
+            "name": "Segment S",
             "required": true
         }
-    ]
+    ],
+    "taxid": null
 }

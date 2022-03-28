@@ -2,5 +2,12 @@
     "_id": "9e1e16fc",
     "name": "Okra yellow vein mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

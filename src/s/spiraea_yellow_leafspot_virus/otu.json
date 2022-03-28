@@ -1,0 +1,13 @@
+{
+    "_id": "9aiciqo5",
+    "name": "Spiraea yellow leafspot virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

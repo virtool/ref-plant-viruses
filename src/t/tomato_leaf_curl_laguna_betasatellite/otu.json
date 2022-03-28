@@ -1,0 +1,13 @@
+{
+    "_id": "j0osjud2",
+    "name": "Tomato leaf curl Laguna betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

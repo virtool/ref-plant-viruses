@@ -1,0 +1,13 @@
+{
+    "_id": "ox2j28l5",
+    "name": "Euphorbia leaf curl Guangxi virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

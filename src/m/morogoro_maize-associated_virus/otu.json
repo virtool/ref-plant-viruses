@@ -1,0 +1,13 @@
+{
+    "_id": "0tv3d5li",
+    "name": "Morogoro maize-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "b0cfa402",
     "name": "Caper latent virus",
     "abbreviation": "CapLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

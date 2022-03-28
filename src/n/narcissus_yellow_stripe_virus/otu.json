@@ -2,5 +2,12 @@
     "_id": "16d3d701",
     "name": "Narcissus yellow stripe virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

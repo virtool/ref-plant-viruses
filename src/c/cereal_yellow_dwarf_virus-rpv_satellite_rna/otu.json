@@ -2,5 +2,12 @@
     "_id": "8410c4dd",
     "name": "Cereal yellow dwarf virus-RPV satellite RNA",
     "abbreviation": "CYDV-satRPV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

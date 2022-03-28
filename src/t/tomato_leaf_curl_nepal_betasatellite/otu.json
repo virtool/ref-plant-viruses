@@ -1,0 +1,13 @@
+{
+    "_id": "n74f9xw7",
+    "name": "Tomato leaf curl Nepal betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

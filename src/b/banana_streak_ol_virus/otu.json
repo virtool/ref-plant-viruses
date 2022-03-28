@@ -2,5 +2,12 @@
     "_id": "16174395",
     "name": "Banana streak OL virus",
     "abbreviation": "BSOLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

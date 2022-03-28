@@ -2,5 +2,12 @@
     "_id": "f6e1a6fd",
     "name": "Vernonia yellow vein betasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

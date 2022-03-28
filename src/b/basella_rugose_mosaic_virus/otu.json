@@ -2,5 +2,12 @@
     "_id": "357d3130",
     "name": "Basella rugose mosaic virus",
     "abbreviation": "BaRMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

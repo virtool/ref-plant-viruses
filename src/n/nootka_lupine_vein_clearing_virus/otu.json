@@ -2,5 +2,12 @@
     "_id": "e736347a",
     "name": "Nootka lupine vein clearing virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

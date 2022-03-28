@@ -1,0 +1,13 @@
+{
+    "_id": "m9i6u4dv",
+    "name": "Ocimum basilicum RNA virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

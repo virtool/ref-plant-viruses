@@ -1,0 +1,13 @@
+{
+    "_id": "084kvoqh",
+    "name": "Jujube mosaic-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

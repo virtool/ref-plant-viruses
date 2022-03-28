@@ -2,5 +2,12 @@
     "_id": "c85dca33",
     "name": "Helleborus net necrosis virus",
     "abbreviation": "HeNNV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

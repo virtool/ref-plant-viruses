@@ -2,5 +2,12 @@
     "_id": "maf821ys",
     "name": "Sugarcane chlorotic streak virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

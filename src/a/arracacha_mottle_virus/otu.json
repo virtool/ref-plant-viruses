@@ -2,5 +2,12 @@
     "_id": "861aab8a",
     "name": "Arracacha mottle virus",
     "abbreviation": "AMoV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

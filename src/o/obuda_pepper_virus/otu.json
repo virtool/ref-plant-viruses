@@ -2,5 +2,12 @@
     "_id": "008efa27",
     "name": "Obuda pepper virus",
     "abbreviation": "OPV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

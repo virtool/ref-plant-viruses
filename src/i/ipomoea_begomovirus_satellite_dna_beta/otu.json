@@ -2,5 +2,12 @@
     "_id": "074fbcf6",
     "name": "Ipomoea begomovirus satellite DNA beta",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

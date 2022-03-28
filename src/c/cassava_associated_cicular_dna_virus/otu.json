@@ -2,5 +2,12 @@
     "_id": "b69cfdd0",
     "name": "Cassava associated cicular DNA virus",
     "abbreviation": "CasCV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

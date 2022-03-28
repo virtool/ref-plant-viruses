@@ -2,5 +2,12 @@
     "_id": "bzhf3v3y",
     "name": "Senna mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

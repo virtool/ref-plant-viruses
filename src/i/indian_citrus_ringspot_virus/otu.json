@@ -2,5 +2,12 @@
     "_id": "1738727a",
     "name": "Indian citrus ringspot virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

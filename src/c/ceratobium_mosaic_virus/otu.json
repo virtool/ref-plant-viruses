@@ -2,5 +2,12 @@
     "_id": "5f6a3688",
     "name": "Ceratobium mosaic virus",
     "abbreviation": "CerMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

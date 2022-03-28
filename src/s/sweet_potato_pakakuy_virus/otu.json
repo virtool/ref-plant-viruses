@@ -1,0 +1,13 @@
+{
+    "_id": "dyc48vck",
+    "name": "Sweet potato pakakuy virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "3c9dc3e3",
     "name": "Carnation mottle virus",
     "abbreviation": "CarMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

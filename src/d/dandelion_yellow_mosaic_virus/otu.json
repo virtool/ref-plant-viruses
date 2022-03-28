@@ -1,0 +1,13 @@
+{
+    "_id": "wkocnfue",
+    "name": "Dandelion yellow mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

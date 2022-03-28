@@ -1,0 +1,13 @@
+{
+    "_id": "2kuy3goi",
+    "name": "Citrus associated ampelovirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

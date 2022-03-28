@@ -1,0 +1,13 @@
+{
+    "_id": "yryhvss2",
+    "name": "Portulaca latent viroid",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

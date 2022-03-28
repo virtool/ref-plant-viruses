@@ -2,5 +2,12 @@
     "_id": "e9d25d87",
     "name": "Yam virus X",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

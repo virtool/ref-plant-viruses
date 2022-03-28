@@ -1,0 +1,13 @@
+{
+    "_id": "yb9sb4wt",
+    "name": "Tomato leaf curl Barka virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

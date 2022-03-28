@@ -2,5 +2,12 @@
     "_id": "8d056196",
     "name": "Rose spring dwarf-associated virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

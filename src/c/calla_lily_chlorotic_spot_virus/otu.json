@@ -1,22 +1,23 @@
 {
     "_id": "lcib54pw",
     "name": "Calla lily chlorotic spot virus",
-    "abbreviation": "",
+    "abbreviation": "CCSV",
     "schema": [
         {
-            "name": "Segment L",
-            "molecule": "",
+            "name": "L",
+            "molecule": "ssRNA-",
             "required": true
         },
         {
-            "name": "Segment M",
-            "molecule": "",
+            "name": "M",
+            "molecule": "ssRNA-",
             "required": true
         },
         {
-            "name": "Segment S",
-            "molecule": "",
+            "name": "S",
+            "molecule": "ssRNA-",
             "required": true
         }
-    ]
+    ],
+    "taxid": null
 }

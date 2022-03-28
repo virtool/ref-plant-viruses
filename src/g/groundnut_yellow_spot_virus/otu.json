@@ -2,5 +2,12 @@
     "_id": "069590e4",
     "name": "Groundnut yellow spot virus",
     "abbreviation": "GYSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA S",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

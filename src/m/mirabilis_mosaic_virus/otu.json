@@ -2,5 +2,12 @@
     "_id": "a3f5f121",
     "name": "Mirabilis mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

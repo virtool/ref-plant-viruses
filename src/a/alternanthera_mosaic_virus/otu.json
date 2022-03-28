@@ -2,5 +2,12 @@
     "_id": "78f76b67",
     "name": "Alternanthera mosaic virus",
     "abbreviation": "AltMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

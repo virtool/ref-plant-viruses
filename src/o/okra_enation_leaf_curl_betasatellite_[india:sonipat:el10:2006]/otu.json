@@ -2,5 +2,12 @@
     "_id": "a25bd302",
     "name": "Okra enation leaf curl betasatellite [India:Sonipat:EL10:2006]",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

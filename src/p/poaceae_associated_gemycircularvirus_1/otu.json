@@ -1,0 +1,13 @@
+{
+    "_id": "arvovo4o",
+    "name": "Poaceae associated gemycircularvirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

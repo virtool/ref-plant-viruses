@@ -1,0 +1,13 @@
+{
+    "_id": "z940tzs7",
+    "name": "Andrographis yellow vein leaf curl virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

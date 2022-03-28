@@ -1,0 +1,13 @@
+{
+    "_id": "dafnlxjm",
+    "name": "Whitefly-associated begomovirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

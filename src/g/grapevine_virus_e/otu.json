@@ -2,5 +2,12 @@
     "_id": "e8be65b3",
     "name": "Grapevine virus E",
     "abbreviation": "GVE",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

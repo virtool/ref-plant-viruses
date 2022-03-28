@@ -1,0 +1,13 @@
+{
+    "_id": "0hr4b2uk",
+    "name": "Tomato leaf curl China virus - OX2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

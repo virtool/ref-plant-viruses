@@ -2,5 +2,12 @@
     "_id": "3336c266",
     "name": "Malvastrum leaf curl virus-associated defective DNA beta",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Defective DNA",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

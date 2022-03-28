@@ -2,5 +2,12 @@
     "_id": "20822662",
     "name": "Oryza rufipogon endornavirus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

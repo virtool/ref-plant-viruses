@@ -1,0 +1,13 @@
+{
+    "_id": "t8yfyj41",
+    "name": "Tomato leaf curl Uganda virus - [Iganga]",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "a0b2fvwd",
+    "name": "Peach-associated virus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

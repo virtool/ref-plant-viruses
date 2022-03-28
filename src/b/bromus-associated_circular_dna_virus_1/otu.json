@@ -1,0 +1,13 @@
+{
+    "_id": "4r3qg8ye",
+    "name": "Bromus-associated circular DNA virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -2,5 +2,12 @@
     "_id": "b80895f1",
     "name": "TYLCCNV-[Y322] satellite DNA beta",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -1,0 +1,13 @@
+{
+    "_id": "d08n1fd1",
+    "name": "Callistephus mottle virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

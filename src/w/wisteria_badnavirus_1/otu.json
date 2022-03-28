@@ -1,0 +1,13 @@
+{
+    "_id": "y88a2ty2",
+    "name": "Wisteria badnavirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

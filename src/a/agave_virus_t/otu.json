@@ -1,0 +1,13 @@
+{
+    "_id": "jdyps1lt",
+    "name": "Agave virus T",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

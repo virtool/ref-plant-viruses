@@ -2,5 +2,12 @@
     "_id": "0056e9af",
     "name": "Agropyron mosaic virus",
     "abbreviation": "AgMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "205c2358",
     "name": "Sweet potato leaf curl Canary virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

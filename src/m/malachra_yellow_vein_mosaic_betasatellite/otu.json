@@ -1,0 +1,13 @@
+{
+    "_id": "mv0o02rn",
+    "name": "Malachra yellow vein mosaic betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

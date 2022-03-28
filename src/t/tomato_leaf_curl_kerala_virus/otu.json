@@ -1,0 +1,13 @@
+{
+    "_id": "43kzbprc",
+    "name": "Tomato leaf curl Kerala virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

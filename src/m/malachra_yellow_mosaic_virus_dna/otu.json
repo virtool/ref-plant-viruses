@@ -1,0 +1,13 @@
+{
+    "_id": "dujsiqfk",
+    "name": "Malachra yellow mosaic virus DNA",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
