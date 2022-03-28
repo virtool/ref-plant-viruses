@@ -1,0 +1,13 @@
+{
+    "_id": "m1ktp91v",
+    "name": "Tomato leaf curl Pakistan alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
