@@ -2,5 +2,22 @@
     "_id": "411e98ff",
     "name": "Tobacco streak virus",
     "abbreviation": "TSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
