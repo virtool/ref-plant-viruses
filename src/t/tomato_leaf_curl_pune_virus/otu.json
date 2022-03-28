@@ -1,0 +1,13 @@
+{
+    "_id": "5qcoaksw",
+    "name": "Tomato leaf curl Pune virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
