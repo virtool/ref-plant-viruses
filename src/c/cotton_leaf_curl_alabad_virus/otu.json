@@ -2,5 +2,17 @@
     "_id": "f92149ec",
     "name": "Cotton leaf curl Alabad virus",
     "abbreviation": "CLCuAV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
