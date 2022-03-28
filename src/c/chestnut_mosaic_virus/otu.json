@@ -1,0 +1,13 @@
+{
+    "_id": "1dhw1q4a",
+    "name": "Chestnut mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
