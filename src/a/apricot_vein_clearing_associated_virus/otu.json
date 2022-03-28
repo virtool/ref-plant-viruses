@@ -2,5 +2,12 @@
     "_id": "f5115b4a",
     "name": "Apricot vein clearing associated virus",
     "abbreviation": "AVCaV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
