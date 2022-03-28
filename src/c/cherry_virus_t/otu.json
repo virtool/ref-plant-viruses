@@ -1,0 +1,13 @@
+{
+    "_id": "9ga02vw8",
+    "name": "Cherry virus T",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
