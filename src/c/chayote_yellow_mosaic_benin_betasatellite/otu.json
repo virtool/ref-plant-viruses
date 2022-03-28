@@ -1,0 +1,13 @@
+{
+    "_id": "9tt0tzsb",
+    "name": "Chayote yellow mosaic Benin betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
