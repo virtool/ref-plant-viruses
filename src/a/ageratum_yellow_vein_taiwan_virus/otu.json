@@ -2,5 +2,12 @@
     "_id": "7b47e5cb",
     "name": "Ageratum yellow vein Taiwan virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

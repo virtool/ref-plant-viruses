@@ -2,5 +2,17 @@
     "_id": "9814d663",
     "name": "Sweet potato leaf curl virus associated satellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "Satellite B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

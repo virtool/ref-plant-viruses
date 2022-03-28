@@ -2,5 +2,12 @@
     "_id": "cf985fb9",
     "name": "Okra leaf curl betasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

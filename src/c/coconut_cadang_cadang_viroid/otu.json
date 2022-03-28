@@ -2,5 +2,12 @@
     "_id": "8d0607a3",
     "name": "Coconut cadang cadang viroid",
     "abbreviation": "CCCVd",
-    "schema": []
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

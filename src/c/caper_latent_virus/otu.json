@@ -4,7 +4,7 @@
     "abbreviation": "CapLV",
     "schema": [
         {
-            "name": "genomic",
+            "name": "Genome",
             "molecule": "ssRNA+",
             "required": true
         }

@@ -2,5 +2,12 @@
     "_id": "9727cf12",
     "name": "Yam spherical virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "z1u7pfu3",
     "name": "Chrysanthemum virus R",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

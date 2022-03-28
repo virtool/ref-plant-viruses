@@ -2,5 +2,17 @@
     "_id": "5c11e7fb",
     "name": "Grapevine chrome mosaic virus",
     "abbreviation": "GCMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "fb468f7a",
     "name": "Sauropus yellowing virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

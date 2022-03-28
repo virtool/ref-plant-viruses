@@ -2,5 +2,17 @@
     "_id": "565577cd",
     "name": "Abutilon mosaic Bolivia virus",
     "abbreviation": "AbMBoV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

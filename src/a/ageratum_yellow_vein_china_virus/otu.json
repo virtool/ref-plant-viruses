@@ -2,5 +2,12 @@
     "_id": "b8711ec0",
     "name": "Ageratum yellow vein China virus",
     "abbreviation": "AYVCNV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

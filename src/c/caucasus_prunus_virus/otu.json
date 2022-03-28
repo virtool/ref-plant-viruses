@@ -2,5 +2,12 @@
     "_id": "ul3glszb",
     "name": "Caucasus prunus virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

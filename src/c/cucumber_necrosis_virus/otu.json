@@ -2,5 +2,12 @@
     "_id": "a5678b52",
     "name": "Cucumber necrosis virus",
     "abbreviation": "CNV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

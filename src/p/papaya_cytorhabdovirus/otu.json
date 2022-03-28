@@ -2,5 +2,12 @@
     "_id": "v2vz3wqk",
     "name": "Papaya cytorhabdovirus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

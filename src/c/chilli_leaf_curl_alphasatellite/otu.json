@@ -4,7 +4,7 @@
     "abbreviation": "ChiLCA",
     "schema": [
         {
-            "name": "alphasatellite",
+            "name": "Alphasatellite",
             "molecule": "ssDNA",
             "required": true
         }

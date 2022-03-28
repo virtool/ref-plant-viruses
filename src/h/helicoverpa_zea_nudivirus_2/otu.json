@@ -2,5 +2,12 @@
     "_id": "6bb1fe0b",
     "name": "Helicoverpa zea nudivirus 2",
     "abbreviation": "HzNV-2",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

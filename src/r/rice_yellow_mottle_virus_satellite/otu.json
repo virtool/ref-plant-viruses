@@ -2,5 +2,12 @@
     "_id": "ce897212",
     "name": "Rice yellow mottle virus satellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

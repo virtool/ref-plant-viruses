@@ -2,5 +2,12 @@
     "_id": "3a8c6cf3",
     "name": "Brassica yellows virus",
     "abbreviation": "BrYV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

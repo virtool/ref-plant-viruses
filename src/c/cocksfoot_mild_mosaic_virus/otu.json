@@ -2,5 +2,12 @@
     "_id": "62a9ebca",
     "name": "Cocksfoot mild mosaic virus",
     "abbreviation": "CfMMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

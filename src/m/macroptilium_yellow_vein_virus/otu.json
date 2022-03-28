@@ -2,5 +2,12 @@
     "_id": "023b1ab3",
     "name": "Macroptilium yellow vein virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

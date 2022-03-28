@@ -2,5 +2,12 @@
     "_id": "913fc4ee",
     "name": "Cassava brown streak virus",
     "abbreviation": "CBSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "845b278f",
     "name": "Beet western yellows ST9 associated virus",
     "abbreviation": "BWYV-ST9",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

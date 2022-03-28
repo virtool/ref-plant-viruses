@@ -2,5 +2,12 @@
     "_id": "aa5059be",
     "name": "Tomato bushy stunt virus satellite RNA",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

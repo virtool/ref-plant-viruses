@@ -2,5 +2,12 @@
     "_id": "80b80309",
     "name": "Gossypium darwinii symptomless virus",
     "abbreviation": "GDarSLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

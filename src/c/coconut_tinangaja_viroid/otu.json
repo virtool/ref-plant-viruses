@@ -2,5 +2,12 @@
     "_id": "920bcce2",
     "name": "Coconut tinangaja viroid",
     "abbreviation": "CTiVd",
-    "schema": []
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

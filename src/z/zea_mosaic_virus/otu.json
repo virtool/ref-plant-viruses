@@ -2,5 +2,12 @@
     "_id": "1c62c8c6",
     "name": "Zea mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

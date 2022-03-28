@@ -2,5 +2,12 @@
     "_id": "da6fb292",
     "name": "TGP Carmovirus 1",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

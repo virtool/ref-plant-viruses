@@ -2,5 +2,12 @@
     "_id": "aef1dba1",
     "name": "Sida yellow vein China alphasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

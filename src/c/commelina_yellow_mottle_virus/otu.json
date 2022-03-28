@@ -2,5 +2,12 @@
     "_id": "85878db1",
     "name": "Commelina yellow mottle virus",
     "abbreviation": "ComYMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

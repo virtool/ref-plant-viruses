@@ -2,5 +2,12 @@
     "_id": "18f47eba",
     "name": "Digitaria didactyla striate mosaic virus",
     "abbreviation": "DDSMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

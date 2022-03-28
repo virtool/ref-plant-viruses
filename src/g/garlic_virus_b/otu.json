@@ -2,5 +2,12 @@
     "_id": "bd65e334",
     "name": "Garlic virus B",
     "abbreviation": "GarVB",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

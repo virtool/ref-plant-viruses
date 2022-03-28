@@ -2,5 +2,12 @@
     "_id": "7cddf58b",
     "name": "Tobacco bushy top virus satellite-like RNA",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "f8a56910",
     "name": "Gaillardia latent virus",
     "abbreviation": "GalLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

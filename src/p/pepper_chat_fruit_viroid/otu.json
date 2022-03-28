@@ -2,5 +2,12 @@
     "_id": "a8428822",
     "name": "Pepper chat fruit viroid",
     "abbreviation": "PCFVd",
-    "schema": []
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

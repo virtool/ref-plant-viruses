@@ -4,7 +4,7 @@
     "abbreviation": "",
     "schema": [
         {
-            "name": "betasatellite",
+            "name": "Betasatellite",
             "molecule": "ssDNA",
             "required": true
         }

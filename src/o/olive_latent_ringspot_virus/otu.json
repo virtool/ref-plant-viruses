@@ -2,5 +2,12 @@
     "_id": "o3t1pzt1",
     "name": "Olive latent ringspot virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

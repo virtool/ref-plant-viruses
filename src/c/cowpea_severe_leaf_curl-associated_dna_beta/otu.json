@@ -2,5 +2,12 @@
     "_id": "f8c56915",
     "name": "Cowpea severe leaf curl-associated DNA beta",
     "abbreviation": "CPSLCVaB",
-    "schema": []
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

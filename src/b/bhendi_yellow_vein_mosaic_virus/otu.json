@@ -2,5 +2,12 @@
     "_id": "33de8c1c",
     "name": "Bhendi yellow vein mosaic virus",
     "abbreviation": "BYVMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

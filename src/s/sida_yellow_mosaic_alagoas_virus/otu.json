@@ -2,5 +2,12 @@
     "_id": "3ecb0f91",
     "name": "Sida yellow mosaic Alagoas virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

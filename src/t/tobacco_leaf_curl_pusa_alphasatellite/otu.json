@@ -2,5 +2,12 @@
     "_id": "535a7392",
     "name": "Tobacco leaf curl PUSA alphasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

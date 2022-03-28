@@ -2,5 +2,12 @@
     "_id": "ed098cf5",
     "name": "Limonium flower distortion virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

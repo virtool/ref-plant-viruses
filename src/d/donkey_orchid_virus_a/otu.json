@@ -2,5 +2,12 @@
     "_id": "9a5b636d",
     "name": "Donkey orchid virus A",
     "abbreviation": "DOVA",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

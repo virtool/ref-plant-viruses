@@ -4,7 +4,7 @@
     "abbreviation": "GLRaV4(X)",
     "schema": [
         {
-            "name": "genome",
+            "name": "Genome",
             "molecule": "ssRNA+",
             "required": true
         }

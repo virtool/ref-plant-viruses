@@ -2,5 +2,12 @@
     "_id": "xv2za9wm",
     "name": "Potato necrosis virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

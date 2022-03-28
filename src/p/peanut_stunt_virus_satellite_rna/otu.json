@@ -2,5 +2,12 @@
     "_id": "88a2f9c0",
     "name": "Peanut stunt virus satellite RNA",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

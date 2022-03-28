@@ -2,5 +2,12 @@
     "_id": "fd48e64d",
     "name": "Abutilon yellow mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

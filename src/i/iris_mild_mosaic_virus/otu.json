@@ -2,5 +2,12 @@
     "_id": "62d0d28d",
     "name": "Iris mild mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

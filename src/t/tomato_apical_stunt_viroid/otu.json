@@ -2,5 +2,12 @@
     "_id": "259ae1cc",
     "name": "Tomato apical stunt viroid",
     "abbreviation": "TASVd",
-    "schema": []
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

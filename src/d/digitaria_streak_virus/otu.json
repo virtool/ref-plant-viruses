@@ -2,5 +2,12 @@
     "_id": "1bcf65fc",
     "name": "Digitaria streak virus",
     "abbreviation": "DSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

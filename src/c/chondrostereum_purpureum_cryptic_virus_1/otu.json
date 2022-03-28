@@ -2,5 +2,17 @@
     "_id": "d3df10c0",
     "name": "Chondrostereum purpureum cryptic virus 1",
     "abbreviation": "CPCV1",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "5ee182c2",
     "name": "Honeysuckle yellow vein betasatellite",
     "abbreviation": "HYVB",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

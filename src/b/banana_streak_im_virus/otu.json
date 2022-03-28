@@ -2,5 +2,12 @@
     "_id": "0786d0ab",
     "name": "Banana streak IM virus",
     "abbreviation": "BSIMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

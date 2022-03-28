@@ -2,5 +2,12 @@
     "_id": "c286afba",
     "name": "Cycad leaf necrosis virus",
     "abbreviation": "CyLNV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "f939f0ec",
     "name": "Malvastrum leaf curl virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

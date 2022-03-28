@@ -2,5 +2,12 @@
     "_id": "9f7a8bd3",
     "name": "Bean common mosaic virus",
     "abbreviation": "BCMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

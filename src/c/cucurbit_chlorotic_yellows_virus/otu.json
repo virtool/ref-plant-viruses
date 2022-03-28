@@ -2,5 +2,17 @@
     "_id": "462e1022",
     "name": "Cucurbit chlorotic yellows virus",
     "abbreviation": "CCYV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

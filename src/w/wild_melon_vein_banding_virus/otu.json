@@ -2,5 +2,12 @@
     "_id": "ynofnf52",
     "name": "Wild melon vein banding virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

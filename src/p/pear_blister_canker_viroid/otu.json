@@ -2,5 +2,12 @@
     "_id": "5bebb920",
     "name": "Pear blister canker viroid",
     "abbreviation": "PBCVd",
-    "schema": []
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "b11649d0",
     "name": "Rose leaf curl betasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

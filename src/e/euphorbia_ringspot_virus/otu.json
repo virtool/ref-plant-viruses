@@ -4,7 +4,7 @@
     "abbreviation": "EuRSV",
     "schema": [
         {
-            "name": "genome",
+            "name": "Genome",
             "molecule": "ssRNA+",
             "required": true
         }

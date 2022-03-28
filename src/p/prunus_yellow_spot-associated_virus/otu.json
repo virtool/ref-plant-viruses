@@ -4,7 +4,7 @@
     "abbreviation": "",
     "schema": [
         {
-            "name": "genome",
+            "name": "Genome",
             "molecule": "",
             "required": true
         }

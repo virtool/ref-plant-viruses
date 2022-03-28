@@ -2,5 +2,12 @@
     "_id": "337c6d25",
     "name": "Maize fine streak virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

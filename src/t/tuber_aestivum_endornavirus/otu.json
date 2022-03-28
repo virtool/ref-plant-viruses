@@ -2,5 +2,12 @@
     "_id": "57758e47",
     "name": "Tuber aestivum endornavirus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

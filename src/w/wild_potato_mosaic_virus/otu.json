@@ -2,5 +2,12 @@
     "_id": "e885dc67",
     "name": "Wild potato mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

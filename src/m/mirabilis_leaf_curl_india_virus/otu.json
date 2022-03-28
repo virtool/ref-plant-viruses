@@ -2,5 +2,12 @@
     "_id": "4fe1d51e",
     "name": "Mirabilis leaf curl India virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

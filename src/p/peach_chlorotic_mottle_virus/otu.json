@@ -4,7 +4,7 @@
     "abbreviation": "PCMV",
     "schema": [
         {
-            "name": "genome",
+            "name": "Genome",
             "molecule": "ssRNA+",
             "required": true
         }

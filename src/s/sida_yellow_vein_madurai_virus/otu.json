@@ -2,5 +2,12 @@
     "_id": "9c83b72d",
     "name": "Sida yellow vein Madurai virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

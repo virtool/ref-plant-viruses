@@ -2,5 +2,12 @@
     "_id": "feac2c93",
     "name": "Cordyline virus 1",
     "abbreviation": "CordylineV-1",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

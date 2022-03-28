@@ -2,5 +2,12 @@
     "_id": "e221c698",
     "name": "Actinidia virus A",
     "abbreviation": "AVA",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

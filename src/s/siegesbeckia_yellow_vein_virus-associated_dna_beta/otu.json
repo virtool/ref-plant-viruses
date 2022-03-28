@@ -2,5 +2,12 @@
     "_id": "dfc65e4f",
     "name": "Siegesbeckia yellow vein virus-associated DNA beta",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

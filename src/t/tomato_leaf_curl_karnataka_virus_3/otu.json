@@ -4,7 +4,7 @@
     "abbreviation": "",
     "schema": [
         {
-            "name": "genome DNA A",
+            "name": "Genome DNA A",
             "molecule": "ssDNA",
             "required": true
         }

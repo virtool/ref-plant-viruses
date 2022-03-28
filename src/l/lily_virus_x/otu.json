@@ -2,5 +2,12 @@
     "_id": "eb044095",
     "name": "Lily virus X",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

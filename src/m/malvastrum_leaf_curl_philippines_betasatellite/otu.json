@@ -2,5 +2,12 @@
     "_id": "1e881e17",
     "name": "Malvastrum leaf curl Philippines betasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

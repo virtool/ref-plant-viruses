@@ -4,7 +4,7 @@
     "abbreviation": "ASPV (ApLV/AGCaV)",
     "schema": [
         {
-            "name": "genomic",
+            "name": "Genome",
             "molecule": "ssRNA+",
             "required": true
         }

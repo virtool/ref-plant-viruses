@@ -2,5 +2,12 @@
     "_id": "370bb717",
     "name": "Cardamine chlorotic fleck virus",
     "abbreviation": "CCFV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

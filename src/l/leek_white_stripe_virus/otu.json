@@ -2,5 +2,12 @@
     "_id": "58972047",
     "name": "Leek white stripe virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

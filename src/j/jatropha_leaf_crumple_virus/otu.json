@@ -2,5 +2,12 @@
     "_id": "822848e1",
     "name": "Jatropha leaf crumple virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

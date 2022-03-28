@@ -2,5 +2,12 @@
     "_id": "bh30e9ob",
     "name": "Tobacco mosqueado virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

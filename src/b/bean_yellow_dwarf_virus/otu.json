@@ -2,5 +2,12 @@
     "_id": "0fbe1ec5",
     "name": "Bean yellow dwarf virus",
     "abbreviation": "BeYDV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

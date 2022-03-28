@@ -2,5 +2,12 @@
     "_id": "098567f6",
     "name": "Andean potato latent virus",
     "abbreviation": "APLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

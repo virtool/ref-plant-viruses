@@ -2,5 +2,22 @@
     "_id": "2b2afefd",
     "name": "Broad bean necrosis virus",
     "abbreviation": "BBNV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

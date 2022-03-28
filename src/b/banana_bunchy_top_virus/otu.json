@@ -2,5 +2,37 @@
     "_id": "c1f82472",
     "name": "Banana bunchy top virus",
     "abbreviation": "BBTV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA R",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA C",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA N",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA U3",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA M",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA S",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

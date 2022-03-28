@@ -2,5 +2,17 @@
     "_id": "c3f20ba6",
     "name": "Oat golden stripe virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

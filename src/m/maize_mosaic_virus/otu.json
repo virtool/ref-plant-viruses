@@ -2,5 +2,12 @@
     "_id": "979e5a2f",
     "name": "Maize mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

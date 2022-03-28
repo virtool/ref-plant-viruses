@@ -2,5 +2,12 @@
     "_id": "6412fab1",
     "name": "Sweet potato leaf curl Sao Paulo virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "e2d3d37e",
     "name": "Hemidesmus yellow mosaic virus",
     "abbreviation": "HeYMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

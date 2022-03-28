@@ -2,5 +2,12 @@
     "_id": "f5d46e48",
     "name": "Cypripedium virus Y",
     "abbreviation": "CypVY",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

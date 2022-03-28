@@ -2,5 +2,12 @@
     "_id": "db34ac92",
     "name": "Beet yellows virus",
     "abbreviation": "BYV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

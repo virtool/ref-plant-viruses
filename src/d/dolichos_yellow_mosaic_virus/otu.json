@@ -2,5 +2,17 @@
     "_id": "4d35efd8",
     "name": "Dolichos yellow mosaic virus",
     "abbreviation": "DoYMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

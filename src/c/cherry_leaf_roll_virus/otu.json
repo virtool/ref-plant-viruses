@@ -2,5 +2,17 @@
     "_id": "aa86c402",
     "name": "Cherry leaf roll virus",
     "abbreviation": "CLRV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

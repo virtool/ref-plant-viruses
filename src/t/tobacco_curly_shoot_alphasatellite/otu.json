@@ -2,5 +2,12 @@
     "_id": "6bce52b5",
     "name": "Tobacco curly shoot alphasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "e15ba4c3",
     "name": "Thin paspalum asymptomatic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

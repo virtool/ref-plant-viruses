@@ -2,5 +2,12 @@
     "_id": "00c8a29f",
     "name": "Chloris striate mosaic virus",
     "abbreviation": "CSMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "b14578eb",
     "name": "Sida yellow vein disease associated DNA 1",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

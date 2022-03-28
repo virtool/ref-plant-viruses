@@ -2,5 +2,12 @@
     "_id": "yfwj6jv5",
     "name": "Gomphocarpus mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

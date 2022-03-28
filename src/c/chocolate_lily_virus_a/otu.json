@@ -2,5 +2,17 @@
     "_id": "6531d8a4",
     "name": "Chocolate lily virus A",
     "abbreviation": "CLVA",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "76330708",
     "name": "Hollyhock leaf crumple virus",
     "abbreviation": "HoLCrV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

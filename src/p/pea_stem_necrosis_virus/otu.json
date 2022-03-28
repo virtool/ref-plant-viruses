@@ -2,5 +2,12 @@
     "_id": "7ea141ce",
     "name": "Pea stem necrosis virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "9ed122ae",
     "name": "Eggplant mottled crinkle virus",
     "abbreviation": "EMCV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

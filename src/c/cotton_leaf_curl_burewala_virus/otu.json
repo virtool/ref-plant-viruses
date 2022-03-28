@@ -2,5 +2,12 @@
     "_id": "938c4dd2",
     "name": "Cotton leaf curl Burewala virus",
     "abbreviation": "CLCuBuV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

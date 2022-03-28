@@ -2,5 +2,22 @@
     "_id": "rx37ub9f",
     "name": "Apple rubbery wood virus 2",
     "abbreviation": "ARWV2",
-    "schema": []
+    "schema": [
+        {
+            "name": "L",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "M",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "S",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -4,7 +4,7 @@
     "abbreviation": "GVBaV",
     "schema": [
         {
-            "name": "genome",
+            "name": "Genome",
             "molecule": "dsDNA",
             "required": true
         }

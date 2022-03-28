@@ -2,5 +2,17 @@
     "_id": "80074a16",
     "name": "Raphanus sativus cryptic virus 1",
     "abbreviation": "RsCV-1",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

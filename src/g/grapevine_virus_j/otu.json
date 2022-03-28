@@ -2,5 +2,12 @@
     "_id": "tvqb1b9r",
     "name": "Grapevine virus J",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

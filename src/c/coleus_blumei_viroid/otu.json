@@ -2,5 +2,12 @@
     "_id": "cfc5c0d9",
     "name": "Coleus blumei viroid",
     "abbreviation": "CBVd",
-    "schema": []
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

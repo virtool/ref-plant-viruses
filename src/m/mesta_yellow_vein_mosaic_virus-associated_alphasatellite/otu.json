@@ -2,5 +2,12 @@
     "_id": "efe20977",
     "name": "Mesta yellow vein mosaic virus-associated alphasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

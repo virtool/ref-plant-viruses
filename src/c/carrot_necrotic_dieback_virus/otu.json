@@ -2,5 +2,12 @@
     "_id": "a47b53d5",
     "name": "Carrot necrotic dieback virus",
     "abbreviation": "CNDV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

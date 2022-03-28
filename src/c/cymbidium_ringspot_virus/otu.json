@@ -2,5 +2,12 @@
     "_id": "3f055ede",
     "name": "Cymbidium ringspot virus",
     "abbreviation": "CymRSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

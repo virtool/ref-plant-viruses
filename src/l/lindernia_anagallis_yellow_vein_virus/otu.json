@@ -2,5 +2,12 @@
     "_id": "702e0a09",
     "name": "Lindernia anagallis yellow vein virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

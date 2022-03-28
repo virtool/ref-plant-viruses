@@ -2,5 +2,12 @@
     "_id": "6198fab2",
     "name": "Actinidia virus B",
     "abbreviation": "AVB",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

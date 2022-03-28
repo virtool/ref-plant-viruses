@@ -2,5 +2,12 @@
     "_id": "8d168a1b",
     "name": "Tobacco leaf curl Pusa virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

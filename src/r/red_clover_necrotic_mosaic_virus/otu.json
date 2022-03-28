@@ -2,5 +2,17 @@
     "_id": "a424bd89",
     "name": "Red clover necrotic mosaic virus",
     "abbreviation": "RCNMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

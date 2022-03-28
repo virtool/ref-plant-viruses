@@ -2,5 +2,12 @@
     "_id": "9b2f5d2f",
     "name": "Persea americana endornavirus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

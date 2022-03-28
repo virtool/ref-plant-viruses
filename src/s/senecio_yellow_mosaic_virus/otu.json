@@ -2,5 +2,12 @@
     "_id": "c1f72e20",
     "name": "Senecio yellow mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

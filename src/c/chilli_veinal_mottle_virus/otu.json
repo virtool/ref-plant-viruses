@@ -4,7 +4,7 @@
     "abbreviation": "ChiVMV",
     "schema": [
         {
-            "name": "genomic",
+            "name": "Genome",
             "molecule": "ssRNA+",
             "required": true
         }

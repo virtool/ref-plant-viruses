@@ -2,5 +2,12 @@
     "_id": "e9a5161a",
     "name": "Allium virus X",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

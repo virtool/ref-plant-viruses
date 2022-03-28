@@ -4,12 +4,12 @@
     "abbreviation": "CMoV",
     "schema": [
         {
-            "name": "genomic",
+            "name": "Genome",
             "molecule": "ssRNA+",
             "required": true
         },
         {
-            "name": "satellite",
+            "name": "Satellite",
             "molecule": "ssRNA+",
             "required": true
         }

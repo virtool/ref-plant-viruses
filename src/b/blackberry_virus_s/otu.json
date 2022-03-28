@@ -2,5 +2,12 @@
     "_id": "f8e1f882",
     "name": "Blackberry virus S",
     "abbreviation": "BlVS",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

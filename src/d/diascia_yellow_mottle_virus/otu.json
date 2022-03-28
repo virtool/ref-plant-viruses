@@ -2,5 +2,12 @@
     "_id": "32617546",
     "name": "Diascia yellow mottle virus",
     "abbreviation": "DiaYMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

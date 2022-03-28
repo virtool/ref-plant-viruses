@@ -2,5 +2,12 @@
     "_id": "9a95dee2",
     "name": "Apium virus Y",
     "abbreviation": "ApVY",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

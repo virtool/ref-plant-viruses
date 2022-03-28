@@ -2,5 +2,12 @@
     "_id": "a379043b",
     "name": "Gentian Kobu-sho-associated virus",
     "abbreviation": "GKaV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

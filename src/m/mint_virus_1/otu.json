@@ -2,5 +2,12 @@
     "_id": "028b7cda",
     "name": "Mint virus 1",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

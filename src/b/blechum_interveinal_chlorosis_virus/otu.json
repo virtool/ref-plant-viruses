@@ -2,5 +2,17 @@
     "_id": "e87553c1",
     "name": "Blechum interveinal chlorosis virus",
     "abbreviation": "BlechumIVCV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "b6d9ca24",
     "name": "Sweet potato leaf curl South Carolina virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "a3ea3ed4",
     "name": "Citrus tatter leaf virus",
     "abbreviation": "CTaLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

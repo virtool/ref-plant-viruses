@@ -2,5 +2,12 @@
     "_id": "ae86751e",
     "name": "Grapevine endophyte endornavirus",
     "abbreviation": "GEEV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

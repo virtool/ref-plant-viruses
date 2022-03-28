@@ -2,5 +2,12 @@
     "_id": "e77060b6",
     "name": "Hollyhock yellow vein mosaic virus",
     "abbreviation": "HoYVMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

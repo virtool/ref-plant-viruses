@@ -2,5 +2,12 @@
     "_id": "d543a619",
     "name": "Colombian datura virus",
     "abbreviation": "CDV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

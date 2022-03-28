@@ -2,5 +2,12 @@
     "_id": "7cee0a88",
     "name": "Citrus tristeza virus",
     "abbreviation": "CTV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

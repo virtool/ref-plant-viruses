@@ -2,5 +2,12 @@
     "_id": "b0a22d8f",
     "name": "Sweet potato badnavirus A",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

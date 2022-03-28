@@ -2,5 +2,12 @@
     "_id": "661ebae9",
     "name": "Gloriosa stripe mosaic virus",
     "abbreviation": "GSMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

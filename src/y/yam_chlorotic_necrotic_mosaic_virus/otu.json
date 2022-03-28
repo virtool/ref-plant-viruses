@@ -2,5 +2,12 @@
     "_id": "4mfvge8c",
     "name": "Yam chlorotic necrotic mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

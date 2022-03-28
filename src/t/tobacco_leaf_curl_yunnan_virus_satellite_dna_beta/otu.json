@@ -2,5 +2,12 @@
     "_id": "cfda4bae",
     "name": "Tobacco leaf curl Yunnan virus satellite DNA beta",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

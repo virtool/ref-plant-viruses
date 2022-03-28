@@ -2,5 +2,12 @@
     "_id": "b67008d3",
     "name": "Hop latent virus",
     "abbreviation": "HpLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

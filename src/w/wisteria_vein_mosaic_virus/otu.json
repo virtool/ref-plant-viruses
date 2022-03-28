@@ -2,5 +2,12 @@
     "_id": "23b8ddaf",
     "name": "Wisteria vein mosaic virus",
     "abbreviation": "WVMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

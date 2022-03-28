@@ -2,5 +2,12 @@
     "_id": "d0e5e676",
     "name": "Phlox Virus B",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "a6d81bee",
     "name": "Niminivirus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

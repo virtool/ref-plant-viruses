@@ -2,5 +2,12 @@
     "_id": "7a51b27f",
     "name": "Euphorbia leaf curl virus",
     "abbreviation": "EuLCuV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

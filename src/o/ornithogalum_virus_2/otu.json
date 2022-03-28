@@ -2,5 +2,12 @@
     "_id": "b2e5b6bc",
     "name": "Ornithogalum virus 2",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

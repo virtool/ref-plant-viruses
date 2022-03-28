@@ -2,5 +2,12 @@
     "_id": "9ffbb8c9",
     "name": "Allamanda leaf mottle distortion virus",
     "abbreviation": "AlLMoDV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

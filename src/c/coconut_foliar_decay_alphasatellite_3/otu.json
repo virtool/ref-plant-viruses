@@ -4,12 +4,12 @@
     "abbreviation": "",
     "schema": [
         {
-            "name": "alphasatellite a",
+            "name": "Alphasatellite A",
             "molecule": "ssDNA",
             "required": true
         },
         {
-            "name": "alphasatellite b",
+            "name": "Alphasatellite B",
             "molecule": "ssDNA",
             "required": true
         }

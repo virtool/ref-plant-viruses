@@ -2,5 +2,12 @@
     "_id": "c6c4253d",
     "name": "Bamboo mosaic virus satellite RNA",
     "abbreviation": "satBaMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

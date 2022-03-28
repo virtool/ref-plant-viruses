@@ -2,5 +2,12 @@
     "_id": "a8rau7zh",
     "name": "Grapevine virus K",
     "abbreviation": "GVK",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

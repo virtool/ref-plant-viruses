@@ -2,5 +2,12 @@
     "_id": "0d252cb7",
     "name": "Persimmon viroid 2",
     "abbreviation": "PVd-2",
-    "schema": []
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

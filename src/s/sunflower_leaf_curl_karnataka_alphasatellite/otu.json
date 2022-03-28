@@ -2,5 +2,12 @@
     "_id": "73fbc280",
     "name": "Sunflower leaf curl Karnataka alphasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

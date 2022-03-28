@@ -2,5 +2,12 @@
     "_id": "871c9692",
     "name": "Malvastrum yellow vein betasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

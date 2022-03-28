@@ -2,5 +2,12 @@
     "_id": "f7ab41eb",
     "name": "Alstroemeria virus x",
     "abbreviation": "ALSVX",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

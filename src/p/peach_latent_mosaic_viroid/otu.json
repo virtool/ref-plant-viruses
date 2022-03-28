@@ -2,5 +2,12 @@
     "_id": "2458cc0b",
     "name": "Peach latent mosaic viroid",
     "abbreviation": "PLMVd",
-    "schema": []
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

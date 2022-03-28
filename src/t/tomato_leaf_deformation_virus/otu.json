@@ -2,5 +2,12 @@
     "_id": "cd437aed",
     "name": "Tomato leaf deformation virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

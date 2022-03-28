@@ -2,5 +2,12 @@
     "_id": "c260c211",
     "name": "Eggplant latent viroid",
     "abbreviation": "ELVd",
-    "schema": []
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

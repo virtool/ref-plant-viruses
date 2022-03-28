@@ -2,5 +2,12 @@
     "_id": "4l9d3cpd",
     "name": "Elderberry carlavirus E",
     "abbreviation": "EBCVE",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

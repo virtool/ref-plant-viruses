@@ -2,5 +2,12 @@
     "_id": "ioao3tx7",
     "name": "Peach chlorotic leaf spot virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

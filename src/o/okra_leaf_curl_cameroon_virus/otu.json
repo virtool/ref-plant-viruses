@@ -2,5 +2,12 @@
     "_id": "1555a33b",
     "name": "Okra leaf curl Cameroon virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "42778fe7",
     "name": "Grapevine leafroll-associated virus 10",
     "abbreviation": "GLRaV10",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

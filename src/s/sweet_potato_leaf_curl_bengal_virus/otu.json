@@ -2,5 +2,12 @@
     "_id": "486037bc",
     "name": "Sweet potato leaf curl Bengal virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

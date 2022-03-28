@@ -2,5 +2,12 @@
     "_id": "003f2ef6",
     "name": "Diuris virus B",
     "abbreviation": "DiVB",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

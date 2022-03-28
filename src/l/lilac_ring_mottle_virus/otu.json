@@ -2,5 +2,12 @@
     "_id": "ea78d52f",
     "name": "Lilac ring mottle virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

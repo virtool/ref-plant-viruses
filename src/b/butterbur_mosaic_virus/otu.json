@@ -2,5 +2,12 @@
     "_id": "13ee3f1b",
     "name": "Butterbur mosaic virus",
     "abbreviation": "ButMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

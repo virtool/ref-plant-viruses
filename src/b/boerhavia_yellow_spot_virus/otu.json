@@ -2,5 +2,12 @@
     "_id": "23a4b148",
     "name": "Boerhavia yellow spot virus",
     "abbreviation": "BOYSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

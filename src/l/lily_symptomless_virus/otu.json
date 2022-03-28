@@ -2,5 +2,12 @@
     "_id": "66e5c79e",
     "name": "Lily symptomless virus",
     "abbreviation": "LSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

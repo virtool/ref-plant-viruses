@@ -2,5 +2,12 @@
     "_id": "0104ed8d",
     "name": "Eragrostis streak virus",
     "abbreviation": "ESV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

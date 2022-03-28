@@ -2,5 +2,12 @@
     "_id": "d0aykdgu",
     "name": "Turtle grass virus X",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

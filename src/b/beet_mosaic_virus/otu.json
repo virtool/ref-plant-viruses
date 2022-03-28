@@ -2,5 +2,12 @@
     "_id": "006a583e",
     "name": "Beet mosaic virus",
     "abbreviation": "BtMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

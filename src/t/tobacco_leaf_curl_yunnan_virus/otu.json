@@ -2,5 +2,12 @@
     "_id": "6583562f",
     "name": "Tobacco leaf curl Yunnan virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

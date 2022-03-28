@@ -2,5 +2,12 @@
     "_id": "0da4f363",
     "name": "Hedyotis uncinella yellow mosaic betasatellite",
     "abbreviation": "HeuYMB",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

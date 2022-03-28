@@ -2,5 +2,12 @@
     "_id": "c0a37cda",
     "name": "Tobacco ringspot virus satellite RNA",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

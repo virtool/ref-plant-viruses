@@ -2,5 +2,12 @@
     "_id": "01e90045",
     "name": "Cardamom bushy dwarf virus satellite",
     "abbreviation": "satCBDV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

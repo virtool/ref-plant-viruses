@@ -2,5 +2,22 @@
     "_id": "8519b98a",
     "name": "Groundnut ringspot and Tomato chlorotic spot virus reassortant",
     "abbreviation": "GRSV/TCSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA L",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA M",
+            "molecule": "ssRNA-",
+            "required": true
+        },
+        {
+            "name": "RNA S",
+            "molecule": "ssRNA-",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

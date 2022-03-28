@@ -2,5 +2,12 @@
     "_id": "c13e72fd",
     "name": "Narcissus mosaic virus",
     "abbreviation": "NMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "9457c8c7",
     "name": "Honeysuckle yellow vein Japan betasatellite",
     "abbreviation": "HYVJB",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

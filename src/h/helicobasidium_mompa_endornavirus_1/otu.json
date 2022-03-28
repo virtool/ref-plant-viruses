@@ -2,5 +2,12 @@
     "_id": "328fc4c4",
     "name": "Helicobasidium mompa endornavirus 1",
     "abbreviation": "HmEV1",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

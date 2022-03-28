@@ -2,5 +2,12 @@
     "_id": "4823778a",
     "name": "Small begomovirus-associated satellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

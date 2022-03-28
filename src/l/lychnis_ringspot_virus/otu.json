@@ -2,5 +2,17 @@
     "_id": "31c119e5",
     "name": "Lychnis ringspot virus",
     "abbreviation": "LRSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA gamma",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA beta",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

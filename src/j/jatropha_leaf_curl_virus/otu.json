@@ -2,5 +2,12 @@
     "_id": "2f795b0c",
     "name": "Jatropha leaf curl virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "d5239558",
     "name": "Japanese iris necrotic ring virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

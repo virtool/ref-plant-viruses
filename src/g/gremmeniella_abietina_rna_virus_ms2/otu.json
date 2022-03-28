@@ -2,5 +2,22 @@
     "_id": "50c7e821",
     "name": "Gremmeniella abietina RNA virus MS2",
     "abbreviation": "GaRV-MS2",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

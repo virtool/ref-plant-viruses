@@ -2,5 +2,17 @@
     "_id": "fdc4f575",
     "name": "Abutilon Brazil virus",
     "abbreviation": "AbBV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

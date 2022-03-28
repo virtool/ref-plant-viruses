@@ -2,5 +2,12 @@
     "_id": "82139644",
     "name": "Citrus viroid",
     "abbreviation": "CVd",
-    "schema": []
+    "schema": [
+        {
+            "name": "Viroid",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

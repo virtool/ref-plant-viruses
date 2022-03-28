@@ -2,5 +2,12 @@
     "_id": "64753b9c",
     "name": "Cereal yellow dwarf virus-RPS",
     "abbreviation": "CYDV-RPS",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

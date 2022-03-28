@@ -2,5 +2,12 @@
     "_id": "cc77bbac",
     "name": "Faba bean necrotic yellows C9 alphasatellite",
     "abbreviation": "FBNYC9A",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

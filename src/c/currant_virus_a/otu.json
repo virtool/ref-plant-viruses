@@ -2,5 +2,12 @@
     "_id": "008h6h65",
     "name": "Currant virus A",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

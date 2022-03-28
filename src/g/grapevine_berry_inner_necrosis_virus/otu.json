@@ -2,5 +2,12 @@
     "_id": "84e4117e",
     "name": "Grapevine berry inner necrosis virus",
     "abbreviation": "GINV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

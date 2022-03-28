@@ -2,5 +2,12 @@
     "_id": "df10988d",
     "name": "Calibrachoa mottle virus",
     "abbreviation": "CbMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

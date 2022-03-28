@@ -2,5 +2,12 @@
     "_id": "fae1ef93",
     "name": "Alternanthera yellow vein virus",
     "abbreviation": "AlYVV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

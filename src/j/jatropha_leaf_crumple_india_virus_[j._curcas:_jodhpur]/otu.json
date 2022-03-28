@@ -2,5 +2,12 @@
     "_id": "f585a1d3",
     "name": "Jatropha leaf crumple India virus [J. curcas: Jodhpur]",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

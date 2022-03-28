@@ -2,5 +2,17 @@
     "_id": "05fabf3a",
     "name": "Raphanus sativus cryptic virus 3",
     "abbreviation": "RsCV-3",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

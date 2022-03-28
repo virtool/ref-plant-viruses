@@ -2,5 +2,12 @@
     "_id": "a2992072",
     "name": "Vicia faba endornavirus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

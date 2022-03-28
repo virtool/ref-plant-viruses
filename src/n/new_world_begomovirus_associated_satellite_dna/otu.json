@@ -2,5 +2,12 @@
     "_id": "3b378cd9",
     "name": "New World begomovirus associated satellite DNA",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

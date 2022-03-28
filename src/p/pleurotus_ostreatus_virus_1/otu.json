@@ -2,5 +2,17 @@
     "_id": "82ac5d42",
     "name": "Pleurotus ostreatus virus 1",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

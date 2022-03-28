@@ -2,5 +2,12 @@
     "_id": "89883034",
     "name": "Canna yellow streak virus",
     "abbreviation": "CaYSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

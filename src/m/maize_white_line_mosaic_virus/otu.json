@@ -2,5 +2,12 @@
     "_id": "a43ac7ea",
     "name": "Maize white line mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

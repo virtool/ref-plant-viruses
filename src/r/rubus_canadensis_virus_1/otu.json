@@ -2,5 +2,12 @@
     "_id": "106c0b11",
     "name": "Rubus canadensis virus 1",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

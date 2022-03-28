@@ -2,5 +2,12 @@
     "_id": "1af646b6",
     "name": "Tobacco leaf curl Zimbabwe virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

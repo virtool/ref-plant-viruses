@@ -2,5 +2,12 @@
     "_id": "laxf44h8",
     "name": "Dioscorea nummularia-associated virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

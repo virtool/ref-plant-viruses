@@ -2,5 +2,12 @@
     "_id": "061b19d5",
     "name": "Bean yellow mosaic virus",
     "abbreviation": "BYMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

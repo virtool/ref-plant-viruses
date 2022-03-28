@@ -4,7 +4,7 @@
     "abbreviation": "DVd",
     "schema": [
         {
-            "name": "viroid",
+            "name": "Viroid",
             "molecule": "ssRNA+",
             "required": true
         }

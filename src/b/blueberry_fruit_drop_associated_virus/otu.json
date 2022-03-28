@@ -4,7 +4,7 @@
     "abbreviation": "BFDaV",
     "schema": [
         {
-            "name": "genomic",
+            "name": "Genome",
             "molecule": "dsDNA",
             "required": true
         }

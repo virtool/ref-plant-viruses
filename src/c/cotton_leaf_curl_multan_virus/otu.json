@@ -2,5 +2,12 @@
     "_id": "cf9fe00f",
     "name": "Cotton leaf curl Multan virus",
     "abbreviation": "CLCuMuV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

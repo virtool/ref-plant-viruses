@@ -4,7 +4,7 @@
     "abbreviation": "GGVA",
     "schema": [
         {
-            "name": "genome",
+            "name": "Genome",
             "molecule": "ssDNA",
             "required": true
         }

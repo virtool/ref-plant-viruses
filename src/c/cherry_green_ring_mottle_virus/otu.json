@@ -2,5 +2,12 @@
     "_id": "c6e76041",
     "name": "Cherry green ring mottle virus",
     "abbreviation": "CGRMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

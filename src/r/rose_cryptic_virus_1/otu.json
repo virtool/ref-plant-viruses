@@ -2,5 +2,22 @@
     "_id": "dbb02566",
     "name": "Rose cryptic virus 1",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 3",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "157989d1",
     "name": "Ageratum yellow vein Sri Lanka virus",
     "abbreviation": "AYVSLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

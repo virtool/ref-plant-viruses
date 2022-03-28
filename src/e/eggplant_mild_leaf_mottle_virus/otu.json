@@ -2,5 +2,12 @@
     "_id": "9d77e98f",
     "name": "Eggplant mild leaf mottle virus",
     "abbreviation": "EMLMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

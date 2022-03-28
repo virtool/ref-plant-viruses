@@ -2,5 +2,12 @@
     "_id": "h0xis57y",
     "name": "Grapevine virus I",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

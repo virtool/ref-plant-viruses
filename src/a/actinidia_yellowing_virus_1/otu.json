@@ -4,7 +4,7 @@
     "abbreviation": "AYV1",
     "schema": [
         {
-            "name": "genomic",
+            "name": "Genome",
             "molecule": "ssRNA",
             "required": true
         }

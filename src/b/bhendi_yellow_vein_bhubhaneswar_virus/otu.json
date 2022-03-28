@@ -2,5 +2,12 @@
     "_id": "32c04a45",
     "name": "Bhendi yellow vein Bhubhaneswar virus",
     "abbreviation": "BYVBV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

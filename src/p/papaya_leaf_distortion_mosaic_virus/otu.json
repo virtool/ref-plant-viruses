@@ -2,5 +2,12 @@
     "_id": "a1126cbe",
     "name": "Papaya leaf distortion mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

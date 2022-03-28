@@ -2,5 +2,12 @@
     "_id": "b8faa7ab",
     "name": "Croton yellow vein virus",
     "abbreviation": "CYVV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

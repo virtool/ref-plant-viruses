@@ -2,5 +2,12 @@
     "_id": "5621b5d7",
     "name": "Panicum streak virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

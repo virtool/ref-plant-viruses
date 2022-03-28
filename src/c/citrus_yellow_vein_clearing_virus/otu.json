@@ -2,5 +2,12 @@
     "_id": "fd97aa67",
     "name": "Citrus yellow vein clearing virus",
     "abbreviation": "CYVCV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

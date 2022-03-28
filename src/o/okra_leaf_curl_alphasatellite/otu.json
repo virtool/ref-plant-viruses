@@ -2,5 +2,12 @@
     "_id": "1ea03417",
     "name": "Okra leaf curl alphasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

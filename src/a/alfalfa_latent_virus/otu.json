@@ -2,5 +2,12 @@
     "_id": "a15f9837",
     "name": "Alfalfa latent virus",
     "abbreviation": "ALV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

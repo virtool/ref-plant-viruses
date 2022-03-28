@@ -2,5 +2,12 @@
     "_id": "c1b1542a",
     "name": "Sweet potato leaf curl Lanzarote virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -4,7 +4,7 @@
     "abbreviation": "",
     "schema": [
         {
-            "name": "satellite",
+            "name": "Satellite",
             "molecule": "ssRNA+",
             "required": true
         }

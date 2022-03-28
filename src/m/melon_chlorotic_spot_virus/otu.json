@@ -4,44 +4,45 @@
     "abbreviation": "",
     "schema": [
         {
+            "molecule": "",
             "name": "RNA 1",
-            "molecule": "",
             "required": true
         },
         {
+            "molecule": "",
             "name": "RNA 2",
-            "molecule": "",
             "required": true
         },
         {
+            "molecule": "",
             "name": "RNA 3",
-            "molecule": "",
             "required": true
         },
         {
+            "molecule": "",
             "name": "RNA 4",
-            "molecule": "",
             "required": true
         },
         {
+            "molecule": "",
             "name": "RNA 5",
-            "molecule": "",
             "required": true
         },
         {
+            "molecule": "",
             "name": "RNA 6",
-            "molecule": "",
             "required": true
         },
         {
+            "molecule": "",
             "name": "RNA 7",
-            "molecule": "",
             "required": true
         },
         {
-            "name": "RNA 8",
             "molecule": "",
+            "name": "RNA 8",
             "required": true
         }
-    ]
+    ],
+    "taxid": null
 }

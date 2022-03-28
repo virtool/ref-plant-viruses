@@ -2,5 +2,12 @@
     "_id": "a8beccd5",
     "name": "Subterranean clover stunt C2 alphasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

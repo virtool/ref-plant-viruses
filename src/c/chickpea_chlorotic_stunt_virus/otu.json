@@ -2,5 +2,12 @@
     "_id": "a39e46d2",
     "name": "Chickpea chlorotic stunt virus",
     "abbreviation": "CpCSV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

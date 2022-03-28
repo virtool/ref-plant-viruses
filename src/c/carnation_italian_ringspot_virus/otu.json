@@ -2,5 +2,12 @@
     "_id": "416dd631",
     "name": "Carnation Italian ringspot virus",
     "abbreviation": "CIRV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

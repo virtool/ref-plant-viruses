@@ -2,5 +2,12 @@
     "_id": "50c730fd",
     "name": "Garlic virus X",
     "abbreviation": "GarVX",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

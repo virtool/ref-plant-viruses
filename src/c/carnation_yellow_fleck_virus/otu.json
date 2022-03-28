@@ -2,5 +2,12 @@
     "_id": "abc90832",
     "name": "Carnation yellow fleck virus",
     "abbreviation": "CYFV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

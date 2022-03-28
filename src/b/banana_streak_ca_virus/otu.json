@@ -2,5 +2,12 @@
     "_id": "60483e68",
     "name": "Banana streak CA virus",
     "abbreviation": "BSCAV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

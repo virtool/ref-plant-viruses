@@ -2,5 +2,12 @@
     "_id": "b12a7e84",
     "name": "Papaya ringspot virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

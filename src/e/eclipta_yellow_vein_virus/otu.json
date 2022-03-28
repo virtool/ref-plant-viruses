@@ -2,5 +2,12 @@
     "_id": "2f0cdb7f",
     "name": "Eclipta yellow vein virus",
     "abbreviation": "EYVV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

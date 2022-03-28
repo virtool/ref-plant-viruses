@@ -2,5 +2,12 @@
     "_id": "9f43e29c",
     "name": "Erectites yellow mosaic virus satellite DNA beta",
     "abbreviation": "ErYMVsatDNA",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

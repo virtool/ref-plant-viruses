@@ -2,5 +2,12 @@
     "_id": "ec04c218",
     "name": "Citrus chlorotic dwarf associated virus",
     "abbreviation": "CCDaV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

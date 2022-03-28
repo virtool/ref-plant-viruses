@@ -2,5 +2,12 @@
     "_id": "c59fe3a2",
     "name": "Bidens mottle virus",
     "abbreviation": "BiMoV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

@@ -2,5 +2,12 @@
     "_id": "4af14759",
     "name": "Pepper yellow vein Mali virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

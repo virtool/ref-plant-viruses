@@ -2,5 +2,12 @@
     "_id": "cfade829",
     "name": "Aconitum latent virus",
     "abbreviation": "AcLV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

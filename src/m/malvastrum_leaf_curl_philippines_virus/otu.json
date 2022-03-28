@@ -2,5 +2,12 @@
     "_id": "740e476c",
     "name": "Malvastrum leaf curl Philippines virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

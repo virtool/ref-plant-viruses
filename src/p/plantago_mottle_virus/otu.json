@@ -2,5 +2,12 @@
     "_id": "bd3bb471",
     "name": "Plantago mottle virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

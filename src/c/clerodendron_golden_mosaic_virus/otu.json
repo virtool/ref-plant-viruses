@@ -2,5 +2,17 @@
     "_id": "c9bac00c",
     "name": "Clerodendron golden mosaic virus",
     "abbreviation": "CleGMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        },
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

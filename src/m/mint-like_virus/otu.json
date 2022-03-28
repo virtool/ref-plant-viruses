@@ -2,5 +2,12 @@
     "_id": "17eedf3d",
     "name": "Mint-like virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

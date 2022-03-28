@@ -2,5 +2,12 @@
     "_id": "08d1cf98",
     "name": "Algerian watermelon mosaic virus",
     "abbreviation": "AWMV",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

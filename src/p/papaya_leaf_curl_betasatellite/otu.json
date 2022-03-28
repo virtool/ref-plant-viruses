@@ -2,5 +2,12 @@
     "_id": "679fbec7",
     "name": "Papaya leaf curl betasatellite",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

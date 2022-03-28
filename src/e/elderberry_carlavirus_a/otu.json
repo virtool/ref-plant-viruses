@@ -2,5 +2,12 @@
     "_id": "jk5xnnqc",
     "name": "Elderberry carlavirus A",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

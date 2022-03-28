@@ -2,5 +2,12 @@
     "_id": "182424e7",
     "name": "Black medic leafroll alphasatellite 1",
     "abbreviation": "BMLRA1",
-    "schema": []
+    "schema": [
+        {
+            "name": "Satellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

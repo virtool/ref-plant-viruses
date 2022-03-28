@@ -2,5 +2,12 @@
     "_id": "66f3f48f",
     "name": "Zucchini tigre mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }

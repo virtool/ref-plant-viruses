@@ -2,5 +2,12 @@
     "_id": "0ffea8de",
     "name": "Sweet potato leaf curl Henan virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "Genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
