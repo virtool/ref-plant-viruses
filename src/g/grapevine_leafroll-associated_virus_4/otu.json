@@ -2,5 +2,12 @@
     "_id": "ce6da8b2",
     "name": "Grapevine leafroll-associated virus 4",
     "abbreviation": "GLRaV4(X)",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
