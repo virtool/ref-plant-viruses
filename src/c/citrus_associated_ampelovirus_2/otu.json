@@ -1,0 +1,13 @@
+{
+    "_id": "wp5jyd07",
+    "name": "Citrus associated ampelovirus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
