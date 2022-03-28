@@ -2,5 +2,12 @@
     "_id": "6a15a795",
     "name": "Grapevine virus F",
     "abbreviation": "GVF",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
