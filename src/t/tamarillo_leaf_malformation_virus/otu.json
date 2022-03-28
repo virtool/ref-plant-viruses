@@ -2,5 +2,12 @@
     "_id": "8d755789",
     "name": "Tamarillo leaf malformation virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
