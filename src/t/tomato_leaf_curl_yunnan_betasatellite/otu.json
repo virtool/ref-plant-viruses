@@ -1,0 +1,13 @@
+{
+    "_id": "3uek73py",
+    "name": "Tomato leaf curl Yunnan betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
