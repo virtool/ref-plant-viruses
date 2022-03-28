@@ -2,5 +2,12 @@
     "_id": "daa3c5af",
     "name": "Tropical soda apple mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
