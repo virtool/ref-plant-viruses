@@ -1,0 +1,13 @@
+{
+    "_id": "unzd5re5",
+    "name": "Tomato leaf curl Joydebpur betasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "betasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
