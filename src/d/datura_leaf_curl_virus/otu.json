@@ -1,0 +1,13 @@
+{
+    "_id": "6cb5pwt8",
+    "name": "Datura leaf curl virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
