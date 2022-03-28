@@ -2,5 +2,12 @@
     "_id": "e2a1d19a",
     "name": "Turnip vein-clearing virus",
     "abbreviation": "TuVCV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
