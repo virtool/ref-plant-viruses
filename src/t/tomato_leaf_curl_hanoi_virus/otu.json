@@ -1,0 +1,13 @@
+{
+    "_id": "hqmfydx7",
+    "name": "Tomato leaf curl Hanoi virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
