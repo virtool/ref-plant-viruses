@@ -1,0 +1,13 @@
+{
+    "_id": "3ehc14jv",
+    "name": "Cherry robigovirus 5",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
