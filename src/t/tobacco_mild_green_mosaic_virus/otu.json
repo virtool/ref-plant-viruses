@@ -2,5 +2,12 @@
     "_id": "e09b2253",
     "name": "Tobacco mild green mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
