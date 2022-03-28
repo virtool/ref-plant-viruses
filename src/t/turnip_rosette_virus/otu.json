@@ -2,5 +2,12 @@
     "_id": "fbe814e0",
     "name": "Turnip rosette virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
