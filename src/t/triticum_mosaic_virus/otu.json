@@ -2,5 +2,12 @@
     "_id": "4bb2b1c4",
     "name": "Triticum mosaic virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
