@@ -1,0 +1,13 @@
+{
+    "_id": "kn4i8rrv",
+    "name": "Tomato leaf curl New Delhi virus 4",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
