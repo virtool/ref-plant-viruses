@@ -1,0 +1,13 @@
+{
+    "_id": "8zl7uufa",
+    "name": "Tomato leaf curl Java virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
