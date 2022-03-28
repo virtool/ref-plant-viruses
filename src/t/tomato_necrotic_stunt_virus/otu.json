@@ -2,5 +2,12 @@
     "_id": "6ed4864f",
     "name": "Tomato necrotic stunt virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
