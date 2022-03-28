@@ -2,5 +2,12 @@
     "_id": "742c9095",
     "name": "Pelargonium leaf curl virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
