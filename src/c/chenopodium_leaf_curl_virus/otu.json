@@ -1,0 +1,13 @@
+{
+    "_id": "eoodb28p",
+    "name": "Chenopodium leaf curl virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
