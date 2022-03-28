@@ -2,5 +2,12 @@
     "_id": "qefbunac",
     "name": "Bell pepper endornavirus",
     "abbreviation": "BPEV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genomic",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
