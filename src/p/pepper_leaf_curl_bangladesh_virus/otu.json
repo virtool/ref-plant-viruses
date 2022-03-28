@@ -2,5 +2,12 @@
     "_id": "a9c8f430",
     "name": "Pepper leaf curl Bangladesh virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "DNA A",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
