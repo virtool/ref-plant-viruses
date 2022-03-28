@@ -1,0 +1,13 @@
+{
+    "_id": "9eqjdfsi",
+    "name": "Citrus viroid VI",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "viroid",
+            "molecule": "ssRNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
