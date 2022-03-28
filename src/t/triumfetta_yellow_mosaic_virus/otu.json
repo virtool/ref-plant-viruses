@@ -1,0 +1,13 @@
+{
+    "_id": "xa1757fy",
+    "name": "Triumfetta yellow mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "DNA B",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
