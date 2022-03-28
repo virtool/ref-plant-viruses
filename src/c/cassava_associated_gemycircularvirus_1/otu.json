@@ -1,0 +1,13 @@
+{
+    "_id": "0m2qxvgh",
+    "name": "Cassava associated gemycircularvirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
