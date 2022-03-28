@@ -1,0 +1,13 @@
+{
+    "_id": "kjqyv40v",
+    "name": "Tomato leaf curl Virudhunagar alphasatellite",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "alphasatellite",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
