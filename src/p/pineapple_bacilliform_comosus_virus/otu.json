@@ -2,5 +2,12 @@
     "_id": "0764ce35",
     "name": "Pineapple bacilliform comosus virus",
     "abbreviation": "",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
