@@ -2,5 +2,12 @@
     "_id": "361df7fe",
     "name": "Gooseberry vein banding associated virus",
     "abbreviation": "GVBaV",
-    "schema": []
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "dsDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
