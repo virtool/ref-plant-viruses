@@ -2,5 +2,17 @@
     "_id": "922cc334",
     "name": "Tobacco rattle virus",
     "abbreviation": "TRV",
-    "schema": []
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "ssRNA+",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "ssRNA+",
+            "required": true
+        }
+    ],
+    "taxid": null
 }
