@@ -1,0 +1,13 @@
+{
+    "_id": "8fcuilyp",
+    "name": "Tomato leaf curl Moheli virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "name": "genome",
+            "molecule": "ssDNA",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
