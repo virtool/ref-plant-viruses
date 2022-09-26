@@ -4,7 +4,7 @@
     "abbreviation": "RMV",
     "schema": [
         {
-            "name": "RNA ",
+            "name": "RNA",
             "molecule": "ssRNA+",
             "required": true
         }
