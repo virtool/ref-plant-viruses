@@ -13,8 +13,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: Build
         run: |
-          pip install git+https://github.com/virtool/virtool-cli.git
-          virtool build -src src -V ${{ github.ref }}
+          pip install virtool-cli
+          virtool ref build -src src
           gzip reference.json
       - name: Release
         uses: softprops/action-gh-release@v1
