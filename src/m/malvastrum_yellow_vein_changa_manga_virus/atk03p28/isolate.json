@@ -1,6 +1,6 @@
 {
-    "id": "atk03p28",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "atk03p28",
+  "source_type": "clone",
+  "source_name": "MV10",
+  "default": true
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "a85d07f2",
-    "name": "Cotton leaf curl Gezira virus",
-    "abbreviation": "CLCuGeV",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "a85d07f2",
+  "name": "Cotton leaf curl Gezira virus",
+  "abbreviation": "CLCuGeV",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 222459
 }

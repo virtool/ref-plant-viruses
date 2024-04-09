@@ -1,0 +1,13 @@
+{
+  "_id": "tvpl2pkt",
+  "name": "Maize yellow mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1833824
+}

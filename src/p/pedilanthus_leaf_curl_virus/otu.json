@@ -1,13 +1,13 @@
 {
-    "_id": "5dc37bb8",
-    "name": "Pedilanthus leaf curl virus",
-    "abbreviation": "PLCV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "5dc37bb8",
+  "name": "Pedilanthus leaf curl virus",
+  "abbreviation": "PLCV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 619631
 }

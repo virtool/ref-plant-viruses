@@ -1,13 +1,13 @@
 {
-    "_id": "9419018a",
-    "name": "Bhendi yellow vein India betasatellite [India:Aurangabad:OY164:2006]",
-    "abbreviation": "BYVIB",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "9419018a",
+  "name": "Bhendi yellow vein India betasatellite [India:Aurangabad:OY164:2006]",
+  "abbreviation": "BYVIB",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 908009
 }

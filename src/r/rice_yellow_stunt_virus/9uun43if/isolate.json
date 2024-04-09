@@ -1,6 +1,6 @@
 {
-    "id": "9uun43if",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "9uun43if",
+  "source_type": "genbank",
+  "source_name": "NC_003746",
+  "default": true
 }

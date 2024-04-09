@@ -1,13 +1,13 @@
 {
-    "_id": "0azio5i3",
-    "name": "Tomato leaf curl Joydebpur virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "0azio5i3",
+  "name": "Tomato leaf curl Joydebpur virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 309390
 }

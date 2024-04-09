@@ -1,6 +1,6 @@
 {
-    "id": "6pex95g6",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "6pex95g6",
+  "source_type": "genbank",
+  "source_name": "NC_017914",
+  "default": true
 }

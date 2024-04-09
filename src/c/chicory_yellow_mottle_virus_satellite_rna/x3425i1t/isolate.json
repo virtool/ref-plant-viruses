@@ -1,6 +1,6 @@
 {
-    "id": "x3425i1t",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "x3425i1t",
+  "source_type": "genbank",
+  "source_name": "NC_003971",
+  "default": true
 }

@@ -1,23 +1,23 @@
 {
-    "_id": "dlsuphpw",
-    "name": "Anthurium mosaic-associated virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "RNA 1",
-            "molecule": "dsRNA",
-            "required": true
-        },
-        {
-            "name": "RNA 2",
-            "molecule": "dsRNA",
-            "required": true
-        },
-        {
-            "name": "RNA 3",
-            "molecule": "dsRNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "dlsuphpw",
+  "name": "Anthurium mosaic-associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "RNA 1",
+      "molecule": "dsRNA",
+      "required": true
+    },
+    {
+      "name": "RNA 2",
+      "molecule": "dsRNA",
+      "required": true
+    },
+    {
+      "name": "RNA 3",
+      "molecule": "dsRNA",
+      "required": true
+    }
+  ],
+  "taxid": 664255
 }

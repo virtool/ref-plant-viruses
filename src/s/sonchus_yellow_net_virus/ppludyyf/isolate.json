@@ -1,6 +1,6 @@
 {
-    "id": "ppludyyf",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "ppludyyf",
+  "source_type": "genbank",
+  "source_name": "NC_001615",
+  "default": true
 }

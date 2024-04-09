@@ -1,0 +1,13 @@
+{
+  "_id": "d8b36704",
+  "name": "Papaya leaf crumple virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 928315
+}

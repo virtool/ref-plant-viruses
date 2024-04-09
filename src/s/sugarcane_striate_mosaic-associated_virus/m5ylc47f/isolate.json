@@ -1,6 +1,6 @@
 {
-    "id": "m5ylc47f",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "m5ylc47f",
+  "source_type": "genbank",
+  "source_name": "NC_003870",
+  "default": true
 }

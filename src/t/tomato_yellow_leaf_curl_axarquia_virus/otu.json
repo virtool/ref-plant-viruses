@@ -1,0 +1,13 @@
+{
+  "_id": "665b634f",
+  "name": "Tomato yellow leaf curl Axarquia virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 232380
+}

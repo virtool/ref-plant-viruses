@@ -1,6 +1,6 @@
 {
-    "id": "g02tmn3s",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "g02tmn3s",
+  "source_type": "clone",
+  "source_name": "pBSM[49,244].",
+  "default": true
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "d88b89d8",
-    "name": "Chickpea chlorotic dwarf virus",
-    "abbreviation": "CpCDV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "d88b89d8",
+  "name": "Chickpea chlorotic dwarf virus",
+  "abbreviation": "CpCDV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 463360
 }

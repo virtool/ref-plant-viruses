@@ -1,13 +1,13 @@
 {
-    "_id": "bs99mktl",
-    "name": "Tomato apical leaf curl virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "bs99mktl",
+  "name": "Tomato apical leaf curl virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2060142
 }

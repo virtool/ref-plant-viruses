@@ -1,13 +1,13 @@
 {
-    "_id": "du91yvhq",
-    "name": "Tomato leaf curl Diana virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "du91yvhq",
+  "name": "Tomato leaf curl Diana virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 439426
 }

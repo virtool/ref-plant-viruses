@@ -1,13 +1,13 @@
 {
-    "_id": "pefx98rl",
-    "name": "Cacao swollen shoot Ghana Q virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "pefx98rl",
+  "name": "Cacao swollen shoot Ghana Q virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2056885
 }

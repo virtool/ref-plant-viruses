@@ -1,6 +1,6 @@
 {
-    "id": "o2fre5sw",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "o2fre5sw",
+  "source_type": "genbank",
+  "source_name": "NC_009547",
+  "default": true
 }

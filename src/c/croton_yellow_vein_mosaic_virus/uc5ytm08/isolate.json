@@ -1,6 +1,6 @@
 {
-    "id": "uc5ytm08",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "uc5ytm08",
+  "source_type": "genbank",
+  "source_name": "NC_004300",
+  "default": true
 }

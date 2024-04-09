@@ -1,6 +1,13 @@
 {
-    "_id": "55016146",
-    "name": "Fritillary virus Y",
-    "abbreviation": "FVY",
-    "schema": []
+  "_id": "55016146",
+  "name": "Fritillary virus Y",
+  "abbreviation": "FVY",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA",
+      "required": true
+    }
+  ],
+  "taxid": 332471
 }

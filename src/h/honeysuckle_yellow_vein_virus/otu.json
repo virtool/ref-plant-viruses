@@ -1,13 +1,13 @@
 {
-    "_id": "74580133",
-    "name": "Honeysuckle yellow vein virus",
-    "abbreviation": "HYVV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "74580133",
+  "name": "Honeysuckle yellow vein virus",
+  "abbreviation": "HYVV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 240865
 }

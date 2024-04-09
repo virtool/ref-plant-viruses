@@ -1,6 +1,6 @@
 {
-    "id": "vg4gsd48",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "vg4gsd48",
+  "source_type": "genbank",
+  "source_name": "NC_006064",
+  "default": true
 }

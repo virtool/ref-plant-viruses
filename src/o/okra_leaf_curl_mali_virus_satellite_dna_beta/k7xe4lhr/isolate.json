@@ -1,6 +1,6 @@
 {
-    "id": "k7xe4lhr",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "k7xe4lhr",
+  "source_type": "genbank",
+  "source_name": "NC_009731",
+  "default": true
 }

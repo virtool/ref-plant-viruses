@@ -1,0 +1,13 @@
+{
+  "_id": "238ed56d",
+  "name": "Pepper leaf curl Yunnan virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1003836
+}

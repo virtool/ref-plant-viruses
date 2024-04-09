@@ -1,13 +1,13 @@
 {
-    "_id": "9da7c10d",
-    "name": "Radish leaf curl betasatellite",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Betasatellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "9da7c10d",
+  "name": "Radish leaf curl betasatellite",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Betasatellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 662596
 }

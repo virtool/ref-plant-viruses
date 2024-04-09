@@ -1,6 +1,6 @@
 {
-    "id": "7eimpwul",
-    "source_type": "unknown",
-    "source_name": "",
-    "default": false
+  "id": "7eimpwul",
+  "source_type": "genbank",
+  "source_name": "D13765",
+  "default": false
 }

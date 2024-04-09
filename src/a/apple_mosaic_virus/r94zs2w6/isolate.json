@@ -1,6 +1,6 @@
 {
-    "id": "r94zs2w6",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "r94zs2w6",
+  "source_type": "genbank",
+  "source_name": "NC_003464",
+  "default": true
 }

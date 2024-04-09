@@ -1,18 +1,18 @@
 {
-    "_id": "c673385e",
-    "name": "Tomato golden mottle virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssRNA+",
-            "required": true
-        },
-        {
-            "name": "DNA B",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "c673385e",
+  "name": "Tomato golden mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssRNA+",
+      "required": true
+    },
+    {
+      "name": "DNA B",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 223342
 }

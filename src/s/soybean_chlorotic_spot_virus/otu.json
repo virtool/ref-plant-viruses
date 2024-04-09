@@ -1,18 +1,18 @@
 {
-    "_id": "42a9715c",
-    "name": "Soybean chlorotic spot virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        },
-        {
-            "name": "DNA B",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "42a9715c",
+  "name": "Soybean chlorotic spot virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    },
+    {
+      "name": "DNA B",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1221206
 }

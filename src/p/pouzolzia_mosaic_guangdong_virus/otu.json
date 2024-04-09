@@ -1,13 +1,13 @@
 {
-    "_id": "x81lqtza",
-    "name": "Pouzolzia mosaic Guangdong virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "x81lqtza",
+  "name": "Pouzolzia mosaic Guangdong virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1367126
 }

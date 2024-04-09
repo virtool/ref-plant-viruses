@@ -1,6 +1,6 @@
 {
-    "id": "xbjkcf09",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "xbjkcf09",
+  "source_type": "genbank",
+  "source_name": "NC_004093",
+  "default": true
 }

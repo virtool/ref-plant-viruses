@@ -1,6 +1,6 @@
 {
-    "id": "kx3zefgu",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "kx3zefgu",
+  "source_type": "genbank",
+  "source_name": "NC_013424",
+  "default": true
 }

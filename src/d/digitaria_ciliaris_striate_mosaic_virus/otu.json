@@ -1,13 +1,13 @@
 {
-    "_id": "32118501",
-    "name": "Digitaria ciliaris striate mosaic virus",
-    "abbreviation": "DCSMV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "32118501",
+  "name": "Digitaria ciliaris striate mosaic virus",
+  "abbreviation": "DCSMV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1196237
 }

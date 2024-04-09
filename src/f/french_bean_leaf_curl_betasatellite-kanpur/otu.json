@@ -1,6 +1,13 @@
 {
-    "_id": "4261a7fc",
-    "name": "French bean leaf curl betasatellite-Kanpur",
-    "abbreviation": "FbLCB-Kanpur",
-    "schema": []
+  "_id": "4261a7fc",
+  "name": "French bean leaf curl betasatellite-Kanpur",
+  "abbreviation": "FbLCB-Kanpur",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "DNA",
+      "required": true
+    }
+  ],
+  "taxid": 1200971
 }

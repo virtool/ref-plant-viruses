@@ -1,13 +1,13 @@
 {
-    "_id": "ojwn146f",
-    "name": "Vinca leaf curl virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "ojwn146f",
+  "name": "Vinca leaf curl virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1170656
 }

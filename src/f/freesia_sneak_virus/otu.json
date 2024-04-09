@@ -1,6 +1,13 @@
 {
-    "_id": "85dcf181",
-    "name": "Freesia sneak virus",
-    "abbreviation": "FreSV",
-    "schema": []
+  "_id": "85dcf181",
+  "name": "Freesia sneak virus",
+  "abbreviation": "FreSV",
+  "schema": [
+    {
+      "name": "Partial",
+      "molecule": "RNA",
+      "required": true
+    }
+  ],
+  "taxid": 2170046
 }

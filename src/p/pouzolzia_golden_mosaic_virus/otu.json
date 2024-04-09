@@ -1,13 +1,13 @@
 {
-    "_id": "e07eca19",
-    "name": "Pouzolzia golden mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "e07eca19",
+  "name": "Pouzolzia golden mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1225069
 }

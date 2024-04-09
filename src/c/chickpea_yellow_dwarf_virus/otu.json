@@ -1,13 +1,13 @@
 {
-    "_id": "df2b4e26",
-    "name": "Chickpea yellow dwarf virus",
-    "abbreviation": "CpYDV",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "df2b4e26",
+  "name": "Chickpea yellow dwarf virus",
+  "abbreviation": "CpYDV",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1568974
 }

@@ -1,6 +1,6 @@
 {
-    "id": "zu57aeej",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "zu57aeej",
+  "source_type": "clone",
+  "source_name": "MI23",
+  "default": true
 }

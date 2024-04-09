@@ -1,13 +1,13 @@
 {
-    "_id": "730cd24e",
-    "name": "Papaya leaf curl Guandong virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "730cd24e",
+  "name": "Papaya leaf curl Guandong virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 271479
 }

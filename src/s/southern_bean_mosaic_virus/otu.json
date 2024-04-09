@@ -1,13 +1,13 @@
 {
-    "_id": "f0cc5c59",
-    "name": "Southern bean mosaic virus",
-    "abbreviation": "SBMV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "f0cc5c59",
+  "name": "Southern bean mosaic virus",
+  "abbreviation": "SBMV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 12139
 }

@@ -1,6 +1,6 @@
 {
-    "id": "uvwn5g67",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "uvwn5g67",
+  "source_type": "isolate",
+  "source_name": "WC",
+  "default": true
 }

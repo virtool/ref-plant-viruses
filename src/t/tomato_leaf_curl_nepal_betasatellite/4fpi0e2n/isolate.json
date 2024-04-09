@@ -1,6 +1,6 @@
 {
-    "id": "4fpi0e2n",
-    "source_type": "isolate",
-    "source_name": "",
-    "default": true
+  "id": "4fpi0e2n",
+  "source_type": "clone",
+  "source_name": "nept4-12",
+  "default": true
 }

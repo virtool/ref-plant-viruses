@@ -1,13 +1,13 @@
 {
-    "_id": "0a199d29",
-    "name": "Phaseolus vulgaris endornavirus 1",
-    "abbreviation": "PvEV-1",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsRNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "0a199d29",
+  "name": "Phaseolus vulgaris endornavirus 1",
+  "abbreviation": "PvEV-1",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsRNA",
+      "required": true
+    }
+  ],
+  "taxid": 1188792
 }

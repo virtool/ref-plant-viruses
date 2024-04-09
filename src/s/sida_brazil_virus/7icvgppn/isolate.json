@@ -1,6 +1,6 @@
 {
-    "id": "7icvgppn",
-    "source_type": "isolate",
-    "source_name": "",
-    "default": true
+  "id": "7icvgppn",
+  "source_type": "genbank",
+  "source_name": "NC_038887",
+  "default": true
 }

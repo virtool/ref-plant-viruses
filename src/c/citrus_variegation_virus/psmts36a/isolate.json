@@ -1,6 +1,6 @@
 {
-    "id": "psmts36a",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "psmts36a",
+  "source_type": "clone",
+  "source_name": "pCVV26, pCVV28",
+  "default": true
 }

@@ -1,6 +1,6 @@
 {
-    "id": "ylgbpnlh",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "ylgbpnlh",
+  "source_type": "genbank",
+  "source_name": "NC_011542",
+  "default": true
 }

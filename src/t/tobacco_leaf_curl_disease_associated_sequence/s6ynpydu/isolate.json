@@ -1,6 +1,6 @@
 {
-    "id": "s6ynpydu",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "s6ynpydu",
+  "source_type": "clone",
+  "source_name": "NIB12-1",
+  "default": true
 }

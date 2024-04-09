@@ -1,13 +1,13 @@
 {
-    "_id": "0lg0y59p",
-    "name": "Temperate fruit decay-associated virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "0lg0y59p",
+  "name": "Temperate fruit decay-associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1628899
 }

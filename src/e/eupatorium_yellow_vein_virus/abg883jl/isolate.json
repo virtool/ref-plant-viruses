@@ -1,6 +1,6 @@
 {
-    "id": "abg883jl",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "abg883jl",
+  "source_type": "clone",
+  "source_name": "pMFL12",
+  "default": true
 }

@@ -1,6 +1,6 @@
 {
-    "id": "z7ff69nz",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "z7ff69nz",
+  "source_type": "clone",
+  "source_name": "overlapping cDNA pA8, pI43, pI90, p14B, pM1, pI106",
+  "default": true
 }

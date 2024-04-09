@@ -1,6 +1,6 @@
 {
-    "id": "4nguyc46",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "4nguyc46",
+  "source_type": "genbank",
+  "source_name": "NC_015502",
+  "default": true
 }

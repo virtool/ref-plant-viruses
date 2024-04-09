@@ -1,6 +1,6 @@
 {
-    "id": "nchclv9m",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "nchclv9m",
+  "source_type": "genbank",
+  "source_name": "NC_001828",
+  "default": true
 }

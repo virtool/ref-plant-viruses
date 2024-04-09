@@ -1,13 +1,13 @@
 {
-    "_id": "39a29fd9",
-    "name": "Sweet potato leaf curl virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "39a29fd9",
+  "name": "Sweet potato leaf curl virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 100755
 }

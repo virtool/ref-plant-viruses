@@ -1,18 +1,18 @@
 {
-    "_id": "97c970d7",
-    "name": "Tomato rugose yellow leaf curl virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        },
-        {
-            "name": "DNA B",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "97c970d7",
+  "name": "Tomato rugose yellow leaf curl virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    },
+    {
+      "name": "DNA B",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1162280
 }

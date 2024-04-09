@@ -1,13 +1,13 @@
 {
-    "_id": "v5dchzkq",
-    "name": "Vigna yellow mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "v5dchzkq",
+  "name": "Vigna yellow mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1312724
 }

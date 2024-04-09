@@ -1,13 +1,13 @@
 {
-    "_id": "c58d7e19",
-    "name": "Banana streak UA virus",
-    "abbreviation": "BSUAV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "c58d7e19",
+  "name": "Banana streak UA virus",
+  "abbreviation": "BSUAV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1016854
 }

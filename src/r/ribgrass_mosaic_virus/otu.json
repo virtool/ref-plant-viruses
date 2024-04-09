@@ -1,13 +1,13 @@
 {
-    "_id": "0073d90b",
-    "name": "Ribgrass mosaic virus",
-    "abbreviation": "RMV",
-    "schema": [
-        {
-            "name": "RNA",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "0073d90b",
+  "name": "Ribgrass mosaic virus",
+  "abbreviation": "RMV",
+  "schema": [
+    {
+      "name": "RNA",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 51680
 }

@@ -1,6 +1,6 @@
 {
-    "id": "wbmv9hn6",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "wbmv9hn6",
+  "source_type": "genbank",
+  "source_name": "NC_003787",
+  "default": true
 }

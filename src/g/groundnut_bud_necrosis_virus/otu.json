@@ -1,23 +1,23 @@
 {
-    "_id": "f7b4b2ed",
-    "name": "Groundnut bud necrosis virus",
-    "abbreviation": "GBNV",
-    "schema": [
-        {
-            "name": "RNA M",
-            "molecule": "ssRNA-",
-            "required": true
-        },
-        {
-            "name": "RNA S",
-            "molecule": "ssRNA-",
-            "required": true
-        },
-        {
-            "name": "RNA L",
-            "molecule": "ssRNA-",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "f7b4b2ed",
+  "name": "Groundnut bud necrosis virus",
+  "abbreviation": "GBNV",
+  "schema": [
+    {
+      "name": "RNA M",
+      "molecule": "ssRNA-",
+      "required": true
+    },
+    {
+      "name": "RNA S",
+      "molecule": "ssRNA-",
+      "required": true
+    },
+    {
+      "name": "RNA L",
+      "molecule": "ssRNA-",
+      "required": true
+    }
+  ],
+  "taxid": 198612
 }

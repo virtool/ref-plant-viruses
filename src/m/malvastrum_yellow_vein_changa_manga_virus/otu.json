@@ -1,13 +1,13 @@
 {
-    "_id": "c80cd343",
-    "name": "Malvastrum yellow vein Changa Manga virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "c80cd343",
+  "name": "Malvastrum yellow vein Changa Manga virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 911574
 }

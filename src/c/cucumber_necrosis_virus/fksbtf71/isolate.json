@@ -1,6 +1,6 @@
 {
-    "id": "fksbtf71",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "fksbtf71",
+  "source_type": "genbank",
+  "source_name": "NC_001469",
+  "default": true
 }

@@ -1,6 +1,6 @@
 {
-    "id": "a4aqupia",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "a4aqupia",
+  "source_type": "genbank",
+  "source_name": "NC_012211",
+  "default": true
 }

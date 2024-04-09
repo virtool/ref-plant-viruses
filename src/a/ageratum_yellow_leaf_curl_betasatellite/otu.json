@@ -1,13 +1,13 @@
 {
-    "_id": "b6397432",
-    "name": "Ageratum yellow leaf curl betasatellite",
-    "abbreviation": "AYLCB",
-    "schema": [
-        {
-            "name": "Betasatellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "b6397432",
+  "name": "Ageratum yellow leaf curl betasatellite",
+  "abbreviation": "AYLCB",
+  "schema": [
+    {
+      "name": "Betasatellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 169687
 }

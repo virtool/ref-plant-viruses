@@ -1,6 +1,6 @@
 {
-    "id": "n3uvc7t7",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "n3uvc7t7",
+  "source_type": "genbank",
+  "source_name": "NC_016033",
+  "default": true
 }

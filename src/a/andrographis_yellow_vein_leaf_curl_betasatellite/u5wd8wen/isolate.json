@@ -1,6 +1,6 @@
 {
-    "id": "u5wd8wen",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "u5wd8wen",
+  "source_type": "clone",
+  "source_name": "bt-2",
+  "default": true
 }

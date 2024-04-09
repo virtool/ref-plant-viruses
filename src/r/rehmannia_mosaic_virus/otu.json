@@ -1,13 +1,13 @@
 {
-    "_id": "10857991",
-    "name": "Rehmannia mosaic virus",
-    "abbreviation": "ReMV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "10857991",
+  "name": "Rehmannia mosaic virus",
+  "abbreviation": "ReMV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 425279
 }

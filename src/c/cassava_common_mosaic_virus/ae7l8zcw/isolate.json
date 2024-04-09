@@ -1,6 +1,6 @@
 {
-    "id": "ae7l8zcw",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "ae7l8zcw",
+  "source_type": "clone",
+  "source_name": "cDNA clones pCsCMV-28, pCsCMV-X7, pCsCMV-SP2, pCsCMV-64",
+  "default": true
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "q1gu14xk",
-    "name": "Hoya chlorotic spot virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "q1gu14xk",
+  "name": "Hoya chlorotic spot virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1979541
 }

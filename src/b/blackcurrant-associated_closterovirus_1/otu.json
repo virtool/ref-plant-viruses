@@ -1,13 +1,13 @@
 {
-    "_id": "tn5fpxje",
-    "name": "Blackcurrant-associated closterovirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "tn5fpxje",
+  "name": "Blackcurrant-associated closterovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 2338394
 }

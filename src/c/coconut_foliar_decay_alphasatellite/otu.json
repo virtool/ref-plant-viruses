@@ -1,13 +1,13 @@
 {
-    "_id": "f5540ac5",
-    "name": "Coconut foliar decay alphasatellite",
-    "abbreviation": "satCFDA",
-    "schema": [
-        {
-            "name": "Alphasatellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "f5540ac5",
+  "name": "Coconut foliar decay alphasatellite",
+  "abbreviation": "satCFDA",
+  "schema": [
+    {
+      "name": "Alphasatellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1458187
 }

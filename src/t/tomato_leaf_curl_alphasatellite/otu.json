@@ -1,13 +1,13 @@
 {
-    "_id": "ecd570b7",
-    "name": "Tomato leaf curl alphasatellite",
-    "abbreviation": "TLCV-alpha",
-    "schema": [
-        {
-            "name": "Alphasatellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "ecd570b7",
+  "name": "Tomato leaf curl alphasatellite",
+  "abbreviation": "TLCV-alpha",
+  "schema": [
+    {
+      "name": "Alphasatellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1407057
 }

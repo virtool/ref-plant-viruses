@@ -1,13 +1,13 @@
 {
-    "_id": "wshcn8oy",
-    "name": "Bean leaf crumple virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "wshcn8oy",
+  "name": "Bean leaf crumple virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2004460
 }

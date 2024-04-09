@@ -1,6 +1,48 @@
 {
-    "_id": "017045aa",
-    "name": "Pea yellow stunt virus",
-    "abbreviation": "",
-    "schema": []
+  "_id": "017045aa",
+  "name": "Pea yellow stunt virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA C",
+      "molecule": "ssDNA",
+      "required": true
+    },
+    {
+      "name": "DNA M",
+      "molecule": "ssDNA",
+      "required": true
+    },
+    {
+      "name": "DNA N",
+      "molecule": "ssDNA",
+      "required": true
+    },
+    {
+      "name": "DNA R",
+      "molecule": "ssDNA",
+      "required": true
+    },
+    {
+      "name": "DNA S",
+      "molecule": "ssDNA",
+      "required": true
+    },
+    {
+      "name": "DNA U1",
+      "molecule": "ssDNA",
+      "required": true
+    },
+    {
+      "name": "DNA U2",
+      "molecule": "ssDNA",
+      "required": true
+    },
+    {
+      "name": "DNA U4",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1436892
 }

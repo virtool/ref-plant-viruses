@@ -1,6 +1,13 @@
 {
-    "_id": "aa08bc53",
-    "name": "Yam mosaic virus",
-    "abbreviation": "",
-    "schema": []
+  "_id": "aa08bc53",
+  "name": "Yam mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA",
+      "required": true
+    }
+  ],
+  "taxid": 41460
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "ecsjcni9",
-    "name": "Canna yellow mottle virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "ecsjcni9",
+  "name": "Canna yellow mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsDNA",
+      "required": true
+    }
+  ],
+  "taxid": 419782
 }

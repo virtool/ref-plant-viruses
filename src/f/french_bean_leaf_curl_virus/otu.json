@@ -1,0 +1,13 @@
+{
+  "_id": "f2864c47",
+  "name": "French bean leaf curl virus",
+  "abbreviation": "FbLCV",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "dna",
+      "required": true
+    }
+  ],
+  "taxid": 1200970
+}

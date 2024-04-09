@@ -1,13 +1,13 @@
 {
-    "_id": "41b2e65e",
-    "name": "Sida leaf curl virus-associated DNA beta",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "41b2e65e",
+  "name": "Sida leaf curl virus-associated DNA beta",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 337824
 }

@@ -1,6 +1,6 @@
 {
-    "id": "e391eglh",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "e391eglh",
+  "source_type": "genbank",
+  "source_name": "NC_007655",
+  "default": true
 }

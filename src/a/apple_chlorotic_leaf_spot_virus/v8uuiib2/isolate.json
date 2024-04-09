@@ -1,6 +1,6 @@
 {
-    "id": "v8uuiib2",
-    "source_type": "strain",
-    "source_name": "AC-ind",
-    "default": false
+  "id": "v8uuiib2",
+  "source_type": "strain",
+  "source_name": "AC-ind",
+  "default": false
 }

@@ -1,0 +1,13 @@
+{
+  "_id": "46730d42",
+  "name": "Persimmon viroid",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Viroid",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 481311
+}

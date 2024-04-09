@@ -1,7 +1,13 @@
 {
-    "_id": "cn8om9ix",
-    "name": "Apple virus D",
-    "abbreviation": "",
-    "schema": [],
-    "taxid": null
+  "_id": "cn8om9ix",
+  "name": "Apple virus D",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "RNA",
+      "name": "Partial",
+      "required": true
+    }
+  ],
+  "taxid": 2709748
 }

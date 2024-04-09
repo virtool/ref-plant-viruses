@@ -1,13 +1,13 @@
 {
-    "_id": "fea4635c",
-    "name": "Cotton leaf curl Gezira betasatellite",
-    "abbreviation": "CLCuGeB",
-    "schema": [
-        {
-            "name": "Betasatellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "fea4635c",
+  "name": "Cotton leaf curl Gezira betasatellite",
+  "abbreviation": "CLCuGeB",
+  "schema": [
+    {
+      "name": "Betasatellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 304222
 }

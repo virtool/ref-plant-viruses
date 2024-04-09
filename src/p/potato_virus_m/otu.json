@@ -1,13 +1,13 @@
 {
-    "_id": "89def35d",
-    "name": "Potato virus M",
-    "abbreviation": "PVM",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "89def35d",
+  "name": "Potato virus M",
+  "abbreviation": "PVM",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 12167
 }

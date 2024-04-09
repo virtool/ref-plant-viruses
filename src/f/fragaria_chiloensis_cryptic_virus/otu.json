@@ -1,6 +1,23 @@
 {
-    "_id": "cd91fae1",
-    "name": "Fragaria chiloensis cryptic virus",
-    "abbreviation": "FCCV",
-    "schema": []
+  "_id": "cd91fae1",
+  "name": "Fragaria chiloensis cryptic virus",
+  "abbreviation": "FCCV",
+  "schema": [
+    {
+      "name": "RNA 1",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "RNA 2",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "RNA 3",
+      "molecule": "RNA",
+      "required": true
+    }
+  ],
+  "taxid": 335204
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "1e82b825",
-    "name": "Peach chlorotic mottle virus",
-    "abbreviation": "PCMV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "1e82b825",
+  "name": "Peach chlorotic mottle virus",
+  "abbreviation": "PCMV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 471498
 }

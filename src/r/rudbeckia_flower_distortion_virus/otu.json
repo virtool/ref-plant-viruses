@@ -1,13 +1,13 @@
 {
-    "_id": "dc61ac8b",
-    "name": "Rudbeckia flower distortion virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "dc61ac8b",
+  "name": "Rudbeckia flower distortion virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsDNA",
+      "required": true
+    }
+  ],
+  "taxid": 587370
 }

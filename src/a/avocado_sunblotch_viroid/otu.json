@@ -1,13 +1,13 @@
 {
-    "_id": "a480428e",
-    "name": "Avocado sunblotch viroid",
-    "abbreviation": "ASBVd",
-    "schema": [
-        {
-            "name": "Viroid",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "a480428e",
+  "name": "Avocado sunblotch viroid",
+  "abbreviation": "ASBVd",
+  "schema": [
+    {
+      "name": "Viroid",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 12896
 }

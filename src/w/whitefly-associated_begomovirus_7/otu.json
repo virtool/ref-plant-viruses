@@ -1,13 +1,13 @@
 {
-    "_id": "5g6t1jgs",
-    "name": "Whitefly-associated begomovirus 7",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "5g6t1jgs",
+  "name": "Whitefly-associated begomovirus 7",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2169744
 }

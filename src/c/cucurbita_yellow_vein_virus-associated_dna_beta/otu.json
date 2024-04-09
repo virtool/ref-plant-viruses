@@ -1,13 +1,13 @@
 {
-    "_id": "fe6097ef",
-    "name": "Cucurbita yellow vein virus-associated DNA beta",
-    "abbreviation": "CYVVaDNA",
-    "schema": [
-        {
-            "name": "Betasatellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "fe6097ef",
+  "name": "Cucurbita yellow vein virus-associated DNA beta",
+  "abbreviation": "CYVVaDNA",
+  "schema": [
+    {
+      "name": "Betasatellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 220814
 }

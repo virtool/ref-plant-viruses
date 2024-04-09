@@ -1,13 +1,13 @@
 {
-    "_id": "f30637ad",
-    "name": "Malvastrum yellow mosaic alphasatellite",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "f30637ad",
+  "name": "Malvastrum yellow mosaic alphasatellite",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 377461
 }

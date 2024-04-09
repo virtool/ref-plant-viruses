@@ -1,13 +1,13 @@
 {
-    "_id": "ca793379",
-    "name": "Malvastrum leaf curl Guangdong betasatellite",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "ca793379",
+  "name": "Malvastrum leaf curl Guangdong betasatellite",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1461792
 }

@@ -1,6 +1,6 @@
 {
-    "id": "pryfkkfw",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "pryfkkfw",
+  "source_type": "genbank",
+  "source_name": "NC_001497",
+  "default": true
 }

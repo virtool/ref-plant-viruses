@@ -1,13 +1,13 @@
 {
-    "_id": "waponsdn",
-    "name": "Tomato mottle leaf curl virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "DNA-A",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "waponsdn",
+  "name": "Tomato mottle leaf curl virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 172394
 }

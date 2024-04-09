@@ -1,6 +1,6 @@
 {
-    "id": "0lkad6u1",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "0lkad6u1",
+  "source_type": "clone",
+  "source_name": "IN:Wel:W3SK1",
+  "default": true
 }

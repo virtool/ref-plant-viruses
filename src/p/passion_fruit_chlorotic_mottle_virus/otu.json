@@ -1,13 +1,13 @@
 {
-    "_id": "oqfrsiku",
-    "name": "Passion fruit chlorotic mottle virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "oqfrsiku",
+  "name": "Passion fruit chlorotic mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2162638
 }

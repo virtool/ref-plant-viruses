@@ -1,6 +1,6 @@
 {
-    "id": "2q8007ly",
-    "source_type": "unknown",
-    "source_name": "",
-    "default": true
+  "id": "2q8007ly",
+  "source_type": "genbank",
+  "source_name": "NC_021720",
+  "default": true
 }

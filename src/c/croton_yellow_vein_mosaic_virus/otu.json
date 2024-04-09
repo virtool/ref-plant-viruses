@@ -1,13 +1,13 @@
 {
-    "_id": "0f94bf99",
-    "name": "Croton yellow vein mosaic virus",
-    "abbreviation": "CYVMV",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "0f94bf99",
+  "name": "Croton yellow vein mosaic virus",
+  "abbreviation": "CYVMV",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 207697
 }

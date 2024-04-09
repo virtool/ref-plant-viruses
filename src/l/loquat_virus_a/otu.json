@@ -1,0 +1,13 @@
+{
+  "_id": "f78zewyq",
+  "name": "Loquat virus A",
+  "abbreviation": "LoVA",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 2683823
+}

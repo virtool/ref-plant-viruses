@@ -1,6 +1,6 @@
 {
-    "id": "m3jmdves",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "m3jmdves",
+  "source_type": "clone",
+  "source_name": "1",
+  "default": true
 }

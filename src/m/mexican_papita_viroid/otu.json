@@ -1,0 +1,13 @@
+{
+  "_id": "7a988b5f",
+  "name": "Mexican papita viroid",
+  "abbreviation": "MPVd",
+  "schema": [
+    {
+      "name": "Viroid",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 79450
+}

@@ -1,6 +1,6 @@
 {
-    "id": "utvdeniw",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "utvdeniw",
+  "source_type": "genbank",
+  "source_name": "NC_015504",
+  "default": true
 }

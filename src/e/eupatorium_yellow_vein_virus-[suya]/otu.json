@@ -1,13 +1,13 @@
 {
-    "_id": "hwpohvqf",
-    "name": "Eupatorium yellow vein virus-[Suya]",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "hwpohvqf",
+  "name": "Eupatorium yellow vein virus-[Suya]",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2080107
 }

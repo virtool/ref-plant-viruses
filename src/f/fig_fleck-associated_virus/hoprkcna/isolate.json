@@ -1,6 +1,6 @@
 {
-    "id": "hoprkcna",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "hoprkcna",
+  "source_type": "genbank",
+  "source_name": "NC_015229",
+  "default": true
 }

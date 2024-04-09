@@ -1,6 +1,6 @@
 {
-    "id": "vpn45ypt",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "vpn45ypt",
+  "source_type": "isolate",
+  "source_name": "Kansas serotype 1 (KS1)",
+  "default": true
 }

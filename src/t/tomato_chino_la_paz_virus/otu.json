@@ -1,13 +1,13 @@
 {
-    "_id": "232ee0cd",
-    "name": "Tomato chino La Paz virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "232ee0cd",
+  "name": "Tomato chino La Paz virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 240492
 }

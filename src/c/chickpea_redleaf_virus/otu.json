@@ -1,6 +1,13 @@
 {
-    "_id": "fbadded6",
-    "name": "Chickpea redleaf virus",
-    "abbreviation": "CpRLV",
-    "schema": []
+  "_id": "fbadded6",
+  "name": "Chickpea redleaf virus",
+  "abbreviation": "CpRLV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "RNA",
+      "required": true
+    }
+  ],
+  "taxid": 887827
 }

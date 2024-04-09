@@ -1,13 +1,13 @@
 {
-    "_id": "feaadf8c",
-    "name": "Ryegrass mottle virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "feaadf8c",
+  "name": "Ryegrass mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 119910
 }

@@ -1,6 +1,6 @@
 {
-    "id": "i9qftr92",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "i9qftr92",
+  "source_type": "clone",
+  "source_name": "YVM-SI-AMD-01",
+  "default": true
 }

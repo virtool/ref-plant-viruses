@@ -1,13 +1,13 @@
 {
-    "_id": "ff09c3a3",
-    "name": "Tobacco bushy top virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "ff09c3a3",
+  "name": "Tobacco bushy top virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 184020
 }

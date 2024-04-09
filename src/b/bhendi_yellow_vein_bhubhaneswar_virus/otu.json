@@ -1,13 +1,13 @@
 {
-    "_id": "32c04a45",
-    "name": "Bhendi yellow vein Bhubhaneswar virus",
-    "abbreviation": "BYVBV",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "32c04a45",
+  "name": "Bhendi yellow vein Bhubhaneswar virus",
+  "abbreviation": "BYVBV",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 591160
 }

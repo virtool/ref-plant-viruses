@@ -1,13 +1,13 @@
 {
-    "_id": "0c629195",
-    "name": "Pea enation mosaic virus-1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "0c629195",
+  "name": "Pea enation mosaic virus-1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 193121
 }

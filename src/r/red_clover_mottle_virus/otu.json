@@ -1,18 +1,18 @@
 {
-    "_id": "cb4bd29a",
-    "name": "Red clover mottle virus",
-    "abbreviation": "RCMV",
-    "schema": [
-        {
-            "name": "RNA 1",
-            "molecule": "ssRNA+",
-            "required": true
-        },
-        {
-            "name": "RNA 2",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "cb4bd29a",
+  "name": "Red clover mottle virus",
+  "abbreviation": "RCMV",
+  "schema": [
+    {
+      "name": "RNA 1",
+      "molecule": "ssRNA+",
+      "required": true
+    },
+    {
+      "name": "RNA 2",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 12262
 }

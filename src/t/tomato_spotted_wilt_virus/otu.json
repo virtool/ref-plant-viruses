@@ -1,23 +1,23 @@
 {
-    "_id": "af1ad33d",
-    "name": "Tomato spotted wilt virus",
-    "abbreviation": "TSWV",
-    "schema": [
-        {
-            "name": "RNA L",
-            "molecule": "ssRNA-",
-            "required": true
-        },
-        {
-            "name": "RNA M",
-            "molecule": "ssRNA-",
-            "required": true
-        },
-        {
-            "name": "RNA S",
-            "molecule": "ssRNA-",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "af1ad33d",
+  "name": "Tomato spotted wilt virus",
+  "abbreviation": "TSWV",
+  "schema": [
+    {
+      "name": "RNA L",
+      "molecule": "ssRNA-",
+      "required": true
+    },
+    {
+      "name": "RNA M",
+      "molecule": "ssRNA-",
+      "required": true
+    },
+    {
+      "name": "RNA S",
+      "molecule": "ssRNA-",
+      "required": true
+    }
+  ],
+  "taxid": 3052585
 }

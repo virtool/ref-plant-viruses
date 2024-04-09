@@ -1,13 +1,13 @@
 {
-    "_id": "6bb1fe0b",
-    "name": "Helicoverpa zea nudivirus 2",
-    "abbreviation": "HzNV-2",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "6bb1fe0b",
+  "name": "Helicoverpa zea nudivirus 2",
+  "abbreviation": "HzNV-2",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1128424
 }

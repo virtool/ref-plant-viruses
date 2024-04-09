@@ -1,13 +1,13 @@
 {
-    "_id": "0e60648b",
-    "name": "Gossypium darwinii symptomless alphasatellite",
-    "abbreviation": "GDarSLA",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "0e60648b",
+  "name": "Gossypium darwinii symptomless alphasatellite",
+  "abbreviation": "GDarSLA",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 656025
 }

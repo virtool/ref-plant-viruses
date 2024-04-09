@@ -1,13 +1,13 @@
 {
-    "_id": "17ad2efc",
-    "name": "Nectarine stem pitting-associated virus",
-    "abbreviation": "NSPaV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "17ad2efc",
+  "name": "Nectarine stem pitting-associated virus",
+  "abbreviation": "NSPaV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 2560614
 }

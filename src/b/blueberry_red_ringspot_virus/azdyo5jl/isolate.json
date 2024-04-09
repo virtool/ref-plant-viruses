@@ -1,6 +1,6 @@
 {
-    "id": "azdyo5jl",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "azdyo5jl",
+  "source_type": "genbank",
+  "source_name": "NC_003138",
+  "default": true
 }

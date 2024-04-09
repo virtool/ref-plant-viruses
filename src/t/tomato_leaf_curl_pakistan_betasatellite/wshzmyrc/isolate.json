@@ -1,6 +1,6 @@
 {
-    "id": "wshzmyrc",
-    "source_type": "isolate",
-    "source_name": "",
-    "default": true
+  "id": "wshzmyrc",
+  "source_type": "clone",
+  "source_name": "HZ4",
+  "default": true
 }

@@ -1,6 +1,6 @@
 {
-    "id": "w6j5e71r",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "w6j5e71r",
+  "source_type": "clone",
+  "source_name": "N310S",
+  "default": true
 }

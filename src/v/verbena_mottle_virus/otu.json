@@ -1,13 +1,13 @@
 {
-    "_id": "pt0dbupx",
-    "name": "Verbena mottle virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "pt0dbupx",
+  "name": "Verbena mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1884875
 }

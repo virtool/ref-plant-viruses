@@ -1,13 +1,13 @@
 {
-    "_id": "298aeedc",
-    "name": "Carrot betaflexivirus 2",
-    "abbreviation": "CBV-2",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "298aeedc",
+  "name": "Carrot betaflexivirus 2",
+  "abbreviation": "CBV-2",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1425362
 }

@@ -1,6 +1,6 @@
 {
-    "id": "me44hvb2",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "me44hvb2",
+  "source_type": "clone",
+  "source_name": "pFMV Sc3",
+  "default": true
 }

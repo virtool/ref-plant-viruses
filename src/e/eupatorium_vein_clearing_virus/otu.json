@@ -1,13 +1,13 @@
 {
-    "_id": "8c0e4c19",
-    "name": "Eupatorium vein clearing virus",
-    "abbreviation": "EVCV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "8c0e4c19",
+  "name": "Eupatorium vein clearing virus",
+  "abbreviation": "EVCV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsDNA",
+      "required": true
+    }
+  ],
+  "taxid": 515444
 }

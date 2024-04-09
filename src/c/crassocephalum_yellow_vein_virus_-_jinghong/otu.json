@@ -1,13 +1,13 @@
 {
-    "_id": "dd235dd0",
-    "name": "Crassocephalum yellow vein virus - Jinghong",
-    "abbreviation": "CraYVV-J",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "dd235dd0",
+  "name": "Crassocephalum yellow vein virus - Jinghong",
+  "abbreviation": "CraYVV-J",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 417288
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "b8797558",
-    "name": "Malvastrum leaf curl betasatellite",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "b8797558",
+  "name": "Malvastrum leaf curl betasatellite",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 339965
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "846a1e47",
-    "name": "Urochloa streak virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "846a1e47",
+  "name": "Urochloa streak virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 520848
 }

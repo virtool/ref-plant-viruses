@@ -1,6 +1,6 @@
 {
-    "id": "f9v35xov",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "f9v35xov",
+  "source_type": "genbank",
+  "source_name": "NC_004147",
+  "default": true
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "ed5f58b5",
-    "name": "Beet curly top Iran virus",
-    "abbreviation": "BCTIRV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "ed5f58b5",
+  "name": "Beet curly top Iran virus",
+  "abbreviation": "BCTIRV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 391228
 }

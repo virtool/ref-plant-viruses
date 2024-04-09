@@ -1,6 +1,6 @@
 {
-    "id": "mgycplmo",
-    "source_type": "isolate",
-    "source_name": "",
-    "default": true
+  "id": "mgycplmo",
+  "source_type": "genbank",
+  "source_name": "nc_012205",
+  "default": true
 }

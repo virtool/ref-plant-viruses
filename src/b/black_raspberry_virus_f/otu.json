@@ -1,13 +1,13 @@
 {
-    "_id": "q2r0enld",
-    "name": "Black raspberry virus F",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsRNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "q2r0enld",
+  "name": "Black raspberry virus F",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsRNA",
+      "required": true
+    }
+  ],
+  "taxid": 463392
 }

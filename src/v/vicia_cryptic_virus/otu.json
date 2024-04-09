@@ -1,18 +1,18 @@
 {
-    "_id": "7eb6987e",
-    "name": "Vicia cryptic virus",
-    "abbreviation": "VCV",
-    "schema": [
-        {
-            "name": "RNA 1",
-            "molecule": "ssRNA+",
-            "required": true
-        },
-        {
-            "name": "RNA 2",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "7eb6987e",
+  "name": "Vicia cryptic virus",
+  "abbreviation": "VCV",
+  "schema": [
+    {
+      "name": "RNA 1",
+      "molecule": "ssRNA+",
+      "required": true
+    },
+    {
+      "name": "RNA 2",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 54289
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "a361a281",
-    "name": "Lettuce necrotic stunt virus",
-    "abbreviation": "LNSV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "a361a281",
+  "name": "Lettuce necrotic stunt virus",
+  "abbreviation": "LNSV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 167947
 }

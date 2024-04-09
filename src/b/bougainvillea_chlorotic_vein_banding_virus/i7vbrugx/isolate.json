@@ -1,6 +1,6 @@
 {
-    "id": "i7vbrugx",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "i7vbrugx",
+  "source_type": "genbank",
+  "source_name": "NC_011592",
+  "default": true
 }

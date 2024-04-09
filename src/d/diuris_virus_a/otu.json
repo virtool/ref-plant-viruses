@@ -1,13 +1,13 @@
 {
-    "_id": "539ae4a9",
-    "name": "Diuris virus A",
-    "abbreviation": "DiVA",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "539ae4a9",
+  "name": "Diuris virus A",
+  "abbreviation": "DiVA",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1247115
 }

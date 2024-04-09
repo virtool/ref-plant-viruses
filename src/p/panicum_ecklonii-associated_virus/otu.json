@@ -1,13 +1,13 @@
 {
-    "_id": "mpndeqfn",
-    "name": "Panicum ecklonii-associated virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "mpndeqfn",
+  "name": "Panicum ecklonii-associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "",
+      "required": true
+    }
+  ],
+  "taxid": 2282645
 }

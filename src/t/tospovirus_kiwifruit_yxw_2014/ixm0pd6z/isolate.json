@@ -1,6 +1,6 @@
 {
-    "id": "ixm0pd6z",
-    "source_type": "isolate",
-    "source_name": "",
-    "default": true
+  "id": "ixm0pd6z",
+  "source_type": "genbank",
+  "source_name": "nc_030378",
+  "default": true
 }

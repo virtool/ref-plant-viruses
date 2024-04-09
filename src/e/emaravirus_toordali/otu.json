@@ -1,0 +1,38 @@
+{
+  "_id": "31tk4j3g",
+  "name": "Emaravirus toordali",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "RNA 1",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "RNA 2",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "RNA 3",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "RNA 4",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "RNA 5",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "RNA 6",
+      "molecule": "RNA",
+      "required": true
+    }
+  ],
+  "taxid": 191288
+}

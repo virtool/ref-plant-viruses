@@ -1,6 +1,6 @@
 {
-    "id": "5rj6wcbi",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "5rj6wcbi",
+  "source_type": "genbank",
+  "source_name": "NC_001555",
+  "default": true
 }

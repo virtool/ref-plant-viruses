@@ -1,0 +1,13 @@
+{
+  "_id": "646ezdt0",
+  "name": "Broad-leafed dock virus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1987403
+}

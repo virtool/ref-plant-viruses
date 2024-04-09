@@ -1,13 +1,13 @@
 {
-    "_id": "qb3mi5bo",
-    "name": "Cymbidium chlorotic mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "qb3mi5bo",
+  "name": "Cymbidium chlorotic mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1602124
 }

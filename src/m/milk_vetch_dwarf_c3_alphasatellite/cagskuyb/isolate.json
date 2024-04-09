@@ -1,6 +1,6 @@
 {
-    "id": "cagskuyb",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "cagskuyb",
+  "source_type": "genbank",
+  "source_name": "NC_003640",
+  "default": true
 }

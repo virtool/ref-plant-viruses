@@ -1,13 +1,13 @@
 {
-    "_id": "9d934ad6",
-    "name": "Bhendi yellow vein betasatellite",
-    "abbreviation": "satBYV",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "9d934ad6",
+  "name": "Bhendi yellow vein betasatellite",
+  "abbreviation": "satBYV",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 186371
 }

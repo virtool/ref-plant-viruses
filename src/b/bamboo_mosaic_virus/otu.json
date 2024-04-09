@@ -1,13 +1,13 @@
 {
-    "_id": "c55afad6",
-    "name": "Bamboo mosaic virus",
-    "abbreviation": "BaMV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "c55afad6",
+  "name": "Bamboo mosaic virus",
+  "abbreviation": "BaMV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 35286
 }

@@ -1,6 +1,6 @@
 {
-    "id": "lpq7f1pw",
-    "source_type": "isolate",
-    "source_name": "",
-    "default": true
+  "id": "lpq7f1pw",
+  "source_type": "clone",
+  "source_name": "HJP09",
+  "default": true
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "ca8b8b04",
-    "name": "Spinach severe curly top virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "ca8b8b04",
+  "name": "Spinach severe curly top virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 873160
 }

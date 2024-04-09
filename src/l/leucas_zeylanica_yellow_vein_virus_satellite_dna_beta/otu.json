@@ -1,13 +1,13 @@
 {
-    "_id": "abaa0d26",
-    "name": "Leucas zeylanica yellow vein virus satellite DNA beta",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "abaa0d26",
+  "name": "Leucas zeylanica yellow vein virus satellite DNA beta",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 670251
 }

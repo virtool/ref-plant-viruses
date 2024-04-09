@@ -1,13 +1,13 @@
 {
-    "_id": "80b80309",
-    "name": "Gossypium darwinii symptomless virus",
-    "abbreviation": "GDarSLV",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "80b80309",
+  "name": "Gossypium darwinii symptomless virus",
+  "abbreviation": "GDarSLV",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 509531
 }

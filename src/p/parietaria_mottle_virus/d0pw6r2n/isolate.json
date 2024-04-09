@@ -1,6 +1,6 @@
 {
-    "id": "d0pw6r2n",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "d0pw6r2n",
+  "source_type": "clone",
+  "source_name": "pHMV-2, pHMV-3, pHMV-6",
+  "default": true
 }

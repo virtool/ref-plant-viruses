@@ -1,13 +1,13 @@
 {
-    "_id": "xcl20vqt",
-    "name": "Babaco mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "xcl20vqt",
+  "name": "Babaco mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 2060511
 }

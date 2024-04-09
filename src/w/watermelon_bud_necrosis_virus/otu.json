@@ -1,23 +1,23 @@
 {
-    "_id": "tqz52p1f",
-    "name": "Watermelon bud necrosis virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "RNA L",
-            "molecule": "ssRNA-",
-            "required": true
-        },
-        {
-            "name": "RNA M",
-            "molecule": "ssRNA-",
-            "required": true
-        },
-        {
-            "name": "RNA S",
-            "molecule": "ssRNA-",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "tqz52p1f",
+  "name": "Watermelon bud necrosis virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "RNA L",
+      "molecule": "ssRNA-",
+      "required": true
+    },
+    {
+      "name": "RNA M",
+      "molecule": "ssRNA-",
+      "required": true
+    },
+    {
+      "name": "RNA S",
+      "molecule": "ssRNA-",
+      "required": true
+    }
+  ],
+  "taxid": 76052
 }

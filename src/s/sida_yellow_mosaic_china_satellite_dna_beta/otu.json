@@ -1,0 +1,13 @@
+{
+  "_id": "93a6b398",
+  "name": "Sida yellow mosaic China satellite DNA beta",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "DNA",
+      "required": true
+    }
+  ],
+  "taxid": 291270
+}

@@ -1,13 +1,13 @@
 {
-    "_id": "ydfk37fs",
-    "name": "Daphne virus Y",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "ydfk37fs",
+  "name": "Daphne virus Y",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 282712
 }

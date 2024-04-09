@@ -1,13 +1,13 @@
 {
-    "_id": "f0a490c6",
-    "name": "Alternanthera mild mosaic virus",
-    "abbreviation": "AltMMV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "f0a490c6",
+  "name": "Alternanthera mild mosaic virus",
+  "abbreviation": "AltMMV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 429130
 }

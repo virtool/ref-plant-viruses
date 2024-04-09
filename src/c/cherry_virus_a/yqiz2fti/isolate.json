@@ -1,6 +1,6 @@
 {
-    "id": "yqiz2fti",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "yqiz2fti",
+  "source_type": "genbank",
+  "source_name": "NC_003689",
+  "default": true
 }

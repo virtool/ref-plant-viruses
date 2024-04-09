@@ -1,13 +1,13 @@
 {
-    "_id": "dbeb5a14",
-    "name": "Pumpkin yellow mosaic Malaysia virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "dbeb5a14",
+  "name": "Pumpkin yellow mosaic Malaysia virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 420684
 }

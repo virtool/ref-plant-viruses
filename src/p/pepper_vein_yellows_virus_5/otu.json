@@ -1,13 +1,13 @@
 {
-    "_id": "ucf24xt9",
-    "name": "Pepper vein yellows virus 5",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "ucf24xt9",
+  "name": "Pepper vein yellows virus 5",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1965355
 }

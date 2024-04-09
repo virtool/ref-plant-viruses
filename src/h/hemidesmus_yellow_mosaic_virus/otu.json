@@ -1,13 +1,13 @@
 {
-    "_id": "e2d3d37e",
-    "name": "Hemidesmus yellow mosaic virus",
-    "abbreviation": "HeYMV",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "e2d3d37e",
+  "name": "Hemidesmus yellow mosaic virus",
+  "abbreviation": "HeYMV",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1383052
 }

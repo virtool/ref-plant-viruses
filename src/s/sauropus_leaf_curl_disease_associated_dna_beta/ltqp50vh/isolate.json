@@ -1,6 +1,6 @@
 {
-    "id": "ltqp50vh",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "ltqp50vh",
+  "source_type": "clone",
+  "source_name": "SP2beta",
+  "default": true
 }

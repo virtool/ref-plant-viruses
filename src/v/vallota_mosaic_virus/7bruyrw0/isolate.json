@@ -1,6 +1,6 @@
 {
-    "id": "7bruyrw0",
-    "source_type": "isolate",
-    "source_name": "",
-    "default": true
+  "id": "7bruyrw0",
+  "source_type": "genbank",
+  "source_name": "nc_043170",
+  "default": true
 }

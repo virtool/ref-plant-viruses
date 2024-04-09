@@ -1,6 +1,6 @@
 {
-    "id": "wgfgl03q",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "wgfgl03q",
+  "source_type": "genbank",
+  "source_name": "NC_003614",
+  "default": true
 }

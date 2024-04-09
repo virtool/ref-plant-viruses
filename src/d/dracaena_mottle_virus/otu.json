@@ -1,13 +1,13 @@
 {
-    "_id": "7b68a0c2",
-    "name": "Dracaena mottle virus",
-    "abbreviation": "DrMV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "7b68a0c2",
+  "name": "Dracaena mottle virus",
+  "abbreviation": "DrMV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsDNA",
+      "required": true
+    }
+  ],
+  "taxid": 380669
 }

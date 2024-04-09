@@ -1,6 +1,6 @@
 {
-    "id": "dbctrb73",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "dbctrb73",
+  "source_type": "genbank",
+  "source_name": "NC_001930",
+  "default": true
 }

@@ -1,6 +1,6 @@
 {
-    "id": "kruwuzoh",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "kruwuzoh",
+  "source_type": "clone",
+  "source_name": "pBS-AYVVbeta",
+  "default": true
 }

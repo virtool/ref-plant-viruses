@@ -1,6 +1,6 @@
 {
-    "id": "rvle7kru",
-    "source_type": "isolate",
-    "source_name": "",
-    "default": true
+  "id": "rvle7kru",
+  "source_type": "clone",
+  "source_name": "l171-1",
+  "default": true
 }

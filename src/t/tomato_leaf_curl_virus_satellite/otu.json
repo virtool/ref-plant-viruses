@@ -1,13 +1,13 @@
 {
-    "_id": "5c4a72a3",
-    "name": "Tomato leaf curl virus satellite",
-    "abbreviation": "TLCV-sat",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "5c4a72a3",
+  "name": "Tomato leaf curl virus satellite",
+  "abbreviation": "TLCV-sat",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1993650
 }

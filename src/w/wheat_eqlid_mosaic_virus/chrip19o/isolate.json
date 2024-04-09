@@ -1,6 +1,6 @@
 {
-    "id": "chrip19o",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "chrip19o",
+  "source_type": "genbank",
+  "source_name": "NC_009805",
+  "default": true
 }

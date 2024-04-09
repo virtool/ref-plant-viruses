@@ -1,6 +1,6 @@
 {
-    "id": "g2oj9b3s",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "g2oj9b3s",
+  "source_type": "genbank",
+  "source_name": "NC_001478",
+  "default": true
 }

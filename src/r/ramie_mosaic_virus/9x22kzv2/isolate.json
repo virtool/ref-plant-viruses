@@ -1,6 +1,6 @@
 {
-    "id": "9x22kzv2",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "9x22kzv2",
+  "source_type": "genbank",
+  "source_name": "NC_010791",
+  "default": true
 }

@@ -1,7 +1,13 @@
 {
-    "_id": "k0jjfvas",
-    "name": "Apple virus C",
-    "abbreviation": "",
-    "schema": [],
-    "taxid": null
+  "_id": "k0jjfvas",
+  "name": "Apple virus C",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "RNA",
+      "name": "Partial",
+      "required": true
+    }
+  ],
+  "taxid": 2709747
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "q4irz0yn",
-    "name": "Tomato leaf curl Guangxi virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "q4irz0yn",
+  "name": "Tomato leaf curl Guangxi virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 377609
 }

@@ -1,23 +1,23 @@
 {
-    "_id": "e507a0ba",
-    "name": "Melon yellow spot virus",
-    "abbreviation": "MYSV",
-    "schema": [
-        {
-            "name": "RNA L",
-            "molecule": "ssRNA-",
-            "required": true
-        },
-        {
-            "name": "RNA M",
-            "molecule": "ssRNA-",
-            "required": true
-        },
-        {
-            "name": "RNA S",
-            "molecule": "ssRNA-",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "e507a0ba",
+  "name": "Melon yellow spot virus",
+  "abbreviation": "MYSV",
+  "schema": [
+    {
+      "name": "RNA L",
+      "molecule": "ssRNA-",
+      "required": true
+    },
+    {
+      "name": "RNA M",
+      "molecule": "ssRNA-",
+      "required": true
+    },
+    {
+      "name": "RNA S",
+      "molecule": "ssRNA-",
+      "required": true
+    }
+  ],
+  "taxid": 89471
 }

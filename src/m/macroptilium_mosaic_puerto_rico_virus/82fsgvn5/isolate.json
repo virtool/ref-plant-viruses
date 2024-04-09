@@ -1,6 +1,6 @@
 {
-    "id": "82fsgvn5",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "82fsgvn5",
+  "source_type": "genbank",
+  "source_name": "NC_004097",
+  "default": true
 }
