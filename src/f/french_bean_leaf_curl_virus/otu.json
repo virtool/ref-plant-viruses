@@ -4,7 +4,7 @@
   "abbreviation": "FbLCV",
   "schema": [
     {
-      "name": "DNA A",
+      "name": "DNA-A",
       "molecule": "dna",
       "required": true
     }

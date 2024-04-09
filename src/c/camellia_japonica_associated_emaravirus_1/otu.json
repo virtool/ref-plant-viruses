@@ -9,6 +9,11 @@
       "required": true
     },
     {
+      "name": "RNA 2",
+      "molecule": "ssRNA+",
+      "required": true
+    },
+    {
       "name": "RNA 3",
       "molecule": "ssRNA+",
       "required": true
@@ -34,22 +39,12 @@
       "required": true
     },
     {
-      "name": "RNA 9",
-      "molecule": "ssRNA+",
-      "required": true
-    },
-    {
-      "name": "RNA 10",
-      "molecule": "ssRNA+",
-      "required": true
-    },
-    {
-      "name": "RNA 2",
-      "molecule": "ssRNA+",
-      "required": true
-    },
-    {
       "name": "RNA 8",
+      "molecule": "ssRNA+",
+      "required": true
+    },
+    {
+      "name": "RNA 9",
       "molecule": "ssRNA+",
       "required": true
     }
