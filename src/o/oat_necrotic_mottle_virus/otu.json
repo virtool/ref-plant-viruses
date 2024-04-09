@@ -1,13 +1,13 @@
 {
-    "_id": "ca075b95",
-    "name": "Oat necrotic mottle virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "ca075b95",
+  "name": "Oat necrotic mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 112437
 }

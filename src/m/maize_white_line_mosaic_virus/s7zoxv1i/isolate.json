@@ -1,6 +1,6 @@
 {
-    "id": "s7zoxv1i",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "s7zoxv1i",
+  "source_type": "refseq",
+  "source_name": "NC_009533",
+  "default": true
 }

@@ -1,6 +1,6 @@
 {
-    "id": "hhghggcc",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "hhghggcc",
+  "source_type": "clone",
+  "source_name": "U96-2",
+  "default": true
 }

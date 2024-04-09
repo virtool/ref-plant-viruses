@@ -1,13 +1,13 @@
 {
-    "_id": "c25mfkee",
-    "name": "Malvastrum yellow mosaic Helshire virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "c25mfkee",
+  "name": "Malvastrum yellow mosaic Helshire virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 643133
 }

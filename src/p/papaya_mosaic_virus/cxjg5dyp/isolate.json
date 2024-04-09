@@ -1,6 +1,6 @@
 {
-    "id": "cxjg5dyp",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "cxjg5dyp",
+  "source_type": "clone",
+  "source_name": "FP7, H3, T21, CP21 and TP11",
+  "default": true
 }

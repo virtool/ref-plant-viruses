@@ -1,13 +1,13 @@
 {
-    "_id": "a09def38",
-    "name": "Zinnia leaf curl virus-associated DNA beta",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "a09def38",
+  "name": "Zinnia leaf curl virus-associated DNA beta",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 220813
 }

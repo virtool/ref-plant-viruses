@@ -1,6 +1,6 @@
 {
-    "id": "rmayjuwh",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "rmayjuwh",
+  "source_type": "refseq",
+  "source_name": "NC_004540",
+  "default": true
 }

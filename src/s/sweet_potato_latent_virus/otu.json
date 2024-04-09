@@ -1,13 +1,13 @@
 {
-    "_id": "5dbae3f8",
-    "name": "Sweet potato latent virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "5dbae3f8",
+  "name": "Sweet potato latent virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 31743
 }

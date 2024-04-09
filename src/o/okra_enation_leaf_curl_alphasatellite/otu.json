@@ -1,13 +1,13 @@
 {
-    "_id": "dafc6186",
-    "name": "Okra enation leaf curl alphasatellite",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Alphasatellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "dafc6186",
+  "name": "Okra enation leaf curl alphasatellite",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Alphasatellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1249467
 }

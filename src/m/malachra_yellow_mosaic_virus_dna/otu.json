@@ -1,6 +1,6 @@
 {
     "_id": "dujsiqfk",
-    "name": "Malachra yellow mosaic virus DNA",
+    "name": "Malachra yellow mosaic virus",
     "abbreviation": "",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 2202146
 }

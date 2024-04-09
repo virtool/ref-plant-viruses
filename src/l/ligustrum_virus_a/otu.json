@@ -1,13 +1,13 @@
 {
-    "_id": "mie279g8",
-    "name": "Ligustrum virus A",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "mie279g8",
+  "name": "Ligustrum virus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1899566
 }

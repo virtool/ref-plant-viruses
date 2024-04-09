@@ -1,6 +1,13 @@
 {
-    "_id": "3299ebab",
-    "name": "Ipomoea yellow vein virus",
-    "abbreviation": "",
-    "schema": []
+  "_id": "3299ebab",
+  "name": "Ipomoea yellow vein virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "DNA",
+      "required": true
+    }
+  ],
+  "taxid": 653358
 }

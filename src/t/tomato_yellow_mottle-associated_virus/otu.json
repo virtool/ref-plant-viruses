@@ -1,13 +1,13 @@
 {
-    "_id": "rqvuxygx",
-    "name": "Tomato yellow mottle-associated virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsRNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "rqvuxygx",
+  "name": "Tomato yellow mottle-associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsRNA",
+      "required": true
+    }
+  ],
+  "taxid": 1967841
 }

@@ -1,18 +1,18 @@
 {
-    "_id": "2ce85606",
-    "name": "East African cassava mosaic Malawi virus",
-    "abbreviation": "EACMMV",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        },
-        {
-            "name": "DNA B",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "2ce85606",
+  "name": "East African cassava mosaic Malawi virus",
+  "abbreviation": "EACMMV",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    },
+    {
+      "name": "DNA B",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 223264
 }

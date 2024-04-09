@@ -1,6 +1,6 @@
 {
-    "id": "tasytede",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "tasytede",
+  "source_type": "clone",
+  "source_name": "B39-4",
+  "default": true
 }

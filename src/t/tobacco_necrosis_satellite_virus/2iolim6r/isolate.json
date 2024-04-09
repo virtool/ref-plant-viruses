@@ -1,6 +1,6 @@
 {
-    "id": "2iolim6r",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "2iolim6r",
+  "source_type": "clone",
+  "source_name": "pSTNV-1",
+  "default": true
 }

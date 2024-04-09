@@ -1,13 +1,13 @@
 {
-    "_id": "0fc899cd",
-    "name": "Paspalum striate mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "0fc899cd",
+  "name": "Paspalum striate mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1072672
 }

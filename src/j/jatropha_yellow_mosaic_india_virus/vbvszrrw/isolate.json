@@ -1,6 +1,6 @@
 {
-    "id": "vbvszrrw",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "vbvszrrw",
+  "source_type": "refseq",
+  "source_name": "NC_011309",
+  "default": true
 }

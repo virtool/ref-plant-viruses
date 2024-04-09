@@ -1,13 +1,13 @@
 {
-    "_id": "318ff0fb",
-    "name": "Macroptilium yellow spot virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "318ff0fb",
+  "name": "Macroptilium yellow spot virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1129034
 }

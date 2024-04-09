@@ -1,13 +1,13 @@
 {
-    "_id": "93c4325e",
-    "name": "Eggplant mottled dwarf virus",
-    "abbreviation": "EMDV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "93c4325e",
+  "name": "Eggplant mottled dwarf virus",
+  "abbreviation": "EMDV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 488317
 }

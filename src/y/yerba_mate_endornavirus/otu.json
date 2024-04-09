@@ -1,13 +1,13 @@
 {
-    "_id": "fb6c8cf2",
-    "name": "Yerba mate endornavirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsRNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "fb6c8cf2",
+  "name": "Yerba mate endornavirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsRNA",
+      "required": true
+    }
+  ],
+  "taxid": 1514896
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "139c126a",
-    "name": "Petunia vein clearing virus",
-    "abbreviation": "PVCV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsRNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "139c126a",
+  "name": "Petunia vein clearing virus",
+  "abbreviation": "PVCV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsRNA",
+      "required": true
+    }
+  ],
+  "taxid": 59504
 }

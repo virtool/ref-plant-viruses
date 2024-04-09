@@ -1,13 +1,13 @@
 {
-    "_id": "8200977e",
-    "name": "Elderberry latent virus",
-    "abbreviation": "ElLV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "8200977e",
+  "name": "Elderberry latent virus",
+  "abbreviation": "ElLV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 167018
 }

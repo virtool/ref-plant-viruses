@@ -1,13 +1,13 @@
 {
-    "_id": "df965f81",
-    "name": "Sida yellow mosaic China virus - [Hainan 8]",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "df965f81",
+  "name": "Sida yellow mosaic China virus - [Hainan 8]",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1195641
 }

@@ -1,6 +1,6 @@
 {
-    "id": "q17tv52m",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "q17tv52m",
+  "source_type": "refseq",
+  "source_name": "NC_015552",
+  "default": true
 }

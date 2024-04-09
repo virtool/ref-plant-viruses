@@ -1,13 +1,13 @@
 {
-    "_id": "a2b2e786",
-    "name": "Jatropha yellow mosaic India virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "a2b2e786",
+  "name": "Jatropha yellow mosaic India virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 563180
 }

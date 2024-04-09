@@ -1,6 +1,6 @@
 {
-    "id": "w7hetlm1",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "w7hetlm1",
+  "source_type": "clone",
+  "source_name": "pHCRV-220",
+  "default": true
 }

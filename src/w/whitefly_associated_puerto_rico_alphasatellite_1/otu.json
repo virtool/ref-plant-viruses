@@ -1,13 +1,13 @@
 {
-    "_id": "vnyecyvg",
-    "name": "Whitefly associated Puerto Rico alphasatellite 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "vnyecyvg",
+  "name": "Whitefly associated Puerto Rico alphasatellite 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2169829
 }

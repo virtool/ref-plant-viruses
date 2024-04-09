@@ -1,13 +1,13 @@
 {
-    "_id": "6b6261ee",
-    "name": "Velvet tobacco mottle virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "6b6261ee",
+  "name": "Velvet tobacco mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 12473
 }

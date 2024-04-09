@@ -1,13 +1,13 @@
 {
-    "_id": "28a544b2",
-    "name": "Eragrostis curvula streak virus",
-    "abbreviation": "ECSV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "28a544b2",
+  "name": "Eragrostis curvula streak virus",
+  "abbreviation": "ECSV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 638358
 }

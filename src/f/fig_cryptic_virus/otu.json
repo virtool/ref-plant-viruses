@@ -1,6 +1,17 @@
 {
-    "_id": "c9a356e5",
-    "name": "Fig cryptic virus",
-    "abbreviation": "FCV",
-    "schema": []
+  "_id": "c9a356e5",
+  "name": "Fig cryptic virus",
+  "abbreviation": "FCV",
+  "schema": [{
+    "name": "RNA 1",
+    "molecule": "RNA",
+    "required": true
+  },
+    {
+    "name": "RNA 2",
+    "molecule": "RNA",
+    "required": true
+  }
+  ],
+  "taxid": 882768
 }

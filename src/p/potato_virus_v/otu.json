@@ -1,13 +1,13 @@
 {
-    "_id": "e9682dd3",
-    "name": "Potato virus V",
-    "abbreviation": "PVV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "e9682dd3",
+  "name": "Potato virus V",
+  "abbreviation": "PVV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 40640
 }

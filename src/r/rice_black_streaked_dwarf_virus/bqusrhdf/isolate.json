@@ -1,6 +1,6 @@
 {
-    "id": "bqusrhdf",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "bqusrhdf",
+  "source_type": "refseq",
+  "source_name": "NC_003728",
+  "default": true
 }

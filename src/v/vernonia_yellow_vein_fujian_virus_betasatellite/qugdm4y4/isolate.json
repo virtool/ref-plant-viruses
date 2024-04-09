@@ -1,6 +1,6 @@
 {
-    "id": "qugdm4y4",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "qugdm4y4",
+  "source_type": "refseq",
+  "source_name": "NC_015928",
+  "default": true
 }

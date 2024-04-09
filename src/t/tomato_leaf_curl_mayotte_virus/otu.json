@@ -1,13 +1,13 @@
 {
-    "_id": "xw2smzex",
-    "name": "Tomato leaf curl Mayotte virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "xw2smzex",
+  "name": "Tomato leaf curl Mayotte virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 302100
 }

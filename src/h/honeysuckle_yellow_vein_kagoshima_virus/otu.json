@@ -1,13 +1,13 @@
 {
-    "_id": "db1d0c58",
-    "name": "Honeysuckle yellow vein Kagoshima virus",
-    "abbreviation": "HYVKV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "db1d0c58",
+  "name": "Honeysuckle yellow vein Kagoshima virus",
+  "abbreviation": "HYVKV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1233675
 }

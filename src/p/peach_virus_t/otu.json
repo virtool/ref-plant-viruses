@@ -1,13 +1,13 @@
 {
-    "_id": "fsyrs6g3",
-    "name": "Peach virus T",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "fsyrs6g3",
+  "name": "Peach virus T",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1958978
 }

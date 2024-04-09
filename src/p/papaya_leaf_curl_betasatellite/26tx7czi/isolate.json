@@ -1,6 +1,6 @@
 {
-    "id": "26tx7czi",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "26tx7czi",
+  "source_type": "refseq",
+  "source_name": "NC_004706",
+  "default": true
 }

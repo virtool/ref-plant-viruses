@@ -1,6 +1,6 @@
 {
     "id": "jwasmnrh",
-    "source_type": "isolate",
-    "source_name": "",
+    "source_type": "refseq",
+    "source_name": "NC_004724",
     "default": true
 }

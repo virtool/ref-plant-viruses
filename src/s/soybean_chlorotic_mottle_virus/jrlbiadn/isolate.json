@@ -1,6 +1,6 @@
 {
-    "id": "jrlbiadn",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "jrlbiadn",
+  "source_type": "refseq",
+  "source_name": "NC_001739",
+  "default": true
 }

@@ -1,6 +1,6 @@
 {
-    "id": "8lf1frza",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "8lf1frza",
+  "source_type": "refseq",
+  "source_name": "NC_003849",
+  "default": true
 }

@@ -1,6 +1,6 @@
 {
-    "id": "caot1m3h",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "caot1m3h",
+  "source_type": "refseq",
+  "source_name": "NC_003445",
+  "default": true
 }

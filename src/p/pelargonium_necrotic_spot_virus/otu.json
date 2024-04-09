@@ -1,13 +1,13 @@
 {
-    "_id": "7b0c8efc",
-    "name": "Pelargonium necrotic spot virus",
-    "abbreviation": "PeNSV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "7b0c8efc",
+  "name": "Pelargonium necrotic spot virus",
+  "abbreviation": "PeNSV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 255587
 }

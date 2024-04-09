@@ -1,6 +1,6 @@
 {
-    "id": "pilwyl9n",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "pilwyl9n",
+  "source_type": "refseq",
+  "source_name": "NC_001839",
+  "default": true
 }

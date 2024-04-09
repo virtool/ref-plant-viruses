@@ -1,13 +1,13 @@
 {
-    "_id": "scgci5fm",
-    "name": "Wild vitis virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "scgci5fm",
+  "name": "Wild vitis virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2025352
 }

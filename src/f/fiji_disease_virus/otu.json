@@ -1,6 +1,58 @@
 {
-    "_id": "256a0696",
-    "name": "Fiji disease virus",
-    "abbreviation": "FDV",
-    "schema": []
+  "_id": "256a0696",
+  "name": "Fiji disease virus",
+  "abbreviation": "FDV",
+  "schema": [
+    {
+      "name": "Segment 1",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "Segment 2",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "Segment 3",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "Segment 4",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "Segment 5",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "Segment 6",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "Segment 7",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "Segment 8",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "Segment 9",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "Segment 10",
+      "molecule": "RNA",
+      "required": true
+    }
+  ],
+  "taxid": 77698
 }

@@ -1,6 +1,6 @@
 {
-    "id": "6601vyua",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "6601vyua",
+  "source_type": "refseq",
+  "source_name": "NC_011540",
+  "default": true
 }

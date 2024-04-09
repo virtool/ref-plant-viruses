@@ -1,6 +1,6 @@
 {
-    "id": "4rz5qi66",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "4rz5qi66",
+  "source_type": "clone",
+  "source_name": "wcb",
+  "default": true
 }

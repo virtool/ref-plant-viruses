@@ -1,13 +1,13 @@
 {
-    "_id": "a0fff57c",
-    "name": "Gossypium mustilinum symptomless alphasatellite",
-    "abbreviation": "GMusSLA",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "a0fff57c",
+  "name": "Gossypium mustilinum symptomless alphasatellite",
+  "abbreviation": "GMusSLA",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2169907
 }

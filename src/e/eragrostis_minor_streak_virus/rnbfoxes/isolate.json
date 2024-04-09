@@ -1,6 +1,6 @@
 {
-    "id": "rnbfoxes",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "rnbfoxes",
+  "source_type": "refseq",
+  "source_name": "NC_015553",
+  "default": true
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "3b6ebff8",
-    "name": "Tobacco leaf chlorosis betasatellite",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Betasatellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "3b6ebff8",
+  "name": "Tobacco leaf chlorosis betasatellite",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Betasatellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1213187
 }

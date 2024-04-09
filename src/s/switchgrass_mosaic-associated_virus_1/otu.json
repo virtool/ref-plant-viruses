@@ -1,13 +1,13 @@
 {
-    "_id": "2a9b332c",
-    "name": "Switchgrass mosaic-associated virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "2a9b332c",
+  "name": "Switchgrass mosaic-associated virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1571533
 }

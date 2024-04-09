@@ -1,6 +1,11 @@
 {
-    "_id": "ac1dda31",
-    "name": "Mint vein banding-associated virus",
-    "abbreviation": "",
-    "schema": []
+  "_id": "ac1dda31",
+  "name": "Mint vein banding-associated virus",
+  "abbreviation": "",
+  "schema": [{
+    "name": "Partial Genome",
+    "molecule": "RNA",
+    "required": true
+  }],
+  "taxid": 265877
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "dd21fd8f",
-    "name": "Pagoda yellow mosaic associated virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "dd21fd8f",
+  "name": "Pagoda yellow mosaic associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1505530
 }

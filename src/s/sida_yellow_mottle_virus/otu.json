@@ -1,6 +1,18 @@
 {
-    "_id": "7a6f0678",
-    "name": "Sida yellow mottle virus",
-    "abbreviation": "",
-    "schema": []
+  "_id": "7a6f0678",
+  "name": "Sida yellow mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+        "name": "DNA-A",
+        "molecule": "ssDNA",
+        "required": true
+    },
+    {
+        "name": "DNA-B",
+        "molecule": "ssDNA",
+        "required": true
+    }
+],
+  "taxid": 1093958
 }

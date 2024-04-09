@@ -1,6 +1,6 @@
 {
-    "id": "9hld41gg",
-    "source_type": "isolate",
-    "source_name": "",
-    "default": true
+  "id": "9hld41gg",
+  "source_type": "clone",
+  "source_name": "GOTB2-2",
+  "default": true
 }

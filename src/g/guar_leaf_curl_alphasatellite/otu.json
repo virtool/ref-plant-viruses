@@ -1,13 +1,13 @@
 {
-    "_id": "68246810",
-    "name": "Guar leaf curl alphasatellite",
-    "abbreviation": "GuLCA",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "68246810",
+  "name": "Guar leaf curl alphasatellite",
+  "abbreviation": "GuLCA",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 748170
 }

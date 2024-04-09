@@ -1,6 +1,6 @@
 {
-    "id": "4wd866ln",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "4wd866ln",
+  "source_type": "refseq",
+  "source_name": "NC_011537",
+  "default": true
 }

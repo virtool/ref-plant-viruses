@@ -1,13 +1,13 @@
 {
-    "_id": "akcdbjaa",
-    "name": "Grapevine-associated marafivirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "akcdbjaa",
+  "name": "Grapevine-associated marafivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 2863841
 }

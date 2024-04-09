@@ -1,6 +1,6 @@
 {
-    "id": "hh2f85pa",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "hh2f85pa",
+  "source_type": "refseq",
+  "source_name": "NC_007965",
+  "default": true
 }

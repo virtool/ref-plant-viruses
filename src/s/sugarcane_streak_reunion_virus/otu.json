@@ -1,13 +1,13 @@
 {
-    "_id": "19843998",
-    "name": "Sugarcane streak Reunion virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "19843998",
+  "name": "Sugarcane streak Reunion virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 78395
 }

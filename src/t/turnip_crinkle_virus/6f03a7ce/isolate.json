@@ -1,6 +1,6 @@
 {
-    "id": "6f03a7ce",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "6f03a7ce",
+  "source_type": "clone",
+  "source_name": "pTCV-[103,129]",
+  "default": true
 }

@@ -1,6 +1,6 @@
 {
-    "id": "lntyfsvb",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "lntyfsvb",
+  "source_type": "refseq",
+  "source_name": "NC_015298",
+  "default": true
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "0dozydio",
-    "name": "Panax notoginseng virus B",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsRNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "0dozydio",
+  "name": "Panax notoginseng virus B",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsRNA",
+      "required": true
+    }
+  ],
+  "taxid": 2248770
 }

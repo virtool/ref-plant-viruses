@@ -1,13 +1,13 @@
 {
-    "_id": "007d5662",
-    "name": "Paspalum dilatatum striate mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "007d5662",
+  "name": "Paspalum dilatatum striate mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1196236
 }

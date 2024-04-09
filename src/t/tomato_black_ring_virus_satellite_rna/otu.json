@@ -1,13 +1,13 @@
 {
-    "_id": "eadc2c4e",
-    "name": "Tomato black ring virus satellite RNA",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "eadc2c4e",
+  "name": "Tomato black ring virus satellite RNA",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 196089
 }

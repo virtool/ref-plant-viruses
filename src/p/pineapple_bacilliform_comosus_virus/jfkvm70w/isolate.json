@@ -1,6 +1,6 @@
 {
-    "id": "jfkvm70w",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "jfkvm70w",
+  "source_type": "refseq",
+  "source_name": "NC_014648",
+  "default": true
 }

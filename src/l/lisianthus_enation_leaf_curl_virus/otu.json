@@ -1,13 +1,13 @@
 {
-    "_id": "tfhb6u3l",
-    "name": "Lisianthus enation leaf curl virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "tfhb6u3l",
+  "name": "Lisianthus enation leaf curl virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1740165
 }

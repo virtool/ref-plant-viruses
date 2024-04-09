@@ -1,6 +1,23 @@
 {
-    "_id": "60c4ab61",
-    "name": "Fragaria chiloensis latent virus",
-    "abbreviation": "FCiLV",
-    "schema": []
+  "_id": "60c4ab61",
+  "name": "Fragaria chiloensis latent virus",
+  "abbreviation": "FCiLV",
+  "schema": [
+    {
+      "name": "RNA 1",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "RNA 2",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "RNA 3",
+      "molecule": "RNA",
+      "required": true
+    }
+  ],
+  "taxid": 255238
 }

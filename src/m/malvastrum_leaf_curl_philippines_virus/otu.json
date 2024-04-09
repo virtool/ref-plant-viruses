@@ -1,13 +1,13 @@
 {
-    "_id": "740e476c",
-    "name": "Malvastrum leaf curl Philippines virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "740e476c",
+  "name": "Malvastrum leaf curl Philippines virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1333313
 }

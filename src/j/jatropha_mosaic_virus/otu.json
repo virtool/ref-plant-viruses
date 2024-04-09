@@ -1,18 +1,18 @@
 {
-    "_id": "1d9da587",
-    "name": "Jatropha mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        },
-        {
-            "name": "DNA B",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "1d9da587",
+  "name": "Jatropha mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    },
+    {
+      "name": "DNA B",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 75574
 }

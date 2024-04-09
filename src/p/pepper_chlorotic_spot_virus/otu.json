@@ -1,23 +1,23 @@
 {
-    "_id": "rms2bnx3",
-    "name": "Pepper chlorotic spot virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "",
-            "name": "Segment L",
-            "required": true
-        },
-        {
-            "molecule": "",
-            "name": "Segment M",
-            "required": true
-        },
-        {
-            "molecule": "",
-            "name": "Segment S",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "rms2bnx3",
+  "name": "Pepper chlorotic spot virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "",
+      "name": "Segment L",
+      "required": true
+    },
+    {
+      "molecule": "",
+      "name": "Segment M",
+      "required": true
+    },
+    {
+      "molecule": "",
+      "name": "Segment S",
+      "required": true
+    }
+  ],
+  "taxid": 1414655
 }

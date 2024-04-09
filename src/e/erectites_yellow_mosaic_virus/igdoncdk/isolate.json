@@ -1,6 +1,6 @@
 {
-    "id": "igdoncdk",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "igdoncdk",
+  "source_type": "refseq",
+  "source_name": "NC_009549",
+  "default": true
 }

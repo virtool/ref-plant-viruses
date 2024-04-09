@@ -1,6 +1,6 @@
 {
-    "id": "0e1tyae4",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "0e1tyae4",
+  "source_type": "clone",
+  "source_name": "pHA10, pAI10, pAI20, pAI19, pCI15, pCI42, pHA11",
+  "default": true
 }

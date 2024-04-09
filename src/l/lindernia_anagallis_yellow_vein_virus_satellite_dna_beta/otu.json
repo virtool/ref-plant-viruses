@@ -1,13 +1,13 @@
 {
-    "_id": "cbaf5837",
-    "name": "Lindernia anagallis yellow vein virus satellite DNA beta",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "cbaf5837",
+  "name": "Lindernia anagallis yellow vein virus satellite DNA beta",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 447605
 }

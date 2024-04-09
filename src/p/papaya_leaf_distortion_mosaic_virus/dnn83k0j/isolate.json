@@ -1,6 +1,6 @@
 {
-    "id": "dnn83k0j",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "dnn83k0j",
+  "source_type": "refseq",
+  "source_name": "NC_005028",
+  "default": true
 }

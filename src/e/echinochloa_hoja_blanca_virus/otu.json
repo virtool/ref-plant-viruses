@@ -1,13 +1,13 @@
 {
-    "_id": "0d8e1231",
-    "name": "Echinochloa hoja blanca virus",
-    "abbreviation": "EHBV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA-",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "0d8e1231",
+  "name": "Echinochloa hoja blanca virus",
+  "abbreviation": "EHBV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA-",
+      "required": true
+    }
+  ],
+  "taxid": 3052760
 }

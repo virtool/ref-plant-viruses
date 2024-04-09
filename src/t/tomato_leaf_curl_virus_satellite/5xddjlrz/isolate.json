@@ -1,6 +1,6 @@
 {
-    "id": "5xddjlrz",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "5xddjlrz",
+  "source_type": "refseq",
+  "source_name": "NC_002743",
+  "default": true
 }

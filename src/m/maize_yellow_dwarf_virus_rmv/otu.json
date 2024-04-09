@@ -1,6 +1,6 @@
 {
   "_id": "91409372",
-  "name": "Maize yellow mosaic virus",
+  "name": "Maize yellow dwarf virus RMV",
   "abbreviation": "",
   "schema": [
     {
@@ -9,5 +9,5 @@
       "required": true
     }
   ],
-  "taxid": 1856642
+  "taxid": 2170101
 }

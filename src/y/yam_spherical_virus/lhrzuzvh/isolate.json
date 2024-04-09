@@ -1,6 +1,6 @@
 {
-    "id": "lhrzuzvh",
-    "source_type": "culture collection",
-    "source_name": "DSM:PV-0517",
-    "default": true
+  "id": "lhrzuzvh",
+  "source_type": "refseq",
+  "source_name": "NC_022895",
+  "default": true
 }

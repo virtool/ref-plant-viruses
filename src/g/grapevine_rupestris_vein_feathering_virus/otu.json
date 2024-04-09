@@ -1,13 +1,13 @@
 {
-    "_id": "30dc0796",
-    "name": "Grapevine rupestris vein feathering virus",
-    "abbreviation": "GRVFV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "30dc0796",
+  "name": "Grapevine rupestris vein feathering virus",
+  "abbreviation": "GRVFV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 204933
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "c409ac28",
-    "name": "Mimosa yellow leaf curl virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "c409ac28",
+  "name": "Mimosa yellow leaf curl virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 390440
 }

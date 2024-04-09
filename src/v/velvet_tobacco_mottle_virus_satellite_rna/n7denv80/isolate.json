@@ -1,6 +1,6 @@
 {
-    "id": "n7denv80",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "n7denv80",
+  "source_type": "refseq",
+  "source_name": "NC_003906",
+  "default": true
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "e6f0c295",
-    "name": "Sida leaf curl virus satellite DNA beta",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "e6f0c295",
+  "name": "Sida leaf curl virus satellite DNA beta",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 447601
 }

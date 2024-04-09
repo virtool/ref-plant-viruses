@@ -1,13 +1,13 @@
 {
-    "_id": "602ce416",
-    "name": "Sarcochilus virus Y",
-    "abbreviation": "SarVY",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "602ce416",
+  "name": "Sarcochilus virus Y",
+  "abbreviation": "SarVY",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 104393
 }

@@ -1,6 +1,6 @@
 {
-    "id": "lkhtlr37",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "lkhtlr37",
+  "source_type": "refseq",
+  "source_name": "NC_010832",
+  "default": true
 }

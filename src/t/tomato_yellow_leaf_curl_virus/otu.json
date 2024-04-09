@@ -1,13 +1,13 @@
 {
-    "_id": "2066fedf",
-    "name": "Tomato yellow leaf curl virus",
-    "abbreviation": "TYLCV",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "2066fedf",
+  "name": "Tomato yellow leaf curl virus",
+  "abbreviation": "TYLCV",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 10832
 }

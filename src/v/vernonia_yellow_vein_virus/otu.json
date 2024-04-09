@@ -1,13 +1,13 @@
 {
-    "_id": "e289deeb",
-    "name": "Vernonia yellow vein virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "e289deeb",
+  "name": "Vernonia yellow vein virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 367061
 }

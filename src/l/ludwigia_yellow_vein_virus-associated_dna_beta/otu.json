@@ -1,13 +1,13 @@
 {
-    "_id": "56881f37",
-    "name": "Ludwigia yellow vein virus-associated DNA beta",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "56881f37",
+  "name": "Ludwigia yellow vein virus-associated DNA beta",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 325113
 }

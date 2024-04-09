@@ -1,13 +1,13 @@
 {
-    "_id": "98fbb20e",
-    "name": "Sida leaf curl virus-associated DNA 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Satellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "98fbb20e",
+  "name": "Sida leaf curl virus-associated DNA 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Satellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2169843
 }

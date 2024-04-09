@@ -1,13 +1,13 @@
 {
-    "_id": "kfgrb5lr",
-    "name": "Dioscorea bacilliform RT virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "kfgrb5lr",
+  "name": "Dioscorea bacilliform RT virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2169727
 }

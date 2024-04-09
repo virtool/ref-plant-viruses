@@ -1,13 +1,13 @@
 {
-    "_id": "e775b708",
-    "name": "Papaya leaf curl virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "e775b708",
+  "name": "Papaya leaf curl virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 53260
 }

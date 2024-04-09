@@ -1,13 +1,13 @@
 {
-    "_id": "lliyqfxq",
-    "name": "Hypericum japonicum associated circular DNA virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "lliyqfxq",
+  "name": "Hypericum japonicum associated circular DNA virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1367218
 }

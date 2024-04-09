@@ -1,6 +1,6 @@
 {
-    "id": "zxvpe39p",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "zxvpe39p",
+  "source_type": "refseq",
+  "source_name": "NC_010235",
+  "default": true
 }

@@ -1,6 +1,6 @@
 {
-    "id": "c9pfogah",
-    "source_type": "isolate",
-    "source_name": "",
-    "default": true
+  "id": "c9pfogah",
+  "source_type": "refseq",
+  "source_name": "NC_055126",
+  "default": true
 }

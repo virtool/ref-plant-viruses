@@ -1,6 +1,6 @@
 {
-    "id": "k3st121l",
-    "source_type": "isolate",
-    "source_name": "",
-    "default": true
+  "id": "k3st121l",
+  "source_type": "refseq",
+  "source_name": "NC_038897",
+  "default": true
 }

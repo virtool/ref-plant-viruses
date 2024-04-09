@@ -1,6 +1,6 @@
 {
-    "id": "njf22icb",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "njf22icb",
+  "source_type": "refseq",
+  "source_name": "NC_014128",
+  "default": true
 }

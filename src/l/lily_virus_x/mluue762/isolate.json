@@ -1,6 +1,6 @@
 {
-    "id": "mluue762",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "mluue762",
+  "source_type": "refseq",
+  "source_name": "NC_007192",
+  "default": true
 }

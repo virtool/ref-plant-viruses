@@ -1,13 +1,13 @@
 {
-    "_id": "e9gcngiy",
-    "name": "Macroptilium bright mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "e9gcngiy",
+  "name": "Macroptilium bright mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1904880
 }

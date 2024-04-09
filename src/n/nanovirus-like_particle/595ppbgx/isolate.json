@@ -1,6 +1,6 @@
 {
-    "id": "595ppbgx",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "595ppbgx",
+  "source_type": "clone",
+  "source_name": "NOB-3",
+  "default": true
 }

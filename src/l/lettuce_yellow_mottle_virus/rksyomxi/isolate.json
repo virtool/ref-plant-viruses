@@ -1,6 +1,6 @@
 {
-    "id": "rksyomxi",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "rksyomxi",
+  "source_type": "refseq",
+  "source_name": "NC_011532",
+  "default": true
 }

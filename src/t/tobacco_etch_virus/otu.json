@@ -1,13 +1,13 @@
 {
-    "_id": "d0fe2f66",
-    "name": "Tobacco etch virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "d0fe2f66",
+  "name": "Tobacco etch virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 12227
 }

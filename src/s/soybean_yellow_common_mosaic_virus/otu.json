@@ -1,13 +1,13 @@
 {
-    "_id": "b6b2f52a",
-    "name": "Soybean yellow common mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "b6b2f52a",
+  "name": "Soybean yellow common mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1080798
 }

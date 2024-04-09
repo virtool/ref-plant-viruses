@@ -1,13 +1,13 @@
 {
-    "_id": "d5d0ae91",
-    "name": "Honeysuckle yellow vein mosaic virus",
-    "abbreviation": "HYVMV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "d5d0ae91",
+  "name": "Honeysuckle yellow vein mosaic virus",
+  "abbreviation": "HYVMV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 180587
 }
