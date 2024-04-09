@@ -1,13 +1,13 @@
 {
-    "_id": "996671d3",
-    "name": "Ageratum yellow vein Hualian virus",
-    "abbreviation": "AYVHuV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "996671d3",
+  "name": "Ageratum yellow vein Hualian virus",
+  "abbreviation": "AYVHuV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 437063
 }

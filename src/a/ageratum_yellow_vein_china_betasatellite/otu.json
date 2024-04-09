@@ -1,13 +1,13 @@
 {
-    "_id": "b22fccdd",
-    "name": "Ageratum yellow vein China betasatellite",
-    "abbreviation": "AYVCNB",
-    "schema": [
-        {
-            "name": "Betasatellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "b22fccdd",
+  "name": "Ageratum yellow vein China betasatellite",
+  "abbreviation": "AYVCNB",
+  "schema": [
+    {
+      "name": "Betasatellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 329288
 }

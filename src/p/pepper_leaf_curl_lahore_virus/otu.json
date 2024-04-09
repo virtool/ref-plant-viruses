@@ -1,0 +1,13 @@
+{
+  "_id": "dac6fbc3",
+  "name": "Pepper leaf curl Lahore virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 884610
+}

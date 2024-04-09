@@ -1,0 +1,18 @@
+{
+    "_id": "ab87f94a",
+    "name": "Primula malacoides virus 1",
+    "abbreviation": "PmV1",
+    "schema": [
+        {
+            "name": "RNA 1",
+            "molecule": "dsRNA",
+            "required": true
+        },
+        {
+            "name": "RNA 2",
+            "molecule": "dsRNA",
+            "required": true
+        }
+    ],
+    "taxid": 1511840
+}

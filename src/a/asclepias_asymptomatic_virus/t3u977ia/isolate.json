@@ -1,6 +1,6 @@
 {
-    "id": "t3u977ia",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "t3u977ia",
+  "source_type": "refseq",
+  "source_name": "nc_015523",
+  "default": true
 }

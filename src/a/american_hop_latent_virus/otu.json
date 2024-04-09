@@ -1,13 +1,13 @@
 {
-    "_id": "18c4ccf4",
-    "name": "American hop latent virus",
-    "abbreviation": "AHLV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "18c4ccf4",
+  "name": "American hop latent virus",
+  "abbreviation": "AHLV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1177630
 }

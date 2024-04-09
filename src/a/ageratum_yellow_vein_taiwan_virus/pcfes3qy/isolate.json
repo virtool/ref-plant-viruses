@@ -1,6 +1,6 @@
 {
-    "id": "pcfes3qy",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "pcfes3qy",
+  "source_type": "refseq",
+  "source_name": "nc_004627",
+  "default": true
 }

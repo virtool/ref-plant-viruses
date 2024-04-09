@@ -1,6 +1,6 @@
 {
-    "id": "weh30qv2",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "weh30qv2",
+  "source_type": "refseq",
+  "source_name": "nc_012519",
+  "default": true
 }

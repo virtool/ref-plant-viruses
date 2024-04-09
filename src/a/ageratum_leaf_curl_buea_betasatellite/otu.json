@@ -1,13 +1,13 @@
 {
-    "_id": "a98bef40",
-    "name": "Ageratum leaf curl Buea betasatellite",
-    "abbreviation": "ALCuBB",
-    "schema": [
-        {
-            "name": "Betasatellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "a98bef40",
+  "name": "Ageratum leaf curl Buea betasatellite",
+  "abbreviation": "ALCuBB",
+  "schema": [
+    {
+      "name": "Betasatellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 912035
 }

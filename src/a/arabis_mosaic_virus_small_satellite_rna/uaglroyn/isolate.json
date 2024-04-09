@@ -1,6 +1,6 @@
 {
-    "id": "uaglroyn",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "uaglroyn",
+  "source_type": "refseq",
+  "source_name": "nc_001546",
+  "default": true
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "n97b7lup",
-    "name": "Alfalfa leaf curl virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "n97b7lup",
+  "name": "Alfalfa leaf curl virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1306546
 }

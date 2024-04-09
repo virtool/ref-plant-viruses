@@ -1,6 +1,6 @@
 {
-    "id": "a4aqupia",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "a4aqupia",
+  "source_type": "refseq",
+  "source_name": "nc_012211",
+  "default": true
 }

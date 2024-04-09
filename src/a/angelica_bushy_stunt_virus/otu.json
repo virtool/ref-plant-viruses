@@ -1,0 +1,13 @@
+{
+  "_id": "ls9ft1ga",
+  "name": "Angelica bushy stunt virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1808970
+}

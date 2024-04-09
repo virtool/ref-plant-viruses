@@ -1,0 +1,13 @@
+{
+  "_id": "91409372",
+  "name": "Maize yellow mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1856642
+}

@@ -1,13 +1,13 @@
 {
-    "_id": "9aac291c",
-    "name": "Alstroemeria mosaic virus",
-    "abbreviation": "ALMV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "9aac291c",
+  "name": "Alstroemeria mosaic virus",
+  "abbreviation": "ALMV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 260374
 }

@@ -1,6 +1,6 @@
 {
-    "id": "rbkexqdx",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "rbkexqdx",
+  "source_type": "refseq",
+  "source_name": "nc_001409",
+  "default": true
 }

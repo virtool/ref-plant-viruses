@@ -1,6 +1,6 @@
 {
     "id": "2vcotvra",
-    "source_type": "isolate",
-    "source_name": "",
+    "source_type": "refseq",
+    "source_name": "NC_043428",
     "default": true
 }

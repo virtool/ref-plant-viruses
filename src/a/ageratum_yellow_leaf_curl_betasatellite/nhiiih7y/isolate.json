@@ -1,6 +1,6 @@
 {
-    "id": "nhiiih7y",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "nhiiih7y",
+  "source_type": "clone",
+  "source_name": "F24-9",
+  "default": true
 }
