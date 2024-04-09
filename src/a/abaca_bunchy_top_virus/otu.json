@@ -4,32 +4,32 @@
   "abbreviation": "ABTV",
   "schema": [
     {
-      "name": "DNA-R",
+      "name": "DNA R",
       "molecule": "ssDNA",
       "required": true
     },
     {
-      "name": "DNA-U3",
+      "name": "DNA U3",
       "molecule": "ssDNA",
       "required": true
     },
     {
-      "name": "DNA-N",
+      "name": "DNA N",
       "molecule": "ssDNA",
       "required": true
     },
     {
-      "name": "DNA-S",
+      "name": "DNA S",
       "molecule": "ssDNA",
       "required": true
     },
     {
-      "name": "DNA-M",
+      "name": "DNA M",
       "molecule": "ssDNA",
       "required": true
     },
     {
-      "name": "DNA-C",
+      "name": "DNA C",
       "molecule": "ssDNA",
       "required": true
     }

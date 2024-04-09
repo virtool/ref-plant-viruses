@@ -5,7 +5,7 @@
   "schema": [
     {
       "molecule": "ssDNA",
-      "name": "DNA-A",
+      "name": "DNA A",
       "required": true
     }
   ],

@@ -4,7 +4,7 @@
   "abbreviation": "",
   "schema": [
     {
-      "name": "Partial Genome",
+      "name": "Partial",
       "molecule": "RNA",
       "required": true
     }
