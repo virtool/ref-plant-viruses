@@ -2,10 +2,12 @@
   "_id": "cab3ac4f",
   "name": "Sugarcane streak mosaic virus",
   "abbreviation": "ScSMV",
-  "schema": [{
-    "name": "Genome",
-    "molecule": "ssRNA",
-    "required": true
-  }],
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA",
+      "required": true
+    }
+  ],
   "taxid": 53954
 }

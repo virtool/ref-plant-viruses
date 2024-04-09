@@ -3,7 +3,7 @@
   "name": "Furcraea necrotic streak virus",
   "abbreviation": "FNSV",
   "schema": [
-            {
+    {
       "name": "Genome",
       "molecule": "RNA",
       "required": true

@@ -1,6 +1,6 @@
 {
-    "id": "gclb69zx",
-    "source_type": "refseq",
-    "source_name": "NC_029051",
-    "default": true
+  "id": "gclb69zx",
+  "source_type": "refseq",
+  "source_name": "NC_029051",
+  "default": true
 }

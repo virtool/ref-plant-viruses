@@ -2,10 +2,12 @@
   "_id": "43wlajno",
   "name": "Emilia yellow vein virus-[Fz1]",
   "abbreviation": "",
-  "schema": [{
-    "name": "Genome",
-    "molecule": "DNA",
-    "required": true
-  }],
-    "taxid": 498803
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "DNA",
+      "required": true
+    }
+  ],
+  "taxid": 498803
 }

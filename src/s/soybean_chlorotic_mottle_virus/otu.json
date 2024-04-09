@@ -2,10 +2,12 @@
   "_id": "cbb7c108",
   "name": "Soybean chlorotic mottle virus",
   "abbreviation": "",
-  "schema": [{
-    "name": "Genome",
-    "molecule": "DNA",
-    "required": true
-  }],
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "DNA",
+      "required": true
+    }
+  ],
   "taxid": 10651
 }

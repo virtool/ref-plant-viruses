@@ -1,6 +1,6 @@
 {
-    "id": "7mrjcag0",
-    "source_type": "isolate",
-    "source_name": "PPV-NAT",
-    "default": true
+  "id": "7mrjcag0",
+  "source_type": "isolate",
+  "source_name": "PPV-NAT",
+  "default": true
 }

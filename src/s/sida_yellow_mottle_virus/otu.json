@@ -4,15 +4,15 @@
   "abbreviation": "",
   "schema": [
     {
-        "name": "DNA-A",
-        "molecule": "ssDNA",
-        "required": true
+      "name": "DNA-A",
+      "molecule": "ssDNA",
+      "required": true
     },
     {
-        "name": "DNA-B",
-        "molecule": "ssDNA",
-        "required": true
+      "name": "DNA-B",
+      "molecule": "ssDNA",
+      "required": true
     }
-],
+  ],
   "taxid": 1093958
 }

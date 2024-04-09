@@ -2,10 +2,12 @@
   "_id": "9e0d4f37",
   "name": "Fig fleck-associated virus",
   "abbreviation": "FFkaV",
-  "schema": [{
-    "name": "Genome",
-    "molecule": "RNA",
-    "required": true
-  }],
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "RNA",
+      "required": true
+    }
+  ],
   "taxid": 548908
 }

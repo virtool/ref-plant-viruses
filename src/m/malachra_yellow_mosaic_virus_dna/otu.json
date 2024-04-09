@@ -1,13 +1,13 @@
 {
-    "_id": "dujsiqfk",
-    "name": "Malachra yellow mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": 2202146
+  "_id": "dujsiqfk",
+  "name": "Malachra yellow mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2202146
 }

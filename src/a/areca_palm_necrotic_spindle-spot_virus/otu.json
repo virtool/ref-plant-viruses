@@ -2,10 +2,12 @@
   "_id": "i5bcltzk",
   "name": "Areca palm necrotic spindle-spot virus",
   "abbreviation": "",
-  "schema": [{
-    "molecule": "ssRNA+",
-    "name": "Genome",
-    "required": true
-  }],
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
   "taxid": 2306623
 }

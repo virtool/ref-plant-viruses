@@ -2,15 +2,17 @@
   "_id": "bbd01390",
   "name": "Flammulina velutipes browning virus",
   "abbreviation": "FvBV",
-  "schema": [{
-    "name": "RdRp gene",
-    "molecule": "RNA",
-    "required": true
-  },
+  "schema": [
+    {
+      "name": "RdRp gene",
+      "molecule": "RNA",
+      "required": true
+    },
     {
       "name": "CP1 gene",
       "molecule": "RNA",
       "required": true
-    }],
+    }
+  ],
   "taxid": 568090
 }

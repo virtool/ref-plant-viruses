@@ -1,6 +1,6 @@
 {
-    "id": "bkpa69nh",
-    "source_type": "refseq",
-    "source_name": "NC_077027",
-    "default": true
+  "id": "bkpa69nh",
+  "source_type": "refseq",
+  "source_name": "NC_077027",
+  "default": true
 }

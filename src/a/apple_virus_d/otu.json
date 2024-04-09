@@ -2,10 +2,12 @@
   "_id": "cn8om9ix",
   "name": "Apple virus D",
   "abbreviation": "",
-  "schema": [{
-    "molecule": "RNA",
-    "name": "Partial",
-    "required": true
-  }],
+  "schema": [
+    {
+      "molecule": "RNA",
+      "name": "Partial",
+      "required": true
+    }
+  ],
   "taxid": 2709748
 }

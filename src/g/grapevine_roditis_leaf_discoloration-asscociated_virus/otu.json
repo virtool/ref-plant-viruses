@@ -1,13 +1,13 @@
 {
-    "_id": "fcgzdiex",
-    "name": "Grapevine Roditis leaf discoloration-associated virus",
-    "abbreviation": "GRLDaV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsDNA",
-            "required": true
-        }
-    ],
-    "taxid": 1471299
+  "_id": "fcgzdiex",
+  "name": "Grapevine Roditis leaf discoloration-associated virus",
+  "abbreviation": "GRLDaV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1471299
 }

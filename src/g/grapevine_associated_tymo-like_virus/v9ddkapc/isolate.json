@@ -1,6 +1,6 @@
 {
-    "id": "v9ddkapc",
-    "source_type": "refseq",
-    "source_name": "NC_040837",
-    "default": true
+  "id": "v9ddkapc",
+  "source_type": "refseq",
+  "source_name": "NC_040837",
+  "default": true
 }

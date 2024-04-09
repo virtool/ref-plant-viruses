@@ -2,10 +2,12 @@
   "_id": "vj5e93z3",
   "name": "Apple virus B",
   "abbreviation": "",
-  "schema": [{
-    "name": "Partial",
-    "molecule": "ssRNA-",
-    "required": true
-  }],
+  "schema": [
+    {
+      "name": "Partial",
+      "molecule": "ssRNA-",
+      "required": true
+    }
+  ],
   "taxid": 2709746
 }
