@@ -1,13 +1,13 @@
 {
-    "_id": "20603017",
-    "name": "Banana streak virus",
-    "abbreviation": "BSV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "dsDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "20603017",
+  "name": "Banana streak virus",
+  "abbreviation": "BSV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "dsDNA",
+      "required": true
+    }
+  ],
+  "taxid": 69577
 }

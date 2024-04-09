@@ -1,13 +1,13 @@
 {
-    "_id": "7f861521",
-    "name": "Beet chlorosis virus",
-    "abbreviation": "BChV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "7f861521",
+  "name": "Beet chlorosis virus",
+  "abbreviation": "BChV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 131082
 }

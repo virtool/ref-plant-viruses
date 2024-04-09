@@ -1,6 +1,6 @@
 {
-    "id": "u13vemfc",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "u13vemfc",
+  "source_type": "refseq",
+  "source_name": "NC_009745",
+  "default": true
 }

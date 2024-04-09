@@ -1,13 +1,13 @@
 {
-    "_id": "0af8ec28",
-    "name": "Beet curly top virus",
-    "abbreviation": "BCTV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "0af8ec28",
+  "name": "Beet curly top virus",
+  "abbreviation": "BCTV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 10840
 }

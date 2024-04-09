@@ -1,6 +1,6 @@
 {
-    "id": "mc1np2ua",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "mc1np2ua",
+  "source_type": "refseq",
+  "source_name": "NC_004452",
+  "default": true
 }

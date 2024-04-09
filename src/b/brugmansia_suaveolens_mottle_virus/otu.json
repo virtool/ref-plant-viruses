@@ -1,13 +1,13 @@
 {
-    "_id": "802b3aa3",
-    "name": "Brugmansia suaveolens mottle virus",
-    "abbreviation": "BsMoV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "802b3aa3",
+  "name": "Brugmansia suaveolens mottle virus",
+  "abbreviation": "BsMoV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 487155
 }

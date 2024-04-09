@@ -1,6 +1,6 @@
 {
-    "id": "dbrxftrr",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "dbrxftrr",
+  "source_type": "refseq",
+  "source_name": "NC_011556",
+  "default": true
 }

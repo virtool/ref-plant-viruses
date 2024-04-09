@@ -1,6 +1,6 @@
 {
     "id": "9qtlh3fp",
-    "source_type": "isolate",
-    "source_name": "",
+    "source_type": "refseq",
+    "source_name": "NC_038953",
     "default": true
 }

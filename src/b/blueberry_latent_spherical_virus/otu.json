@@ -1,18 +1,18 @@
 {
-    "_id": "w6k168zz",
-    "name": "Blueberry latent spherical virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "RNA 1",
-            "molecule": "ssRNA+",
-            "required": true
-        },
-        {
-            "name": "RNA 2",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "w6k168zz",
+  "name": "Blueberry latent spherical virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "RNA 1",
+      "molecule": "ssRNA+",
+      "required": true
+    },
+    {
+      "name": "RNA 2",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1071488
 }

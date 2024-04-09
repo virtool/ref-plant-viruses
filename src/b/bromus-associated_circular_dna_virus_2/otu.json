@@ -1,13 +1,13 @@
 {
-    "_id": "dsmie4cv",
-    "name": "Bromus-associated circular DNA virus 2",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "dsmie4cv",
+  "name": "Bromus-associated circular DNA virus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 1590155
 }

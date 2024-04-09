@@ -1,13 +1,13 @@
 {
-    "_id": "a2c3ce50",
-    "name": "Blackberry vein banding associated virus",
-    "abbreviation": "BVBaV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "a2c3ce50",
+  "name": "Blackberry vein banding associated virus",
+  "abbreviation": "BVBaV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1381464
 }

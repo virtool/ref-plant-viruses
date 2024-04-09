@@ -1,6 +1,6 @@
 {
-    "id": "dvfq3bck",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "dvfq3bck",
+  "source_type": "refseq",
+  "source_name": "NC_004006",
+  "default": true
 }

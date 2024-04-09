@@ -1,6 +1,6 @@
 {
-    "id": "zvw28st7",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "zvw28st7",
+  "source_type": "refseq",
+  "source_name": "NC_006956",
+  "default": true
 }
