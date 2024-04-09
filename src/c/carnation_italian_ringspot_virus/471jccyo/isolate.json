@@ -1,6 +1,6 @@
 {
-    "id": "471jccyo",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "471jccyo",
+  "source_type": "refseq",
+  "source_name": "NC_003500",
+  "default": true
 }

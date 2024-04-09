@@ -1,6 +1,6 @@
 {
-    "id": "x15vmeiw",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "x15vmeiw",
+  "source_type": "refseq",
+  "source_name": "NC_013007",
+  "default": true
 }

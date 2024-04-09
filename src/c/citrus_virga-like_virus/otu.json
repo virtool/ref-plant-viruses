@@ -1,7 +1,11 @@
 {
-    "_id": "xlej60n6",
-    "name": "Citrus virga-like virus",
-    "abbreviation": "",
-    "schema": [],
-    "taxid": null
+  "_id": "xlej60n6",
+  "name": "Citrus virga-like virus",
+  "abbreviation": "",
+  "schema": [{
+    "name": "Partial",
+    "molecule": "RNA",
+    "required": true
+  }],
+  "taxid": 1983764
 }

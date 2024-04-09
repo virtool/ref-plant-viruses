@@ -1,13 +1,13 @@
 {
-    "_id": "6e1d713c",
-    "name": "Croton yellow vein mosaic betasatellite",
-    "abbreviation": "CYVMB",
-    "schema": [
-        {
-            "name": "Betasatellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "6e1d713c",
+  "name": "Croton yellow vein mosaic betasatellite",
+  "abbreviation": "CYVMB",
+  "schema": [
+    {
+      "name": "Betasatellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 411248
 }

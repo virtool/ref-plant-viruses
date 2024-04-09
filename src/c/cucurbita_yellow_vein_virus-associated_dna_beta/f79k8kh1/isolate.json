@@ -1,6 +1,6 @@
 {
-    "id": "f79k8kh1",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "f79k8kh1",
+  "source_type": "clone",
+  "source_name": "mp1-9",
+  "default": true
 }

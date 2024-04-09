@@ -1,6 +1,6 @@
 {
-    "id": "uag35sun",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "uag35sun",
+  "source_type": "refseq",
+  "source_name": "NC_001753",
+  "default": true
 }

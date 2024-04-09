@@ -1,13 +1,13 @@
 {
-    "_id": "igzq5kdq",
-    "name": "Cucumber chlorotic leaf virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "igzq5kdq",
+  "name": "Cucumber chlorotic leaf virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2593922
 }

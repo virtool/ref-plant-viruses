@@ -1,6 +1,6 @@
 {
     "id": "msa9hloq",
-    "source_type": "isolate",
-    "source_name": "",
+    "source_type": "refseq",
+    "source_name": "NC_034513",
     "default": true
 }

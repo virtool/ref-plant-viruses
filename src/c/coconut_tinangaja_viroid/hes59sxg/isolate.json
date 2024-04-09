@@ -1,6 +1,6 @@
 {
-    "id": "hes59sxg",
-    "source_type": "unknown",
-    "source_name": "",
-    "default": true
+  "id": "hes59sxg",
+  "source_type": "refseq",
+  "source_name": "NC_001471",
+  "default": true
 }

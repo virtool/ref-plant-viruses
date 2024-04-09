@@ -1,13 +1,13 @@
 {
-    "_id": "427a3f0d",
-    "name": "Cherry rusty mottle associated virus",
-    "abbreviation": "CRMV",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "427a3f0d",
+  "name": "Cherry rusty mottle associated virus",
+  "abbreviation": "CRMV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 1312929
 }

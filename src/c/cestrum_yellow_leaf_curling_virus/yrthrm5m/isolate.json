@@ -1,6 +1,6 @@
 {
-    "id": "yrthrm5m",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "yrthrm5m",
+  "source_type": "refseq",
+  "source_name": "NC_004324",
+  "default": true
 }

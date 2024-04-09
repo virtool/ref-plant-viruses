@@ -1,6 +1,6 @@
 {
-    "id": "57wwrwpe",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "57wwrwpe",
+  "source_type": "clone",
+  "source_name": "pCiLRV-A-2, pCiLRV-A-4",
+  "default": true
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "a8j9ptwl",
-    "name": "Camellia-associated marafivirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "Genome",
-            "molecule": "ssRNA+",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "a8j9ptwl",
+  "name": "Camellia-associated marafivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA+",
+      "required": true
+    }
+  ],
+  "taxid": 2802550
 }

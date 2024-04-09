@@ -1,13 +1,13 @@
 {
-    "_id": "294d1cb1",
-    "name": "Cotton leaf curl virus associated DNA 1 isolate Lucknow",
-    "abbreviation": "CLCuVaDNA1",
-    "schema": [
-        {
-            "name": "Alphasatellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "294d1cb1",
+  "name": "Cotton leaf curl virus associated DNA 1 isolate Lucknow",
+  "abbreviation": "CLCuVaDNA1",
+  "schema": [
+    {
+      "name": "Alphasatellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2169841
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "014e5522",
-    "name": "Chili leaf curl betasatellite",
-    "abbreviation": "ChiLCBV",
-    "schema": [
-        {
-            "name": "Betasatellite",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "014e5522",
+  "name": "Chili leaf curl betasatellite",
+  "abbreviation": "ChiLCBV",
+  "schema": [
+    {
+      "name": "Betasatellite",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 2010286
 }

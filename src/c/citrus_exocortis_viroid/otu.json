@@ -1,13 +1,13 @@
 {
-    "_id": "12c636ca",
-    "name": "Citrus excortis viroid",
-    "abbreviation": "CEVd",
-    "schema": [
-        {
-            "name": "Viroid",
-            "molecule": "ssRNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "12c636ca",
+  "name": "Citrus exocortis viroid",
+  "abbreviation": "CEVd",
+  "schema": [
+    {
+      "name": "Viroid",
+      "molecule": "ssRNA",
+      "required": true
+    }
+  ],
+  "taxid": 12890
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "def0e68d",
-    "name": "Cotton leaf curl Rajasthan virus",
-    "abbreviation": "CLCuRV",
-    "schema": [
-        {
-            "name": "DNA A",
-            "molecule": "ssDNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "def0e68d",
+  "name": "Cotton leaf curl Rajasthan virus",
+  "abbreviation": "CLCuRV",
+  "schema": [
+    {
+      "name": "DNA A",
+      "molecule": "ssDNA",
+      "required": true
+    }
+  ],
+  "taxid": 223259
 }

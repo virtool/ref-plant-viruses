@@ -1,6 +1,6 @@
 {
-    "id": "gcozr5ip",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "gcozr5ip",
+  "source_type": "refseq",
+  "source_name": "NC_004725",
+  "default": true
 }

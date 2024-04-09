@@ -1,6 +1,6 @@
 {
-    "id": "0xutj4yn",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "0xutj4yn",
+  "source_type": "clone",
+  "source_name": "LG-RCA-aI-F",
+  "default": true
 }

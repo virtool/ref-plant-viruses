@@ -1,6 +1,6 @@
 {
-    "id": "pn446fpg",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "pn446fpg",
+  "source_type": "refseq",
+  "source_name": "NC_008579",
+  "default": true
 }

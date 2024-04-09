@@ -1,6 +1,6 @@
 {
-    "id": "ga2fkuv3",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "ga2fkuv3",
+  "source_type": "refseq",
+  "source_name": "NC_008614",
+  "default": true
 }

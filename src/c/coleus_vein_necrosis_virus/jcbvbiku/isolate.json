@@ -1,6 +1,6 @@
 {
-    "id": "jcbvbiku",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "jcbvbiku",
+  "source_type": "refseq",
+  "source_name": "NC_009764",
+  "default": true
 }

@@ -1,18 +1,18 @@
 {
-    "_id": "momihqi9",
-    "name": "Carnation cryptic virus 3",
-    "abbreviation": "",
-    "schema": [
-        {
-            "name": "RNA 1",
-            "molecule": "dsRNA",
-            "required": true
-        },
-        {
-            "name": "RNA 2",
-            "molecule": "dsRNA",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "momihqi9",
+  "name": "Carnation cryptic virus 3",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "RNA 1",
+      "molecule": "dsRNA",
+      "required": true
+    },
+    {
+      "name": "RNA 2",
+      "molecule": "dsRNA",
+      "required": true
+    }
+  ],
+  "taxid": 1980625
 }

@@ -1,6 +1,6 @@
 {
-    "id": "bme1ei5a",
-    "source_type": "unknown",
-    "source_name": "unknown",
-    "default": true
+  "id": "bme1ei5a",
+  "source_type": "refseq",
+  "source_name": "NC_003530",
+  "default": true
 }
