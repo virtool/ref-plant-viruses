@@ -1,6 +1,6 @@
 {
   "id": "hes59sxg",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_001471",
   "default": true
 }

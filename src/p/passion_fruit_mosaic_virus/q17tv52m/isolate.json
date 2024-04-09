@@ -1,6 +1,6 @@
 {
   "id": "q17tv52m",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_015552",
   "default": true
 }

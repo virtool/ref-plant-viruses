@@ -1,6 +1,6 @@
 {
   "id": "eba0ufgw",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_004655",
   "default": true
 }

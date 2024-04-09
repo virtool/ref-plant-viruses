@@ -1,6 +1,6 @@
 {
   "id": "k3st121l",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_038897",
   "default": true
 }

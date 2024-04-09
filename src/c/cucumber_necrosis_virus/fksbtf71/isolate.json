@@ -1,6 +1,6 @@
 {
   "id": "fksbtf71",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_001469",
   "default": true
 }

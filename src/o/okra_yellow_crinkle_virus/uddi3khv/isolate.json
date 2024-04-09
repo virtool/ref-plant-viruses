@@ -1,6 +1,6 @@
 {
   "id": "uddi3khv",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_008377",
   "default": true
 }

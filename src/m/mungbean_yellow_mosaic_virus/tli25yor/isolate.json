@@ -1,6 +1,6 @@
 {
   "id": "tli25yor",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_001983",
   "default": true
 }

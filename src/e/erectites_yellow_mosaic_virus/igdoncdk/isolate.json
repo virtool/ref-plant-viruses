@@ -1,6 +1,6 @@
 {
   "id": "igdoncdk",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_009549",
   "default": true
 }

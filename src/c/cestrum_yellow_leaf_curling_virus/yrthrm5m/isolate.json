@@ -1,6 +1,6 @@
 {
   "id": "yrthrm5m",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_004324",
   "default": true
 }

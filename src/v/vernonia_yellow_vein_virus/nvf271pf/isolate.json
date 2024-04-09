@@ -1,6 +1,6 @@
 {
   "id": "nvf271pf",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_007730",
   "default": true
 }

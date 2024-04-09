@@ -1,6 +1,6 @@
 {
   "id": "l8fyiscx",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "nc_038901",
   "default": true
 }

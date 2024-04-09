@@ -1,6 +1,6 @@
 {
   "id": "9uxdommc",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_003510",
   "default": true
 }

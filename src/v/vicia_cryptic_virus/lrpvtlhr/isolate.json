@@ -1,6 +1,6 @@
 {
   "id": "lrpvtlhr",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_007241",
   "default": true
 }

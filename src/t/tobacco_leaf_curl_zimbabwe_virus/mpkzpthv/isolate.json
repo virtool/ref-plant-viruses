@@ -1,6 +1,6 @@
 {
   "id": "mpkzpthv",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_002817",
   "default": true
 }

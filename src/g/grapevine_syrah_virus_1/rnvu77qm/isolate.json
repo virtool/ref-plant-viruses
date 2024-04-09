@@ -1,6 +1,6 @@
 {
   "id": "rnvu77qm",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_012484",
   "default": true
 }

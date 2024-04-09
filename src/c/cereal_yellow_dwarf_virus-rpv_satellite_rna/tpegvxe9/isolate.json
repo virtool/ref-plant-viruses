@@ -1,6 +1,6 @@
 {
   "id": "tpegvxe9",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_003533",
   "default": true
 }

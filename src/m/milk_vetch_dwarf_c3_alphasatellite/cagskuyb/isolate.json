@@ -1,6 +1,6 @@
 {
   "id": "cagskuyb",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_003640",
   "default": true
 }

@@ -1,6 +1,6 @@
 {
   "id": "mkg2208f",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_020896",
   "default": true
 }
