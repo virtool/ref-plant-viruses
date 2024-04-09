@@ -7,34 +7,34 @@
       "name": "DNA-U4",
       "molecule": "ssDNA",
       "required": true
-    },    {
+    },   {
         "name": "DNA-M",
-        "molecule": "RNA",
+        "molecule": "ssDNA",
         "required": true
     },
     {
         "name": "DNA-U2",
-        "molecule": "RNA",
+        "molecule": "ssDNA",
         "required": true
     },
     {
         "name": "DNA-N",
-        "molecule": "RNA",
+        "molecule": "ssDNA",
         "required": true
     },
     {
         "name": "DNA-S",
-        "molecule": "RNA",
+        "molecule": "ssDNA",
         "required": true
     },
     {
         "name": "DNA-C",
-        "molecule": "RNA",
+        "molecule": "ssDNA",
         "required": true
     },
     {
         "name": "DNA-U1",
-        "molecule": "RNA",
+        "molecule": "ssDNA",
         "required": true
     }
   ],

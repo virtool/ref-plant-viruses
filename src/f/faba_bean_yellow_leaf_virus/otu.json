@@ -40,7 +40,7 @@
     },
     {
       "name": "DNA U4",
-      "molecule": "",
+      "molecule": "ssDNA",
       "required": true
     }
   ],

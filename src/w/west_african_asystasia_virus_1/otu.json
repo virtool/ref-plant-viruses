@@ -5,12 +5,12 @@
   "schema": [
     {
       "name": "DNA A",
-      "molecule": "ssDNA",
+      "molecule": "DNA",
       "required": true
     },
     {
       "name": "DNA B",
-      "molecule": "dsDNA",
+      "molecule": "DNA",
       "required": true
     }
   ],

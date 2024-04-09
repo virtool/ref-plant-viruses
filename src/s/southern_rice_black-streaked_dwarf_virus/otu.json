@@ -50,7 +50,7 @@
     },
     {
       "name": "RNA 10",
-      "molecule": "ssDNA",
+      "molecule": "dsRNA",
       "required": true
     }
   ],
