@@ -4,12 +4,12 @@
   "abbreviation": "",
   "schema": [
     {
-      "name": "DNA-A",
+      "name": "DNA A",
       "molecule": "ssDNA",
       "required": true
     },
     {
-      "name": "DNA-B",
+      "name": "DNA B",
       "molecule": "ssDNA",
       "required": true
     }

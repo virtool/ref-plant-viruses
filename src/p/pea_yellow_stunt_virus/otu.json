@@ -4,7 +4,7 @@
   "abbreviation": "",
   "schema": [
     {
-      "name": "DNA-U4",
+      "name": "DNA-C",
       "molecule": "ssDNA",
       "required": true
     },
@@ -14,12 +14,12 @@
       "required": true
     },
     {
-      "name": "DNA-U2",
+      "name": "DNA-N",
       "molecule": "ssDNA",
       "required": true
     },
     {
-      "name": "DNA-N",
+      "name": "DNA-R",
       "molecule": "ssDNA",
       "required": true
     },
@@ -29,12 +29,17 @@
       "required": true
     },
     {
-      "name": "DNA-C",
+      "name": "DNA-U1",
       "molecule": "ssDNA",
       "required": true
     },
     {
-      "name": "DNA-U1",
+      "name": "DNA-U2",
+      "molecule": "ssDNA",
+      "required": true
+    },
+    {
+      "name": "DNA-U4",
       "molecule": "ssDNA",
       "required": true
     }

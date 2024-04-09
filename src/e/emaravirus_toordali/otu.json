@@ -1,31 +1,36 @@
 {
   "_id": "31tk4j3g",
-  "name": "Pigeonpea sterility mosaic virus",
+  "name": "Emaravirus toordali",
   "abbreviation": "",
   "schema": [
     {
       "name": "RNA 1",
-      "molecule": "",
+      "molecule": "RNA",
       "required": true
     },
     {
       "name": "RNA 2",
-      "molecule": "",
+      "molecule": "RNA",
       "required": true
     },
     {
       "name": "RNA 3",
-      "molecule": "",
+      "molecule": "RNA",
       "required": true
     },
     {
       "name": "RNA 4",
-      "molecule": "",
+      "molecule": "RNA",
       "required": true
     },
     {
       "name": "RNA 5",
-      "molecule": "",
+      "molecule": "RNA",
+      "required": true
+    },
+    {
+      "name": "RNA 6",
+      "molecule": "RNA",
       "required": true
     }
   ],
