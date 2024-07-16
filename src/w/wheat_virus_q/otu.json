@@ -4,17 +4,7 @@
   "abbreviation": "",
   "schema": [
     {
-      "name": "B RNA",
-      "molecule": "ssRNA+",
-      "required": true
-    },
-    {
-      "name": "A RNA",
-      "molecule": "ssRNA+",
-      "required": true
-    },
-    {
-      "name": "C RNA",
+      "name": "Genome",
       "molecule": "ssRNA+",
       "required": true
     }

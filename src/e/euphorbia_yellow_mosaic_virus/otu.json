@@ -4,11 +4,6 @@
   "abbreviation": "EuYMV",
   "schema": [
     {
-      "name": "DNA 1",
-      "molecule": "ssDNA",
-      "required": true
-    },
-    {
       "name": "DNA A",
       "molecule": "ssDNA",
       "required": true
