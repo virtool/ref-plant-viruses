@@ -1,6 +1,6 @@
 {
   "_id": "2e93d72d",
-  "name": "Chilli leaf curl Bhatinda betasatellite",
+  "name": "Chili leaf curl Bhatinda betasatellite",
   "abbreviation": "ChiLCBB",
   "schema": [
     {
@@ -9,5 +9,5 @@
       "required": true
     }
   ],
-  "taxid": 190729
+  "taxid": 1335766
 }
