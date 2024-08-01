@@ -1,0 +1,13 @@
+{
+    "_id": "6wwlks7m",
+    "name": "Hop stunt viroid",
+    "abbreviation": "HSVd",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "Viroid",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "8y3noVkx",
+    "name": "Pastinaca umbravirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": null,
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

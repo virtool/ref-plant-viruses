@@ -1,0 +1,13 @@
+{
+    "_id": "bO0MPFyT",
+    "name": "Loquate virus A",
+    "abbreviation": "LoVA",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "Genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

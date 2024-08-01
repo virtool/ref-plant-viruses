@@ -1,0 +1,13 @@
+{
+    "_id": "4JiF08yD",
+    "name": "Dregea volubilis virus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": null,
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "ykHOImt9",
+    "name": "Plasmopara associated poty-like virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

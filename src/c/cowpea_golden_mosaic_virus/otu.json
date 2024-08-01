@@ -1,0 +1,18 @@
+{
+    "_id": "ba3zzk8e",
+    "name": "Cowpea golden mosaic virus",
+    "abbreviation": "CPGMV",
+    "schema": [
+        {
+            "molecule": "ssDNA",
+            "name": "DNA A",
+            "required": true
+        },
+        {
+            "molecule": "ssDNA",
+            "name": "DNA B",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

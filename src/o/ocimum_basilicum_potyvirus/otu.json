@@ -1,0 +1,13 @@
+{
+    "_id": "fBzEVVaR",
+    "name": "Ocimum basilicum potyvirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "ILq31AzE",
+    "name": "Procedovirinae sp",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

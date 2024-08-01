@@ -1,0 +1,13 @@
+{
+    "_id": "uLy3i2pj",
+    "name": "Paspalum notatum polerovirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

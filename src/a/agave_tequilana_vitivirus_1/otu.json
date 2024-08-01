@@ -1,0 +1,13 @@
+{
+    "_id": "7CnXcfhw",
+    "name": "Agave tequilana vitivirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

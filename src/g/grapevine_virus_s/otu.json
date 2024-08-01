@@ -1,0 +1,18 @@
+{
+    "_id": "zcpOto7W",
+    "name": "Grapevine virus S",
+    "abbreviation": "GVS",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 1",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 2",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

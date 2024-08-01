@@ -1,0 +1,13 @@
+{
+    "_id": "bMKgR6PB",
+    "name": "Sitke waterborne virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

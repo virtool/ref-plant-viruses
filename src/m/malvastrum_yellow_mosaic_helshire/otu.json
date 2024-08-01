@@ -1,0 +1,13 @@
+{
+    "_id": "NOaelOkQ",
+    "name": "Malvastrum yellow mosaic Helshire",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssDNA",
+            "name": "Genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

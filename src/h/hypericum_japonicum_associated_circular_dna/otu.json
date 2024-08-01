@@ -1,0 +1,13 @@
+{
+    "_id": "NcyNCdhW",
+    "name": "Hypericum japonicum associated circular DNA",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssDNA",
+            "name": "Genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "iDPyjX6u",
+    "name": "Passiflora latent virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,63 @@
+{
+    "_id": "KuYlMfb2",
+    "name": "Maize rough dwarf fijivirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "dsRNA",
+            "name": "RNA 1",
+            "required": true
+        },
+        {
+            "molecule": "dsRNA",
+            "name": "RNA 2",
+            "required": true
+        },
+        {
+            "molecule": "dsRNA",
+            "name": "RNA 3",
+            "required": true
+        },
+        {
+            "molecule": "dsRNA",
+            "name": "RNA 4",
+            "required": true
+        },
+        {
+            "molecule": "dsRNA",
+            "name": "RNA 5",
+            "required": true
+        },
+        {
+            "molecule": "dsRNA",
+            "name": "RNA 6",
+            "required": true
+        },
+        {
+            "molecule": "dsRNA",
+            "name": "RNA 7",
+            "required": true
+        },
+        {
+            "molecule": "dsRNA",
+            "name": "RNA 8",
+            "required": true
+        },
+        {
+            "molecule": "dsRNA",
+            "name": "RNA 9",
+            "required": true
+        },
+        {
+            "molecule": "dsRNA",
+            "name": "RNA 10",
+            "required": true
+        },
+        {
+            "molecule": "dsRNA",
+            "name": "RNA 11",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

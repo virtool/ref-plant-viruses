@@ -1,0 +1,13 @@
+{
+    "_id": "6dz6k73o",
+    "name": "Citrus viroid III",
+    "abbreviation": "CVd III",
+    "schema": [
+        {
+            "molecule": "ssRNA",
+            "name": "Viroid",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

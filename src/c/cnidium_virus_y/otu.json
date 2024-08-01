@@ -1,0 +1,13 @@
+{
+    "_id": "ofa5ASqz",
+    "name": "Cnidium virus Y",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "MXATE3vs",
+    "name": "Peony leafroll-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "9IZBM8Nk",
+    "name": "Sedum sarmentosum crinivirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

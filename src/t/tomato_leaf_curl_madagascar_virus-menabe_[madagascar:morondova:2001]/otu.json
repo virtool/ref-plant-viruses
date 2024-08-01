@@ -1,0 +1,13 @@
+{
+    "_id": "mzqrH0Y0",
+    "name": "Tomato leaf curl Madagascar virus-Menabe [Madagascar:Morondova:2001]",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssDNA",
+            "name": "Genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

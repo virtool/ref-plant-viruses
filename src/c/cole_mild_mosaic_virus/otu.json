@@ -1,0 +1,13 @@
+{
+    "_id": "rUrCyAO1",
+    "name": "Cole mild mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

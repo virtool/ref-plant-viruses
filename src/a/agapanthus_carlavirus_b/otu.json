@@ -1,0 +1,13 @@
+{
+    "_id": "IPpD2R4X",
+    "name": "Agapanthus carlavirus B",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

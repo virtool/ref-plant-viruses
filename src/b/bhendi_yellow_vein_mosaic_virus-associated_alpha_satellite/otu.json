@@ -1,0 +1,13 @@
+{
+    "_id": "nyq1wf7t",
+    "name": "Bhendi yellow vein mosaic virus-associated alpha satellite",
+    "abbreviation": "BYVMA",
+    "schema": [
+        {
+            "molecule": "ssDNA",
+            "name": "Satellite",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

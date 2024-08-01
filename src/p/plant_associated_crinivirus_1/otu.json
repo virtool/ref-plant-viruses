@@ -1,0 +1,13 @@
+{
+    "_id": "QYaNRyqB",
+    "name": "Plant associated crinivirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

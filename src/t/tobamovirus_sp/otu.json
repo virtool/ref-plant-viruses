@@ -1,0 +1,13 @@
+{
+    "_id": "KOhBz0AO",
+    "name": "Tobamovirus sp",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

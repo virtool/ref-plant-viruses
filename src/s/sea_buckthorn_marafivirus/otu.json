@@ -1,0 +1,13 @@
+{
+    "_id": "bDaijOiE",
+    "name": "Sea buckthorn marafivirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": null,
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

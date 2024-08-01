@@ -1,0 +1,13 @@
+{
+    "_id": "JwuBpeh1",
+    "name": "Thladiantha dubia mosaic virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

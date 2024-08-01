@@ -1,0 +1,13 @@
+{
+    "_id": "pt1UYCu9",
+    "name": "Pennisetum glaucum marafivirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

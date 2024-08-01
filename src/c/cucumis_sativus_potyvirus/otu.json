@@ -1,0 +1,13 @@
+{
+    "_id": "2qcus4ou",
+    "name": "Cucumis sativus potyvirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

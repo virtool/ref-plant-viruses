@@ -1,0 +1,13 @@
+{
+    "_id": "mcg3I1pt",
+    "name": "Sclerotinia sclerotiorum umbra-like virus 3",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

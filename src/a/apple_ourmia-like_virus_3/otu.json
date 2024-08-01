@@ -1,0 +1,13 @@
+{
+    "_id": "wI7cyHcY",
+    "name": "Apple ourmia-like virus 3",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": null,
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

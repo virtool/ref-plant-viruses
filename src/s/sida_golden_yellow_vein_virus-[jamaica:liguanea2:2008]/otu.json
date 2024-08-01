@@ -1,0 +1,18 @@
+{
+    "_id": "kwaohmak",
+    "name": "Sida golden yellow vein virus-[Jamaica:Liguanea2:2008]",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssDNA",
+            "name": "DNA A",
+            "required": true
+        },
+        {
+            "molecule": "ssDNA",
+            "name": "DNA B",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

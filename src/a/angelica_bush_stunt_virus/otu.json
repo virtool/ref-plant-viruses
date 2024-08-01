@@ -1,0 +1,13 @@
+{
+    "_id": "cpC6SWsK",
+    "name": "Angelica bush stunt virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "dsDNA",
+            "name": "Genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

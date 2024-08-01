@@ -1,0 +1,13 @@
+{
+    "_id": "Y8h1lsoI",
+    "name": "Hybanthus yellow mosaic",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssDNA",
+            "name": "DNA A",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "Ni9JYbRb",
+    "name": "Hobart nepovirus 3",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 1",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "6hwSKNST",
+    "name": "Rhododendron delavayi virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "dsRNA",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "7PjflVEZ",
+    "name": "Malvastrum yellow vein Honghe virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssDNA",
+            "name": "genome DNA A",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

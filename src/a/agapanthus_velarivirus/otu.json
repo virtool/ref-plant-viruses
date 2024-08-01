@@ -1,0 +1,13 @@
+{
+    "_id": "s0EOryDD",
+    "name": "Agapanthus velarivirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": null,
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

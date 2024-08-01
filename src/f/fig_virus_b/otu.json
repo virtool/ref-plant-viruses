@@ -1,0 +1,13 @@
+{
+    "_id": "XLWQpe66",
+    "name": "Fig virus B",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": null,
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "4MLE1Ey5",
+    "name": "Enamovirus sp",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "3zw857b3",
+    "name": "Carnation vein mottle virus",
+    "abbreviation": "CVMoV",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "Genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

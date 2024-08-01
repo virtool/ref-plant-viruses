@@ -1,0 +1,13 @@
+{
+    "_id": "ToZJwjHm",
+    "name": "Agapanthus tungrovirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "dsDNA",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

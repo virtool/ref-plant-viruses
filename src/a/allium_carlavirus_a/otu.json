@@ -1,0 +1,13 @@
+{
+    "_id": "shsHMEEZ",
+    "name": "Allium carlavirus A",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

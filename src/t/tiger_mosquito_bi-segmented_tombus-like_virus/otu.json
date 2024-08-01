@@ -1,0 +1,18 @@
+{
+    "_id": "Ujp8ZQ0g",
+    "name": "Tiger mosquito bi-segmented tombus-like virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 1",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 2",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

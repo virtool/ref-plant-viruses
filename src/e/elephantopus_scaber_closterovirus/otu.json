@@ -1,0 +1,13 @@
+{
+    "_id": "sZiYvs4O",
+    "name": "Elephantopus scaber closterovirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

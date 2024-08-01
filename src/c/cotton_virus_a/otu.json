@@ -1,0 +1,13 @@
+{
+    "_id": "SGS6kUhj",
+    "name": "Cotton virus A",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssDNA",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

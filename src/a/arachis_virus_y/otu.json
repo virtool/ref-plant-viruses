@@ -1,0 +1,13 @@
+{
+    "_id": "vQzwm3WH",
+    "name": "Arachis virus Y",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

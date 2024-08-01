@@ -1,0 +1,13 @@
+{
+    "_id": "jugfw6vf",
+    "name": "Broad-leafed dock virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "Genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

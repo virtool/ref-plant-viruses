@@ -1,0 +1,13 @@
+{
+    "_id": "WllcUlJe",
+    "name": "Tobacco mottle virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

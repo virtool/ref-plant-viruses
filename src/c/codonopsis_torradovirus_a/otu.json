@@ -1,0 +1,18 @@
+{
+    "_id": "JXvQjw8Z",
+    "name": "Codonopsis torradovirus A",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 1",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 2",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

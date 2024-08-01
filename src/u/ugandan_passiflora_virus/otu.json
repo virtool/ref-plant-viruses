@@ -1,0 +1,13 @@
+{
+    "_id": "m5g9KEwx",
+    "name": "Ugandan passiflora virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

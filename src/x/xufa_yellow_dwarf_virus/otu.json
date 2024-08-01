@@ -1,0 +1,13 @@
+{
+    "_id": "zEzXTO7r",
+    "name": "Xufa yellow dwarf virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "eBgBcixc",
+    "name": "Asclepias potyvirus A",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

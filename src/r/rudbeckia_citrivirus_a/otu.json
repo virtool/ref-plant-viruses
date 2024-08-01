@@ -1,0 +1,13 @@
+{
+    "_id": "TqZNTni7",
+    "name": "Rudbeckia citrivirus A",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

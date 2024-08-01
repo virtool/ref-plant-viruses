@@ -1,0 +1,13 @@
+{
+    "_id": "SUPpWfdu",
+    "name": "Plant associated waikavirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

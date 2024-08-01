@@ -1,0 +1,13 @@
+{
+    "_id": "DBOtw17v",
+    "name": "Peony betaflexivirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,23 @@
+{
+    "_id": "LxwYxY2I",
+    "name": "Carpotroche-associated ilarvirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 1",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 2",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 3",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

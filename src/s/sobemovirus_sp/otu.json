@@ -1,0 +1,13 @@
+{
+    "_id": "g75K5Xnd",
+    "name": "Sobemovirus sp",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

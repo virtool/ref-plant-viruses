@@ -1,0 +1,13 @@
+{
+    "_id": "JtzdMB9b",
+    "name": "Peony yellowing associated citrivirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

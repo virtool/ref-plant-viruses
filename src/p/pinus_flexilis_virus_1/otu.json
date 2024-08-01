@@ -1,0 +1,13 @@
+{
+    "_id": "nLfRdixf",
+    "name": "Pinus flexilis virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA-",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

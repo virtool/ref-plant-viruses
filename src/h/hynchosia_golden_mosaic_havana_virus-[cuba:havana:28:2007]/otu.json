@@ -1,0 +1,18 @@
+{
+    "_id": "X3e6ZBlh",
+    "name": "Hynchosia golden mosaic Havana virus-[Cuba:Havana:28:2007]",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssDNA",
+            "name": "DNA A",
+            "required": true
+        },
+        {
+            "molecule": "ssDNA",
+            "name": "DNA B",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

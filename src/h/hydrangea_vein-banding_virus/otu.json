@@ -1,0 +1,23 @@
+{
+    "_id": "x2Kfei0y",
+    "name": "Hydrangea vein-banding virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 1",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 2",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 3",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

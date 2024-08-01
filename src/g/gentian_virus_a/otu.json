@@ -1,0 +1,13 @@
+{
+    "_id": "Ux2tHtvV",
+    "name": "Gentian virus A",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

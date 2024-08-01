@@ -1,0 +1,13 @@
+{
+    "_id": "mPTYwjuj",
+    "name": "Strawberry associated virus A",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

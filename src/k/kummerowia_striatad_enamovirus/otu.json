@@ -1,0 +1,13 @@
+{
+    "_id": "QwWqwfte",
+    "name": "Kummerowia striatad enamovirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

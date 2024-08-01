@@ -1,0 +1,23 @@
+{
+    "_id": "pALgaBYH",
+    "name": "Orthotospovirus citrullomaculosi",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA-",
+            "name": "RNA L",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA-",
+            "name": "RNA M",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA-",
+            "name": "RNA S",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

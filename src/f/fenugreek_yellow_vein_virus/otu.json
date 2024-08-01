@@ -1,0 +1,13 @@
+{
+    "_id": "bdTxDX4c",
+    "name": "Fenugreek yellow vein virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssDNA",
+            "name": "segment DNA-A",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

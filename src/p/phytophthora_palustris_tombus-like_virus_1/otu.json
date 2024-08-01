@@ -1,0 +1,13 @@
+{
+    "_id": "ok2OyvFX",
+    "name": "Phytophthora palustris tombus-like virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

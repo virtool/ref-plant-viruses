@@ -1,0 +1,13 @@
+{
+    "_id": "EpkdJ1we",
+    "name": "Grapevine badna FI virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "dsDNA",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

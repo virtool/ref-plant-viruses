@@ -1,0 +1,13 @@
+{
+    "_id": "ovrlnZF2",
+    "name": "Sugarcane umbra-like virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

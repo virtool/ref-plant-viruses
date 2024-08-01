@@ -1,0 +1,13 @@
+{
+    "_id": "AAPiPFJF",
+    "name": "Erysiphe necator associated tombus-like virus 7",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

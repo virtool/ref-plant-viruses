@@ -1,0 +1,13 @@
+{
+    "_id": "pntJhETH",
+    "name": "Lettuce chorovirus 1",
+    "abbreviation": "LeCV1",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "Genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

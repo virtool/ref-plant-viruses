@@ -1,0 +1,13 @@
+{
+    "_id": "lg7uJxpb",
+    "name": "Mentha macluravirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

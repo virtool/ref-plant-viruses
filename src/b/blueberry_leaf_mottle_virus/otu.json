@@ -1,0 +1,18 @@
+{
+    "_id": "1u50z38y",
+    "name": "Blueberry leaf mottle virus",
+    "abbreviation": "BLMoV",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 1",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 2",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "ieZfDFGt",
+    "name": "Tobacco leaf curl Japan betasatellite DNA",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssDNA",
+            "name": "Satellite",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "cPV9T85H",
+    "name": "Colletotrichum associated negative-sense single-stranded RNA virus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA-",
+            "name": "RNA 1",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA-",
+            "name": "RNA 2",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

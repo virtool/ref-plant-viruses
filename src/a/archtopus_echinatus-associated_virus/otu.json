@@ -1,0 +1,13 @@
+{
+    "_id": "wtATXlFb",
+    "name": "Archtopus echinatus-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "dsDNA",
+            "name": "Genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

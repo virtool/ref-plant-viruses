@@ -1,0 +1,13 @@
+{
+    "_id": "jQgTREx7",
+    "name": "Papaya mild mottle associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

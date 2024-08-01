@@ -1,0 +1,13 @@
+{
+    "_id": "iXyS5uPE",
+    "name": "Sorghum almum marafivirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

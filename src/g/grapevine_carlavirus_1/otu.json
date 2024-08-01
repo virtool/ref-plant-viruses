@@ -1,0 +1,13 @@
+{
+    "_id": "RWiDjV9B",
+    "name": "Grapevine carlavirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

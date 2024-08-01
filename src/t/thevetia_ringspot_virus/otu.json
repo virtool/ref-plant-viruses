@@ -1,0 +1,13 @@
+{
+    "_id": "C8FEoDi1",
+    "name": "Thevetia ringspot virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

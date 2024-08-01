@@ -1,0 +1,18 @@
+{
+    "_id": "nsIGc2gC",
+    "name": "Rhizoctonia solani dsRNA virus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "dsRNA",
+            "name": "RNA 1",
+            "required": true
+        },
+        {
+            "molecule": "dsRNA",
+            "name": "RNA2",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

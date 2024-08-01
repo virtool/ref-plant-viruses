@@ -1,0 +1,13 @@
+{
+    "_id": "ZnJmJLc2",
+    "name": "Passion fruit leaf curl virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "dsDNA",
+            "name": "DNA A",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,33 @@
+{
+    "_id": "SSTF7qwU",
+    "name": "Karaka Okahu purepure emaravirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA-",
+            "name": "RNA 1",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA-",
+            "name": "RNA 2",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA-",
+            "name": "RNA 3",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA-",
+            "name": "RNA 4",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA-",
+            "name": "RNA 5",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

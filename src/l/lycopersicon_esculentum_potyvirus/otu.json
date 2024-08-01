@@ -1,0 +1,13 @@
+{
+    "_id": "VAtFcT85",
+    "name": "Lycopersicon esculentum potyvirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

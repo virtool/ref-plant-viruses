@@ -1,0 +1,13 @@
+{
+    "_id": "eVhpi5Wk",
+    "name": "Bitter gourd yellowing crumple virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

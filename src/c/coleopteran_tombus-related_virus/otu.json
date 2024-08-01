@@ -1,0 +1,13 @@
+{
+    "_id": "GT1U7MBj",
+    "name": "Coleopteran tombus-related virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

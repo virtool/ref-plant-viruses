@@ -1,0 +1,23 @@
+{
+    "_id": "53yih4xU",
+    "name": "Toona sinensis cucumovirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 1",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 2",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 3",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

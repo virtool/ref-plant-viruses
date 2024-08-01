@@ -1,0 +1,13 @@
+{
+    "_id": "7RzUxUpp",
+    "name": "Ullucus tymovirus 1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

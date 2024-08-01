@@ -1,0 +1,13 @@
+{
+    "_id": "EGJhCec0",
+    "name": "Populus tomentosa potyvirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

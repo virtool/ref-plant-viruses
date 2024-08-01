@@ -1,0 +1,13 @@
+{
+    "_id": "Ecp2hMAu",
+    "name": "Sutera flower mottle virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": null,
+            "name": "partial genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

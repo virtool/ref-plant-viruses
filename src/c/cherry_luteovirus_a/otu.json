@@ -1,0 +1,13 @@
+{
+    "_id": "XtT7l2o7",
+    "name": "Cherry luteovirus A",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

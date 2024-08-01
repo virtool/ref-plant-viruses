@@ -1,0 +1,13 @@
+{
+    "_id": "2iSXK3QC",
+    "name": "Mume associated luteovirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

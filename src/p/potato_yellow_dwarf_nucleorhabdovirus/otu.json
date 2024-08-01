@@ -1,0 +1,13 @@
+{
+    "_id": "nY4EgOVf",
+    "name": "Potato yellow dwarf nucleorhabdovirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "dsRNA",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "x9sx0t9r",
+    "name": "Euphorbia mosaic virus",
+    "abbreviation": "EuMV",
+    "schema": [
+        {
+            "molecule": "ssDNA",
+            "name": "DNA A",
+            "required": true
+        },
+        {
+            "molecule": "ssDNA",
+            "name": "DNA B",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

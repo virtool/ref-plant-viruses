@@ -1,0 +1,18 @@
+{
+    "_id": "Zx0fAOU0",
+    "name": "Arracacha latent virus C",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 1a",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA+",
+            "name": "RNA 1b",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

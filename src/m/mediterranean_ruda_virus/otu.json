@@ -1,0 +1,13 @@
+{
+    "_id": "wYX2j1hf",
+    "name": "Mediterranean ruda virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

@@ -1,0 +1,13 @@
+{
+    "_id": "udVRLLz2",
+    "name": "Hydrocotyle vulgaris tombusvirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

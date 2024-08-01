@@ -1,0 +1,13 @@
+{
+    "_id": "K670Zl8f",
+    "name": "Dregea volubilis virus 4",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": null,
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

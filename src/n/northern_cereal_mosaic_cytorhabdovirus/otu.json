@@ -1,0 +1,13 @@
+{
+    "_id": "koqIvpdA",
+    "name": "Northern cereal mosaic cytorhabdovirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA-",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

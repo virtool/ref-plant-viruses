@@ -1,0 +1,13 @@
+{
+    "_id": "HG9uJlXD",
+    "name": "Maize yellow dwarf virus-RMV2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "Genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

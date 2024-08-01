@@ -1,0 +1,13 @@
+{
+    "_id": "RQ33iozq",
+    "name": "Pittosporum cryptic virus-1",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "dsRNA",
+            "name": "RNA 1",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

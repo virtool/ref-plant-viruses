@@ -1,0 +1,13 @@
+{
+    "_id": "0iichy8p",
+    "name": "Persimmon viroid 1",
+    "abbreviation": "PVd-1",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "Viroid",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

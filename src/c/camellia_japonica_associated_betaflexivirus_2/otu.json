@@ -1,0 +1,13 @@
+{
+    "_id": "lZzujq71",
+    "name": "Camellia japonica associated betaflexivirus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

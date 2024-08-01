@@ -1,0 +1,13 @@
+{
+    "_id": "B91YZKjL",
+    "name": "Pseudostellaria heterophylla carlavirus 2",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}
