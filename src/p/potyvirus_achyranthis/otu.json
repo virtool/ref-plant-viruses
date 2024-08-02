@@ -1,6 +1,6 @@
 {
-    "_id": "MeNj4xmg",
-    "name": "Tomato associated tombus-like virus 1",
+    "_id": "fFhxRssv",
+    "name": "Potyvirus achyranthis",
     "abbreviation": "",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": 2950887
+    "taxid": 2956331
 }

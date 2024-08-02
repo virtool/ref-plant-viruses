@@ -1,13 +1,13 @@
 {
-    "_id": "f05J9GS9",
-    "name": "Cucurbit carmovirus",
+    "_id": "ToZJwjHm",
+    "name": "Tungrovirus agapanthi",
     "abbreviation": "",
     "schema": [
         {
-            "molecule": "ssRNA+",
+            "molecule": "dsDNA",
             "name": "genome",
             "required": true
         }
     ],
-    "taxid": 3022883
+    "taxid": 3060756
 }

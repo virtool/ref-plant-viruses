@@ -1,6 +1,6 @@
 {
     "_id": "q4tdrgvi",
-    "name": "Rose rosette emaravirus",
+    "name": "Emaravirus rosae",
     "abbreviation": "",
     "schema": [
         {
@@ -39,5 +39,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 1980433
 }

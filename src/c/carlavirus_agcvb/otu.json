@@ -1,6 +1,6 @@
 {
-    "_id": "MeNj4xmg",
-    "name": "Tomato associated tombus-like virus 1",
+    "_id": "IPpD2R4X",
+    "name": "Carlavirus AgCVB",
     "abbreviation": "",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": 2950887
+    "taxid": 3059827
 }
