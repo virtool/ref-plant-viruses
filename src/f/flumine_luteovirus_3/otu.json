@@ -1,13 +1,1 @@
-{
-    "_id": "OSvc6Xyn",
-    "name": "Flumine luteovirus 3",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "OSvc6Xyn", "name": "Flumine luteovirus 3", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2940821}

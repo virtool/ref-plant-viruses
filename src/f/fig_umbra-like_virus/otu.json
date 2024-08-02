@@ -1,0 +1,13 @@
+{
+    "_id": "dAYeRqkv",
+    "name": "Fig umbra-like virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

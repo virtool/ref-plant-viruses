@@ -1,13 +1,1 @@
-{
-    "_id": "DpWFisMb",
-    "name": "Foeniculum vulgare polerovirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "DpWFisMb", "name": "Foeniculum vulgare polerovirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2885085}

@@ -1,13 +1,1 @@
-{
-    "_id": "hT4z3LrU",
-    "name": "Mute swan feces associated sobemovirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "hT4z3LrU", "name": "Mute swan feces associated sobemovirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2832221}

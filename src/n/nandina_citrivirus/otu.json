@@ -1,13 +1,1 @@
-{
-    "_id": "2dc9L1uy",
-    "name": "Nandina citrivirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "2dc9L1uy", "name": "Nandina citrivirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2703654}

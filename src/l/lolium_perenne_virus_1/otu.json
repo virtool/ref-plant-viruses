@@ -1,18 +1,1 @@
-{
-    "_id": "dzLPzppe",
-    "name": "Lolium perenne virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA-",
-            "name": "Segment L",
-            "required": true
-        },
-        {
-            "molecule": "ssRNA-",
-            "name": "Segement N",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "dzLPzppe", "name": "Lolium perenne virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA-", "name": "Segment L", "required": true}, {"molecule": "ssRNA-", "name": "Segement N", "required": true}], "taxid": 2793730}

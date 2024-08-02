@@ -1,13 +1,1 @@
-{
-    "_id": "Hehxl50p",
-    "name": "Regressovirinae sp",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "Hehxl50p", "name": "Regressovirinae sp", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2809803}

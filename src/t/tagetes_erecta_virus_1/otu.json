@@ -1,13 +1,1 @@
-{
-    "_id": "j4635C4M",
-    "name": "Tagetes erecta virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "dsRNA",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "j4635C4M", "name": "Tagetes erecta virus 1", "abbreviation": "", "schema": [{"molecule": "dsRNA", "name": "genome", "required": true}], "taxid": 2793742}

@@ -1,13 +1,1 @@
-{
-    "_id": "YIJHod4s",
-    "name": "Erysiphe necator associated tombus-like virus 4",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "YIJHod4s", "name": "Erysiphe necator associated tombus-like virus 4", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2743118}

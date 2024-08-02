@@ -1,13 +1,1 @@
-{
-    "_id": "VNPZ0FQ6",
-    "name": "Grapevine virus L",
-    "abbreviation": "GVL",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genomic",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "VNPZ0FQ6", "name": "Grapevine virus L", "abbreviation": "GVL", "schema": [{"molecule": "ssRNA+", "name": "genomic", "required": true}], "taxid": 2283237}

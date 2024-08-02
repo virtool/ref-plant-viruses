@@ -1,13 +1,1 @@
-{
-    "_id": "O27pDoJC",
-    "name": "Calystegia hederacea potyvirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "O27pDoJC", "name": "Calystegia hederacea potyvirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2740138}

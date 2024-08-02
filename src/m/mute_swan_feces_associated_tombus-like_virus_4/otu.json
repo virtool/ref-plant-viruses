@@ -1,13 +1,1 @@
-{
-    "_id": "m3qfHY5j",
-    "name": "Mute swan feces associated tombus-like virus 4",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "m3qfHY5j", "name": "Mute swan feces associated tombus-like virus 4", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2832228}

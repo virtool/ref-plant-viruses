@@ -1,13 +1,1 @@
-{
-    "_id": "JSIt20rr",
-    "name": "Vitis cryptic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "dsRNA",
-            "name": "RNA",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "JSIt20rr", "name": "Vitis cryptic virus", "abbreviation": "", "schema": [{"molecule": "dsRNA", "name": "RNA", "required": true}], "taxid": 2806514}

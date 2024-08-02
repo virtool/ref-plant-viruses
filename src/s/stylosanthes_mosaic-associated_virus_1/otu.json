@@ -1,13 +1,1 @@
-{
-    "_id": "a0KcBasP",
-    "name": "Stylosanthes mosaic-associated virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": null,
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "a0KcBasP", "name": "Stylosanthes mosaic-associated virus 1", "abbreviation": "", "schema": [{"molecule": null, "name": "genome", "required": true}], "taxid": 2749442}

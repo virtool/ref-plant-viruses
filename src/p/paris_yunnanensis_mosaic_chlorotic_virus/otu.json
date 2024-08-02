@@ -1,13 +1,1 @@
-{
-    "_id": "AQDfkmIW",
-    "name": "Paris yunnanensis mosaic chlorotic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "AQDfkmIW", "name": "Paris yunnanensis mosaic chlorotic virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3031198}

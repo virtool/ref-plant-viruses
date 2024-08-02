@@ -1,13 +1,1 @@
-{
-    "_id": "XNIPzoyd",
-    "name": "Punica granatum tombusvirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "XNIPzoyd", "name": "Punica granatum tombusvirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2739384}

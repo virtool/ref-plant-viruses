@@ -1,13 +1,1 @@
-{
-    "_id": "pj1ir1ay",
-    "name": "Sweet potato badnavirus A",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "dsDNA",
-            "name": "Genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "pj1ir1ay", "name": "Sweet potato badnavirus A", "abbreviation": "", "schema": [{"molecule": "dsDNA", "name": "Genome", "required": true}], "taxid": 646442}

@@ -1,13 +1,1 @@
-{
-    "_id": "r4BoqERG",
-    "name": "Eupatorium yellow vein virus-[Suya]",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "Genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "r4BoqERG", "name": "Eupatorium yellow vein virus-[Suya]", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "Genome", "required": true}], "taxid": 2080107}

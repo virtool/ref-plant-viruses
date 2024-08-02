@@ -1,13 +1,1 @@
-{
-    "_id": "mtCQVp7S",
-    "name": "Culex tombus-like virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "mtCQVp7S", "name": "Culex tombus-like virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3015533}

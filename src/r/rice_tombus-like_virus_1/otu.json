@@ -1,13 +1,1 @@
-{
-    "_id": "IDem1ozA",
-    "name": "Rice Tombus-like virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "IDem1ozA", "name": "Rice Tombus-like virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2735224}

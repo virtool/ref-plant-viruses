@@ -1,13 +1,1 @@
-{
-    "_id": "JPLNYq6p",
-    "name": "Prunus humilis associated luteovirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "JPLNYq6p", "name": "Prunus humilis associated luteovirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2935736}

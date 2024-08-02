@@ -1,13 +1,1 @@
-{
-    "_id": "rC4brPkh",
-    "name": "Telfairia golden mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "DNA A",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "rC4brPkh", "name": "Telfairia golden mosaic virus", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "DNA A", "required": true}], "taxid": 2169737}

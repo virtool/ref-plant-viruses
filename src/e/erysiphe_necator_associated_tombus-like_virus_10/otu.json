@@ -1,13 +1,1 @@
-{
-    "_id": "SiKHCE98",
-    "name": "Erysiphe necator associated tombus-like virus 10",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "SiKHCE98", "name": "Erysiphe necator associated tombus-like virus 10", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2744814}

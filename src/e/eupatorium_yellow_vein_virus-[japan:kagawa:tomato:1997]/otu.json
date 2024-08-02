@@ -1,13 +1,1 @@
-{
-    "_id": "N5ZtqteO",
-    "name": "Eupatorium yellow vein virus-[Japan:Kagawa:Tomato:1997]",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "Genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "N5ZtqteO", "name": "Eupatorium yellow vein virus-[Japan:Kagawa:Tomato:1997]", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "Genome", "required": true}], "taxid": 2080107}

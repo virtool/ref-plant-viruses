@@ -1,13 +1,1 @@
-{
-    "_id": "hS6HseX8",
-    "name": "Opuntia virus H",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "hS6HseX8", "name": "Opuntia virus H", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 1852702}

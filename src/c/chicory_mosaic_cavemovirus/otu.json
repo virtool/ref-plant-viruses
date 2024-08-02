@@ -1,13 +1,1 @@
-{
-    "_id": "cVmSP4gS",
-    "name": "Chicory mosaic cavemovirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "dsDNA",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "cVmSP4gS", "name": "Chicory mosaic cavemovirus", "abbreviation": "", "schema": [{"molecule": "dsDNA", "name": "genome", "required": true}], "taxid": 2871729}

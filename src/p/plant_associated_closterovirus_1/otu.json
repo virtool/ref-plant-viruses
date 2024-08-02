@@ -1,13 +1,1 @@
-{
-    "_id": "mWiYbI6P",
-    "name": "Plant associated closterovirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "mWiYbI6P", "name": "Plant associated closterovirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2950797}

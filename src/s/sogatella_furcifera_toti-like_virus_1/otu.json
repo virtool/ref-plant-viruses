@@ -1,13 +1,1 @@
-{
-    "_id": "zy6CslOh",
-    "name": "Sogatella furcifera toti-like virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "dsRNA",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "zy6CslOh", "name": "Sogatella furcifera toti-like virus 1", "abbreviation": "", "schema": [{"molecule": "dsRNA", "name": "genome", "required": true}], "taxid": 3044354}

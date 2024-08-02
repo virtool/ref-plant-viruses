@@ -1,13 +1,1 @@
-{
-    "_id": "VJSXUFSJ",
-    "name": "Hibiscus soymovirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "dsDNA",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "VJSXUFSJ", "name": "Hibiscus soymovirus", "abbreviation": "", "schema": [{"molecule": "dsDNA", "name": "genome", "required": true}], "taxid": 3023608}

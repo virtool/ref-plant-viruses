@@ -1,13 +1,1 @@
-{
-    "_id": "ptUuklZG",
-    "name": "Bacopa monnieri virus 2",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "dsRNA",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "ptUuklZG", "name": "Bacopa monnieri virus 2", "abbreviation": "", "schema": [{"molecule": "dsRNA", "name": "genome", "required": true}], "taxid": 2813288}

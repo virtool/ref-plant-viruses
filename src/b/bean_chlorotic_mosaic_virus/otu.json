@@ -1,18 +1,1 @@
-{
-    "_id": "tsheiqm9",
-    "name": "Bean chlorotic mosaic virus",
-    "abbreviation": "BeCMV",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "DNA A",
-            "required": true
-        },
-        {
-            "molecule": "ssDNA",
-            "name": "DNA B",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "tsheiqm9", "name": "Bean chlorotic mosaic virus", "abbreviation": "BeCMV", "schema": [{"molecule": "ssDNA", "name": "DNA A", "required": true}, {"molecule": "ssDNA", "name": "DNA B", "required": true}], "taxid": 1227355}

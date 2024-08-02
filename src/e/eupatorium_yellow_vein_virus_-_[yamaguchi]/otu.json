@@ -1,13 +1,1 @@
-{
-    "_id": "YoGJVk4C",
-    "name": "Eupatorium yellow vein virus - [Yamaguchi]",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "Genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "YoGJVk4C", "name": "Eupatorium yellow vein virus - [Yamaguchi]", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "Genome", "required": true}], "taxid": 2080107}

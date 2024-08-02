@@ -1,18 +1,1 @@
-{
-    "_id": "9weMDypt",
-    "name": "Coniothyrium diplodiella negative-stranded RNA virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA-",
-            "name": "Segment 1",
-            "required": true
-        },
-        {
-            "molecule": "ssRNA-",
-            "name": "segment 3",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "9weMDypt", "name": "Coniothyrium diplodiella negative-stranded RNA virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA-", "name": "Segment 1", "required": true}, {"molecule": "ssRNA-", "name": "segment 3", "required": true}], "taxid": 2587545}

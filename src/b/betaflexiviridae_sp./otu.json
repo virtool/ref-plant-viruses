@@ -1,13 +1,1 @@
-{
-    "_id": "xcoLq0sY",
-    "name": "Betaflexiviridae sp.",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "xcoLq0sY", "name": "Betaflexiviridae sp.", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 1955154}

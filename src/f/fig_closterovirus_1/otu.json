@@ -1,13 +1,1 @@
-{
-    "_id": "ZrMPaQmL",
-    "name": "Fig closterovirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "ZrMPaQmL", "name": "Fig closterovirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2809010}

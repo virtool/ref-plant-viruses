@@ -1,13 +1,1 @@
-{
-    "_id": "kvxCiFyL",
-    "name": "Grapevine virus O",
-    "abbreviation": "GVO",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genomic",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "kvxCiFyL", "name": "Grapevine virus O", "abbreviation": "GVO", "schema": [{"molecule": "ssRNA+", "name": "genomic", "required": true}], "taxid": 2917348}

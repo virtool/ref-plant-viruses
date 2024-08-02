@@ -1,18 +1,1 @@
-{
-    "_id": "RL2h3kG6",
-    "name": "Pepper yellow leaf curl Thailand virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "segment DNA -A",
-            "required": true
-        },
-        {
-            "molecule": "ssDNA",
-            "name": "segment DNA-B",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "RL2h3kG6", "name": "Pepper yellow leaf curl Thailand virus", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "segment DNA -A", "required": true}, {"molecule": "ssDNA", "name": "segment DNA-B", "required": true}], "taxid": 1774200}

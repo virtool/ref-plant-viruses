@@ -1,13 +1,1 @@
-{
-    "_id": "t9GvweTu",
-    "name": "Papaya leaf curl Haveri virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": null,
-            "name": "segment DNA -A",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "t9GvweTu", "name": "Papaya leaf curl Haveri virus", "abbreviation": "", "schema": [{"molecule": null, "name": "segment DNA -A", "required": true}], "taxid": 3019451}

@@ -1,13 +1,1 @@
-{
-    "_id": "QnCpk8ys",
-    "name": "Garlic yellow mosaic-associated virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "QnCpk8ys", "name": "Garlic yellow mosaic-associated virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2497940}

@@ -1,13 +1,1 @@
-{
-    "_id": "PaylZoSY",
-    "name": "Isatis caulimovirus A",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "dsDNA",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "PaylZoSY", "name": "Isatis caulimovirus A", "abbreviation": "", "schema": [{"molecule": "dsDNA", "name": "genome", "required": true}], "taxid": 2593976}

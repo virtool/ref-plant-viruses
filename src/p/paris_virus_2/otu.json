@@ -1,13 +1,1 @@
-{
-    "_id": "1Y1U3165",
-    "name": "Paris virus 2",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "1Y1U3165", "name": "Paris virus 2", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2870555}

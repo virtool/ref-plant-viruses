@@ -1,13 +1,1 @@
-{
-    "_id": "IxoOZt2j",
-    "name": "Glehnia littoralis virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "dsRNA",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "IxoOZt2j", "name": "Glehnia littoralis virus 1", "abbreviation": "", "schema": [{"molecule": "dsRNA", "name": "genome", "required": true}], "taxid": 2793728}

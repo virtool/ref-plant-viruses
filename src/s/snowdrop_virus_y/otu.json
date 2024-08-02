@@ -1,13 +1,1 @@
-{
-    "_id": "xJ8Wdujq",
-    "name": "Snowdrop virus Y",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genomic",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "xJ8Wdujq", "name": "Snowdrop virus Y", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genomic", "required": true}], "taxid": 555249}

@@ -1,13 +1,1 @@
-{
-    "_id": "tNP9fZk9",
-    "name": "Capsicum annuum potyvirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "tNP9fZk9", "name": "Capsicum annuum potyvirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2767806}

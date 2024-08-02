@@ -1,18 +1,1 @@
-{
-    "_id": "AL7diQsK",
-    "name": "Ullucus comovirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "RNA 1",
-            "required": true
-        },
-        {
-            "molecule": "ssRNA+",
-            "name": "RNA 2",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "AL7diQsK", "name": "Ullucus comovirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "RNA 1", "required": true}, {"molecule": "ssRNA+", "name": "RNA 2", "required": true}], "taxid": 2491949}

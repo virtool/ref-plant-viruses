@@ -1,13 +1,1 @@
-{
-    "_id": "2cW8jO0n",
-    "name": "Striga potyvirus B",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "2cW8jO0n", "name": "Striga potyvirus B", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2835562}

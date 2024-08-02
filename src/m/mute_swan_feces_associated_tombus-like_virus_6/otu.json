@@ -1,13 +1,1 @@
-{
-    "_id": "IiioDZEt",
-    "name": "Mute swan feces associated tombus-like virus 6",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "IiioDZEt", "name": "Mute swan feces associated tombus-like virus 6", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2832230}

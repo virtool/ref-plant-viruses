@@ -1,13 +1,1 @@
-{
-    "_id": "Kr970RE5",
-    "name": "Sichuan betaflexivirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "Kr970RE5", "name": "Sichuan betaflexivirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2824527}

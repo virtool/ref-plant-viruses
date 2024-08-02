@@ -1,13 +1,1 @@
-{
-    "_id": "z6zfpd4M",
-    "name": "Uraria mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "z6zfpd4M", "name": "Uraria mosaic virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2571123}

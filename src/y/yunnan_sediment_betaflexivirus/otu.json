@@ -1,13 +1,1 @@
-{
-    "_id": "kwz9Zq6O",
-    "name": "Yunnan sediment betaflexivirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "kwz9Zq6O", "name": "Yunnan sediment betaflexivirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2824416}

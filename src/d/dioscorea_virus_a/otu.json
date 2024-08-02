@@ -1,13 +1,1 @@
-{
-    "_id": "R3SdNOmF",
-    "name": "Dioscorea virus A",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "R3SdNOmF", "name": "Dioscorea virus A", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2559943}

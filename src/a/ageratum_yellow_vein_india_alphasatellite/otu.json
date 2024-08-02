@@ -1,13 +1,1 @@
-{
-    "_id": "R46yUjSR",
-    "name": "Ageratum yellow vein India alphasatellite",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "DNA 1",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "R46yUjSR", "name": "Ageratum yellow vein India alphasatellite", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "DNA 1", "required": true}], "taxid": 1407058}

@@ -1,13 +1,1 @@
-{
-    "_id": "1mGypuEm",
-    "name": "Shamrock chlorotic ringspot virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "1mGypuEm", "name": "Shamrock chlorotic ringspot virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 1505219}

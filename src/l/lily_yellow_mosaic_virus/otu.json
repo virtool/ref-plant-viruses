@@ -1,13 +1,1 @@
-{
-    "_id": "UhlAIEX2",
-    "name": "Lily yellow mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "UhlAIEX2", "name": "Lily yellow mosaic virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2136283}

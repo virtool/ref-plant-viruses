@@ -1,13 +1,1 @@
-{
-    "_id": "EK6aM70K",
-    "name": "Celmisia lyallii enamovirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "EK6aM70K", "name": "Celmisia lyallii enamovirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2885090}

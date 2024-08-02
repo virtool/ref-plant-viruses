@@ -1,18 +1,1 @@
-{
-    "_id": "SzVpPVqO",
-    "name": "Fabavirus sp.",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "RNA 1",
-            "required": true
-        },
-        {
-            "molecule": "ssRNA+",
-            "name": "RNA 2",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "SzVpPVqO", "name": "Fabavirus sp.", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "RNA 1", "required": true}, {"molecule": "ssRNA+", "name": "RNA 2", "required": true}], "taxid": 2767523}

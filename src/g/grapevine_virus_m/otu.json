@@ -1,13 +1,1 @@
-{
-    "_id": "3XvEVtov",
-    "name": "Grapevine virus M",
-    "abbreviation": "GVM",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genomic",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "3XvEVtov", "name": "Grapevine virus M", "abbreviation": "GVM", "schema": [{"molecule": "ssRNA+", "name": "genomic", "required": true}], "taxid": 2571274}

@@ -1,13 +1,1 @@
-{
-    "_id": "L7bermjw",
-    "name": "Grapevine virus P",
-    "abbreviation": "GVP",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genomic",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "L7bermjw", "name": "Grapevine virus P", "abbreviation": "GVP", "schema": [{"molecule": "ssRNA+", "name": "genomic", "required": true}], "taxid": 3027323}

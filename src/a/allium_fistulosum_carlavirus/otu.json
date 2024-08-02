@@ -1,13 +1,1 @@
-{
-    "_id": "4MJz6tCP",
-    "name": "Allium fistulosum carlavirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "4MJz6tCP", "name": "Allium fistulosum carlavirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2738900}

@@ -1,13 +1,1 @@
-{
-    "_id": "SXN4ythV",
-    "name": "Lily virus A",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "SXN4ythV", "name": "Lily virus A", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 1046301}

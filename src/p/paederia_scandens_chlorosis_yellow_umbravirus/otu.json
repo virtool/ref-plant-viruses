@@ -1,13 +1,1 @@
-{
-    "_id": "hYVXfUzz",
-    "name": "Paederia scandens chlorosis yellow umbravirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "hYVXfUzz", "name": "Paederia scandens chlorosis yellow umbravirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2976322}

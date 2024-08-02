@@ -1,13 +1,1 @@
-{
-    "_id": "RE7qKwhp",
-    "name": "Carya illinoinensis carlavirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "RE7qKwhp", "name": "Carya illinoinensis carlavirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2794420}

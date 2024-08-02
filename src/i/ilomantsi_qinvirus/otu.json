@@ -1,13 +1,1 @@
-{
-    "_id": "kcTpYVb0",
-    "name": "Ilomantsi qinvirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "kcTpYVb0", "name": "Ilomantsi qinvirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2980624}

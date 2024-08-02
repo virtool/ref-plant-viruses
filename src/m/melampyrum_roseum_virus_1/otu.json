@@ -1,18 +1,1 @@
-{
-    "_id": "enEDYzqw",
-    "name": "Melampyrum roseum virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA-",
-            "name": "segment L",
-            "required": true
-        },
-        {
-            "molecule": "ssRNA-",
-            "name": "Segment N",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "enEDYzqw", "name": "Melampyrum roseum virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA-", "name": "segment L", "required": true}, {"molecule": "ssRNA-", "name": "Segment N", "required": true}], "taxid": 2793732}

@@ -1,13 +1,1 @@
-{
-    "_id": "FH556uF6",
-    "name": "Asclepias syriaca virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA-",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "FH556uF6", "name": "Asclepias syriaca virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA-", "name": "genome", "required": true}], "taxid": 2793722}

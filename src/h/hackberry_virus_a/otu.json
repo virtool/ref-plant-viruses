@@ -1,13 +1,1 @@
-{
-    "_id": "Al9eIWn5",
-    "name": "Hackberry virus A",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "Al9eIWn5", "name": "Hackberry virus A", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3059230}

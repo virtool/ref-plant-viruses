@@ -1,13 +1,1 @@
-{
-    "_id": "0FFrarHP",
-    "name": "Passion fruit severe mottle virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "0FFrarHP", "name": "Passion fruit severe mottle virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2583574}

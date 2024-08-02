@@ -1,13 +1,1 @@
-{
-    "_id": "t0ENF3LB",
-    "name": "Peach-associated luteovirus 2",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "t0ENF3LB", "name": "Peach-associated luteovirus 2", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2973981}

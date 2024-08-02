@@ -1,13 +1,1 @@
-{
-    "_id": "xrAywQuO",
-    "name": "Sunflower leaf curl virus betasatellite",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "xrAywQuO", "name": "Sunflower leaf curl virus betasatellite", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "genome", "required": true}], "taxid": 1256866}

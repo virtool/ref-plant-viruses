@@ -1,13 +1,1 @@
-{
-    "_id": "aELtcd6i",
-    "name": "Tomato vitivirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "aELtcd6i", "name": "Tomato vitivirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2950891}

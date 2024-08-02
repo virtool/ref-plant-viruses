@@ -1,13 +1,1 @@
-{
-    "_id": "Fl5redvf",
-    "name": "Miscanthus potyvirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "Fl5redvf", "name": "Miscanthus potyvirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 12195}

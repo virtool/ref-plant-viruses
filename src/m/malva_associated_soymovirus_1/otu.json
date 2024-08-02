@@ -1,13 +1,1 @@
-{
-    "_id": "1bi4nffr",
-    "name": "Malva associated soymovirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "dsDNA",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "1bi4nffr", "name": "Malva associated soymovirus 1", "abbreviation": "", "schema": [{"molecule": "dsDNA", "name": "genome", "required": true}], "taxid": 2912877}

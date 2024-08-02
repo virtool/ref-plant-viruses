@@ -1,13 +1,1 @@
-{
-    "_id": "Cmwgf7Pp",
-    "name": "Paeonia citrivirus A",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "Cmwgf7Pp", "name": "Paeonia citrivirus A", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2593968}

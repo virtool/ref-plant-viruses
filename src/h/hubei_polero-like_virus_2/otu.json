@@ -1,13 +1,1 @@
-{
-    "_id": "q1yYvJwk",
-    "name": "Hubei polero-like virus 2",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": null,
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "q1yYvJwk", "name": "Hubei polero-like virus 2", "abbreviation": "", "schema": [{"molecule": null, "name": "genome", "required": true}], "taxid": 1923170}

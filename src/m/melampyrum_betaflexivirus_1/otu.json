@@ -1,13 +1,1 @@
-{
-    "_id": "uKElwTON",
-    "name": "Melampyrum betaflexivirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "uKElwTON", "name": "Melampyrum betaflexivirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2794405}

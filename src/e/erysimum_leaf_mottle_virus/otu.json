@@ -1,13 +1,1 @@
-{
-    "_id": "U2vkTCOG",
-    "name": "Erysimum leaf mottle virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "U2vkTCOG", "name": "Erysimum leaf mottle virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2931417}

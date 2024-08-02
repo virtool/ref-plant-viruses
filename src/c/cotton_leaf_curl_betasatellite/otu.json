@@ -1,13 +1,1 @@
-{
-    "_id": "u19rhuee",
-    "name": "Cotton leaf curl betasatellite",
-    "abbreviation": "CLCuB",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "Betasatellite",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "u19rhuee", "name": "Cotton leaf curl betasatellite", "abbreviation": "CLCuB", "schema": [{"molecule": "ssDNA", "name": "Betasatellite", "required": true}], "taxid": 134386}

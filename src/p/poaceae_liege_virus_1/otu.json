@@ -1,13 +1,1 @@
-{
-    "_id": "W6ZxFhgj",
-    "name": "Poaceae Liege virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "W6ZxFhgj", "name": "Poaceae Liege virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2822469}

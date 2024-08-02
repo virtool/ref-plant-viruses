@@ -1,13 +1,1 @@
-{
-    "_id": "c5I8PWon",
-    "name": "Rhodiola betaflexivirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "c5I8PWon", "name": "Rhodiola betaflexivirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2794410}

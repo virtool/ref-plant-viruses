@@ -1,13 +1,1 @@
-{
-    "_id": "i9Zn1ZZt",
-    "name": "Blueberry virus L",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "i9Zn1ZZt", "name": "Blueberry virus L", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3034127}

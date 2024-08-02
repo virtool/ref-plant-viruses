@@ -1,13 +1,1 @@
-{
-    "_id": "IWsAuBLu",
-    "name": "Freshwater macrophyte associated tombus-like virus 3",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "IWsAuBLu", "name": "Freshwater macrophyte associated tombus-like virus 3", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2946072}

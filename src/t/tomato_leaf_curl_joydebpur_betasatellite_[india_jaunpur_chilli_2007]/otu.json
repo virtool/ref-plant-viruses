@@ -1,13 +1,1 @@
-{
-    "_id": "sIFyHCyP",
-    "name": "Tomato leaf curl Joydebpur betasatellite [India/Jaunpur/Chilli/2007]",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "Betasatellite",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "sIFyHCyP", "name": "Tomato leaf curl Joydebpur betasatellite [India/Jaunpur/Chilli/2007]", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "Betasatellite", "required": true}], "taxid": 436243}

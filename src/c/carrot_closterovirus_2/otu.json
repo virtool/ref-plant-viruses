@@ -1,13 +1,1 @@
-{
-    "_id": "1xD1Zt0B",
-    "name": "Carrot closterovirus 2",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "1xD1Zt0B", "name": "Carrot closterovirus 2", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3051690}

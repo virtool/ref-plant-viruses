@@ -1,18 +1,1 @@
-{
-    "_id": "lFXr9hP1",
-    "name": "Citrus leprosis virus cytoplasmic type 2",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "RNA 1",
-            "required": true
-        },
-        {
-            "molecule": "ssRNA+",
-            "name": "RNA 2",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "lFXr9hP1", "name": "Citrus leprosis virus cytoplasmic type 2", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "RNA 1", "required": true}, {"molecule": "ssRNA+", "name": "RNA 2", "required": true}], "taxid": 1288500}

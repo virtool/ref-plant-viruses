@@ -1,13 +1,1 @@
-{
-    "_id": "FL3jx4QS",
-    "name": "Melinis repens associated virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "FL3jx4QS", "name": "Melinis repens associated virus", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "genome", "required": true}], "taxid": 2596882}

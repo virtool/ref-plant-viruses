@@ -1,13 +1,1 @@
-{
-    "_id": "1XiUxIzP",
-    "name": "Culex-associated Tombus-like virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "1XiUxIzP", "name": "Culex-associated Tombus-like virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2304516}

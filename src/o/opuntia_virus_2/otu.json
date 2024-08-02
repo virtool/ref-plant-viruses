@@ -1,13 +1,1 @@
-{
-    "_id": "PRwcz9di",
-    "name": "Opuntia virus 2",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "genomic",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "PRwcz9di", "name": "Opuntia virus 2", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "genomic", "required": true}], "taxid": 2200716}

@@ -1,13 +1,1 @@
-{
-    "_id": "zI9Qr0wT",
-    "name": "Chrysanthemum indicum carlavirus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "zI9Qr0wT", "name": "Chrysanthemum indicum carlavirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2738902}

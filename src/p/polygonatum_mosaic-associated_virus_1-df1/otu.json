@@ -1,13 +1,1 @@
-{
-    "_id": "z80BnVj6",
-    "name": "Polygonatum mosaic-associated virus 1-Df1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "z80BnVj6", "name": "Polygonatum mosaic-associated virus 1-Df1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3117548}

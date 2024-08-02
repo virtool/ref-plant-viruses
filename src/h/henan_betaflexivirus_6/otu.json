@@ -1,13 +1,1 @@
-{
-    "_id": "OUTdFD28",
-    "name": "Henan betaflexivirus 6",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
-}
+{"_id": "OUTdFD28", "name": "Henan betaflexivirus 6", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2824409}
