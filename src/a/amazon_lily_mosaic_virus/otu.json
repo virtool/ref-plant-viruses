@@ -1,1 +1,13 @@
-{"_id": "i8ns0MRa", "name": "Amazon lily mosaic virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 260375}
+{
+  "_id": "i8ns0MRa",
+  "name": "Amazon lily mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 260375
+}

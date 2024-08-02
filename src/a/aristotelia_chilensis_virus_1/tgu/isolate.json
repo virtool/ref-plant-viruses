@@ -1,6 +1,6 @@
 {
-    "id": "tgu",
-    "source_type": "isolate",
-    "source_name": "AcPLV-1",
-    "default": true
+  "id": "tgu",
+  "source_type": "isolate",
+  "source_name": "AcPLV-1",
+  "default": true
 }

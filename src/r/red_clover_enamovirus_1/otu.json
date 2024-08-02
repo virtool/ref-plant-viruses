@@ -1,1 +1,13 @@
-{"_id": "L7WSugwP", "name": "Red clover enamovirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2301724}
+{
+  "_id": "L7WSugwP",
+  "name": "Red clover enamovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2301724
+}

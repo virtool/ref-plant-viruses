@@ -1,1 +1,13 @@
-{"_id": "KEsDTTHs", "name": "Milk vetch chlorotic dwarf virus alphasatellite 3", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "genome", "required": true}], "taxid": 2683344}
+{
+  "_id": "KEsDTTHs",
+  "name": "Milk vetch chlorotic dwarf virus alphasatellite 3",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2683344
+}

@@ -1,1 +1,13 @@
-{"_id": "qIhcNtEy", "name": "Guangdong betaflexivirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2824417}
+{
+  "_id": "qIhcNtEy",
+  "name": "Guangdong betaflexivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2824417
+}

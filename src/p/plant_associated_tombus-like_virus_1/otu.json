@@ -1,1 +1,13 @@
-{"_id": "iQBrHh4c", "name": "Plant associated tombus-like virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2950834}
+{
+  "_id": "iQBrHh4c",
+  "name": "Plant associated tombus-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2950834
+}

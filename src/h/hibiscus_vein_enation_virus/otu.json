@@ -1,1 +1,13 @@
-{"_id": "uqbq98RD", "name": "Hibiscus vein enation virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "Segment DNA -A", "required": true}], "taxid": 2164174}
+{
+  "_id": "uqbq98RD",
+  "name": "Hibiscus vein enation virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Segment DNA -A",
+      "required": true
+    }
+  ],
+  "taxid": 2164174
+}

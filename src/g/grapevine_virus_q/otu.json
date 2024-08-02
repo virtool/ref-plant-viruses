@@ -1,1 +1,13 @@
-{"_id": "adDEAcSb", "name": "Grapevine virus Q", "abbreviation": "GVQ", "schema": [{"molecule": "ssRNA+", "name": "genomic", "required": true}], "taxid": 672412}
+{
+  "_id": "adDEAcSb",
+  "name": "Grapevine virus Q",
+  "abbreviation": "GVQ",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genomic",
+      "required": true
+    }
+  ],
+  "taxid": 672412
+}

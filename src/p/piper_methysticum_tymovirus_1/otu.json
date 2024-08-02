@@ -1,1 +1,13 @@
-{"_id": "NihGU4RG", "name": "Piper methysticum tymovirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2794437}
+{
+  "_id": "NihGU4RG",
+  "name": "Piper methysticum tymovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2794437
+}

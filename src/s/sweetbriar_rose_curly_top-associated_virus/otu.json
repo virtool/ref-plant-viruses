@@ -1,1 +1,13 @@
-{"_id": "2MwOcIDX", "name": "Sweetbriar rose curly top-associated virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2875869}
+{
+  "_id": "2MwOcIDX",
+  "name": "Sweetbriar rose curly top-associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2875869
+}

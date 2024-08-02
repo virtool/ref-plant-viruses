@@ -1,6 +1,6 @@
 {
-    "id": "rfj",
-    "source_type": "isolate",
-    "source_name": "CiBSV_BR_SC_Ser01",
-    "default": true
+  "id": "rfj",
+  "source_type": "isolate",
+  "source_name": "CiBSV_BR_SC_Ser01",
+  "default": true
 }

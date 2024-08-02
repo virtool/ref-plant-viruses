@@ -1,1 +1,13 @@
-{"_id": "N4LUf9Eg", "name": "Upmeje virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2739778}
+{
+  "_id": "N4LUf9Eg",
+  "name": "Upmeje virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2739778
+}

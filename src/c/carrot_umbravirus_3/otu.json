@@ -1,1 +1,13 @@
-{"_id": "vFgjMpPs", "name": "Carrot umbravirus 3", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3051701}
+{
+  "_id": "vFgjMpPs",
+  "name": "Carrot umbravirus 3",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3051701
+}

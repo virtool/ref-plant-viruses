@@ -1,1 +1,13 @@
-{"_id": "hiDd9kvu", "name": "Jiangsu betaflexivirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2824526}
+{
+  "_id": "hiDd9kvu",
+  "name": "Jiangsu betaflexivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2824526
+}

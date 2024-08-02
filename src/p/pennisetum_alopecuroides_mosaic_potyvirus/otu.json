@@ -1,1 +1,13 @@
-{"_id": "LeJxwpwt", "name": "Pennisetum alopecuroides mosaic potyvirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3071225}
+{
+  "_id": "LeJxwpwt",
+  "name": "Pennisetum alopecuroides mosaic potyvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3071225
+}

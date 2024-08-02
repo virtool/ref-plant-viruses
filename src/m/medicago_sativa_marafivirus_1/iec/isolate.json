@@ -1,6 +1,6 @@
 {
-    "id": "iec",
-    "source_type": "isolate",
-    "source_name": "GN1_JL1",
-    "default": true
+  "id": "iec",
+  "source_type": "isolate",
+  "source_name": "GN1_JL1",
+  "default": true
 }

@@ -1,1 +1,13 @@
-{"_id": "6rU24Te9", "name": "Eupatorium yellow vein virus-[MNS2]", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "Genome", "required": true}], "taxid": 2080107}
+{
+  "_id": "6rU24Te9",
+  "name": "Eupatorium yellow vein virus-[MNS2]",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2080107
+}

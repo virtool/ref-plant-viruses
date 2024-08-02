@@ -1,1 +1,13 @@
-{"_id": "4vHUeNyV", "name": "Citrus virus B", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2777208}
+{
+  "_id": "4vHUeNyV",
+  "name": "Citrus virus B",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2777208
+}

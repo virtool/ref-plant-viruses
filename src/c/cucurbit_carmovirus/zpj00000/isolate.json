@@ -1,6 +1,6 @@
 {
-    "id": "zpj",
-    "source_type": "strain",
-    "source_name": "Hyd",
-    "default": true
+  "id": "zpj",
+  "source_type": "strain",
+  "source_name": "Hyd",
+  "default": true
 }

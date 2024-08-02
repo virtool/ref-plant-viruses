@@ -1,1 +1,13 @@
-{"_id": "K8K9vNCb", "name": "Blackcurrant waikavirus A", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 1569061}
+{
+  "_id": "K8K9vNCb",
+  "name": "Blackcurrant waikavirus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 1569061
+}

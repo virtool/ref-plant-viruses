@@ -1,1 +1,13 @@
-{"_id": "Z0gQh9zp", "name": "Metaplexis yellow mottle-associated virus", "abbreviation": "", "schema": [{"molecule": "dsDNA", "name": "genome", "required": true}], "taxid": 2878269}
+{
+  "_id": "Z0gQh9zp",
+  "name": "Metaplexis yellow mottle-associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsDNA",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2878269
+}

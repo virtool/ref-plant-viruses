@@ -1,1 +1,13 @@
-{"_id": "8slNdtpO", "name": "Erysiphe necator associated tombus-like virus 6", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2743120}
+{
+  "_id": "8slNdtpO",
+  "name": "Erysiphe necator associated tombus-like virus 6",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2743120
+}

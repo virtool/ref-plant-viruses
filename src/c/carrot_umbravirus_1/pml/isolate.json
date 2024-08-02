@@ -1,6 +1,6 @@
 {
-    "id": "pml",
-    "source_type": "isolate",
-    "source_name": "CUV1/FR19-16",
-    "default": true
+  "id": "pml",
+  "source_type": "isolate",
+  "source_name": "CUV1/FR19-16",
+  "default": true
 }

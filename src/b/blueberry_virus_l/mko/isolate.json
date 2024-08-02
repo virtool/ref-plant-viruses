@@ -1,6 +1,6 @@
 {
-    "id": "mko",
-    "source_type": "isolate",
-    "source_name": "2020-6-OR",
-    "default": false
+  "id": "mko",
+  "source_type": "isolate",
+  "source_name": "2020-6-OR",
+  "default": false
 }

@@ -1,1 +1,13 @@
-{"_id": "cPDVgLID", "name": "Sudan watermelon mosaic virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2018312}
+{
+  "_id": "cPDVgLID",
+  "name": "Sudan watermelon mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2018312
+}

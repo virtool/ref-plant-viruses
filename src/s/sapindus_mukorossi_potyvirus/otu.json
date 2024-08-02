@@ -1,1 +1,13 @@
-{"_id": "lUQqd7gR", "name": "Sapindus mukorossi potyvirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2738906}
+{
+  "_id": "lUQqd7gR",
+  "name": "Sapindus mukorossi potyvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2738906
+}

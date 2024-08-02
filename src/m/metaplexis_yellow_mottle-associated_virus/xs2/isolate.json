@@ -1,6 +1,6 @@
 {
-    "id": "xs2",
-    "source_type": "isolate",
-    "source_name": "LM-Cau-A,",
-    "default": true
+  "id": "xs2",
+  "source_type": "isolate",
+  "source_name": "LM-Cau-A,",
+  "default": true
 }

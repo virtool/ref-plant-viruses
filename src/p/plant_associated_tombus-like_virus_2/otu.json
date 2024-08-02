@@ -1,1 +1,13 @@
-{"_id": "sCz9tkRr", "name": "Plant associated tombus-like virus 2", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2950835}
+{
+  "_id": "sCz9tkRr",
+  "name": "Plant associated tombus-like virus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2950835
+}

@@ -1,1 +1,13 @@
-{"_id": "KrN7jzbi", "name": "Culex pseudovishnui tymo-like virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2682816}
+{
+  "_id": "KrN7jzbi",
+  "name": "Culex pseudovishnui tymo-like virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2682816
+}

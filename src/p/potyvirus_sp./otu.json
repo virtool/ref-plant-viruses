@@ -1,1 +1,13 @@
-{"_id": "nHFzRM1f", "name": "Potyvirus sp.", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 1955171}
+{
+  "_id": "nHFzRM1f",
+  "name": "Potyvirus sp.",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 1955171
+}

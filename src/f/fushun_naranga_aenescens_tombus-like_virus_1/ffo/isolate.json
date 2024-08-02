@@ -1,6 +1,6 @@
 {
-    "id": "ffo",
-    "source_type": "isolate",
-    "source_name": "HCSP2SY128",
-    "default": false
+  "id": "ffo",
+  "source_type": "isolate",
+  "source_name": "HCSP2SY128",
+  "default": false
 }

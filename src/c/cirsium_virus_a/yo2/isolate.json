@@ -1,6 +1,6 @@
 {
-    "id": "yo2",
-    "source_type": "isolate",
-    "source_name": "CiVA-SK",
-    "default": true
+  "id": "yo2",
+  "source_type": "isolate",
+  "source_name": "CiVA-SK",
+  "default": true
 }

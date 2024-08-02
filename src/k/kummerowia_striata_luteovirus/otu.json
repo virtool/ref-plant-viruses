@@ -1,1 +1,13 @@
-{"_id": "9FTSs0xH", "name": "Kummerowia striata luteovirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2738912}
+{
+  "_id": "9FTSs0xH",
+  "name": "Kummerowia striata luteovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2738912
+}

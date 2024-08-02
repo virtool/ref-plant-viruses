@@ -1,1 +1,13 @@
-{"_id": "Wsoh8ivQ", "name": "Wheat yellow stunt associated betaflexivirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2862825}
+{
+  "_id": "Wsoh8ivQ",
+  "name": "Wheat yellow stunt associated betaflexivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2862825
+}

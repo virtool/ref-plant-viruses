@@ -1,1 +1,13 @@
-{"_id": "1PwlNKYB", "name": "Maize-associated tombusvirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2201470}
+{
+  "_id": "1PwlNKYB",
+  "name": "Maize-associated tombusvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2201470
+}

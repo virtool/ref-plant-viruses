@@ -1,1 +1,13 @@
-{"_id": "kAJzIREB", "name": "Hainan betaflexivirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2824419}
+{
+  "_id": "kAJzIREB",
+  "name": "Hainan betaflexivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2824419
+}

@@ -1,6 +1,6 @@
 {
-    "id": "2i4",
-    "source_type": "isolate",
-    "source_name": "GC",
-    "default": true
+  "id": "2i4",
+  "source_type": "isolate",
+  "source_name": "GC",
+  "default": true
 }

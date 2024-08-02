@@ -1,1 +1,13 @@
-{"_id": "HdBSDTh9", "name": "Poaceae Liege machlomovirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3022814}
+{
+  "_id": "HdBSDTh9",
+  "name": "Poaceae Liege machlomovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3022814
+}

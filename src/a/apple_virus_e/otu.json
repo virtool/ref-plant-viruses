@@ -1,1 +1,13 @@
-{"_id": "uPpIpHXV", "name": "Apple virus E", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2813966}
+{
+  "_id": "uPpIpHXV",
+  "name": "Apple virus E",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2813966
+}

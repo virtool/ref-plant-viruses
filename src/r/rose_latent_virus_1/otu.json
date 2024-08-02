@@ -1,1 +1,13 @@
-{"_id": "xhm1dOkZ", "name": "Rose latent virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3071804}
+{
+  "_id": "xhm1dOkZ",
+  "name": "Rose latent virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3071804
+}

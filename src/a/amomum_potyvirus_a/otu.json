@@ -1,1 +1,13 @@
-{"_id": "IUcgDdTw", "name": "Amomum potyvirus A", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2835563}
+{
+  "_id": "IUcgDdTw",
+  "name": "Amomum potyvirus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2835563
+}

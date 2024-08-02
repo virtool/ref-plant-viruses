@@ -1,6 +1,6 @@
 {
-    "id": "pbr",
-    "source_type": "isolate",
-    "source_name": "Heraklion",
-    "default": true
+  "id": "pbr",
+  "source_type": "isolate",
+  "source_name": "Heraklion",
+  "default": true
 }

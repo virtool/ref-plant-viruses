@@ -1,1 +1,13 @@
-{"_id": "4DNLW14a", "name": "Carrot chordovirus 3", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3051688}
+{
+  "_id": "4DNLW14a",
+  "name": "Carrot chordovirus 3",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3051688
+}

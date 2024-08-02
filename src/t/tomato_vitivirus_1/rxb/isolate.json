@@ -1,6 +1,6 @@
 {
-    "id": "rxb",
-    "source_type": "isolate",
-    "source_name": "SKO20ST1",
-    "default": true
+  "id": "rxb",
+  "source_type": "isolate",
+  "source_name": "SKO20ST1",
+  "default": true
 }

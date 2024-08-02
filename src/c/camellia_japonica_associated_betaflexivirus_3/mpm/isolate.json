@@ -1,6 +1,6 @@
 {
-    "id": "mpm",
-    "source_type": "isolate",
-    "source_name": "CAM3NGS2019",
-    "default": true
+  "id": "mpm",
+  "source_type": "isolate",
+  "source_name": "CAM3NGS2019",
+  "default": true
 }

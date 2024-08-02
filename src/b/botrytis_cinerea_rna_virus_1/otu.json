@@ -1,1 +1,13 @@
-{"_id": "xl4eNtQ2", "name": "Botrytis cinerea RNA virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 1568973}
+{
+  "_id": "xl4eNtQ2",
+  "name": "Botrytis cinerea RNA virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 1568973
+}

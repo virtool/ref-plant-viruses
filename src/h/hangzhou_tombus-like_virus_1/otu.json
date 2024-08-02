@@ -1,1 +1,13 @@
-{"_id": "Mw3FetIh", "name": "Hangzhou tombus-like virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2905488}
+{
+  "_id": "Mw3FetIh",
+  "name": "Hangzhou tombus-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2905488
+}

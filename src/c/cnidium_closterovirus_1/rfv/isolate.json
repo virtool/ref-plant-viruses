@@ -1,6 +1,6 @@
 {
-    "id": "rfv",
-    "source_type": "isolate",
-    "source_name": "CW1",
-    "default": true
+  "id": "rfv",
+  "source_type": "isolate",
+  "source_name": "CW1",
+  "default": true
 }

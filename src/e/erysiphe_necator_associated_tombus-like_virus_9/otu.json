@@ -1,1 +1,13 @@
-{"_id": "c0jw7T9S", "name": "Erysiphe necator associated tombus-like virus 9", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2743123}
+{
+  "_id": "c0jw7T9S",
+  "name": "Erysiphe necator associated tombus-like virus 9",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2743123
+}

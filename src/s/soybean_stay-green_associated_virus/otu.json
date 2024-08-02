@@ -1,1 +1,13 @@
-{"_id": "vW6iw9do", "name": "Soybean stay-green associated virus", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "genome", "required": true}], "taxid": 2981709}
+{
+  "_id": "vW6iw9do",
+  "name": "Soybean stay-green associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2981709
+}

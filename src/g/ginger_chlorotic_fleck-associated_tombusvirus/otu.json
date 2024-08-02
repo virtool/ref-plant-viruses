@@ -1,1 +1,13 @@
-{"_id": "aJl0soiT", "name": "Ginger chlorotic fleck-associated tombusvirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2739640}
+{
+  "_id": "aJl0soiT",
+  "name": "Ginger chlorotic fleck-associated tombusvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2739640
+}

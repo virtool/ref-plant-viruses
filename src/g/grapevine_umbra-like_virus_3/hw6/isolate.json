@@ -1,6 +1,6 @@
 {
-    "id": "hw6",
-    "source_type": "isolate",
-    "source_name": "S1801",
-    "default": false
+  "id": "hw6",
+  "source_type": "isolate",
+  "source_name": "S1801",
+  "default": false
 }

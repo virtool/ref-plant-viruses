@@ -1,6 +1,6 @@
 {
-    "id": "tuo",
-    "source_type": "isolate",
-    "source_name": "BCS1_DN12780",
-    "default": true
+  "id": "tuo",
+  "source_type": "isolate",
+  "source_name": "BCS1_DN12780",
+  "default": true
 }

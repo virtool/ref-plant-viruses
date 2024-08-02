@@ -1,13 +1,13 @@
 {
-    "_id": "MeNj4xmg",
-    "name": "Tomato associated tombus-like virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": 2950887
+  "_id": "MeNj4xmg",
+  "name": "Tomato associated tombus-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2950887
 }

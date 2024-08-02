@@ -1,6 +1,6 @@
 {
-    "id": "sjl",
-    "source_type": "strain",
-    "source_name": "pt164-pot-9",
-    "default": false
+  "id": "sjl",
+  "source_type": "strain",
+  "source_name": "pt164-pot-9",
+  "default": false
 }

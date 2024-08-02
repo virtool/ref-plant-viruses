@@ -1,6 +1,6 @@
 {
-    "id": "tgf",
-    "source_type": "isolate",
-    "source_name": "2020-7-OR",
-    "default": false
+  "id": "tgf",
+  "source_type": "isolate",
+  "source_name": "2020-7-OR",
+  "default": false
 }

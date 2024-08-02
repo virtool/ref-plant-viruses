@@ -1,1 +1,13 @@
-{"_id": "hAycCSer", "name": "Paris potyvirus 4", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3002894}
+{
+  "_id": "hAycCSer",
+  "name": "Paris potyvirus 4",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3002894
+}

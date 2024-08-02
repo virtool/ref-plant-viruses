@@ -1,1 +1,13 @@
-{"_id": "9lvJ6IwN", "name": "Moss associated phenui-like virus", "abbreviation": "", "schema": [{"molecule": "ssRNA-", "name": "genome", "required": true}], "taxid": 3068415}
+{
+  "_id": "9lvJ6IwN",
+  "name": "Moss associated phenui-like virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3068415
+}

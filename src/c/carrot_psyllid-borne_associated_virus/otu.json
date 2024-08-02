@@ -1,1 +1,13 @@
-{"_id": "tb0NJW2b", "name": "Carrot psyllid-borne associated virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3004042}
+{
+  "_id": "tb0NJW2b",
+  "name": "Carrot psyllid-borne associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3004042
+}

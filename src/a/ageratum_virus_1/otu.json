@@ -1,1 +1,13 @@
-{"_id": "4wF1TfgT", "name": "Ageratum virus 1", "abbreviation": "", "schema": [{"molecule": null, "name": "genome", "required": true}], "taxid": 2992866}
+{
+  "_id": "4wF1TfgT",
+  "name": "Ageratum virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": null,
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2992866
+}

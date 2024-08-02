@@ -1,1 +1,13 @@
-{"_id": "mh5hs6cd", "name": "Cassava associated cicular DNA virus", "abbreviation": "CasCV", "schema": [{"molecule": "ssDNA", "name": "Genome", "required": true}], "taxid": 1170653}
+{
+  "_id": "mh5hs6cd",
+  "name": "Cassava associated cicular DNA virus",
+  "abbreviation": "CasCV",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1170653
+}

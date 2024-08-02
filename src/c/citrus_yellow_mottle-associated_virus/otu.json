@@ -1,1 +1,13 @@
-{"_id": "BbNSXWUv", "name": "Citrus yellow mottle-associated virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2843960}
+{
+  "_id": "BbNSXWUv",
+  "name": "Citrus yellow mottle-associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2843960
+}

@@ -1,6 +1,6 @@
 {
-    "id": "a1n",
-    "source_type": "strain",
-    "source_name": "pt065-pot-2",
-    "default": false
+  "id": "a1n",
+  "source_type": "strain",
+  "source_name": "pt065-pot-2",
+  "default": false
 }

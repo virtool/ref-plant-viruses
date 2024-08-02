@@ -1,1 +1,13 @@
-{"_id": "tqg0BGel", "name": "Yam virus Y", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2577080}
+{
+  "_id": "tqg0BGel",
+  "name": "Yam virus Y",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2577080
+}

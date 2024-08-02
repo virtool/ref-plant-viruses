@@ -1,6 +1,6 @@
 {
-    "id": "03t",
-    "source_type": "isolate",
-    "source_name": "MD-1",
-    "default": true
+  "id": "03t",
+  "source_type": "isolate",
+  "source_name": "MD-1",
+  "default": true
 }

@@ -1,6 +1,6 @@
 {
-    "id": "e2500000",
-    "source_type": "strain",
-    "source_name": "C1",
-    "default": true
+  "id": "e2500000",
+  "source_type": "strain",
+  "source_name": "C1",
+  "default": true
 }

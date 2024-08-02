@@ -1,1 +1,13 @@
-{"_id": "BeLojp2a", "name": "Bemisia tabaci associated virus 1", "abbreviation": "", "schema": [{"molecule": "dsRNA", "name": "genome", "required": true}], "taxid": 3070198}
+{
+  "_id": "BeLojp2a",
+  "name": "Bemisia tabaci associated virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3070198
+}

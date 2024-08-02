@@ -1,6 +1,6 @@
 {
-    "id": "zxo",
-    "source_type": "isolate",
-    "source_name": "KOR20SW",
-    "default": true
+  "id": "zxo",
+  "source_type": "isolate",
+  "source_name": "KOR20SW",
+  "default": true
 }

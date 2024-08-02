@@ -1,6 +1,6 @@
 {
-    "id": "3ra",
-    "source_type": "strain",
-    "source_name": "pt110-tom-5",
-    "default": true
+  "id": "3ra",
+  "source_type": "strain",
+  "source_name": "pt110-tom-5",
+  "default": true
 }

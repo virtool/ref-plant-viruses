@@ -1,1 +1,13 @@
-{"_id": "Buw54PMs", "name": "Fig badnavirus 2", "abbreviation": "", "schema": [{"molecule": "dsDNA", "name": "genome", "required": true}], "taxid": 2821747}
+{
+  "_id": "Buw54PMs",
+  "name": "Fig badnavirus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsDNA",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2821747
+}

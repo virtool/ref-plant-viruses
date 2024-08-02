@@ -1,6 +1,6 @@
 {
-    "id": "ct4",
-    "source_type": "isolate",
-    "source_name": "PMS16_DN941",
-    "default": true
+  "id": "ct4",
+  "source_type": "isolate",
+  "source_name": "PMS16_DN941",
+  "default": true
 }

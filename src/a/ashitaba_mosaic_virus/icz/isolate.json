@@ -1,6 +1,6 @@
 {
-    "id": "icz",
-    "source_type": "isolate",
-    "source_name": "AshMV-AA",
-    "default": true
+  "id": "icz",
+  "source_type": "isolate",
+  "source_name": "AshMV-AA",
+  "default": true
 }

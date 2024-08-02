@@ -1,1 +1,13 @@
-{"_id": "1SV3YAMv", "name": "Triticum yellow stripe virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3035804}
+{
+  "_id": "1SV3YAMv",
+  "name": "Triticum yellow stripe virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3035804
+}

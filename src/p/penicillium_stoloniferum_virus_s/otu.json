@@ -1,1 +1,7 @@
-{"_id": "n6kr5kir", "name": "Penicillium stoloniferum virus S", "abbreviation": "PsV-S mycovirus ", "schema": [], "taxid": 216371}
+{
+  "_id": "n6kr5kir",
+  "name": "Penicillium stoloniferum virus S",
+  "abbreviation": "PsV-S mycovirus ",
+  "schema": [],
+  "taxid": 216371
+}

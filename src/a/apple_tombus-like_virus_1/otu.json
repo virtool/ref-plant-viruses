@@ -1,1 +1,13 @@
-{"_id": "GAr6XorY", "name": "Apple tombus-like virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2709737}
+{
+  "_id": "GAr6XorY",
+  "name": "Apple tombus-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2709737
+}

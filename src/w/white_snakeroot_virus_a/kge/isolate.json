@@ -1,6 +1,6 @@
 {
-    "id": "kge",
-    "source_type": "isolate",
-    "source_name": "WSVA-GSMNP",
-    "default": true
+  "id": "kge",
+  "source_type": "isolate",
+  "source_name": "WSVA-GSMNP",
+  "default": true
 }

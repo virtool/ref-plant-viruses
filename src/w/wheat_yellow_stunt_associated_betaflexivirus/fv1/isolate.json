@@ -1,6 +1,6 @@
 {
-    "id": "fv1",
-    "source_type": "isolate",
-    "source_name": "HN-1",
-    "default": true
+  "id": "fv1",
+  "source_type": "isolate",
+  "source_name": "HN-1",
+  "default": true
 }

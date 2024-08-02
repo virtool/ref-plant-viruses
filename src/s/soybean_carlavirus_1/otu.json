@@ -1,1 +1,13 @@
-{"_id": "Jrro9Be9", "name": "Soybean carlavirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2796532}
+{
+  "_id": "Jrro9Be9",
+  "name": "Soybean carlavirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2796532
+}

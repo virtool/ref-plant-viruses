@@ -1,1 +1,13 @@
-{"_id": "WNG2LJow", "name": "Plectranthus aromaticus virus 1", "abbreviation": "", "schema": [{"molecule": "dsRNA", "name": "genome", "required": true}], "taxid": 2793738}
+{
+  "_id": "WNG2LJow",
+  "name": "Plectranthus aromaticus virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2793738
+}

@@ -1,1 +1,13 @@
-{"_id": "bXAvSXNc", "name": "Zeugodacus cucurbitae sobemovirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2933688}
+{
+  "_id": "bXAvSXNc",
+  "name": "Zeugodacus cucurbitae sobemovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2933688
+}

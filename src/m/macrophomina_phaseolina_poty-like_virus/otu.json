@@ -1,1 +1,13 @@
-{"_id": "kt6Jue1L", "name": "Macrophomina phaseolina poty-like virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2741658}
+{
+  "_id": "kt6Jue1L",
+  "name": "Macrophomina phaseolina poty-like virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2741658
+}

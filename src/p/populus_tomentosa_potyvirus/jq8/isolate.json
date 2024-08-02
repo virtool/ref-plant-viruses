@@ -1,6 +1,6 @@
 {
-    "id": "jq8",
-    "source_type": "strain",
-    "source_name": "pt120-pot-19",
-    "default": true
+  "id": "jq8",
+  "source_type": "strain",
+  "source_name": "pt120-pot-19",
+  "default": true
 }

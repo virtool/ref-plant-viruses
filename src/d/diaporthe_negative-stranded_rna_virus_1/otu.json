@@ -1,1 +1,13 @@
-{"_id": "iTxFO87f", "name": "Diaporthe negative-stranded RNA virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA-", "name": "genome", "required": true}], "taxid": 3035782}
+{
+  "_id": "iTxFO87f",
+  "name": "Diaporthe negative-stranded RNA virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3035782
+}

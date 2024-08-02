@@ -1,1 +1,13 @@
-{"_id": "irvxx7Yv", "name": "Coyote tobacco stunting virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3102702}
+{
+  "_id": "irvxx7Yv",
+  "name": "Coyote tobacco stunting virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3102702
+}

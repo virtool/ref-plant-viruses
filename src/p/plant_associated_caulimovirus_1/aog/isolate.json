@@ -1,6 +1,6 @@
 {
-    "id": "aog",
-    "source_type": "isolate",
-    "source_name": "KOP20SW2",
-    "default": true
+  "id": "aog",
+  "source_type": "isolate",
+  "source_name": "KOP20SW2",
+  "default": true
 }

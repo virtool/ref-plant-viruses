@@ -1,1 +1,13 @@
-{"_id": "yznv7JRs", "name": "Scaevola virus A", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 1046302}
+{
+  "_id": "yznv7JRs",
+  "name": "Scaevola virus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 1046302
+}

@@ -1,6 +1,6 @@
 {
-    "id": "nsg",
-    "source_type": "isolate",
-    "source_name": "S21MP21 SR",
-    "default": true
+  "id": "nsg",
+  "source_type": "isolate",
+  "source_name": "S21MP21 SR",
+  "default": true
 }

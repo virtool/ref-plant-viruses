@@ -1,1 +1,23 @@
-{"_id": "WZM6selC", "name": "Erysiphe necator associated ilar-like virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "RNA 1", "required": true}, {"molecule": "ssRNA+", "name": "RNA 2", "required": true}, {"molecule": "ssRNA+", "name": "RNA 3", "required": true}], "taxid": 2744805}
+{
+  "_id": "WZM6selC",
+  "name": "Erysiphe necator associated ilar-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2744805
+}

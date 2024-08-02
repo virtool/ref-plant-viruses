@@ -1,1 +1,13 @@
-{"_id": "2kLzI7We", "name": "Ectropis grisescens TED virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3098678}
+{
+  "_id": "2kLzI7We",
+  "name": "Ectropis grisescens TED virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3098678
+}

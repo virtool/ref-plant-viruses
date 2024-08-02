@@ -1,1 +1,13 @@
-{"_id": "PqMxvQQC", "name": "Mimosa mosaic virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3018030}
+{
+  "_id": "PqMxvQQC",
+  "name": "Mimosa mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3018030
+}

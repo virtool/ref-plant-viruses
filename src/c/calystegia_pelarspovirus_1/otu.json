@@ -1,1 +1,13 @@
-{"_id": "2TDwuZZp", "name": "Calystegia pelarspovirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2950838}
+{
+  "_id": "2TDwuZZp",
+  "name": "Calystegia pelarspovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2950838
+}

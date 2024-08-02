@@ -1,1 +1,13 @@
-{"_id": "xMqABH6W", "name": "Eupatorium yellow vein virus-[SOJ3]", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "Genome", "required": true}], "taxid": 2080107}
+{
+  "_id": "xMqABH6W",
+  "name": "Eupatorium yellow vein virus-[SOJ3]",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2080107
+}

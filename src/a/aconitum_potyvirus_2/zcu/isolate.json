@@ -1,6 +1,6 @@
 {
-    "id": "zcu",
-    "source_type": "isolate",
-    "source_name": "AcoPV2-MY",
-    "default": true
+  "id": "zcu",
+  "source_type": "isolate",
+  "source_name": "AcoPV2-MY",
+  "default": true
 }

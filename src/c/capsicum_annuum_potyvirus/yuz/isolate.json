@@ -1,6 +1,6 @@
 {
-    "id": "yuz",
-    "source_type": "strain",
-    "source_name": "pt066-pot-3",
-    "default": true
+  "id": "yuz",
+  "source_type": "strain",
+  "source_name": "pt066-pot-3",
+  "default": true
 }

@@ -1,1 +1,18 @@
-{"_id": "bKAdjlUV", "name": "Allium angulosum virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA-", "name": "segment L", "required": true}, {"molecule": "ssRNA-", "name": "Segment N", "required": true}], "taxid": 2851934}
+{
+  "_id": "bKAdjlUV",
+  "name": "Allium angulosum virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "segment L",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA-",
+      "name": "Segment N",
+      "required": true
+    }
+  ],
+  "taxid": 2851934
+}

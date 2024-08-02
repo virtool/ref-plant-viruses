@@ -1,6 +1,6 @@
 {
-    "id": "lui",
-    "source_type": "isolate",
-    "source_name": "Pm",
-    "default": true
+  "id": "lui",
+  "source_type": "isolate",
+  "source_name": "Pm",
+  "default": true
 }

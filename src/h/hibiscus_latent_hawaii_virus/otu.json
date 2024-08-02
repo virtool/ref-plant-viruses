@@ -1,1 +1,13 @@
-{"_id": "zDgkljIC", "name": "Hibiscus latent Hawaii virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3021796}
+{
+  "_id": "zDgkljIC",
+  "name": "Hibiscus latent Hawaii virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3021796
+}

@@ -1,6 +1,6 @@
 {
-    "id": "0x6",
-    "source_type": "isolate",
-    "source_name": "Ec_12",
-    "default": true
+  "id": "0x6",
+  "source_type": "isolate",
+  "source_name": "Ec_12",
+  "default": true
 }

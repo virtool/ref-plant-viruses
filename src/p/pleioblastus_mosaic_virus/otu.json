@@ -1,1 +1,13 @@
-{"_id": "hUr7AE6Y", "name": "Pleioblastus mosaic virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2760003}
+{
+  "_id": "hUr7AE6Y",
+  "name": "Pleioblastus mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2760003
+}

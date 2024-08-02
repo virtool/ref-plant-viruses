@@ -1,6 +1,6 @@
 {
-    "id": "1y0",
-    "source_type": "strain",
-    "source_name": "RSA-36-13_Welschriesling_GVL",
-    "default": false
+  "id": "1y0",
+  "source_type": "strain",
+  "source_name": "RSA-36-13_Welschriesling_GVL",
+  "default": false
 }

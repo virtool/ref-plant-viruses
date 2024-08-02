@@ -1,1 +1,13 @@
-{"_id": "k6ctcx0w", "name": "Honeysuckle yellow vein Japan betasatellite", "abbreviation": "HYVJB", "schema": [{"molecule": "ssDNA", "name": "Satellite", "required": true}], "taxid": 435488}
+{
+  "_id": "k6ctcx0w",
+  "name": "Honeysuckle yellow vein Japan betasatellite",
+  "abbreviation": "HYVJB",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 435488
+}

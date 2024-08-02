@@ -1,1 +1,13 @@
-{"_id": "ZpfOGSKB", "name": "Yongsan tombus-like virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2315813}
+{
+  "_id": "ZpfOGSKB",
+  "name": "Yongsan tombus-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2315813
+}

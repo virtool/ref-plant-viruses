@@ -1,1 +1,13 @@
-{"_id": "suf1pIK5", "name": "Erysiphe necator associated poty-like virus 2", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2744803}
+{
+  "_id": "suf1pIK5",
+  "name": "Erysiphe necator associated poty-like virus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2744803
+}

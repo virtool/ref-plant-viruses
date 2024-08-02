@@ -1,6 +1,6 @@
 {
-    "id": "xdr",
-    "source_type": "isolate",
-    "source_name": "PMS12_DN1426",
-    "default": true
+  "id": "xdr",
+  "source_type": "isolate",
+  "source_name": "PMS12_DN1426",
+  "default": true
 }

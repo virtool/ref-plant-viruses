@@ -1,6 +1,6 @@
 {
-    "id": "ncm11111",
-    "source_type": "isolate",
-    "source_name": "HB",
-    "default": true
+  "id": "ncm11111",
+  "source_type": "isolate",
+  "source_name": "HB",
+  "default": true
 }

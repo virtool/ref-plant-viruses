@@ -1,6 +1,6 @@
 {
-    "id": "mip",
-    "source_type": "isolate",
-    "source_name": "VRS-328",
-    "default": false
+  "id": "mip",
+  "source_type": "isolate",
+  "source_name": "VRS-328",
+  "default": false
 }

@@ -1,1 +1,13 @@
-{"_id": "VGv1vs8x", "name": "Ulva tombus-like virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3051535}
+{
+  "_id": "VGv1vs8x",
+  "name": "Ulva tombus-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3051535
+}

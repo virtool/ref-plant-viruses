@@ -1,1 +1,13 @@
-{"_id": "Qq7g8sS4", "name": "Birch carlavirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2248769}
+{
+  "_id": "Qq7g8sS4",
+  "name": "Birch carlavirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2248769
+}

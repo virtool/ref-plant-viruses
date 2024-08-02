@@ -1,1 +1,13 @@
-{"_id": "dVd5iK6V", "name": "Potyviridae sp.", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2681589}
+{
+  "_id": "dVd5iK6V",
+  "name": "Potyviridae sp.",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2681589
+}

@@ -1,1 +1,13 @@
-{"_id": "HlauLNcC", "name": "Lentinula edodes negative-strand RNA virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA-", "name": "genome", "required": true}], "taxid": 2547430}
+{
+  "_id": "HlauLNcC",
+  "name": "Lentinula edodes negative-strand RNA virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2547430
+}

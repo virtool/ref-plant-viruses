@@ -1,1 +1,13 @@
-{"_id": "eCqL03oj", "name": "Fushun naranga aenescens tombus-like virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2905487}
+{
+  "_id": "eCqL03oj",
+  "name": "Fushun naranga aenescens tombus-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2905487
+}

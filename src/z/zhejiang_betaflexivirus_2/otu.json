@@ -1,1 +1,13 @@
-{"_id": "KZjrjsE0", "name": "Zhejiang betaflexivirus 2", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2824414}
+{
+  "_id": "KZjrjsE0",
+  "name": "Zhejiang betaflexivirus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2824414
+}

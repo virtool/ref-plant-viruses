@@ -1,13 +1,13 @@
 {
-    "_id": "fFhxRssv",
-    "name": "Potyvirus achyranthis",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": 2956331
+  "_id": "fFhxRssv",
+  "name": "Potyvirus achyranthis",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2956331
 }

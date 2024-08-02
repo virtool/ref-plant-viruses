@@ -1,1 +1,13 @@
-{"_id": "btegxn8k", "name": "Maize associated foveavirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2172017}
+{
+  "_id": "btegxn8k",
+  "name": "Maize associated foveavirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2172017
+}

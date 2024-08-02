@@ -1,1 +1,13 @@
-{"_id": "yVOWCgI4", "name": "White snakeroot virus A", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3003342}
+{
+  "_id": "yVOWCgI4",
+  "name": "White snakeroot virus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3003342
+}

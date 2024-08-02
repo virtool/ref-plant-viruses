@@ -1,1 +1,13 @@
-{"_id": "q8awyg95", "name": "Thesium chinense closterovirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2943849}
+{
+  "_id": "q8awyg95",
+  "name": "Thesium chinense closterovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2943849
+}

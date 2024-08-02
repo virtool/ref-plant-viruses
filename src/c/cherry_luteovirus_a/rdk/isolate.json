@@ -1,6 +1,6 @@
 {
-    "id": "rdk",
-    "source_type": "isolate",
-    "source_name": "CZ-Cigany",
-    "default": true
+  "id": "rdk",
+  "source_type": "isolate",
+  "source_name": "CZ-Cigany",
+  "default": true
 }

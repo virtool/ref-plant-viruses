@@ -1,1 +1,13 @@
-{"_id": "g9ivjobc", "name": "Coconut cadang cadang viroid", "abbreviation": "CCCVd", "schema": [{"molecule": "ssRNA+", "name": "Viroid", "required": true}], "taxid": 36453}
+{
+  "_id": "g9ivjobc",
+  "name": "Coconut cadang cadang viroid",
+  "abbreviation": "CCCVd",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 36453
+}

@@ -1,13 +1,13 @@
 {
-    "_id": "gvQamHnJ",
-    "name": "Gymnadenia betaflexivirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "gvQamHnJ",
+  "name": "Gymnadenia betaflexivirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": null
 }

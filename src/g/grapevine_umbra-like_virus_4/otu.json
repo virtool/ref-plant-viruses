@@ -1,1 +1,13 @@
-{"_id": "fTo6Ub1d", "name": "Grapevine umbra-like virus 4", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3113825}
+{
+  "_id": "fTo6Ub1d",
+  "name": "Grapevine umbra-like virus 4",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3113825
+}

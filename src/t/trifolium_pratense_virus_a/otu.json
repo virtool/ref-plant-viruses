@@ -1,1 +1,13 @@
-{"_id": "wMrXCe5R", "name": "Trifolium pratense virus A", "abbreviation": "", "schema": [{"molecule": "ssRNA-", "name": "genome", "required": true}], "taxid": 2448906}
+{
+  "_id": "wMrXCe5R",
+  "name": "Trifolium pratense virus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2448906
+}

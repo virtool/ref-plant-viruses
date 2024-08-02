@@ -1,1 +1,13 @@
-{"_id": "EP17vb9Z", "name": "Tomato yellow blotch virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 544743}
+{
+  "_id": "EP17vb9Z",
+  "name": "Tomato yellow blotch virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 544743
+}

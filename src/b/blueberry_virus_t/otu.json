@@ -1,1 +1,13 @@
-{"_id": "v9TuHbhz", "name": "Blueberry virus T", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "Genome", "required": true}], "taxid": 2858412}
+{
+  "_id": "v9TuHbhz",
+  "name": "Blueberry virus T",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2858412
+}

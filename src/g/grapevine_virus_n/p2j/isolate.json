@@ -1,6 +1,6 @@
 {
-    "id": "p2j",
-    "source_type": "strain",
-    "source_name": "RSA-06-04_Bourboulenc_GVN",
-    "default": false
+  "id": "p2j",
+  "source_type": "strain",
+  "source_name": "RSA-06-04_Bourboulenc_GVN",
+  "default": false
 }

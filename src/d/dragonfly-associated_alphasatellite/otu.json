@@ -1,1 +1,7 @@
-{"_id": "6yh1mn89", "name": "Dragonfly-associated alphasatellite", "abbreviation": "DfaA", "schema": [], "taxid": 2169905}
+{
+  "_id": "6yh1mn89",
+  "name": "Dragonfly-associated alphasatellite",
+  "abbreviation": "DfaA",
+  "schema": [],
+  "taxid": 2169905
+}

@@ -1,1 +1,13 @@
-{"_id": "e0inCOiW", "name": "Picris umbravirus 1", "abbreviation": "", "schema": [{"molecule": null, "name": "genome", "required": true}], "taxid": 2950853}
+{
+  "_id": "e0inCOiW",
+  "name": "Picris umbravirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": null,
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2950853
+}

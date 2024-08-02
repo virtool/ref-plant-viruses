@@ -1,1 +1,13 @@
-{"_id": "SjhUFf0J", "name": "Lotus latent virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2570407}
+{
+  "_id": "SjhUFf0J",
+  "name": "Lotus latent virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2570407
+}

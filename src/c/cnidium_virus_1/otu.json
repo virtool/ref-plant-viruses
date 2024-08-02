@@ -1,1 +1,13 @@
-{"_id": "dgnvIode", "name": "Cnidium virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA-", "name": "genome", "required": true}], "taxid": 2903266}
+{
+  "_id": "dgnvIode",
+  "name": "Cnidium virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2903266
+}

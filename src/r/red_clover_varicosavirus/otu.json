@@ -1,1 +1,18 @@
-{"_id": "YMmyKSIu", "name": "Red clover varicosavirus", "abbreviation": "", "schema": [{"molecule": "dsRNA", "name": "RNA 1", "required": true}, {"molecule": "dsRNA", "name": "RNA 2", "required": true}], "taxid": 2058093}
+{
+  "_id": "YMmyKSIu",
+  "name": "Red clover varicosavirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 2058093
+}

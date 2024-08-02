@@ -1,1 +1,13 @@
-{"_id": "SMaPAlCe", "name": "Sunn-hemp mottle virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3048513}
+{
+  "_id": "SMaPAlCe",
+  "name": "Sunn-hemp mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3048513
+}

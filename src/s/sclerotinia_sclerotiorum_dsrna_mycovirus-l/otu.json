@@ -1,1 +1,13 @@
-{"_id": "5VtPK32o", "name": "Sclerotinia sclerotiorum dsRNA mycovirus-L", "abbreviation": "", "schema": [{"molecule": "dsRNA", "name": "genome", "required": true}], "taxid": 1181310}
+{
+  "_id": "5VtPK32o",
+  "name": "Sclerotinia sclerotiorum dsRNA mycovirus-L",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 1181310
+}

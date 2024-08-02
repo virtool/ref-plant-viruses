@@ -1,1 +1,23 @@
-{"_id": "jV3eSJsn", "name": "Water chestnut virus A", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "RNA 1", "required": true}, {"molecule": "ssRNA+", "name": "RNA 2", "required": true}, {"molecule": "ssRNA+", "name": "RNA 3", "required": true}], "taxid": 2884706}
+{
+  "_id": "jV3eSJsn",
+  "name": "Water chestnut virus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2884706
+}

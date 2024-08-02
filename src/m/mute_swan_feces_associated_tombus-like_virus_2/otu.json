@@ -1,1 +1,13 @@
-{"_id": "qKZ7C5lY", "name": "Mute swan feces associated tombus-like virus 2", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2832226}
+{
+  "_id": "qKZ7C5lY",
+  "name": "Mute swan feces associated tombus-like virus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2832226
+}

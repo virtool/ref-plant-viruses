@@ -1,1 +1,13 @@
-{"_id": "5bmjLM7v", "name": "Plantain virus X", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 1331744}
+{
+  "_id": "5bmjLM7v",
+  "name": "Plantain virus X",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 1331744
+}

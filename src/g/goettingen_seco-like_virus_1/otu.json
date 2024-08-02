@@ -1,1 +1,13 @@
-{"_id": "A6QElDZm", "name": "Goettingen Seco-like virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2789612}
+{
+  "_id": "A6QElDZm",
+  "name": "Goettingen Seco-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2789612
+}

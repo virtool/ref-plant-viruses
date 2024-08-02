@@ -1,6 +1,6 @@
 {
-    "id": "o8s",
-    "source_type": "isolate",
-    "source_name": "C1",
-    "default": true
+  "id": "o8s",
+  "source_type": "isolate",
+  "source_name": "C1",
+  "default": true
 }

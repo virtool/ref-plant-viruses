@@ -1,1 +1,13 @@
-{"_id": "IgGIkulX", "name": "Endive yellows virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2836379}
+{
+  "_id": "IgGIkulX",
+  "name": "Endive yellows virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2836379
+}

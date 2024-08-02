@@ -1,1 +1,7 @@
-{"_id": "rmslhv4h", "name": "Penicillium stoloniferum virus F", "abbreviation": "PsV-f mycovirus ", "schema": [], "taxid": 296210}
+{
+  "_id": "rmslhv4h",
+  "name": "Penicillium stoloniferum virus F",
+  "abbreviation": "PsV-f mycovirus ",
+  "schema": [],
+  "taxid": 296210
+}

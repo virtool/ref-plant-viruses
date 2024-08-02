@@ -1,6 +1,6 @@
 {
-    "id": "gib",
-    "source_type": "isolate",
-    "source_name": "Landkreis Rostock_18",
-    "default": true
+  "id": "gib",
+  "source_type": "isolate",
+  "source_name": "Landkreis Rostock_18",
+  "default": true
 }

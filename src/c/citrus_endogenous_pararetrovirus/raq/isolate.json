@@ -1,6 +1,6 @@
 {
-    "id": "raq",
-    "source_type": "isolate",
-    "source_name": "CB17-2",
-    "default": false
+  "id": "raq",
+  "source_type": "isolate",
+  "source_name": "CB17-2",
+  "default": false
 }

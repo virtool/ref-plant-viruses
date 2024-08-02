@@ -1,6 +1,6 @@
 {
-    "id": "1bs",
-    "source_type": "isolate",
-    "source_name": "B:Missipi",
-    "default": true
+  "id": "1bs",
+  "source_type": "isolate",
+  "source_name": "B:Missipi",
+  "default": true
 }

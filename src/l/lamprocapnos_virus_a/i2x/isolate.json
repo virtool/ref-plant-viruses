@@ -1,6 +1,6 @@
 {
-    "id": "i2x",
-    "source_type": "isolate",
-    "source_name": "LaVA-SK",
-    "default": true
+  "id": "i2x",
+  "source_type": "isolate",
+  "source_name": "LaVA-SK",
+  "default": true
 }

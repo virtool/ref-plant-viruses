@@ -1,13 +1,13 @@
 {
-    "_id": "ToZJwjHm",
-    "name": "Tungrovirus agapanthi",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "dsDNA",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": 3060756
+  "_id": "ToZJwjHm",
+  "name": "Tungrovirus agapanthi",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsDNA",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3060756
 }

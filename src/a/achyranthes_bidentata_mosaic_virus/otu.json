@@ -1,13 +1,13 @@
 {
-    "_id": "aNPsLwhJ",
-    "name": "Achyranthes bidentata mosaic virus",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": 2793794
+  "_id": "aNPsLwhJ",
+  "name": "Achyranthes bidentata mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2793794
 }

@@ -1,1 +1,13 @@
-{"_id": "hd6n7qr7", "name": "Mirabilis leaf curl India virus", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "Genome", "required": true}], "taxid": 1507006}
+{
+  "_id": "hd6n7qr7",
+  "name": "Mirabilis leaf curl India virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1507006
+}

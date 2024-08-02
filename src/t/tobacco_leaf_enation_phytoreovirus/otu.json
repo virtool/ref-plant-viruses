@@ -1,1 +1,38 @@
-{"_id": "g63qDJH0", "name": "Tobacco leaf enation phytoreovirus", "abbreviation": "", "schema": [{"molecule": "dsRNA", "name": "S5", "required": true}, {"molecule": "dsRNA", "name": "S7", "required": true}, {"molecule": "dsRNA", "name": "S8", "required": true}, {"molecule": "dsRNA", "name": "S10", "required": true}, {"molecule": "dsRNA", "name": "S11", "required": true}, {"molecule": "dsRNA", "name": "S12", "required": true}], "taxid": 288891}
+{
+  "_id": "g63qDJH0",
+  "name": "Tobacco leaf enation phytoreovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "S5",
+      "required": true
+    },
+    {
+      "molecule": "dsRNA",
+      "name": "S7",
+      "required": true
+    },
+    {
+      "molecule": "dsRNA",
+      "name": "S8",
+      "required": true
+    },
+    {
+      "molecule": "dsRNA",
+      "name": "S10",
+      "required": true
+    },
+    {
+      "molecule": "dsRNA",
+      "name": "S11",
+      "required": true
+    },
+    {
+      "molecule": "dsRNA",
+      "name": "S12",
+      "required": true
+    }
+  ],
+  "taxid": 288891
+}

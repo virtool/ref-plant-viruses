@@ -1,1 +1,13 @@
-{"_id": "tD8zifFW", "name": "Ginger chlorotic fleck-associated virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2739639}
+{
+  "_id": "tD8zifFW",
+  "name": "Ginger chlorotic fleck-associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2739639
+}

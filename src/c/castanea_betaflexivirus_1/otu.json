@@ -1,1 +1,13 @@
-{"_id": "6mkm9glQ", "name": "Castanea betaflexivirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2794402}
+{
+  "_id": "6mkm9glQ",
+  "name": "Castanea betaflexivirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2794402
+}

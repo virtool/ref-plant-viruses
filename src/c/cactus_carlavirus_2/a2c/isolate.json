@@ -1,6 +1,6 @@
 {
-    "id": "a2c",
-    "source_type": "isolate",
-    "source_name": "unverified",
-    "default": true
+  "id": "a2c",
+  "source_type": "isolate",
+  "source_name": "unverified",
+  "default": true
 }

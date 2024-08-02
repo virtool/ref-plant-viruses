@@ -1,1 +1,13 @@
-{"_id": "zqvSDgBh", "name": "Glehnia littoralis marafivirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2765859}
+{
+  "_id": "zqvSDgBh",
+  "name": "Glehnia littoralis marafivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2765859
+}

@@ -1,1 +1,13 @@
-{"_id": "Q2Zjj7ud", "name": "Enontekio sobemovirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2980571}
+{
+  "_id": "Q2Zjj7ud",
+  "name": "Enontekio sobemovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2980571
+}

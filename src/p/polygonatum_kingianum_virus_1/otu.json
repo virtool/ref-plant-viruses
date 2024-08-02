@@ -1,1 +1,13 @@
-{"_id": "Z063keZr", "name": "Polygonatum kingianum virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2715709}
+{
+  "_id": "Z063keZr",
+  "name": "Polygonatum kingianum virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2715709
+}

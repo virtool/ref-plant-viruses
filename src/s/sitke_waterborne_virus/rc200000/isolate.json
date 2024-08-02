@@ -1,6 +1,6 @@
 {
-    "id": "rc200000",
-    "source_type": "islate",
-    "source_name": "FN",
-    "default": false
+  "id": "rc200000",
+  "source_type": "islate",
+  "source_name": "FN",
+  "default": false
 }

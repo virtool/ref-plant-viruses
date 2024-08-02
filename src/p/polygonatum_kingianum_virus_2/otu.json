@@ -1,1 +1,13 @@
-{"_id": "B2iP1Lky", "name": "Polygonatum kingianum virus 2", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2715710}
+{
+  "_id": "B2iP1Lky",
+  "name": "Polygonatum kingianum virus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2715710
+}

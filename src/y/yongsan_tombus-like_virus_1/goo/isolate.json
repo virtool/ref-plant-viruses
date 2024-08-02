@@ -1,6 +1,6 @@
 {
-    "id": "goo",
-    "source_type": "strain",
-    "source_name": "A16.1368/ROK/2016",
-    "default": true
+  "id": "goo",
+  "source_type": "strain",
+  "source_name": "A16.1368/ROK/2016",
+  "default": true
 }

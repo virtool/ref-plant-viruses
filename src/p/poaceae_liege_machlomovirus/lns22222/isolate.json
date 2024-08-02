@@ -1,6 +1,6 @@
 {
-    "id": "lns22222",
-    "source_type": "isolate",
-    "source_name": "Heron",
-    "default": true
+  "id": "lns22222",
+  "source_type": "isolate",
+  "source_name": "Heron",
+  "default": true
 }

@@ -1,6 +1,6 @@
 {
-    "id": "x0e",
-    "source_type": "isolate",
-    "source_name": "DSMZ PV-1126",
-    "default": true
+  "id": "x0e",
+  "source_type": "isolate",
+  "source_name": "DSMZ PV-1126",
+  "default": true
 }

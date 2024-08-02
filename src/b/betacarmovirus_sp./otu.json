@@ -1,1 +1,13 @@
-{"_id": "rhJBKns4", "name": "Betacarmovirus sp.", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2809187}
+{
+  "_id": "rhJBKns4",
+  "name": "Betacarmovirus sp.",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2809187
+}

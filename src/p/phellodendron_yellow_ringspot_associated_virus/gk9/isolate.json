@@ -1,6 +1,6 @@
 {
-    "id": "gk9",
-    "source_type": "isolate",
-    "source_name": "PYRAV-HBA",
-    "default": true
+  "id": "gk9",
+  "source_type": "isolate",
+  "source_name": "PYRAV-HBA",
+  "default": true
 }

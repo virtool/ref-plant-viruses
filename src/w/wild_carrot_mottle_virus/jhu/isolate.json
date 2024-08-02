@@ -1,6 +1,6 @@
 {
-    "id": "jhu",
-    "source_type": "isolate",
-    "source_name": "RL1-Um",
-    "default": true
+  "id": "jhu",
+  "source_type": "isolate",
+  "source_name": "RL1-Um",
+  "default": true
 }

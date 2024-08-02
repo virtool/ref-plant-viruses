@@ -1,6 +1,6 @@
 {
-    "id": "lf1",
-    "source_type": "isolate",
-    "source_name": "DSMZ PV-1343",
-    "default": true
+  "id": "lf1",
+  "source_type": "isolate",
+  "source_name": "DSMZ PV-1343",
+  "default": true
 }

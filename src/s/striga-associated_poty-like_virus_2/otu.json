@@ -1,1 +1,13 @@
-{"_id": "svjfHxLt", "name": "Striga-associated poty-like virus 2", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2861250}
+{
+  "_id": "svjfHxLt",
+  "name": "Striga-associated poty-like virus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2861250
+}

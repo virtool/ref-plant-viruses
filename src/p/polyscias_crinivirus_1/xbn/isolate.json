@@ -1,6 +1,6 @@
 {
-    "id": "xbn",
-    "source_type": "isolate",
-    "source_name": "ZWY-16",
-    "default": true
+  "id": "xbn",
+  "source_type": "isolate",
+  "source_name": "ZWY-16",
+  "default": true
 }

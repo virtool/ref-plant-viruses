@@ -1,13 +1,13 @@
 {
-    "_id": "s23uZoRj",
-    "name": "Aconitum potyvirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": 3041211
+  "_id": "s23uZoRj",
+  "name": "Aconitum potyvirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3041211
 }

@@ -1,1 +1,13 @@
-{"_id": "fm8CdQSX", "name": "Iris potyvirus A", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2593928}
+{
+  "_id": "fm8CdQSX",
+  "name": "Iris potyvirus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2593928
+}

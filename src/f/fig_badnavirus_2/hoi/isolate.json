@@ -1,6 +1,6 @@
 {
-    "id": "hoi",
-    "source_type": "isolate",
-    "source_name": "Kashgar",
-    "default": true
+  "id": "hoi",
+  "source_type": "isolate",
+  "source_name": "Kashgar",
+  "default": true
 }

@@ -1,1 +1,13 @@
-{"_id": "aAv3O9m6", "name": "Musa ornata associated banmivirus", "abbreviation": "", "schema": [{"molecule": null, "name": "genome", "required": true}], "taxid": 3071210}
+{
+  "_id": "aAv3O9m6",
+  "name": "Musa ornata associated banmivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": null,
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3071210
+}

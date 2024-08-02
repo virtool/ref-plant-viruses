@@ -1,6 +1,6 @@
 {
-    "id": "lbn",
-    "source_type": "strain",
-    "source_name": "SCM51506",
-    "default": false
+  "id": "lbn",
+  "source_type": "strain",
+  "source_name": "SCM51506",
+  "default": false
 }

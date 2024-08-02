@@ -1,1 +1,13 @@
-{"_id": "VRwIl9wk", "name": "Poinsettia cryptic virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 305785}
+{
+  "_id": "VRwIl9wk",
+  "name": "Poinsettia cryptic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 305785
+}

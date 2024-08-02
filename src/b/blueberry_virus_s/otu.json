@@ -1,1 +1,13 @@
-{"_id": "v0D93Clg", "name": "blueberry virus S", "abbreviation": "BVS", "schema": [{"molecule": "ssRNA+", "name": "genomic", "required": true}], "taxid": 2967988}
+{
+  "_id": "v0D93Clg",
+  "name": "blueberry virus S",
+  "abbreviation": "BVS",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genomic",
+      "required": true
+    }
+  ],
+  "taxid": 2967988
+}

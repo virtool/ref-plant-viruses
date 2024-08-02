@@ -1,1 +1,13 @@
-{"_id": "2Bjyo5SU", "name": "Gerbera capillovirus A", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2951958}
+{
+  "_id": "2Bjyo5SU",
+  "name": "Gerbera capillovirus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2951958
+}

@@ -1,6 +1,6 @@
 {
-    "id": "txm",
-    "source_type": "isolate",
-    "source_name": "ZYP-1",
-    "default": true
+  "id": "txm",
+  "source_type": "isolate",
+  "source_name": "ZYP-1",
+  "default": true
 }

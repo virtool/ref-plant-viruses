@@ -1,1 +1,13 @@
-{"_id": "UzY5qywC", "name": "Groundnut rosette assistor virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 33761}
+{
+  "_id": "UzY5qywC",
+  "name": "Groundnut rosette assistor virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 33761
+}

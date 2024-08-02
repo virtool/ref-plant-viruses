@@ -1,1 +1,13 @@
-{"_id": "muo5279a", "name": "Sweet potato leaf curl Henan4 virus", "abbreviation": "", "schema": [{"molecule": "ssDNA", "name": "Genome", "required": true}], "taxid": 1605995}
+{
+  "_id": "muo5279a",
+  "name": "Sweet potato leaf curl Henan4 virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1605995
+}

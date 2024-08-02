@@ -1,1 +1,13 @@
-{"_id": "Zu0VQD8b", "name": "Guarapuava tymovirus-like 1 virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2966216}
+{
+  "_id": "Zu0VQD8b",
+  "name": "Guarapuava tymovirus-like 1 virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2966216
+}

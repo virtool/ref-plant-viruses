@@ -1,6 +1,6 @@
 {
-    "id": "yse",
-    "source_type": "strain",
-    "source_name": "Oahu1",
-    "default": true
+  "id": "yse",
+  "source_type": "strain",
+  "source_name": "Oahu1",
+  "default": true
 }

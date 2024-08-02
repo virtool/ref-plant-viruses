@@ -1,6 +1,6 @@
 {
-    "id": "umo",
-    "source_type": "strain",
-    "source_name": "pt057-pot-15",
-    "default": true
+  "id": "umo",
+  "source_type": "strain",
+  "source_name": "pt057-pot-15",
+  "default": true
 }

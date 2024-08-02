@@ -1,1 +1,13 @@
-{"_id": "qjkRsuVJ", "name": "Tomato matilda virus", "abbreviation": "", "schema": [{"molecule": null, "name": "genome", "required": true}], "taxid": 1077287}
+{
+  "_id": "qjkRsuVJ",
+  "name": "Tomato matilda virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": null,
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 1077287
+}

@@ -1,1 +1,13 @@
-{"_id": "iRZG35oI", "name": "Fig latent virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 641245}
+{
+  "_id": "iRZG35oI",
+  "name": "Fig latent virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 641245
+}

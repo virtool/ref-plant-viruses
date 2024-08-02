@@ -1,6 +1,6 @@
 {
-    "id": "el1",
-    "source_type": "isolate",
-    "source_name": "YSN01",
-    "default": true
+  "id": "el1",
+  "source_type": "isolate",
+  "source_name": "YSN01",
+  "default": true
 }

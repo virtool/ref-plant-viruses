@@ -1,6 +1,6 @@
 {
-    "id": "bzj",
-    "source_type": "strain",
-    "source_name": "pt056-pot-25",
-    "default": false
+  "id": "bzj",
+  "source_type": "strain",
+  "source_name": "pt056-pot-25",
+  "default": false
 }

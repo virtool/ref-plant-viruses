@@ -1,6 +1,6 @@
 {
-    "id": "qkr",
-    "source_type": "isolate",
-    "source_name": "NIG1",
-    "default": true
+  "id": "qkr",
+  "source_type": "isolate",
+  "source_name": "NIG1",
+  "default": true
 }

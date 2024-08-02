@@ -1,13 +1,13 @@
 {
-    "_id": "yNrKU24E",
-    "name": "Banana bunchy top virus associated alphasatellite 5",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssDNA",
-            "name": "alphasatellite",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "yNrKU24E",
+  "name": "Banana bunchy top virus associated alphasatellite 5",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": null
 }

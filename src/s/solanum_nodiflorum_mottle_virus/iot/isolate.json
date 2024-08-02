@@ -1,6 +1,6 @@
 {
-    "id": "iot",
-    "source_type": "isolate",
-    "source_name": "ATCC:PV-491",
-    "default": true
+  "id": "iot",
+  "source_type": "isolate",
+  "source_name": "ATCC:PV-491",
+  "default": true
 }

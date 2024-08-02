@@ -1,6 +1,6 @@
 {
-    "id": "lue",
-    "source_type": "isolate",
-    "source_name": "BER20SW",
-    "default": true
+  "id": "lue",
+  "source_type": "isolate",
+  "source_name": "BER20SW",
+  "default": true
 }

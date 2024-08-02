@@ -1,1 +1,13 @@
-{"_id": "KDtmCqTw", "name": "Flumine seco-like virus 2", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2941481}
+{
+  "_id": "KDtmCqTw",
+  "name": "Flumine seco-like virus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2941481
+}

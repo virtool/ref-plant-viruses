@@ -1,1 +1,13 @@
-{"_id": "2nrNUUz0", "name": "Plant associated sequivirus 3", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2950831}
+{
+  "_id": "2nrNUUz0",
+  "name": "Plant associated sequivirus 3",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2950831
+}

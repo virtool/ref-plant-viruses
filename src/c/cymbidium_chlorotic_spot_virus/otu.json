@@ -1,1 +1,13 @@
-{"_id": "w9iOkt8E", "name": "Cymbidium chlorotic spot virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 1675557}
+{
+  "_id": "w9iOkt8E",
+  "name": "Cymbidium chlorotic spot virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 1675557
+}

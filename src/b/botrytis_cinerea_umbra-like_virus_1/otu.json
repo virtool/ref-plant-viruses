@@ -1,1 +1,13 @@
-{"_id": "E0U3cdJD", "name": "Botrytis cinerea umbra-like virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2735963}
+{
+  "_id": "E0U3cdJD",
+  "name": "Botrytis cinerea umbra-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2735963
+}

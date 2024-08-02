@@ -1,1 +1,13 @@
-{"_id": "fYQ2kcz4", "name": "Maize-associated umbra-like virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2961918}
+{
+  "_id": "fYQ2kcz4",
+  "name": "Maize-associated umbra-like virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2961918
+}

@@ -1,6 +1,6 @@
 {
-    "id": "rzc",
-    "source_type": "isolate",
-    "source_name": "PMS4_DN23341",
-    "default": true
+  "id": "rzc",
+  "source_type": "isolate",
+  "source_name": "PMS4_DN23341",
+  "default": true
 }

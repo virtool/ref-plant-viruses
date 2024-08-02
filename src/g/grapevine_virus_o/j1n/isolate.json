@@ -1,6 +1,6 @@
 {
-    "id": "j1n",
-    "source_type": "strain",
-    "source_name": "RSA-29-12_Royal_Molenberg_GVO",
-    "default": true
+  "id": "j1n",
+  "source_type": "strain",
+  "source_name": "RSA-29-12_Royal_Molenberg_GVO",
+  "default": true
 }

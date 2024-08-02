@@ -1,1 +1,13 @@
-{"_id": "6riJiXMa", "name": "Ageratum virus 2", "abbreviation": "", "schema": [{"molecule": null, "name": "genome", "required": true}], "taxid": 2992867}
+{
+  "_id": "6riJiXMa",
+  "name": "Ageratum virus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": null,
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2992867
+}

@@ -1,6 +1,6 @@
 {
-    "id": "uwg",
-    "source_type": "isolate",
-    "source_name": "PE-5.1",
-    "default": true
+  "id": "uwg",
+  "source_type": "isolate",
+  "source_name": "PE-5.1",
+  "default": true
 }

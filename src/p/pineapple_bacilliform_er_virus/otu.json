@@ -1,1 +1,13 @@
-{"_id": "b3IHkhIn", "name": "Pineapple bacilliform ER virus", "abbreviation": "", "schema": [{"molecule": "ssRNA-", "name": "genome", "required": true}], "taxid": 2034763}
+{
+  "_id": "b3IHkhIn",
+  "name": "Pineapple bacilliform ER virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2034763
+}

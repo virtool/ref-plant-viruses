@@ -1,1 +1,13 @@
-{"_id": "plOP45wG", "name": "Rose virus B", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2777710}
+{
+  "_id": "plOP45wG",
+  "name": "Rose virus B",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2777710
+}

@@ -1,1 +1,13 @@
-{"_id": "ykRQoyn0", "name": "Green Sichuan pepper enamovirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2802551}
+{
+  "_id": "ykRQoyn0",
+  "name": "Green Sichuan pepper enamovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2802551
+}

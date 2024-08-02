@@ -1,13 +1,13 @@
 {
-    "_id": "A3OAqqEU",
-    "name": "Agave betaflexivirus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": 2794400
+  "_id": "A3OAqqEU",
+  "name": "Agave betaflexivirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2794400
 }

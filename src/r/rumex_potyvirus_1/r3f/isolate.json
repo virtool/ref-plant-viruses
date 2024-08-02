@@ -1,6 +1,6 @@
 {
-    "id": "r3f",
-    "source_type": "isolate",
-    "source_name": "PLE20SW",
-    "default": true
+  "id": "r3f",
+  "source_type": "isolate",
+  "source_name": "PLE20SW",
+  "default": true
 }

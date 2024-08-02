@@ -1,6 +1,6 @@
 {
-    "id": "o55",
-    "source_type": "strain",
-    "source_name": "RSA-50-05",
-    "default": false
+  "id": "o55",
+  "source_type": "strain",
+  "source_name": "RSA-50-05",
+  "default": false
 }

@@ -1,1 +1,13 @@
-{"_id": "Ck3M687t", "name": "Davidia involucrata marafivirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2794433}
+{
+  "_id": "Ck3M687t",
+  "name": "Davidia involucrata marafivirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2794433
+}

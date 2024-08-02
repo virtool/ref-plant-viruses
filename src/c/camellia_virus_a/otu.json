@@ -1,1 +1,13 @@
-{"_id": "BvzsU3aM", "name": "Camellia virus A", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2899887}
+{
+  "_id": "BvzsU3aM",
+  "name": "Camellia virus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2899887
+}

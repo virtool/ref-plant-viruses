@@ -1,1 +1,13 @@
-{"_id": "VVfvyh5p", "name": "Kummerowia striata tombusvirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2739378}
+{
+  "_id": "VVfvyh5p",
+  "name": "Kummerowia striata tombusvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2739378
+}

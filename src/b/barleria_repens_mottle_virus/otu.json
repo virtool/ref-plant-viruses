@@ -1,1 +1,13 @@
-{"_id": "7vM0TKy4", "name": "Barleria repens mottle virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3022013}
+{
+  "_id": "7vM0TKy4",
+  "name": "Barleria repens mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3022013
+}

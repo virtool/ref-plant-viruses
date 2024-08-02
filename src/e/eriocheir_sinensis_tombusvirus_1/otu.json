@@ -1,1 +1,13 @@
-{"_id": "STXMUpH2", "name": "Eriocheir sinensis tombusvirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3022092}
+{
+  "_id": "STXMUpH2",
+  "name": "Eriocheir sinensis tombusvirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3022092
+}

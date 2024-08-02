@@ -1,1 +1,13 @@
-{"_id": "EyEBf54B", "name": "Codonopsis vein clearing virus", "abbreviation": "", "schema": [{"molecule": "dsRNA", "name": "genome", "required": true}], "taxid": 2510980}
+{
+  "_id": "EyEBf54B",
+  "name": "Codonopsis vein clearing virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2510980
+}

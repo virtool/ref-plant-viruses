@@ -1,1 +1,13 @@
-{"_id": "ovQHwkmY", "name": "Parsley umbravirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2976693}
+{
+  "_id": "ovQHwkmY",
+  "name": "Parsley umbravirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2976693
+}

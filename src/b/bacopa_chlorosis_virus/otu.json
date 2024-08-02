@@ -1,1 +1,23 @@
-{"_id": "xZR23iEo", "name": "Bacopa chlorosis virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "RNA1", "required": true}, {"molecule": "ssRNA+", "name": "RNA 2", "required": true}, {"molecule": "ssRNA+", "name": "RNA 3", "required": true}], "taxid": 593888}
+{
+  "_id": "xZR23iEo",
+  "name": "Bacopa chlorosis virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA1",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 593888
+}

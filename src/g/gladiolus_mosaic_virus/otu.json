@@ -1,1 +1,13 @@
-{"_id": "WDTkX1cr", "name": "Gladiolus mosaic virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3071213}
+{
+  "_id": "WDTkX1cr",
+  "name": "Gladiolus mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3071213
+}

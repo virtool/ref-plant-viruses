@@ -1,6 +1,6 @@
 {
-    "id": "kc1",
-    "source_type": "strain",
-    "source_name": "pt164-pot-23",
-    "default": true
+  "id": "kc1",
+  "source_type": "strain",
+  "source_name": "pt164-pot-23",
+  "default": true
 }

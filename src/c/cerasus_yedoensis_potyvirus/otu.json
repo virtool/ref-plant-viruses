@@ -1,1 +1,13 @@
-{"_id": "SL7ncway", "name": "Cerasus yedoensis potyvirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2709777}
+{
+  "_id": "SL7ncway",
+  "name": "Cerasus yedoensis potyvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2709777
+}

@@ -1,6 +1,6 @@
 {
-    "id": "afu",
-    "source_type": "isolate",
-    "source_name": "POR19SW",
-    "default": true
+  "id": "afu",
+  "source_type": "isolate",
+  "source_name": "POR19SW",
+  "default": true
 }

@@ -1,1 +1,13 @@
-{"_id": "ItzIPsqr", "name": "Iris germanica capillovirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2794426}
+{
+  "_id": "ItzIPsqr",
+  "name": "Iris germanica capillovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2794426
+}

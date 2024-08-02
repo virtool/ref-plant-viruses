@@ -1,1 +1,13 @@
-{"_id": "43beqyzb", "name": "Beijing sediment betaflexivirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2824418}
+{
+  "_id": "43beqyzb",
+  "name": "Beijing sediment betaflexivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2824418
+}

@@ -1,1 +1,18 @@
-{"_id": "IfGbNCk1", "name": "Pineapple secovirus B", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "RNA 1", "required": true}, {"molecule": "ssRNA+", "name": "RNA 2", "required": true}], "taxid": 2989723}
+{
+  "_id": "IfGbNCk1",
+  "name": "Pineapple secovirus B",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 2989723
+}

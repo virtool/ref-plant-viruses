@@ -1,1 +1,28 @@
-{"_id": "sbcENQHU", "name": "Rice stripe tenuivirus", "abbreviation": "", "schema": [{"molecule": "ssRNA-", "name": "RNA 1", "required": true}, {"molecule": "ssRNA-", "name": "RNA 2", "required": true}, {"molecule": "ssRNA-", "name": "RNA 3", "required": true}, {"molecule": "ssRNA-", "name": "RNA 4", "required": true}], "taxid": 3052763}
+{
+  "_id": "sbcENQHU",
+  "name": "Rice stripe tenuivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    }
+  ],
+  "taxid": 3052763
+}

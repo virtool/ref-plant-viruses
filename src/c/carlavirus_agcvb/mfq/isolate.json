@@ -1,6 +1,6 @@
 {
-    "id": "mfq",
-    "source_type": "strain",
-    "source_name": "Stellenbosch",
-    "default": true
+  "id": "mfq",
+  "source_type": "strain",
+  "source_name": "Stellenbosch",
+  "default": true
 }

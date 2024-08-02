@@ -1,1 +1,13 @@
-{"_id": "4TIyyady", "name": "Opuntia umbra-like virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2283799}
+{
+  "_id": "4TIyyady",
+  "name": "Opuntia umbra-like virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2283799
+}

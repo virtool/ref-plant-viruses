@@ -1,1 +1,13 @@
-{"_id": "xoe8NAnM", "name": "Ampelovirus sp.", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2767532}
+{
+  "_id": "xoe8NAnM",
+  "name": "Ampelovirus sp.",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2767532
+}

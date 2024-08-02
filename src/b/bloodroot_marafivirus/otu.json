@@ -1,1 +1,13 @@
-{"_id": "u4jdEKnC", "name": "Bloodroot marafivirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2933138}
+{
+  "_id": "u4jdEKnC",
+  "name": "Bloodroot marafivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2933138
+}

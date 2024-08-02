@@ -1,6 +1,6 @@
 {
-    "id": "w2r",
-    "source_type": "isolate",
-    "source_name": "BRPa",
-    "default": true
+  "id": "w2r",
+  "source_type": "isolate",
+  "source_name": "BRPa",
+  "default": true
 }

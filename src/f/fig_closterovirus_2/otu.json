@@ -1,1 +1,13 @@
-{"_id": "ZRyRRzOy", "name": "Fig closterovirus 2", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2809011}
+{
+  "_id": "ZRyRRzOy",
+  "name": "Fig closterovirus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2809011
+}

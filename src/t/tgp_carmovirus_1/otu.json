@@ -1,1 +1,13 @@
-{"_id": "xzub1mqz", "name": "TGP Carmovirus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "Genome", "required": true}], "taxid": 944580}
+{
+  "_id": "xzub1mqz",
+  "name": "TGP Carmovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 944580
+}

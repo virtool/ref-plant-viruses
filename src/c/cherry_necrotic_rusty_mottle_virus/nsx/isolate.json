@@ -1,6 +1,6 @@
 {
-    "id": "nsx",
-    "source_type": "isolate",
-    "source_name": "13C227",
-    "default": false
+  "id": "nsx",
+  "source_type": "isolate",
+  "source_name": "13C227",
+  "default": false
 }

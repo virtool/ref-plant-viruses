@@ -1,6 +1,6 @@
 {
-    "id": "ihw",
-    "source_type": "isolate",
-    "source_name": "fruit",
-    "default": true
+  "id": "ihw",
+  "source_type": "isolate",
+  "source_name": "fruit",
+  "default": true
 }

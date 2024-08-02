@@ -1,1 +1,23 @@
-{"_id": "q91G8NKn", "name": "Pepper chlorosis associated virus", "abbreviation": "", "schema": [{"molecule": "ssRNA-", "name": "RNA 1", "required": true}, {"molecule": "ssRNA-", "name": "RNA 2", "required": true}, {"molecule": "ssRNA-", "name": "RNA 3", "required": true}], "taxid": 2966369}
+{
+  "_id": "q91G8NKn",
+  "name": "Pepper chlorosis associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2966369
+}

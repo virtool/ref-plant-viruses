@@ -1,1 +1,13 @@
-{"_id": "t1T2FTd1", "name": "Withania leaf curl virus", "abbreviation": "", "schema": [{"molecule": null, "name": "segment DNA-A", "required": true}], "taxid": 745066}
+{
+  "_id": "t1T2FTd1",
+  "name": "Withania leaf curl virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": null,
+      "name": "segment DNA-A",
+      "required": true
+    }
+  ],
+  "taxid": 745066
+}

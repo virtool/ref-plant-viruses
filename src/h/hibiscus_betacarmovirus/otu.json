@@ -1,1 +1,13 @@
-{"_id": "Sf68VIAU", "name": "Hibiscus betacarmovirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 3023607}
+{
+  "_id": "Sf68VIAU",
+  "name": "Hibiscus betacarmovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3023607
+}

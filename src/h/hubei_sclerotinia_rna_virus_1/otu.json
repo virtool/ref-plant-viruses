@@ -1,1 +1,13 @@
-{"_id": "ksm5l6it", "name": "Hubei sclerotinia RNA virus 1", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2605950}
+{
+  "_id": "ksm5l6it",
+  "name": "Hubei sclerotinia RNA virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2605950
+}

@@ -1,6 +1,6 @@
 {
-    "id": "rmz",
-    "source_type": "isolate",
-    "source_name": "Harbin-NEFU",
-    "default": true
+  "id": "rmz",
+  "source_type": "isolate",
+  "source_name": "Harbin-NEFU",
+  "default": true
 }

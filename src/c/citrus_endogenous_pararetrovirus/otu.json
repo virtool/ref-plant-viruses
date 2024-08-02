@@ -1,1 +1,13 @@
-{"_id": "7nukHTCj", "name": "Citrus endogenous pararetrovirus", "abbreviation": "CitPRV", "schema": [{"molecule": "dsDNA", "name": "genome", "required": true}], "taxid": 1435008}
+{
+  "_id": "7nukHTCj",
+  "name": "Citrus endogenous pararetrovirus",
+  "abbreviation": "CitPRV",
+  "schema": [
+    {
+      "molecule": "dsDNA",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 1435008
+}

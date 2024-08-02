@@ -1,1 +1,13 @@
-{"_id": "XqhPDp1d", "name": "Grapevine virus N", "abbreviation": "GVN", "schema": [{"molecule": "ssRNA+", "name": "genomic", "required": true}], "taxid": 2917347}
+{
+  "_id": "XqhPDp1d",
+  "name": "Grapevine virus N",
+  "abbreviation": "GVN",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genomic",
+      "required": true
+    }
+  ],
+  "taxid": 2917347
+}

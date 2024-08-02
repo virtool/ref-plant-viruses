@@ -1,6 +1,6 @@
 {
-    "id": "gaf",
-    "source_type": "isolate",
-    "source_name": "FJ",
-    "default": true
+  "id": "gaf",
+  "source_type": "isolate",
+  "source_name": "FJ",
+  "default": true
 }

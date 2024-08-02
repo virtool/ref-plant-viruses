@@ -1,1 +1,13 @@
-{"_id": "IeKd4rUc", "name": "Soybean yellow shoot virus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2233870}
+{
+  "_id": "IeKd4rUc",
+  "name": "Soybean yellow shoot virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2233870
+}

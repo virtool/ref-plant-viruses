@@ -1,1 +1,13 @@
-{"_id": "Edib7doj", "name": "Maize-associated betaflexivirus", "abbreviation": "", "schema": [{"molecule": "ssRNA+", "name": "genome", "required": true}], "taxid": 2729193}
+{
+  "_id": "Edib7doj",
+  "name": "Maize-associated betaflexivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2729193
+}

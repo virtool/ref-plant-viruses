@@ -1,1 +1,13 @@
-{"_id": "xSOjsMpv", "name": "Gymnadenia x densiflora virus 1", "abbreviation": "", "schema": [{"molecule": "dsRNA", "name": "genome", "required": true}], "taxid": 3070916}
+{
+  "_id": "xSOjsMpv",
+  "name": "Gymnadenia x densiflora virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3070916
+}

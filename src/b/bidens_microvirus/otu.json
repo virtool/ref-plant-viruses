@@ -1,1 +1,13 @@
-{"_id": "VtwFFiVb", "name": "Bidens microvirus", "abbreviation": "", "schema": [{"molecule": "dsDNA", "name": "genome", "required": true}], "taxid": 3035537}
+{
+  "_id": "VtwFFiVb",
+  "name": "Bidens microvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsDNA",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 3035537
+}
