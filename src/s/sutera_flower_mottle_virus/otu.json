@@ -5,7 +5,7 @@
   "schema": [
     {
       "molecule": "RNA",
-      "name": "partial genome",
+      "name": "Partial",
       "required": true
     }
   ],

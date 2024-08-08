@@ -5,7 +5,7 @@
   "schema": [
     {
       "molecule": "ssRNA-",
-      "name": "segment L",
+      "name": "Segment L",
       "required": true
     },
     {

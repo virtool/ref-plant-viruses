@@ -10,7 +10,7 @@
     },
     {
       "molecule": "ssRNA-",
-      "name": "Segement N",
+      "name": "Segment N",
       "required": true
     }
   ],
