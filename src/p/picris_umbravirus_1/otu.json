@@ -5,7 +5,7 @@
   "schema": [
     {
       "molecule": "RNA",
-      "name": "genome",
+      "name": "Genome",
       "required": true
     }
   ],

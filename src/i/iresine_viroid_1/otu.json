@@ -5,7 +5,7 @@
   "schema": [
     {
       "molecule": "ssRNA+",
-      "name": "viroid",
+      "name": "Genome",
       "required": true
     }
   ],

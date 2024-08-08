@@ -4,7 +4,7 @@
   "abbreviation": "PLMVd",
   "schema": [
     {
-      "name": "Viroid",
+      "name": "Genome",
       "molecule": "ssRNA+",
       "required": true
     }
