@@ -1,6 +1,6 @@
 {
   "id": "gclb69zx",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_029051",
-  "default": true
+  "source_type": "refseq"
 }

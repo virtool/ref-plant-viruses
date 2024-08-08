@@ -1,6 +1,6 @@
 {
   "id": "brxrf0ih",
-  "source_type": "strain",
+  "default": false,
   "source_name": "Phillipines",
-  "default": false
+  "source_type": "strain"
 }

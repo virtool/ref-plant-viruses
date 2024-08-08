@@ -1,6 +1,6 @@
 {
   "id": "zr4",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "StyMaV-1 BR",
-  "default": true
+  "source_type": "isolate"
 }

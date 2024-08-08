@@ -1,6 +1,6 @@
 {
   "id": "3go",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "CMU2_DN80723_c0_g1_i1",
+  "source_type": "isolate"
 }

@@ -1,6 +1,6 @@
 {
   "id": "xczlmptj",
-  "source_type": "strain",
+  "default": false,
   "source_name": "P15",
-  "default": false
+  "source_type": "strain"
 }

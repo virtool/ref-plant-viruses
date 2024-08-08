@@ -1,6 +1,6 @@
 {
   "id": "ngm9z3j0",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "PLRV_quitoense_M1",
-  "default": false
+  "source_type": "isolate"
 }

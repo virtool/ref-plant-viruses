@@ -1,6 +1,6 @@
 {
   "id": "17nga20f",
-  "source_type": "strain",
+  "default": false,
   "source_name": "Ranchii",
-  "default": false
+  "source_type": "strain"
 }

@@ -1,6 +1,6 @@
 {
   "id": "339",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "pipe",
+  "source_type": "isolate"
 }

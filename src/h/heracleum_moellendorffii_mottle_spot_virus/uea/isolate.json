@@ -1,6 +1,6 @@
 {
   "id": "uea",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "HmH-1",
+  "source_type": "isolate"
 }

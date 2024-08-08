@@ -1,6 +1,6 @@
 {
   "id": "mgycplmo",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_012205",
-  "default": true
+  "source_type": "refseq"
 }

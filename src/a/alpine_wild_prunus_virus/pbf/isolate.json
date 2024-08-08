@@ -1,6 +1,6 @@
 {
   "id": "pbf",
-  "source_type": "isolate pb",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "Pb",
+  "source_type": "isolate"
 }

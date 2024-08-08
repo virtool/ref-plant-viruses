@@ -1,6 +1,6 @@
 {
   "id": "nbp",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "Beijing",
+  "source_type": "isolate"
 }

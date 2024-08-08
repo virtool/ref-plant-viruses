@@ -1,6 +1,6 @@
 {
   "id": "cof",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "penoy-BJ",
+  "source_type": "isolate"
 }

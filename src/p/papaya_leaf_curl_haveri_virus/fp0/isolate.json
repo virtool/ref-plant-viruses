@@ -1,6 +1,6 @@
 {
   "id": "fp0",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "PLC-32 (Haveri)",
-  "default": true
+  "source_type": "isolate"
 }

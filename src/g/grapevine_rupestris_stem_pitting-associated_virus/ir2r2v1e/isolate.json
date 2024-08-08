@@ -1,6 +1,6 @@
 {
   "id": "ir2r2v1e",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "GRSPaV-WA",
-  "default": false
+  "source_type": "isolate"
 }

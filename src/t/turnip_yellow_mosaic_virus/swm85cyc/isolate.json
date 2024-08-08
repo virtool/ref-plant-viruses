@@ -1,6 +1,6 @@
 {
   "id": "swm85cyc",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "DSMZ PV-0299",
-  "default": false
+  "source_type": "isolate"
 }

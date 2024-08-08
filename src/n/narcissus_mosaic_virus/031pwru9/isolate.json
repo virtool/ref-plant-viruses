@@ -1,6 +1,6 @@
 {
   "id": "031pwru9",
-  "source_type": "strain",
+  "default": false,
   "source_name": "New Zealand",
-  "default": false
+  "source_type": "strain"
 }

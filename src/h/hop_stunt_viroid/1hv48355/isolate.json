@@ -1,6 +1,6 @@
 {
   "id": "1hv48355",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": false
+  "default": false,
+  "source_name": "HSV-plum",
+  "source_type": "variant"
 }

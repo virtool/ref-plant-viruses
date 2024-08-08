@@ -1,6 +1,6 @@
 {
   "id": "v4zfzo5f",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": false
+  "default": false,
+  "source_name": "cucumber",
+  "source_type": "variant"
 }

@@ -1,6 +1,6 @@
 {
   "id": "8xjxk9zs",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "clone pChGhB37",
-  "default": false
+  "source_type": "isolate"
 }

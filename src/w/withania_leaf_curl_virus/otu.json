@@ -4,8 +4,8 @@
   "abbreviation": "",
   "schema": [
     {
-      "molecule": null,
-      "name": "segment DNA-A",
+      "molecule": "DNA",
+      "name": "DNA A",
       "required": true
     }
   ],

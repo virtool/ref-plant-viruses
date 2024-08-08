@@ -1,6 +1,6 @@
 {
   "id": "8jf2clqg",
-  "source_type": "strain",
+  "default": false,
   "source_name": "4",
-  "default": false
+  "source_type": "strain"
 }

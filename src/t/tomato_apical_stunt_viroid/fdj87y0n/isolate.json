@@ -1,6 +1,6 @@
 {
   "id": "fdj87y0n",
-  "source_type": "refseq",
+  "default": true,
   "source_name": "NC_001553",
-  "default": true
+  "source_type": "refseq"
 }

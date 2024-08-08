@@ -1,6 +1,6 @@
 {
   "id": "bvqf5hil",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "HG176",
-  "default": false
+  "source_type": "isolate"
 }

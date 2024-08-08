@@ -1,6 +1,6 @@
 {
   "id": "1gj3qoug",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "Club Lake",
-  "default": false
+  "source_type": "isolate"
 }

@@ -1,6 +1,6 @@
 {
   "id": "fq9",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "OC",
+  "source_type": "strain"
 }

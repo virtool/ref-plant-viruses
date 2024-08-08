@@ -1,6 +1,6 @@
 {
   "id": "x7a",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "DSMZ PV-1287",
-  "default": true
+  "source_type": "isolate"
 }

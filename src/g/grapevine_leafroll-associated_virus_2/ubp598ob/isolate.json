@@ -1,6 +1,6 @@
 {
   "id": "ubp598ob",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "GLRaV-2-SG",
-  "default": false
+  "source_type": "isolate"
 }

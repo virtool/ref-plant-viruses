@@ -1,6 +1,6 @@
 {
   "id": "x3425i1t",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_003971",
-  "default": true
+  "source_type": "refseq"
 }

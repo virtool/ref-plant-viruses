@@ -1,6 +1,6 @@
 {
   "id": "tol9r452",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_014741",
-  "default": true
+  "source_type": "refseq"
 }

@@ -1,6 +1,6 @@
 {
   "id": "iw4yq2gl",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "HAT-AU",
-  "default": false
+  "source_type": "isolate"
 }

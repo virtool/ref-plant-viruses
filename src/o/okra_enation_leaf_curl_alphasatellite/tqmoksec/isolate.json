@@ -1,6 +1,6 @@
 {
   "id": "tqmoksec",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_019944",
-  "default": true
+  "source_type": "refseq"
 }

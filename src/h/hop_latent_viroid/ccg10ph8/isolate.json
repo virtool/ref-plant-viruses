@@ -1,6 +1,6 @@
 {
   "id": "ccg10ph8",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "S4",
-  "default": false
+  "source_type": "isolate"
 }

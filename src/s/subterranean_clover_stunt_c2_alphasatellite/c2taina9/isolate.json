@@ -1,6 +1,6 @@
 {
   "id": "c2taina9",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_003814",
-  "default": true
+  "source_type": "refseq"
 }

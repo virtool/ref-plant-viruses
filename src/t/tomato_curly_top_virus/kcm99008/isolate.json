@@ -1,6 +1,6 @@
 {
   "id": "kcm99008",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "JP-Fuk-K1-09",
-  "default": true
+  "source_type": "isolate"
 }

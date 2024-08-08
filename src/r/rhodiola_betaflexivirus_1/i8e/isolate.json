@@ -1,6 +1,6 @@
 {
   "id": "i8e",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "rhodi",
+  "source_type": "isolate"
 }

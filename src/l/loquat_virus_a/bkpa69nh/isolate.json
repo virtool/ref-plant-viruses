@@ -1,6 +1,6 @@
 {
   "id": "bkpa69nh",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_077027",
-  "default": true
+  "source_type": "refseq"
 }

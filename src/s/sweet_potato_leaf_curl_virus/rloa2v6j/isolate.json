@@ -1,6 +1,6 @@
 {
   "id": "rloa2v6j",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "Fujian-fz001",
-  "default": false
+  "source_type": "isolate"
 }

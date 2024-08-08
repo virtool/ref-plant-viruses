@@ -1,6 +1,6 @@
 {
   "id": "pn446fpg",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_008579",
-  "default": true
+  "source_type": "refseq"
 }

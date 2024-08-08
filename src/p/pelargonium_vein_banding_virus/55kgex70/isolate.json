@@ -1,6 +1,6 @@
 {
   "id": "55kgex70",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_013262",
-  "default": true
+  "source_type": "refseq"
 }

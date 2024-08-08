@@ -1,6 +1,6 @@
 {
   "id": "xiq",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "NC_077103",
+  "source_type": "refseq"
 }

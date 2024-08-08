@@ -1,6 +1,6 @@
 {
   "id": "ywu",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "ISC-09",
+  "source_type": "isolate"
 }

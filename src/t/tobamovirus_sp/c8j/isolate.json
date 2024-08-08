@@ -1,6 +1,6 @@
 {
   "id": "c8j",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "strain MR233-17E/976",
-  "default": false
+  "source_type": "isolate"
 }

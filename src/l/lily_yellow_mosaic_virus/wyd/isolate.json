@@ -1,6 +1,6 @@
 {
   "id": "wyd",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "lily-bua",
+  "source_type": "isolate"
 }

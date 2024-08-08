@@ -1,6 +1,6 @@
 {
   "id": "fgc",
-  "source_type": "isolate",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "S21MP20",
+  "source_type": "isolate"
 }

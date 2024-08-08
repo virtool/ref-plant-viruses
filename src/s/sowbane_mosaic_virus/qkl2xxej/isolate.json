@@ -1,6 +1,6 @@
 {
   "id": "qkl2xxej",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "DSMZ PV-0913",
-  "default": false
+  "source_type": "isolate"
 }

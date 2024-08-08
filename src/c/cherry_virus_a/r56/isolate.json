@@ -1,6 +1,6 @@
 {
   "id": "r56",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "19SP057B",
-  "default": false
+  "source_type": "isolate"
 }

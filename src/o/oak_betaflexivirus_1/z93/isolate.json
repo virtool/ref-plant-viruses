@@ -1,6 +1,6 @@
 {
   "id": "z93",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "querc",
+  "source_type": "isolate"
 }

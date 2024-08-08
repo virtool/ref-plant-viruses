@@ -1,6 +1,6 @@
 {
   "id": "54l00000",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "ALYU-25",
-  "default": true
+  "source_type": "isolate"
 }

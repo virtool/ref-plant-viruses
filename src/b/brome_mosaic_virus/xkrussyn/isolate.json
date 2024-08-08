@@ -1,6 +1,6 @@
 {
   "id": "xkrussyn",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_002026",
-  "default": true
+  "source_type": "refseq"
 }

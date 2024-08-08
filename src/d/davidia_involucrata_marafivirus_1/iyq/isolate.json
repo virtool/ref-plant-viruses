@@ -1,6 +1,6 @@
 {
   "id": "iyq",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "david",
+  "source_type": "isolate"
 }

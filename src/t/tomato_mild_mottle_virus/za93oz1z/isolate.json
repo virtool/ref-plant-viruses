@@ -1,6 +1,6 @@
 {
   "id": "za93oz1z",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "DSMZ PV-1015",
-  "default": false
+  "source_type": "isolate"
 }

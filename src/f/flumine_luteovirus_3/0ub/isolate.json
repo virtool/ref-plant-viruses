@@ -1,6 +1,6 @@
 {
   "id": "0ub",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "CMF1_DN41860_c2_g1_i1",
+  "source_type": "isolate"
 }

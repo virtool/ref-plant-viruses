@@ -1,6 +1,6 @@
 {
   "id": "vlsriir8",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_004654",
-  "default": true
+  "source_type": "refseq"
 }

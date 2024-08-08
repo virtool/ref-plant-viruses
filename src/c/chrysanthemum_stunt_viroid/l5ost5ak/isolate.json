@@ -1,6 +1,6 @@
 {
   "id": "l5ost5ak",
-  "source_type": "strain",
+  "default": false,
   "source_name": "Dahlia isolate",
-  "default": false
+  "source_type": "strain"
 }

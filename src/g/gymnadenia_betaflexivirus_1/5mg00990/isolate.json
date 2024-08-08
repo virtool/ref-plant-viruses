@@ -1,6 +1,6 @@
 {
   "id": "5mg00990",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "gymna",
-  "default": true
+  "source_type": "isolate"
 }

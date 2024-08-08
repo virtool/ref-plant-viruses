@@ -1,11 +1,11 @@
 {
   "_id": "v0D93Clg",
-  "name": "blueberry virus S",
+  "name": "Blueberry virus S",
   "abbreviation": "BVS",
   "schema": [
     {
       "molecule": "ssRNA+",
-      "name": "genomic",
+      "name": "Genome",
       "required": true
     }
   ],

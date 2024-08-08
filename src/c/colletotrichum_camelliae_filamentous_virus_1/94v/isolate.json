@@ -1,6 +1,6 @@
 {
   "id": "94v",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "LT-3-1",
+  "source_type": "strain"
 }

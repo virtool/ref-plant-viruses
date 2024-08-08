@@ -1,6 +1,6 @@
 {
   "id": "a6l",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "arto",
+  "source_type": "isolate"
 }

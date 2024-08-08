@@ -1,6 +1,6 @@
 {
   "id": "9p2",
-  "source_type": "isolate",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "02923 HTS 1",
+  "source_type": "isolate"
 }

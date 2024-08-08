@@ -1,6 +1,6 @@
 {
   "id": "ls9",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "BOL20SW",
-  "default": true
+  "source_type": "isolate"
 }

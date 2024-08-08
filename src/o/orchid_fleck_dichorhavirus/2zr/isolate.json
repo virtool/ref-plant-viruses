@@ -1,6 +1,6 @@
 {
   "id": "2zr",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "Alcea",
+  "source_type": "strain"
 }

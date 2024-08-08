@@ -1,6 +1,6 @@
 {
   "id": "41kbip5l",
-  "source_type": "strain",
+  "default": false,
   "source_name": "Iran",
-  "default": false
+  "source_type": "strain"
 }

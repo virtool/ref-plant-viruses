@@ -1,6 +1,6 @@
 {
   "id": "1rpbisb1",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "DSMZ PV-0429",
-  "default": false
+  "source_type": "isolate"
 }

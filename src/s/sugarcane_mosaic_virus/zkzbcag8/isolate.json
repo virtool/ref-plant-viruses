@@ -1,6 +1,6 @@
 {
   "id": "zkzbcag8",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "F3S2",
-  "default": false
+  "source_type": "isolate"
 }

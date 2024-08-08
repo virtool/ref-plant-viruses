@@ -1,6 +1,6 @@
 {
   "id": "fpi332yo",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_003808",
-  "default": true
+  "source_type": "refseq"
 }

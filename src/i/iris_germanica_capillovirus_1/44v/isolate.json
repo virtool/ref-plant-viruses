@@ -1,6 +1,6 @@
 {
   "id": "44v",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "iri",
+  "source_type": "isolate"
 }

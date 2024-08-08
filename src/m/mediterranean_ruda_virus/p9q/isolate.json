@@ -1,6 +1,6 @@
 {
   "id": "p9q",
-  "source_type": "isoate",
+  "default": true,
   "source_name": "ParP17",
-  "default": true
+  "source_type": "isolate"
 }

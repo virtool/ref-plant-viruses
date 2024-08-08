@@ -1,6 +1,6 @@
 {
   "id": "3c8",
-  "source_type": "isolatwe",
+  "default": true,
   "source_name": "YLJ",
-  "default": true
+  "source_type": "isolate"
 }

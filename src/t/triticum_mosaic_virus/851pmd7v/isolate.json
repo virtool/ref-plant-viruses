@@ -1,6 +1,6 @@
 {
   "id": "851pmd7v",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "U06-123",
-  "default": true
+  "source_type": "isolate"
 }

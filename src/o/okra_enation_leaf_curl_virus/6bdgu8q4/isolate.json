@@ -1,6 +1,6 @@
 {
   "id": "6bdgu8q4",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "EL37",
-  "default": true
+  "source_type": "isolate"
 }

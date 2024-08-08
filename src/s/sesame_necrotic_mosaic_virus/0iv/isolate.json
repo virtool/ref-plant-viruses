@@ -1,6 +1,6 @@
 {
   "id": "0iv",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "Wuhan",
+  "source_type": "isolate"
 }

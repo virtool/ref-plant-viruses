@@ -1,6 +1,6 @@
 {
   "id": "jk57kpsd",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "WA",
-  "default": false
+  "source_type": "isolate"
 }

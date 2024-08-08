@@ -1,6 +1,6 @@
 {
   "id": "3ib4ehs3",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "SK20",
-  "default": false
+  "source_type": "isolate"
 }

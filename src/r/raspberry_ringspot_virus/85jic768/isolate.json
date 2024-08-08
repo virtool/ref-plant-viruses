@@ -1,6 +1,6 @@
 {
   "id": "85jic768",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "Lavandula 'Grosso",
-  "default": false
+  "source_type": "isolate"
 }

@@ -1,6 +1,6 @@
 {
   "id": "pnpw7osw",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "Diskclub-36",
-  "default": true
+  "source_type": "isolate"
 }

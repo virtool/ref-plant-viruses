@@ -1,6 +1,6 @@
 {
   "id": "5u6lgcu5",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "Kyoto-2",
-  "default": false
+  "source_type": "isolate"
 }

@@ -1,6 +1,6 @@
 {
   "id": "d2swhzxk",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "Karnataka",
-  "default": false
+  "source_type": "isolate"
 }

@@ -4,8 +4,8 @@
   "abbreviation": "",
   "schema": [
     {
-      "molecule": null,
-      "name": "genome",
+      "molecule": "RNA",
+      "name": "Genome",
       "required": true
     }
   ],

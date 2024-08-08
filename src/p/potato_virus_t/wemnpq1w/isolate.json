@@ -1,6 +1,6 @@
 {
   "id": "wemnpq1w",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "Oruro 26",
-  "default": false
+  "source_type": "isolate"
 }

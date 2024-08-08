@@ -1,6 +1,6 @@
 {
   "id": "ui75ib8y",
-  "source_type": "strain",
+  "default": false,
   "source_name": "Karnataka",
-  "default": false
+  "source_type": "strain"
 }

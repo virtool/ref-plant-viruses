@@ -1,6 +1,6 @@
 {
   "id": "qauj0ayg",
-  "source_type": "strain",
+  "default": false,
   "source_name": "Nagasaki",
-  "default": false
+  "source_type": "strain"
 }

@@ -1,6 +1,6 @@
 {
   "id": "yptevvs9",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_007213",
-  "default": true
+  "source_type": "refseq"
 }

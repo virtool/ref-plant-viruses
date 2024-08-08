@@ -1,6 +1,6 @@
 {
-  "id": "wfg",
-  "source_type": "isolate",
+  "id": "wfg00000",
+  "default": false,
   "source_name": "Yongha-ri, Samcheok",
-  "default": true
+  "source_type": "isolate"
 }

@@ -1,6 +1,6 @@
 {
   "id": "b6zg7fod",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "Goldfinger",
-  "default": false
+  "source_type": "isolate"
 }

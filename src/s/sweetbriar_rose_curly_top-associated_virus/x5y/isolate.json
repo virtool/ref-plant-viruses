@@ -1,6 +1,6 @@
 {
   "id": "x5y",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "Simons Hill",
-  "default": true
+  "source_type": "isolate"
 }

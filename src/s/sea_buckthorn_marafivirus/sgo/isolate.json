@@ -1,6 +1,6 @@
 {
   "id": "sgo",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "BU1",
-  "default": true
+  "source_type": "isolate"
 }

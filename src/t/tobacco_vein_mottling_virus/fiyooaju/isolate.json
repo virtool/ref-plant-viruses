@@ -1,6 +1,6 @@
 {
   "id": "fiyooaju",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "VAM-resistance-breaking strain (TVMV-S)",
-  "default": false
+  "source_type": "isolate"
 }

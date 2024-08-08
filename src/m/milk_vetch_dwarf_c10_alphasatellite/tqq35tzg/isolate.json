@@ -1,6 +1,6 @@
 {
   "id": "tqq35tzg",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_003647",
-  "default": true
+  "source_type": "refseq"
 }

@@ -1,6 +1,6 @@
 {
   "id": "lep",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "Manaus",
-  "default": true
+  "source_type": "isolate"
 }

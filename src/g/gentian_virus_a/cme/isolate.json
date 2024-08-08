@@ -1,6 +1,6 @@
 {
   "id": "cme",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "O",
+  "source_type": "isolate"
 }

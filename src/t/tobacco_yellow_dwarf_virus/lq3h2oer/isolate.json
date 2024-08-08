@@ -1,6 +1,6 @@
 {
   "id": "lq3h2oer",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "TYDV-A_AU_2561_2010",
-  "default": false
+  "source_type": "isolate"
 }

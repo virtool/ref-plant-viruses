@@ -1,6 +1,6 @@
 {
   "id": "du1nhfj5",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "PAMV183",
-  "default": false
+  "source_type": "isolate"
 }

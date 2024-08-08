@@ -1,6 +1,6 @@
 {
   "id": "ylgbpnlh",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_011542",
-  "default": true
+  "source_type": "refseq"
 }

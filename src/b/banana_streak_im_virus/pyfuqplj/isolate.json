@@ -1,6 +1,6 @@
 {
   "id": "pyfuqplj",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_015507",
-  "default": true
+  "source_type": "refseq"
 }

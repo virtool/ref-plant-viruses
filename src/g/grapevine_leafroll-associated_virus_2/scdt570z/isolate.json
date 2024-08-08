@@ -1,6 +1,6 @@
 {
   "id": "scdt570z",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "3138-07",
-  "default": false
+  "source_type": "isolate"
 }

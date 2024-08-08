@@ -1,6 +1,6 @@
 {
   "id": "v79asybg",
-  "source_type": "strain",
+  "default": false,
   "source_name": "cachexia",
-  "default": false
+  "source_type": "strain"
 }

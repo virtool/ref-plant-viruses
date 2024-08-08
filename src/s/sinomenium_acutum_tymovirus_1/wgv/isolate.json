@@ -1,6 +1,6 @@
 {
   "id": "wgv",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "sinom",
+  "source_type": "isolate"
 }

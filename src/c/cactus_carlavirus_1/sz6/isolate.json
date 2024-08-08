@@ -1,6 +1,6 @@
 {
   "id": "sz6",
-  "source_type": "unknown",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "NC_077021",
+  "source_type": "refseq"
 }

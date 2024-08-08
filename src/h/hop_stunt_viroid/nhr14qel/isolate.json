@@ -1,6 +1,6 @@
 {
   "id": "nhr14qel",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "HSVd-apricot-v6",
-  "default": false
+  "source_type": "isolate"
 }

@@ -1,6 +1,6 @@
 {
   "id": "xnc986tc",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "13C297A",
-  "default": false
+  "source_type": "isolate"
 }

@@ -1,6 +1,6 @@
 {
   "id": "mdl",
-  "source_type": "isolate",
-  "source_name": "",
-  "default": true
+  "default": true,
+  "source_name": "Cam sin",
+  "source_type": "isolate"
 }

@@ -1,6 +1,6 @@
 {
   "id": "hsv",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "BER19SW1",
-  "default": true
+  "source_type": "isolate"
 }

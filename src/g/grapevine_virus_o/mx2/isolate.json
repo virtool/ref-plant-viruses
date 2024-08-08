@@ -1,6 +1,6 @@
 {
   "id": "mx2",
-  "source_type": "strain",
+  "default": false,
   "source_name": "RSA-28-12_Roter_Zierfandler_GVO",
-  "default": false
+  "source_type": "strain"
 }

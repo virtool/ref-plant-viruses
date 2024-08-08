@@ -1,6 +1,6 @@
 {
   "id": "bop",
-  "source_type": "isoalte",
+  "default": true,
   "source_name": "PFR",
-  "default": true
+  "source_type": "isolate"
 }
