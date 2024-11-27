@@ -1,0 +1,13 @@
+{
+  "_id": "2u5DY9xh",
+  "name": "Bidens pilosa tombusvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2739382
+}

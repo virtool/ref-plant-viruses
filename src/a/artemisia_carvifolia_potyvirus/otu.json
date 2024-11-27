@@ -1,0 +1,13 @@
+{
+  "_id": "zVMaKeWE",
+  "name": "Artemisia carvifolia potyvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2739374
+}

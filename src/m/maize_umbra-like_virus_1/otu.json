@@ -1,0 +1,13 @@
+{
+  "_id": "KXrzdozU",
+  "name": "Maize umbra-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3015214
+}

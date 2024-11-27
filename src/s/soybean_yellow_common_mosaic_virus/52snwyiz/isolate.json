@@ -1,6 +1,6 @@
 {
   "id": "52snwyiz",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "MAFF 307035",
-  "default": false
+  "source_type": "isolate"
 }

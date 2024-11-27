@@ -1,0 +1,13 @@
+{
+  "_id": "dYTa0LTM",
+  "name": "Plant associated waikavirus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2950865
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "piD4S6mP",
+  "name": "Blackberry dwarf-associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3047165
+}

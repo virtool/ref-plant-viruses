@@ -1,6 +1,6 @@
 {
   "id": "khdmrivz",
-  "source_type": "strain",
+  "default": false,
   "source_name": "Seedling Yellows",
-  "default": false
+  "source_type": "strain"
 }

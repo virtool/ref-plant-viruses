@@ -1,0 +1,13 @@
+{
+  "_id": "e0inCOiW",
+  "name": "Picris umbravirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "RNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2950853
+}

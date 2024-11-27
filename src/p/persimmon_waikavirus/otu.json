@@ -1,0 +1,13 @@
+{
+  "_id": "rV1hwCx1",
+  "name": "Persimmon waikavirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2590572
+}

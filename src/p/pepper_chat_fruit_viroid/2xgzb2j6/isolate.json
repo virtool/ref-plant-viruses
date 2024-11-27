@@ -1,6 +1,6 @@
 {
   "id": "2xgzb2j6",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "CR14-8c1",
-  "default": false
+  "source_type": "isolate"
 }

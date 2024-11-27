@@ -1,0 +1,13 @@
+{
+  "_id": "q4ShgQEB",
+  "name": "Ullucus potyvirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2491951
+}

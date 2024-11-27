@@ -1,0 +1,13 @@
+{
+  "_id": "RCReiyUI",
+  "name": "Apple luteovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2170544
+}

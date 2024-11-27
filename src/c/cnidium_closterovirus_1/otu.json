@@ -1,0 +1,13 @@
+{
+  "_id": "pUqYn29o",
+  "name": "Cnidium closterovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2927760
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "LYOIsVa5",
+  "name": "Karelinia prunevirus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2593965
+}

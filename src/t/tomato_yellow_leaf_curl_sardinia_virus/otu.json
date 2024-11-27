@@ -1,0 +1,13 @@
+{
+  "_id": "CxMGVDyU",
+  "name": "Tomato yellow leaf curl Sardinia virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 123735
+}

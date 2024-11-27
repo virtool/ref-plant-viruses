@@ -1,0 +1,13 @@
+{
+  "_id": "Mbu69NKM",
+  "name": "Garlic yellow stripe associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2806893
+}

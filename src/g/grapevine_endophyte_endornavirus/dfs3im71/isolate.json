@@ -1,6 +1,6 @@
 {
   "id": "dfs3im71",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_019493",
-  "default": true
+  "source_type": "refseq"
 }

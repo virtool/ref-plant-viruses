@@ -1,0 +1,13 @@
+{
+  "_id": "dfDve4ss",
+  "name": "Polianthes potyvirus B",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2593927
+}

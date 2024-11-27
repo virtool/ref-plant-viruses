@@ -1,0 +1,13 @@
+{
+  "_id": "LDWe6mpJ",
+  "name": "Cnidium virus Z",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3115203
+}

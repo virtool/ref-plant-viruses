@@ -1,0 +1,13 @@
+{
+  "_id": "CquxHGHQ",
+  "name": "Grapevine umbra-like virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2963366
+}

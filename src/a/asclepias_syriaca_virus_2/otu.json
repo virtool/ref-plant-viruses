@@ -1,0 +1,13 @@
+{
+  "_id": "SZA7vzf7",
+  "name": "Asclepias syriaca virus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2793723
+}

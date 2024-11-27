@@ -1,0 +1,13 @@
+{
+  "_id": "5wWM2dw5",
+  "name": "Bacopa monnieri virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2813287
+}

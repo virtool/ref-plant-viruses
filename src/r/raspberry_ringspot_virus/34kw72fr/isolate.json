@@ -1,6 +1,6 @@
 {
   "id": "34kw72fr",
-  "source_type": "strain",
+  "default": true,
   "source_name": "cherry",
-  "default": true
+  "source_type": "strain"
 }

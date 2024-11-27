@@ -1,0 +1,13 @@
+{
+  "_id": "tuXdTmUY",
+  "name": "Pseudostellaria heterophylla carlavirus 3",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2982812
+}

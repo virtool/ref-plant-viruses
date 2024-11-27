@@ -1,0 +1,13 @@
+{
+  "_id": "uubvKjtr",
+  "name": "Rice Tombus-like virus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2735225
+}

@@ -1,6 +1,6 @@
 {
   "id": "vg4gsd48",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_006064",
-  "default": true
+  "source_type": "refseq"
 }

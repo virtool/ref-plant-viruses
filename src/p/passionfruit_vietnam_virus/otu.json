@@ -1,0 +1,13 @@
+{
+  "_id": "QGbzQKFR",
+  "name": "Passionfruit Vietnam virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2490442
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "8eGv5vyl",
+  "name": "Trachyspermum ammi polerovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2885089
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "mVdXMXud",
+  "name": "Naranjilla chlorotic mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2073044
+}

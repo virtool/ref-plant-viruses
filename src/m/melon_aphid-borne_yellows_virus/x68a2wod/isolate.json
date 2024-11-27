@@ -1,6 +1,6 @@
 {
   "id": "x68a2wod",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_010809",
-  "default": true
+  "source_type": "refseq"
 }

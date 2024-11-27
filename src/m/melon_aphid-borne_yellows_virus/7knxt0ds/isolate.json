@@ -1,6 +1,6 @@
 {
   "id": "7knxt0ds",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "JU-kr3",
-  "default": false
+  "source_type": "isolate"
 }

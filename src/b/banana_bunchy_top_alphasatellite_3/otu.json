@@ -1,0 +1,13 @@
+{
+  "_id": "MLdC35MP",
+  "name": "Banana bunchy top alphasatellite 3",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2169723
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "WE16K5ky",
+  "name": "Clivia carlavirus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2838077
+}

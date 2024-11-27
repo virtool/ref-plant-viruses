@@ -1,0 +1,13 @@
+{
+  "_id": "5JVavmzf",
+  "name": "Papaya umbra virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1594461
+}

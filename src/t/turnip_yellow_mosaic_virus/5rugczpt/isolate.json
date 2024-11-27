@@ -1,6 +1,6 @@
 {
   "id": "5rugczpt",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "OX-NGS",
-  "default": false
+  "source_type": "isolate"
 }

@@ -1,0 +1,13 @@
+{
+  "_id": "EwqDUJ5e",
+  "name": "Lygodium japonicum potyvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2738905
+}

@@ -1,6 +1,6 @@
 {
   "id": "hoprkcna",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_015229",
-  "default": true
+  "source_type": "refseq"
 }

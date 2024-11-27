@@ -1,0 +1,13 @@
+{
+  "_id": "QPUNI7Bi",
+  "name": "Chrysanthemum virus D",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3078488
+}

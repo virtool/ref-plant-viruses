@@ -1,0 +1,13 @@
+{
+  "_id": "Bh3sNRU8",
+  "name": "Sowthistle yellow vein virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2358214
+}

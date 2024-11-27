@@ -1,0 +1,13 @@
+{
+  "_id": "22T2fX9s",
+  "name": "Phellodendron yellow ringspot associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2364130
+}

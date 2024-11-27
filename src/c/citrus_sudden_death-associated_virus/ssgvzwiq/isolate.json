@@ -1,6 +1,6 @@
 {
   "id": "ssgvzwiq",
-  "source_type": "strain",
+  "default": false,
   "source_name": "CSLR02",
-  "default": false
+  "source_type": "strain"
 }

@@ -1,0 +1,13 @@
+{
+  "_id": "pulnXDVE",
+  "name": "Aristotelia chilensis virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1476980
+}

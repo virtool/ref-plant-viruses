@@ -1,0 +1,13 @@
+{
+  "_id": "b9JHPChF",
+  "name": "Sichuan sediment betaflexivirus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2824415
+}

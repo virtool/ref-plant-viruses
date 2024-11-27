@@ -1,0 +1,13 @@
+{
+  "_id": "SjhUFf0J",
+  "name": "Lotus latent virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2570407
+}

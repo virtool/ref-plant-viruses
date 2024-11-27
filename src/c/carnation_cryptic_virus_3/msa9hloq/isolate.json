@@ -1,6 +1,6 @@
 {
   "id": "msa9hloq",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_034513",
-  "default": true
+  "source_type": "refseq"
 }

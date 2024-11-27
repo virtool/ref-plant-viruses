@@ -1,0 +1,13 @@
+{
+  "_id": "MoTBUveu",
+  "name": "Agave vitivirus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2593961
+}

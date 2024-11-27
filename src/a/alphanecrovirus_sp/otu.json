@@ -1,0 +1,13 @@
+{
+  "_id": "P3no6zEl",
+  "name": "Alphanecrovirus sp",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2809135
+}

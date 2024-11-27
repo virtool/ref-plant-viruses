@@ -1,0 +1,13 @@
+{
+  "_id": "msQxcTRU",
+  "name": "Hedge mustard mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3022131
+}

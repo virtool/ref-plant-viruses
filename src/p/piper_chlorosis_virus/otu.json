@@ -1,0 +1,13 @@
+{
+  "_id": "qHAay5fM",
+  "name": "Piper chlorosis virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2010222
+}

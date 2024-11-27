@@ -1,11 +1,11 @@
 {
-  "_id": "d4a26c33",
+  "_id": "1gd0oyu4",
   "name": "Cotton leaf curl virus betasatellite",
   "abbreviation": "CLCuVB",
   "schema": [
     {
-      "name": "Betasatellite",
       "molecule": "ssDNA",
+      "name": "Betasatellite",
       "required": true
     }
   ],

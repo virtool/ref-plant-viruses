@@ -1,6 +1,6 @@
 {
   "id": "vijvr8kn",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "16SP029",
-  "default": true
+  "source_type": "isolate"
 }

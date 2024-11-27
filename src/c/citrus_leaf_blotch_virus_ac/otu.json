@@ -1,0 +1,13 @@
+{
+  "_id": "I3cFOhzx",
+  "name": "Citrus leaf blotch virus Ac",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2507947
+}

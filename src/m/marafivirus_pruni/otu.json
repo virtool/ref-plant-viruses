@@ -1,0 +1,13 @@
+{
+  "_id": "xjcrzy9L",
+  "name": "Marafivirus pruni",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3052333
+}

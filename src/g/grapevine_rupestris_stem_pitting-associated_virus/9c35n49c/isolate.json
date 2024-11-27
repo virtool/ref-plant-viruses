@@ -1,6 +1,6 @@
 {
   "id": "9c35n49c",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "16GVP002B",
-  "default": false
+  "source_type": "isolate"
 }

@@ -1,0 +1,13 @@
+{
+  "_id": "lYKWqnFF",
+  "name": "Prunus mahaleb associated luteovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2974073
+}

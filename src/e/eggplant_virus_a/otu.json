@@ -1,0 +1,13 @@
+{
+  "_id": "ZCthO01Y",
+  "name": "Eggplant virus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2744503
+}

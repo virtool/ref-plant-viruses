@@ -1,6 +1,6 @@
 {
   "id": "0di6jhs3",
-  "source_type": "genbank",
-  "source_name": "NC_038852",
-  "default": true
+  "default": true,
+  "source_name": "SEQISO",
+  "source_type": "strain"
 }

@@ -1,6 +1,6 @@
 {
   "id": "lv5gpyn5",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_003473",
-  "default": true
+  "source_type": "refseq"
 }

@@ -1,0 +1,13 @@
+{
+  "_id": "uU0bFPDG",
+  "name": "Xinjiang betaflexivirus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2824529
+}

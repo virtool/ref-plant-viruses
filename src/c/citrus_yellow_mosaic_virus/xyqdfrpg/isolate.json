@@ -1,6 +1,6 @@
 {
   "id": "xyqdfrpg",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "Nagri",
-  "default": false
+  "source_type": "isolate"
 }

@@ -1,0 +1,13 @@
+{
+  "_id": "hrOZWmXX",
+  "name": "Epiphyllum virus 4",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2713640
+}

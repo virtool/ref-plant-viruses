@@ -1,0 +1,13 @@
+{
+  "_id": "Ecp2hMAu",
+  "name": "Sutera flower mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "RNA",
+      "name": "Partial",
+      "required": true
+    }
+  ],
+  "taxid": 2931829
+}

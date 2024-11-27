@@ -1,0 +1,13 @@
+{
+  "_id": "HuRq18U6",
+  "name": "Grapevine-associated caulimovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2768782
+}

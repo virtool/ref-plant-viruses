@@ -1,0 +1,13 @@
+{
+  "_id": "SXEDLpkv",
+  "name": "Sorghum bicolor marafivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2713209
+}

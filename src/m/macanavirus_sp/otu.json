@@ -1,0 +1,13 @@
+{
+  "_id": "lzBPwnCL",
+  "name": "Macanavirus sp",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2809538
+}

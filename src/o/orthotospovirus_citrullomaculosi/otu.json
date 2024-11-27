@@ -1,0 +1,23 @@
+{
+  "_id": "14926dec",
+  "name": "Orthotospovirus citrullomaculosi",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "RNA L",
+      "molecule": "ssRNA-",
+      "required": true
+    },
+    {
+      "name": "RNA M",
+      "molecule": "ssRNA-",
+      "required": true
+    },
+    {
+      "name": "RNA S",
+      "molecule": "ssRNA-",
+      "required": true
+    }
+  ],
+  "taxid": 3052571
+}

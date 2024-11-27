@@ -1,0 +1,13 @@
+{
+  "_id": "N9oaWAgX",
+  "name": "Grapevine pararetrovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2996761
+}

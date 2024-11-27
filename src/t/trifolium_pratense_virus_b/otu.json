@@ -1,0 +1,13 @@
+{
+  "_id": "D0XlrTGm",
+  "name": "Trifolium pratense virus B",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2448907
+}

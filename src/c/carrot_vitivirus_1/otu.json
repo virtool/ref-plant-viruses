@@ -1,0 +1,13 @@
+{
+  "_id": "eb0jPfw8",
+  "name": "Carrot vitivirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3051702
+}

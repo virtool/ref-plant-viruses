@@ -1,6 +1,6 @@
 {
   "id": "rnbfoxes",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_015553",
-  "default": true
+  "source_type": "refseq"
 }

@@ -1,0 +1,13 @@
+{
+  "_id": "76ypKxOs",
+  "name": "Pepper yellows virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 698400
+}

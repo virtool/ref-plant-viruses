@@ -1,6 +1,6 @@
 {
   "id": "98m89smu",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "ATCC PV651",
-  "default": false
+  "source_type": "isolate"
 }

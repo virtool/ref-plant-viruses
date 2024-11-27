@@ -1,0 +1,13 @@
+{
+  "_id": "hpUjHKZM",
+  "name": "Tamarillo fruit ring virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2862336
+}

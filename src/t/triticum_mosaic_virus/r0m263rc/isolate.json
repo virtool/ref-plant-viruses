@@ -1,6 +1,6 @@
 {
   "id": "r0m263rc",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "KSlct2017",
-  "default": false
+  "source_type": "isolate"
 }

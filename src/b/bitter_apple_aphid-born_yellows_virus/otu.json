@@ -1,0 +1,13 @@
+{
+  "_id": "hLhRZjDp",
+  "name": "Bitter apple aphid-born yellows virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3077960
+}

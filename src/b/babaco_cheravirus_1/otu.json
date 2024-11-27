@@ -1,0 +1,13 @@
+{
+  "_id": "oW4VFvJx",
+  "name": "Babaco cheravirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2760409
+}

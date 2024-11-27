@@ -1,6 +1,6 @@
 {
   "id": "tsc73uow",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "DSMZ PV-0340",
-  "default": false
+  "source_type": "isolate"
 }

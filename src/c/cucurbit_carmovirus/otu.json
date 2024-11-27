@@ -1,0 +1,13 @@
+{
+  "_id": "f05J9GS9",
+  "name": "Cucurbit carmovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3022883
+}

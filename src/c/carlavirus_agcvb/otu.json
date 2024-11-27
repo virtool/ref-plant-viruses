@@ -1,0 +1,13 @@
+{
+  "_id": "IPpD2R4X",
+  "name": "Carlavirus AgCVB",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3059827
+}

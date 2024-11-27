@@ -1,0 +1,13 @@
+{
+  "_id": "YN3TlBKw",
+  "name": "Adenium obesum virus X",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3074438
+}

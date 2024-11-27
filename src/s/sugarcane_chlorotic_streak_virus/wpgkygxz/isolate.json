@@ -1,6 +1,6 @@
 {
   "id": "wpgkygxz",
-  "source_type": "isolate",
+  "default": true,
   "source_name": "Sc10-SR-1",
-  "default": false
+  "source_type": "isolate"
 }

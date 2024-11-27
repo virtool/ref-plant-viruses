@@ -1,0 +1,13 @@
+{
+  "_id": "3BOBVeiK",
+  "name": "Cactus carlavirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2600160
+}

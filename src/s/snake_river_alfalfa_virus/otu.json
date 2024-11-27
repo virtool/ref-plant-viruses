@@ -1,0 +1,13 @@
+{
+  "_id": "XQuJvyCq",
+  "name": "Snake River alfalfa virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2953083
+}

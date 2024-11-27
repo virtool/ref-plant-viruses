@@ -1,0 +1,13 @@
+{
+  "_id": "ILoKTi0U",
+  "name": "Plumbago necrotic spot associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3075549
+}

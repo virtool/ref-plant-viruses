@@ -1,6 +1,6 @@
 {
   "id": "cst0w3iz",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "LChV-1_Ponferrada",
-  "default": false
+  "source_type": "isolate"
 }

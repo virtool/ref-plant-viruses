@@ -1,0 +1,13 @@
+{
+  "_id": "NvdbkoIr",
+  "name": "Polygonatum kingianum virus 4",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2715712
+}

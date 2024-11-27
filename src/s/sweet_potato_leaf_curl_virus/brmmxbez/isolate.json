@@ -1,6 +1,6 @@
 {
   "id": "brmmxbez",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "SPLCV-US[StV:10]",
-  "default": false
+  "source_type": "isolate"
 }

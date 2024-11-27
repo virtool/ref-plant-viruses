@@ -1,6 +1,6 @@
 {
   "id": "imq5ikay",
-  "source_type": "genotype",
-  "source_name": "4",
-  "default": true
+  "default": true,
+  "source_name": "CbVd 4-1",
+  "source_type": "genotype"
 }

@@ -1,0 +1,13 @@
+{
+  "_id": "eEjXPD3b",
+  "name": "Snake melon asteroid mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 870588
+}

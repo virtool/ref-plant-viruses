@@ -1,6 +1,6 @@
 {
   "id": "qq38obx8",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "HSVd-WA-1",
-  "default": false
+  "source_type": "isolate"
 }

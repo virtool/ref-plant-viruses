@@ -1,0 +1,13 @@
+{
+  "_id": "MbzL61My",
+  "name": "Iresine viroid 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 53193
+}

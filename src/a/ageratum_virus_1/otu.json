@@ -1,0 +1,13 @@
+{
+  "_id": "4wF1TfgT",
+  "name": "Ageratum virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "RNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2992866
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "IlJgsnli",
+  "name": "Banana bunchy top alphasatellite 6",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 29322
+}

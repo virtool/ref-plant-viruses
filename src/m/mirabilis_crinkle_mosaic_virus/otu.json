@@ -1,0 +1,13 @@
+{
+  "_id": "L0ERkEa4",
+  "name": "Mirabilis crinkle mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2775266
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "FNqVnMlo",
+  "name": "Lettuce waikavirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2749299
+}

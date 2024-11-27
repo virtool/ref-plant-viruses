@@ -1,0 +1,13 @@
+{
+  "_id": "i9GRXJ9Y",
+  "name": "Luffa aegyptiaca potyvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2767807
+}

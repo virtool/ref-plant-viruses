@@ -1,0 +1,13 @@
+{
+  "_id": "Ml9RQdwu",
+  "name": "Cacao red vein-banding virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2506097
+}

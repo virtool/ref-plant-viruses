@@ -1,0 +1,13 @@
+{
+  "_id": "mxV5caHb",
+  "name": "Rice Tombus-like virus 3",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2735226
+}

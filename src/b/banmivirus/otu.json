@@ -1,0 +1,13 @@
+{
+  "_id": "lW9OIYcS",
+  "name": "Banmivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2946817
+}

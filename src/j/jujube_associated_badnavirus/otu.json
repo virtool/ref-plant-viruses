@@ -1,0 +1,13 @@
+{
+  "_id": "Rwb59qXT",
+  "name": "Jujube associated badnavirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2761560
+}

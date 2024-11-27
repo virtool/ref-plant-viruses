@@ -1,6 +1,6 @@
 {
   "id": "ghvlfmtm",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_001625",
-  "default": true
+  "source_type": "refseq"
 }

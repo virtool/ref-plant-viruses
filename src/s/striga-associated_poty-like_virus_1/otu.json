@@ -1,0 +1,13 @@
+{
+  "_id": "jidHP0hu",
+  "name": "Striga-associated poty-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2861249
+}

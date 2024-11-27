@@ -1,0 +1,18 @@
+{
+  "_id": "z3EFvJIU",
+  "name": "Cucurbitaria piceae virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1770615
+}

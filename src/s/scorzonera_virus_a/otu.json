@@ -1,0 +1,13 @@
+{
+  "_id": "R9KIT33z",
+  "name": "Scorzonera virus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2871166
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "YRCXfm1f",
+  "name": "Cucurbita moschata potyvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2740139
+}

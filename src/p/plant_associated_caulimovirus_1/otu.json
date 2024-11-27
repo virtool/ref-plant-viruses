@@ -1,0 +1,13 @@
+{
+  "_id": "5kn8GeRO",
+  "name": "Plant associated caulimovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2950857
+}

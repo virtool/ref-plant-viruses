@@ -1,0 +1,43 @@
+{
+  "_id": "q4tdrgvi",
+  "name": "Emaravirus rosae",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA-",
+      "name": "RNA 7",
+      "required": true
+    }
+  ],
+  "taxid": 1980433
+}

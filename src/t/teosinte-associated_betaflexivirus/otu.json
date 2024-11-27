@@ -1,0 +1,13 @@
+{
+  "_id": "3P3dqNQO",
+  "name": "Teosinte-associated betaflexivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2916411
+}

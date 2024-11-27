@@ -1,6 +1,6 @@
 {
   "id": "90t9k67s",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "16GVP029B",
-  "default": false
+  "source_type": "isolate"
 }

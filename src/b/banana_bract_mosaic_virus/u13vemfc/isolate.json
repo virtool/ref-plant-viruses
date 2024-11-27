@@ -1,6 +1,6 @@
 {
   "id": "u13vemfc",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_009745",
-  "default": true
+  "source_type": "refseq"
 }

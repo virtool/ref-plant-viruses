@@ -1,0 +1,13 @@
+{
+  "_id": "2gfTkrKi",
+  "name": "Sweet potato virus F",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2711145
+}

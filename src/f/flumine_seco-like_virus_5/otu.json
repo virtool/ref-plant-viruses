@@ -1,0 +1,13 @@
+{
+  "_id": "BpEnStSM",
+  "name": "Flumine seco-like virus 5",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2941484
+}

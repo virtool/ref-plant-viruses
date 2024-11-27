@@ -1,0 +1,13 @@
+{
+  "_id": "lvAtF9NL",
+  "name": "Hibiscus virus X",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3119439
+}

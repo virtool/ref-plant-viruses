@@ -1,0 +1,13 @@
+{
+  "_id": "cpJXTTFy",
+  "name": "Polygonatum kingianum virus 5",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2836143
+}

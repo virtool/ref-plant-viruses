@@ -1,0 +1,13 @@
+{
+  "_id": "IkTFSHnn",
+  "name": "Crow-dipper mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2683328
+}

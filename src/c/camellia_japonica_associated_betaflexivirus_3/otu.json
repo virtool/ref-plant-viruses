@@ -1,0 +1,13 @@
+{
+  "_id": "sILEVVcj",
+  "name": "Camellia japonica associated betaflexivirus 3",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2686306
+}

@@ -1,6 +1,6 @@
 {
   "id": "dt80fqlo",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "GLV2 1050-02",
-  "default": false
+  "source_type": "isolate"
 }

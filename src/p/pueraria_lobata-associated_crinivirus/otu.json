@@ -1,0 +1,18 @@
+{
+  "_id": "XFGAjXar",
+  "name": "Pueraria lobata-associated crinivirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 2944625
+}

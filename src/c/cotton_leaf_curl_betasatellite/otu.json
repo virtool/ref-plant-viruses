@@ -1,11 +1,11 @@
 {
-  "_id": "faac943f",
+  "_id": "u19rhuee",
   "name": "Cotton leaf curl betasatellite",
   "abbreviation": "CLCuB",
   "schema": [
     {
-      "name": "Betasatellite",
       "molecule": "ssDNA",
+      "name": "Betasatellite",
       "required": true
     }
   ],

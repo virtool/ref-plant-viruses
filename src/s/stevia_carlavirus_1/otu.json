@@ -1,0 +1,13 @@
+{
+  "_id": "sMH21X4Y",
+  "name": "Stevia carlavirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2794421
+}

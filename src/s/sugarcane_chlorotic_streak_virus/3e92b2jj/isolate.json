@@ -1,6 +1,6 @@
 {
   "id": "3e92b2jj",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "Sc10-SR-6",
-  "default": false
+  "source_type": "isolate"
 }

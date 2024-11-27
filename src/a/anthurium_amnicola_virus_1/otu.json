@@ -1,0 +1,13 @@
+{
+  "_id": "2Nl5AB3j",
+  "name": "Anthurium amnicola virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2793721
+}

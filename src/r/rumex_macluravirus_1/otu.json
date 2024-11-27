@@ -1,0 +1,13 @@
+{
+  "_id": "AjXJxsy0",
+  "name": "Rumex macluravirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2950844
+}

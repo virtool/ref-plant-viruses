@@ -4,7 +4,7 @@
   "abbreviation": "HLVd",
   "schema": [
     {
-      "name": "Viroid",
+      "name": "Genome",
       "molecule": "ssRNA+",
       "required": true
     }

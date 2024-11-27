@@ -1,0 +1,13 @@
+{
+  "_id": "OZLi9NM9",
+  "name": "Rose yellow leaf virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1291658
+}

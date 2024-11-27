@@ -1,0 +1,13 @@
+{
+  "_id": "0HF91ZhJ",
+  "name": "Cnidium virus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3057102
+}

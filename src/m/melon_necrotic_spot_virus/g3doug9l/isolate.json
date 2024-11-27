@@ -1,6 +1,6 @@
 {
   "id": "g3doug9l",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "ABCA13-01",
-  "default": false
+  "source_type": "isolate"
 }

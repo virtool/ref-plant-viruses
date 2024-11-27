@@ -1,6 +1,6 @@
 {
   "id": "52emgasl",
-  "source_type": "clone",
+  "default": false,
   "source_name": "Aurai 2",
-  "default": false
+  "source_type": "clone"
 }

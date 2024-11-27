@@ -1,0 +1,13 @@
+{
+  "_id": "AAopObft",
+  "name": "Viola yellow mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2922803
+}

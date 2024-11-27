@@ -1,0 +1,13 @@
+{
+  "_id": "MPPSs1sG",
+  "name": "Jujube closterovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3043313
+}

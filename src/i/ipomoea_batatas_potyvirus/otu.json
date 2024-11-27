@@ -1,0 +1,13 @@
+{
+  "_id": "yfwQpzBP",
+  "name": "Ipomoea batatas potyvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2739386
+}

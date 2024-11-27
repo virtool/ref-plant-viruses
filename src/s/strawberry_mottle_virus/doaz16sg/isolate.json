@@ -1,6 +1,6 @@
 {
   "id": "doaz16sg",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "Ontario",
-  "default": false
+  "source_type": "isolate"
 }

@@ -1,0 +1,13 @@
+{
+  "_id": "7IkffEA8",
+  "name": "Ashitaba mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2810133
+}

@@ -1,6 +1,6 @@
 {
   "id": "kzaty9td",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "20NR002",
-  "default": false
+  "source_type": "isolate"
 }

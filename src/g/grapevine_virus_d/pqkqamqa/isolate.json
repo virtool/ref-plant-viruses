@@ -1,6 +1,6 @@
 {
   "id": "pqkqamqa",
-  "source_type": "strain",
+  "default": false,
   "source_name": "Ch",
-  "default": false
+  "source_type": "strain"
 }

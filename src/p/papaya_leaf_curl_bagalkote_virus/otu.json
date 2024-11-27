@@ -1,0 +1,13 @@
+{
+  "_id": "CotI3NFj",
+  "name": "Papaya leaf curl Bagalkote virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3019450
+}

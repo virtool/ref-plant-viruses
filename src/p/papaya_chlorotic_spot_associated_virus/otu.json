@@ -1,0 +1,13 @@
+{
+  "_id": "bTisz45i",
+  "name": "Papaya chlorotic spot associated virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2978146
+}

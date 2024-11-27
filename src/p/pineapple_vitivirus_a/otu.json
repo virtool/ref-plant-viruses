@@ -1,0 +1,13 @@
+{
+  "_id": "izHobZQY",
+  "name": "Pineapple vitivirus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2967992
+}

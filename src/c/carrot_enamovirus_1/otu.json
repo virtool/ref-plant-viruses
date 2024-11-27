@@ -1,0 +1,13 @@
+{
+  "_id": "8dq7Gu2P",
+  "name": "Carrot enamovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3051704
+}

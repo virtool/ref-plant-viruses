@@ -1,0 +1,13 @@
+{
+  "_id": "FwP0QB5B",
+  "name": "Zizania latifolia tombusvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2739385
+}

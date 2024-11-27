@@ -1,6 +1,6 @@
 {
   "id": "759rtt90",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "DSMZ PV-0025",
-  "default": false
+  "source_type": "isolate"
 }

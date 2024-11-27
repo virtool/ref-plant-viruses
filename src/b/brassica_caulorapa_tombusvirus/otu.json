@@ -1,0 +1,13 @@
+{
+  "_id": "BYGBYAhv",
+  "name": "Brassica caulorapa tombusvirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2739383
+}

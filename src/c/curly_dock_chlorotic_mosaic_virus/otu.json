@@ -1,0 +1,13 @@
+{
+  "_id": "wNfukLRx",
+  "name": "Curly dock chlorotic mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2963833
+}

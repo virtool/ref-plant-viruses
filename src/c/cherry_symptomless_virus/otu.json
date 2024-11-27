@@ -1,0 +1,13 @@
+{
+  "_id": "mD7vGENZ",
+  "name": "Cherry symptomless virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2705123
+}

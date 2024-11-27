@@ -1,0 +1,13 @@
+{
+  "_id": "CcSoHzYc",
+  "name": "Persimmon ampelovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2590570
+}

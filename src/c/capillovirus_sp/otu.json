@@ -1,0 +1,13 @@
+{
+  "_id": "5t74wipY",
+  "name": "Capillovirus sp",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2767538
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "JOHwmEpy",
+  "name": "Piper methysticum polerovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2885088
+}

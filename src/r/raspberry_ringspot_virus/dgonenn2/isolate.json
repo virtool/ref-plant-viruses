@@ -1,6 +1,6 @@
 {
   "id": "dgonenn2",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "grapevine",
-  "default": false
+  "source_type": "isolate"
 }

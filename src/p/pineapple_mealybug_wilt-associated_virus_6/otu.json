@@ -1,0 +1,13 @@
+{
+  "_id": "4Uv0ENvF",
+  "name": "Pineapple mealybug wilt-associated virus 6",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2869542
+}

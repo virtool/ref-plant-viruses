@@ -1,11 +1,11 @@
 {
-  "_id": "1xl65gnh",
+  "_id": "6rU24Te9",
   "name": "Eupatorium yellow vein virus-[MNS2]",
   "abbreviation": "",
   "schema": [
     {
-      "name": "Genome",
       "molecule": "ssDNA",
+      "name": "Genome",
       "required": true
     }
   ],

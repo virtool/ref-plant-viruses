@@ -1,6 +1,6 @@
 {
   "id": "5lt99f5g",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "CIP1",
-  "default": false
+  "source_type": "isolate"
 }

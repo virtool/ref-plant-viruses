@@ -1,0 +1,13 @@
+{
+  "_id": "SXNDgzGs",
+  "name": "Soybean leaf crinkle mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2804853
+}

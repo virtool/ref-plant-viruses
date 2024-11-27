@@ -1,0 +1,13 @@
+{
+  "_id": "XyzdYvGb",
+  "name": "Papaya virus E",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2848019
+}

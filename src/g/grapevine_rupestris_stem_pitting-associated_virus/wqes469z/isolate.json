@@ -1,6 +1,6 @@
 {
   "id": "wqes469z",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_001948",
-  "default": true
+  "source_type": "refseq"
 }

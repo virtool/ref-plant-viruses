@@ -1,0 +1,13 @@
+{
+  "_id": "q1yYvJwk",
+  "name": "Hubei polero-like virus 2",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "RNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1923170
+}

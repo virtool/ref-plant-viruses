@@ -1,6 +1,6 @@
 {
   "id": "rksyomxi",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_011532",
-  "default": true
+  "source_type": "refseq"
 }

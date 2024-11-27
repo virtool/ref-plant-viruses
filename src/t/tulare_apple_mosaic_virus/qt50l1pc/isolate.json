@@ -1,6 +1,6 @@
 {
   "id": "qt50l1pc",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_003833",
-  "default": true
+  "source_type": "refseq"
 }

@@ -1,0 +1,13 @@
+{
+  "_id": "IqLOxOLn",
+  "name": "Sugarcane mild mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 126071
+}

@@ -1,6 +1,6 @@
 {
   "id": "rk42tfp6",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "RH20",
-  "default": false
+  "source_type": "isolate"
 }

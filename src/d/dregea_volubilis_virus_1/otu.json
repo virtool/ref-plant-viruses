@@ -1,0 +1,13 @@
+{
+  "_id": "iYYPKKno",
+  "name": "Dregea volubilis virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "RNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3018818
+}

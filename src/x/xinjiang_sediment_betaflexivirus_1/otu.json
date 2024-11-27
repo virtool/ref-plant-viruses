@@ -1,0 +1,13 @@
+{
+  "_id": "Y8O7uvj5",
+  "name": "Xinjiang sediment betaflexivirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2824530
+}

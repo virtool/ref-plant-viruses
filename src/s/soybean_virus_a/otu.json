@@ -1,0 +1,13 @@
+{
+  "_id": "uZUu4E5E",
+  "name": "Soybean virus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2592541
+}

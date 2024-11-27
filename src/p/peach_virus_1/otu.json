@@ -1,0 +1,13 @@
+{
+  "_id": "DMbsSptw",
+  "name": "Peach virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2721273
+}

@@ -1,6 +1,6 @@
 {
   "id": "xiih5wyw",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "GVB 248",
-  "default": false
+  "source_type": "isolate"
 }

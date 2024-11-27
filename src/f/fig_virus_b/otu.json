@@ -1,0 +1,13 @@
+{
+  "_id": "XLWQpe66",
+  "name": "Fig virus B",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "RNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2771581
+}

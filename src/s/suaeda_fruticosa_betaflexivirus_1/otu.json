@@ -1,0 +1,13 @@
+{
+  "_id": "fT9Jc0oX",
+  "name": "Suaeda fruticosa betaflexivirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2794407
+}

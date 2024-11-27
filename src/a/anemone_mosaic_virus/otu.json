@@ -1,0 +1,13 @@
+{
+  "_id": "ntc7N1VZ",
+  "name": "Anemone mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 459305
+}

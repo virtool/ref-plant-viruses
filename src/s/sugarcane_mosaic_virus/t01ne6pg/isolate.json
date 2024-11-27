@@ -1,6 +1,6 @@
 {
   "id": "t01ne6pg",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "T1F7S3",
-  "default": false
+  "source_type": "isolate"
 }

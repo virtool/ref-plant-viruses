@@ -1,0 +1,13 @@
+{
+  "_id": "whDi7VDI",
+  "name": "Allamanda chlorotic virus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3117587
+}

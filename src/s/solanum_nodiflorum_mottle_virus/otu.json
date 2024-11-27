@@ -1,0 +1,13 @@
+{
+  "_id": "PrSD3swf",
+  "name": "Solanum nodiflorum mottle virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12471
+}

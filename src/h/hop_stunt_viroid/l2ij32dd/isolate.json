@@ -1,6 +1,6 @@
 {
   "id": "l2ij32dd",
-  "source_type": "genbank",
-  "source_name": "AY513267",
-  "default": false
+  "default": false,
+  "source_name": "citrus",
+  "source_type": "variant"
 }

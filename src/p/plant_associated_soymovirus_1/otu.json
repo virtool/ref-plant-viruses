@@ -1,0 +1,13 @@
+{
+  "_id": "rqy4FKdi",
+  "name": "Plant associated soymovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2950832
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "CFPi7Q8M",
+  "name": "Rhododendron delavayi secovirus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA1",
+      "required": true
+    }
+  ],
+  "taxid": 2936692
+}

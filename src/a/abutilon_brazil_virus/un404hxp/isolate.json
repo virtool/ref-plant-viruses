@@ -1,6 +1,6 @@
 {
   "id": "un404hxp",
-  "source_type": "genbank",
+  "source_type": "refseq",
   "source_name": "NC_014138",
   "default": true
 }

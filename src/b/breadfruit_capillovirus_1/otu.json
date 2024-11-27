@@ -1,0 +1,13 @@
+{
+  "_id": "3Deuzm95",
+  "name": "Breadfruit capillovirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2794428
+}

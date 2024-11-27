@@ -1,6 +1,6 @@
 {
   "id": "tatre4v3",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_002164",
-  "default": true
+  "source_type": "refseq"
 }

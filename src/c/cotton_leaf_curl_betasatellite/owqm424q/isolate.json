@@ -1,6 +1,6 @@
 {
   "id": "owqm424q",
-  "source_type": "clone",
+  "default": true,
   "source_name": "U77-5",
-  "default": true
+  "source_type": "clone"
 }

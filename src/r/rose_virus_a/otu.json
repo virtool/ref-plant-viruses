@@ -1,0 +1,13 @@
+{
+  "_id": "Ko4S4HgW",
+  "name": "Rose virus A",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2650000
+}

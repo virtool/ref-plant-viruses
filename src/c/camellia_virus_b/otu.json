@@ -1,0 +1,13 @@
+{
+  "_id": "hyR7JRHb",
+  "name": "Camellia virus B",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3027336
+}

@@ -1,6 +1,6 @@
 {
   "id": "6jvna4jf",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "HTS 1",
-  "default": false
+  "source_type": "isolate"
 }

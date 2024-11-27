@@ -1,0 +1,13 @@
+{
+  "_id": "XHsufw2X",
+  "name": "Joa yellow blotch virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2829853
+}

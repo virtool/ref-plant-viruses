@@ -1,11 +1,11 @@
 {
-  "_id": "jvppnzip",
+  "_id": "YoGJVk4C",
   "name": "Eupatorium yellow vein virus - [Yamaguchi]",
   "abbreviation": "",
   "schema": [
     {
-      "name": "Genome",
       "molecule": "ssDNA",
+      "name": "Genome",
       "required": true
     }
   ],

@@ -1,11 +1,11 @@
 {
-  "_id": "9fq6k8j0",
+  "_id": "xMqABH6W",
   "name": "Eupatorium yellow vein virus-[SOJ3]",
   "abbreviation": "",
   "schema": [
     {
-      "name": "Genome",
       "molecule": "ssDNA",
+      "name": "Genome",
       "required": true
     }
   ],

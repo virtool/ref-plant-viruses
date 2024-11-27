@@ -1,0 +1,18 @@
+{
+  "_id": "RL2h3kG6",
+  "name": "Pepper yellow leaf curl Thailand virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1774200
+}

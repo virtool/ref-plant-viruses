@@ -1,0 +1,13 @@
+{
+  "_id": "40BJ9DPG",
+  "name": "Allamanda chlorotic virus B",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3117588
+}

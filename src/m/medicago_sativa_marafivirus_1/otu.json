@@ -1,0 +1,13 @@
+{
+  "_id": "rFv9kSHJ",
+  "name": "Medicago sativa marafivirus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2043552
+}

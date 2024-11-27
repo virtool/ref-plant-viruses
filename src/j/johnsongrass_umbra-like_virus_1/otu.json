@@ -1,0 +1,13 @@
+{
+  "_id": "ugh02BvH",
+  "name": "Johnsongrass umbra-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 3015213
+}

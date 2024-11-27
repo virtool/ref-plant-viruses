@@ -1,0 +1,13 @@
+{
+  "_id": "2aM5Aikd",
+  "name": "Zeavirus sp.",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2809233
+}

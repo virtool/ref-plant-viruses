@@ -1,6 +1,6 @@
 {
   "id": "grf49sml",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_003889",
-  "default": true
+  "source_type": "refseq"
 }

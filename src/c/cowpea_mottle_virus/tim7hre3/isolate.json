@@ -1,6 +1,6 @@
 {
   "id": "tim7hre3",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_003535",
-  "default": true
+  "source_type": "refseq"
 }

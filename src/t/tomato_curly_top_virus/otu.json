@@ -1,0 +1,13 @@
+{
+  "_id": "HMNHCiut",
+  "name": "Tomato curly top virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1501085
+}

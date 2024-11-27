@@ -1,6 +1,6 @@
 {
   "id": "cxx7upyl",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "Tannat-GvPGV",
-  "default": false
+  "source_type": "isolate"
 }

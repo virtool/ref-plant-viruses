@@ -1,0 +1,13 @@
+{
+  "_id": "PzFldM8b",
+  "name": "Black pepper virus E",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "RNA1",
+      "required": true
+    }
+  ],
+  "taxid": 2986619
+}

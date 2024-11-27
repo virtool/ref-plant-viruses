@@ -1,0 +1,13 @@
+{
+  "_id": "MGOlulWe",
+  "name": "Nymphaea alba virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2793733
+}

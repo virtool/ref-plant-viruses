@@ -1,6 +1,6 @@
 {
   "id": "ioiugeer",
-  "source_type": "isolate",
+  "default": false,
   "source_name": "16GVP030C",
-  "default": false
+  "source_type": "isolate"
 }

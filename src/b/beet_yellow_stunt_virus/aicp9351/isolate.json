@@ -1,6 +1,6 @@
 {
   "id": "aicp9351",
-  "source_type": "genbank",
+  "default": true,
   "source_name": "NC_043106",
-  "default": true
+  "source_type": "refseq"
 }
