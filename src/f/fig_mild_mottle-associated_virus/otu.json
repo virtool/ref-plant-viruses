@@ -1,0 +1,13 @@
+{
+    "_id": "Wf9SrtMi",
+    "name": "Fig mild mottle-associated virus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": null,
+            "name": "genome",
+            "required": true
+        }
+    ],
+    "taxid": null
+}

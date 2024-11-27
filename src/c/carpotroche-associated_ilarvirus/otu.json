@@ -1,0 +1,23 @@
+{
+    "_id": "LxwYxY2I",
+    "name": "Carpotroche-associated ilarvirus",
+    "abbreviation": "",
+    "schema": [
+        {
+            "molecule": "ssRNA+",
+            "name": "Gene Movement",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA+",
+            "name": "Gene Replicase",
+            "required": true
+        },
+        {
+            "molecule": "ssRNA+",
+            "name": "Gene Replicase 2A",
+            "required": true
+        }
+    ],
+    "taxid": 2975511
+}
