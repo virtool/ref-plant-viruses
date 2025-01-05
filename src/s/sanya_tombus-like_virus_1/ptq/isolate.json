@@ -1,6 +1,6 @@
 {
-    "id": "ptq",
-    "source_type": "isolate",
-    "source_name": "BCLS148",
-    "default": false
+  "id": "ptq",
+  "default": false,
+  "source_name": "BCLS148",
+  "source_type": "isolate"
 }

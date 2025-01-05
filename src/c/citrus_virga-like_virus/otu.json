@@ -4,9 +4,14 @@
   "abbreviation": "",
   "schema": [
     {
-      "name": "Partial",
+      "name": "Gene Polyprotein",
       "molecule": "RNA",
-      "required": true
+      "required": false
+    },
+    {
+      "name": "Gene RNA Polymerase",
+      "molecule": "RNA",
+      "required": false
     }
   ],
   "taxid": 1983764

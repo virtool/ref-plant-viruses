@@ -1,6 +1,6 @@
 {
-    "id": "f72",
-    "source_type": "unknown",
-    "source_name": "",
-    "default": true
+  "id": "f72",
+  "default": true,
+  "source_name": "",
+  "source_type": "unknown"
 }

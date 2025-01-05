@@ -1,6 +1,6 @@
 {
-    "id": "9lt",
-    "source_type": "isolate",
-    "source_name": "CQ-Zc-V3",
-    "default": false
+  "id": "9lt",
+  "default": false,
+  "source_name": "CQ-Zc-V3",
+  "source_type": "isolate"
 }

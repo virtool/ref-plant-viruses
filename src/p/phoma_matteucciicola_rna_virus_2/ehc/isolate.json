@@ -1,6 +1,6 @@
 {
-    "id": "ehc",
-    "source_type": "isolate",
-    "source_name": "HNLG-01",
-    "default": true
+  "id": "ehc",
+  "default": true,
+  "source_name": "HNLG-01",
+  "source_type": "isolate"
 }

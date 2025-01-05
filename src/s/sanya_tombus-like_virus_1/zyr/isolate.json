@@ -1,6 +1,6 @@
 {
-    "id": "zyr",
-    "source_type": "isolate",
-    "source_name": "YBJLS114",
-    "default": false
+  "id": "zyr",
+  "default": false,
+  "source_name": "YBJLS114",
+  "source_type": "isolate"
 }

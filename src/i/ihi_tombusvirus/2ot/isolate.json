@@ -1,6 +1,6 @@
 {
-    "id": "2ot",
-    "source_type": "unknown",
-    "source_name": "",
-    "default": true
+  "id": "2ot",
+  "default": true,
+  "source_name": "",
+  "source_type": "unknown"
 }

@@ -1,6 +1,6 @@
 {
-    "id": "6a9",
-    "source_type": "unknown",
-    "source_name": "",
-    "default": true
+  "id": "6a9",
+  "default": true,
+  "source_name": "",
+  "source_type": "unknown"
 }

@@ -1,13 +1,13 @@
 {
-    "_id": "hUmW5FiB",
-    "name": "Plasmopara viticola lesion associated poty-like virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "hUmW5FiB",
+  "name": "Plasmopara viticola lesion associated poty-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "genome",
+      "required": true
+    }
+  ],
+  "taxid": 2692092
 }
