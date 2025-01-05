@@ -2,5 +2,5 @@
   "id": "rbsi1x4p",
   "default": true,
   "source_name": "NC_002330",
-  "source_type": "refseq"
+  "source_type": "genbank"
 }

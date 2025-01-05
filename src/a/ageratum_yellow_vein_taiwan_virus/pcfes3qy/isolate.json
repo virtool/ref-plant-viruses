@@ -1,6 +1,6 @@
 {
   "id": "pcfes3qy",
-  "source_type": "refseq",
+  "source_type": "genbank",
   "source_name": "NC_004627",
   "default": true
 }

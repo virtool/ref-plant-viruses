@@ -2,5 +2,5 @@
   "id": "pryfkkfw",
   "default": true,
   "source_name": "NC_001497",
-  "source_type": "refseq"
+  "source_type": "genbank"
 }

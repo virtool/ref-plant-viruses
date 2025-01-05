@@ -2,5 +2,5 @@
   "id": "ky91bmzr",
   "default": true,
   "source_name": "NC_010297",
-  "source_type": "refseq"
+  "source_type": "genbank"
 }
