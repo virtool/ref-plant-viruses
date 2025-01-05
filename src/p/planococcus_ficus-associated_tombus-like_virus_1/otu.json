@@ -1,13 +1,13 @@
 {
-    "_id": "wGL6at2m",
-    "name": "Planococcus ficus-associated tombus-like virus 1",
-    "abbreviation": "",
-    "schema": [
-        {
-            "molecule": "ssRNA+",
-            "name": "genome",
-            "required": true
-        }
-    ],
-    "taxid": null
+  "_id": "wGL6at2m",
+  "name": "Planococcus ficus-associated tombus-like virus 1",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": null
 }

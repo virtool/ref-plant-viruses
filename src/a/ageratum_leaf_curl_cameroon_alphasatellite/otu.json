@@ -4,7 +4,7 @@
   "abbreviation": "ALCCMA",
   "schema": [
     {
-      "name": "Alphasatellite",
+      "name": "Genome",
       "molecule": "ssDNA",
       "required": true
     }

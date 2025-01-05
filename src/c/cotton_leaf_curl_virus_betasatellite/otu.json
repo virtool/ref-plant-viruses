@@ -5,7 +5,7 @@
   "schema": [
     {
       "molecule": "ssDNA",
-      "name": "Betasatellite",
+      "name": "Genome",
       "required": true
     }
   ],

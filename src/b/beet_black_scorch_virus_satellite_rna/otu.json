@@ -4,7 +4,7 @@
   "abbreviation": "satBBSV",
   "schema": [
     {
-      "name": "Satellite",
+      "name": "Genome",
       "molecule": "ssRNA+",
       "required": true
     }
