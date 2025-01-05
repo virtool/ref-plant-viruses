@@ -2,5 +2,5 @@
   "id": "uag35sun",
   "default": true,
   "source_name": "NC_001753",
-  "source_type": "refseq"
+  "source_type": "genbank"
 }

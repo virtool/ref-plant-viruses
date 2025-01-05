@@ -2,5 +2,5 @@
   "id": "hwzy4bps",
   "default": true,
   "source_name": "NC_015503",
-  "source_type": "refseq"
+  "source_type": "genbank"
 }

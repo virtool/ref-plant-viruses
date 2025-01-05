@@ -2,5 +2,5 @@
   "id": "x68a2wod",
   "default": true,
   "source_name": "NC_010809",
-  "source_type": "refseq"
+  "source_type": "genbank"
 }

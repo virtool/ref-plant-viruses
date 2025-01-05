@@ -2,5 +2,5 @@
   "id": "tim7hre3",
   "default": true,
   "source_name": "NC_003535",
-  "source_type": "refseq"
+  "source_type": "genbank"
 }

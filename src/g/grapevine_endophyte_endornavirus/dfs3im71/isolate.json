@@ -2,5 +2,5 @@
   "id": "dfs3im71",
   "default": true,
   "source_name": "NC_019493",
-  "source_type": "refseq"
+  "source_type": "genbank"
 }

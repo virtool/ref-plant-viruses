@@ -2,5 +2,5 @@
   "id": "uddi3khv",
   "default": true,
   "source_name": "NC_008377",
-  "source_type": "refseq"
+  "source_type": "genbank"
 }

@@ -2,5 +2,5 @@
   "id": "u9lm1xbj",
   "default": true,
   "source_name": "NC_000939",
-  "source_type": "refseq"
+  "source_type": "genbank"
 }

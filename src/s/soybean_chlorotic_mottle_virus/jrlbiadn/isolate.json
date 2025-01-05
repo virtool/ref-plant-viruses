@@ -2,5 +2,5 @@
   "id": "jrlbiadn",
   "default": true,
   "source_name": "NC_001739",
-  "source_type": "refseq"
+  "source_type": "genbank"
 }

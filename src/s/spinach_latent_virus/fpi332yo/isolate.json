@@ -2,5 +2,5 @@
   "id": "fpi332yo",
   "default": true,
   "source_name": "NC_003808",
-  "source_type": "refseq"
+  "source_type": "genbank"
 }

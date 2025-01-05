@@ -2,5 +2,5 @@
   "id": "dr5xf18l",
   "default": true,
   "source_name": "NC_009642",
-  "source_type": "refseq"
+  "source_type": "genbank"
 }
