@@ -1,6 +1,6 @@
 {
-    "id": "1fl",
-    "source_type": "isolate",
-    "source_name": "DMG-C",
-    "default": true
+  "id": "1fl",
+  "default": true,
+  "source_name": "DMG-C",
+  "source_type": "isolate"
 }

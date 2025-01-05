@@ -1,6 +1,6 @@
 {
-    "id": "wf4",
-    "source_type": "isolate",
-    "source_name": "QJZLS5",
-    "default": false
+  "id": "wf4",
+  "default": false,
+  "source_name": "QJZLS5",
+  "source_type": "isolate"
 }

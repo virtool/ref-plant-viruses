@@ -1,6 +1,6 @@
 {
-    "id": "q1e",
-    "source_type": "isolate",
-    "source_name": "OTU9.IU20",
-    "default": true
+  "id": "q1e",
+  "default": true,
+  "source_name": "OTU9.IU20",
+  "source_type": "isolate"
 }

@@ -4,17 +4,17 @@
   "abbreviation": "CaCV",
   "schema": [
     {
-      "name": "L",
+      "name": "Segment L",
       "molecule": "ssRNA-",
       "required": true
     },
     {
-      "name": "M",
+      "name": "Segment M",
       "molecule": "ssRNA-",
       "required": true
     },
     {
-      "name": "S",
+      "name": "Segment S",
       "molecule": "ssRNA-",
       "required": true
     }

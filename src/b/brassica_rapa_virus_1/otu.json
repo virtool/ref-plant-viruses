@@ -4,12 +4,12 @@
   "abbreviation": "",
   "schema": [
     {
-      "name": "N",
+      "name": "Segment N",
       "molecule": "ssRNA",
       "required": true
     },
     {
-      "name": "L",
+      "name": "Segment L",
       "molecule": "ssRNA",
       "required": true
     }

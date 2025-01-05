@@ -1,6 +1,6 @@
 {
-    "id": "6w4",
-    "source_type": "isolate",
-    "source_name": "FSFY130138",
-    "default": true
+  "id": "6w4",
+  "default": true,
+  "source_name": "FSFY130138",
+  "source_type": "isolate"
 }

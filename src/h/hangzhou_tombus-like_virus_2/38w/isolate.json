@@ -1,6 +1,6 @@
 {
-    "id": "38w",
-    "source_type": "isolate",
-    "source_name": "FSFY138955",
-    "default": true
+  "id": "38w",
+  "default": true,
+  "source_name": "FSFY138955",
+  "source_type": "isolate"
 }

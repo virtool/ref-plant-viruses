@@ -1,6 +1,6 @@
 {
-    "id": "zt1",
-    "source_type": "strainq",
-    "source_name": "QTM27268",
-    "default": false
+  "id": "zt1",
+  "default": false,
+  "source_name": "QTM27268",
+  "source_type": "strain"
 }
