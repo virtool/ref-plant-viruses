@@ -4,7 +4,7 @@
   "abbreviation": "ApYVLCB",
   "schema": [
     {
-      "name": "Betasatellite",
+      "name": "Genome",
       "molecule": "ssDNA",
       "required": true
     }

@@ -4,7 +4,7 @@
   "abbreviation": "sChYMV-S1",
   "schema": [
     {
-      "name": "Satellite",
+      "name": "Genome",
       "molecule": "ssRNA",
       "required": true
     }

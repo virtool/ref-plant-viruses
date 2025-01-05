@@ -4,7 +4,7 @@
   "abbreviation": "CLCuGeA",
   "schema": [
     {
-      "name": "Alphasatellite",
+      "name": "Genome",
       "molecule": "ssDNA",
       "required": true
     }

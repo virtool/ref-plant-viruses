@@ -4,7 +4,7 @@
   "abbreviation": "FBNSA-2",
   "schema": [
     {
-      "name": "Satellite",
+      "name": "Genome",
       "molecule": "ssDNA",
       "required": true
     }

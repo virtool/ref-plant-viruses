@@ -4,7 +4,7 @@
   "abbreviation": "AEVA",
   "schema": [
     {
-      "name": "Alphasatellite",
+      "name": "Genome",
       "molecule": "ssDNA",
       "required": true
     }

@@ -4,7 +4,7 @@
   "abbreviation": "GMusSLA",
   "schema": [
     {
-      "name": "Satellite",
+      "name": "Genome",
       "molecule": "ssDNA",
       "required": true
     }
