@@ -1,0 +1,13 @@
+{
+  "_id": "023390f9",
+  "name": "Alphanucleorhabdovirus tuberosum",
+  "abbreviation": "PYDV",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA-",
+      "required": true
+    }
+  ],
+  "taxid": 2749927
+}

@@ -7,11 +7,6 @@
       "name": "Genome",
       "molecule": "ssRNA+",
       "required": true
-    },
-    {
-      "name": "Genome",
-      "molecule": "ssRNA+",
-      "required": true
     }
   ],
   "taxid": 68033

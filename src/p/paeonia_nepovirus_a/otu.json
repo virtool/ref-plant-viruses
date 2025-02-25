@@ -5,7 +5,7 @@
   "schema": [
     {
       "molecule": "ssRNA+",
-      "name": "RNA1",
+      "name": "RNA 1",
       "required": true
     },
     {

@@ -1,0 +1,13 @@
+{
+  "_id": "sIFyHCyP",
+  "name": "Chili leaf curl Jaunpur betasatellite",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2010314
+}

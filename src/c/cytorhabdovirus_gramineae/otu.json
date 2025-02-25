@@ -1,0 +1,13 @@
+{
+  "_id": "7450d178",
+  "name": "Cytorhabdovirus gramineae",
+  "abbreviation": "",
+  "schema": [
+    {
+      "name": "Genome",
+      "molecule": "ssRNA-",
+      "required": true
+    }
+  ],
+  "taxid": 1985704
+}

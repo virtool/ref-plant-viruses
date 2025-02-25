@@ -5,27 +5,27 @@
   "schema": [
     {
       "molecule": "ssRNA-",
-      "name": "RNA1",
+      "name": "RNA 1",
       "required": true
     },
     {
       "molecule": "ssRNA-",
-      "name": "RNA2",
+      "name": "RNA 2",
       "required": true
     },
     {
       "molecule": "ssRNA-",
-      "name": "RNA3",
+      "name": "RNA 3",
       "required": true
     },
     {
       "molecule": "ssRNA-",
-      "name": "RNA4",
+      "name": "RNA 4",
       "required": true
     },
     {
       "molecule": "ssRNA-",
-      "name": "RNA5",
+      "name": "RNA 5",
       "required": true
     }
   ],

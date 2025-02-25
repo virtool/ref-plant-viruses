@@ -1,0 +1,13 @@
+{
+  "_id": "xMqABH6W",
+  "name": "Eupatorium yellow vein mosaic virus",
+  "abbreviation": "",
+  "schema": [
+    {
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 186637
+}
