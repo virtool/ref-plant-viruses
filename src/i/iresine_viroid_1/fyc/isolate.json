@@ -1,6 +1,6 @@
 {
   "id": "fyc",
-  "default": true,
+  "default": false,
   "source_name": "DSMZ PV-1179",
   "source_type": "isolate"
 }

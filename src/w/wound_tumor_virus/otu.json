@@ -4,47 +4,47 @@
   "abbreviation": "WTV",
   "schema": [
     {
-      "name": "S5",
+      "name": "Segment S5",
       "molecule": "dsRNA",
       "required": true
     },
     {
-      "name": "P6",
+      "name": "Segment P6",
       "molecule": "dsRNA",
       "required": true
     },
     {
-      "name": "S8",
+      "name": "Segment S8",
       "molecule": "dsRNA",
       "required": true
     },
     {
-      "name": "S4",
+      "name": "Segment S4",
       "molecule": "dsRNA",
       "required": true
     },
     {
-      "name": "S12",
+      "name": "Segment S12",
       "molecule": "dsRNA",
       "required": true
     },
     {
-      "name": "S6",
+      "name": "Segment S6",
       "molecule": "dsRNA",
       "required": true
     },
     {
-      "name": "S10",
+      "name": "Segment S10",
       "molecule": "dsRNA",
       "required": true
     },
     {
-      "name": "S9",
+      "name": "Segment S9",
       "molecule": "dsRNA",
       "required": true
     },
     {
-      "name": "P9",
+      "name": "Segment P9",
       "molecule": "dsRNA",
       "required": true
     }

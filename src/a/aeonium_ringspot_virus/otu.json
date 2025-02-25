@@ -5,12 +5,12 @@
   "schema": [
     {
       "molecule": "ssDNA",
-      "name": "RNA1",
+      "name": "RNA 1",
       "required": true
     },
     {
       "molecule": "ssDNA",
-      "name": "RNA2",
+      "name": "RNA 2",
       "required": true
     }
   ],
